@@ -33,6 +33,12 @@ Kanpur, in the early 1920s, was a big, busy city of mills and factories. Batukes
 
 He was a quiet boy. But something he saw one day changed him.
 
+
+<figure class="plate">
+  <img src="/files/people/batukeshwar-dutt/archive/portrait-1929.webp" alt="An old portrait of young Batukeshwar Dutt" loading="lazy" />
+  <figcaption>Batukeshwar Dutt as a young man.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Batukeshwar_dutt.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## The road for Europeans only
 
 In those days, some roads in Kanpur were kept for Europeans. Indians were not allowed to walk on them. One of these was the Mall Road.

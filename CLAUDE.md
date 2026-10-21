@@ -125,8 +125,8 @@ which ones should be redone and why.
 | Chandrashekhar Azad | 9 | done |
 | Subhas Chandra Bose | 13 | done |
 | Mahatma Gandhi | 19 | 2 prompts waiting |
-| Ashfaqulla Khan | 4 | 3 prompts waiting |
-| Batukeshwar Dutt | 5 | 3 prompts waiting |
+| Ashfaqulla Khan | 4 | done |
+| Batukeshwar Dutt | 5 | done |
 | Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |

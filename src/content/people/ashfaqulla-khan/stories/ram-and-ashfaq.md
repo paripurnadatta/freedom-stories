@@ -46,6 +46,12 @@ The other was Ashfaqulla Khan. He was a Muslim, from a Pathan family. He wrote p
 
 People often say that India's freedom was won by Hindus and Muslims together. The story of these two friends shows what that looked like.
 
+
+<figure class="plate">
+  <img src="/files/people/ashfaqulla-khan/archive/portrait-2.webp" alt="An old photograph of Ashfaqulla Khan as a young man" loading="lazy" />
+  <figcaption>Ashfaqulla Khan, in an undated photograph from the 1920s.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Ashfaq_Ulla_Khan_(2).JPG" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## The youngest son
 
 Ashfaqulla Khan was born on 22 October 1900, in Shahjahanpur. He was the youngest child in his family. His father, Shafiq Ullah, was a landowner. His family had a long tradition of military service.

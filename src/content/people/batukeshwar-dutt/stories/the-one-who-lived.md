@@ -113,6 +113,11 @@ Later, he was made a member of the Bihar Legislative Council for a short time. A
 
 In 1963, Batukeshwar went to Punjab. He visited Bhagat Singh's village, Khatkar Kalan, for the first time. The villagers garlanded him with flowers.
 
+<figure class="plate">
+  <img src="/files/people/batukeshwar-dutt/archive/garlanded-khatkar-kalan.webp" alt="Villagers putting flower garlands on an older Batukeshwar Dutt" loading="lazy" />
+  <figcaption>Villagers garland Batukeshwar Dutt when he visits Bhagat Singh's village, Khatkar Kalan.<span class="credit">Unknown photographer (Punjab State Archives), public domain. <a href="https://commons.wikimedia.org/wiki/File:People_garlanding_Batukeshswar_Dutt.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 Bhagat Singh's mother, Vidyavati Devi, was there. She was an old woman now. She held Batukeshwar and wept, as though she were meeting her own son again.
 
 ## The last journey
