@@ -17,7 +17,8 @@ import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 
 import { join } from "node:path";
 
 const SUBJECTS = "src/content/subjects";
-const OUT = "src/content/media";
+// MEDIA_OUT lets a long run write somewhere else first, then be copied in when it finishes.
+const OUT = process.env.MEDIA_OUT || "src/content/media";
 const UA = "FreedomStories/1.0 (https://github.com/paripurnadatta/freedom-stories; paripurna.dutta@gmail.com)";
 const PAUSE = 1500; // ms between API calls: Wikimedia asks bots to go slowly
 const MAX_ITEMS = 80;
