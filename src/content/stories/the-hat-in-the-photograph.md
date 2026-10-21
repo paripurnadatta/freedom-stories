@@ -63,7 +63,9 @@ Here is a small mystery. In Dutt's photographs from the same visit, he wears no 
 <figure class="plate">
   <img src="/media/bhagat-singh/hunger-strike-poster.webp" alt="A poster with photographs of Bhagat Singh in a hat and B. K. Dutt without one" loading="lazy" />
   <figcaption>A poster that appears to date from their 1929 hunger strike, using both photographs from the studio visit. Bhagat Singh wears the hat; Dutt does not.<span class="credit">Unknown maker, CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Hunger_strike_poster_of_Bhagat_Singh_and_Batukeshswar_Dutt.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
-</figure> One writer says the felt hat belonged to the studio, which kept hats for customers to wear.
+</figure>
+
+One writer says the felt hat belonged to the studio, which kept hats for customers to wear.
 
 Bhagat Singh had worn a hat like it before. He wore one when he escaped from Lahore in disguise a few months earlier. So we cannot be sure whose hat this was.
 
