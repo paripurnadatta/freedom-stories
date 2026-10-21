@@ -6,24 +6,8 @@
   "matchedBy": "wikidata id",
   "fetched": "2026-10-21",
   "hidden": [],
+  "originals": [],
   "items": [
-    {
-      "file": "Anushilan samiti symbol.jpg",
-      "type": "image",
-      "title": "Anushilan samiti symbol",
-      "description": "Symbol of Anushilan Samiti (1902-1936)",
-      "date": "2010-11",
-      "author": "Jibantara Haldar",
-      "license": "Public domain",
-      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Anushilan_samiti_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Anushilan_samiti_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "page": "https://commons.wikimedia.org/wiki/File:Anushilan_samiti_symbol.jpg",
-      "width": 280,
-      "height": 456,
-      "foundIn": "wikipedia",
-      "year": 1902,
-      "era": "original"
-    },
     {
       "file": "Lahore conspiracy case poster 9th Oct 193o jindal sunam 12x9 copy (cropped; Dutt).jpg",
       "type": "image",
@@ -107,6 +91,23 @@
       "height": 1657,
       "foundIn": "wikipedia",
       "year": 1960,
+      "era": "later"
+    },
+    {
+      "file": "Anushilan samiti symbol.jpg",
+      "type": "image",
+      "title": "Anushilan samiti symbol",
+      "description": "Symbol of Anushilan Samiti (1902-1936)",
+      "date": "2010-11",
+      "author": "Jibantara Haldar",
+      "license": "Public domain",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Anushilan_samiti_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Anushilan_samiti_symbol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Anushilan_samiti_symbol.jpg",
+      "width": 280,
+      "height": 456,
+      "foundIn": "wikipedia",
+      "year": 2010,
       "era": "later"
     },
     {

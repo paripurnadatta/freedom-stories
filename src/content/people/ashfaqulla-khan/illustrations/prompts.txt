@@ -1,0 +1,55 @@
+ILLUSTRATIONS NEEDED: Ashfaqulla Khan
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+
+Only stories that need a painting are listed. "The last morning in Faizabad"
+uses a real photograph. Photographs of Ashfaqulla Khan and Ram Prasad Bismil
+exist, so their faces may be shown: keep them close to those photographs.
+
+==============================================================================
+1. Ram and Ashfaq  (flagship story)
+==============================================================================
+FILE NAME: ram-and-ashfaq
+Save it as ram-and-ashfaq.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Ram and Ashfaq", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in an old courtyard in Shahjahanpur, early 1920s, oil lamps glowing. Two young friends sit together on a cotton durrie: a lean, handsome young Indian Muslim man in his early twenties, Pathan features, neatly combed dark hair, a thin moustache, wearing a white kurta and a dark waistcoat, reading aloud from a notebook of Urdu poems, and a slightly older young Indian man with a broad face, short hair and a thick moustache, in a white kurta and dhoti, leaning in and smiling, pointing at a line as if suggesting a better word. Between them on the floor is one shared brass thali with rotis and a bowl of dal. A small group of friends listens in the warm shadows behind. Warm, joyful, brotherly mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The man who said no to Kakori  (short story)
+==============================================================================
+FILE NAME: the-man-who-said-no-to-kakori
+Save it as the-man-who-said-no-to-kakori.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man who said no to Kakori", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small lamp-lit room in Shahjahanpur, August 1925, at night. A handful of young Indian men sit in a circle on the floor, leaning in, talking in low voices; a railway timetable and a hand-drawn map lie between them with nothing readable on them. One of them, a lean, handsome young Indian Muslim man in his early twenties, Pathan features, neatly combed dark hair, a thin moustache, wearing a white kurta and a dark waistcoat, sits slightly apart with his hand raised, frowning, clearly arguing against the plan. The others look at him. Serious, tense, secret mood. No weapons visible. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The clerk from Mathura  (short story)
+==============================================================================
+FILE NAME: the-clerk-from-mathura
+Save it as the-clerk-from-mathura.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The clerk from Mathura", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1926, a busy small engineering-company office in a Bihar town, ceiling fan, wooden desks, ledgers and stacks of files. a lean, handsome young Indian Muslim man in his early twenties, Pathan features, neatly combed dark hair, a thin moustache, wearing a white kurta and a dark waistcoat now dressed as a modest clerk in a plain kurta and cap, sits at a desk with a pen. Standing beside him, a plump, delighted older Indian office owner in a waistcoat holds up a sheet of paper and laughs, as if enjoying a couplet the clerk has just written. Late afternoon light through shuttered windows. Warm, gently humorous mood, with a hint of secrecy. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
