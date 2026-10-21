@@ -1,0 +1,116 @@
+ILLUSTRATIONS NEEDED: Subhas Chandra Bose
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Netaji's face may be shown: many real photographs of him exist. Keep it close
+to them (round face, round glasses).
+
+==============================================================================
+1. The night Subhas vanished  (flagship story)
+==============================================================================
+FILE NAME: the-night-subhas-vanished
+Save it as the-night-subhas-vanished.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The night Subhas vanished", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Calcutta, the middle of a cold January night in 1941. A large old colonial-era house with a gate and a dim lamp. A black 1930s German sedan car with its headlights low rolls quietly out of the gate onto an empty street. At the wheel, a young Indian man in a shirt; in the back seat, half in shadow, a stocky Indian man in his forties with a round face, round wire-rimmed glasses and a high forehead now wearing a full dark beard, a long brown coat and a small black fez cap, looking out of the window. Across the street, two plain-clothes watchers in shawls are dozing under a lamp post. Deep blue night, mist, a single warm glow from the car's interior. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Ninety days under the sea  (flagship story)
+==============================================================================
+FILE NAME: ninety-days-under-the-sea
+Save it as ninety-days-under-the-sea.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Ninety days under the sea", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside a cramped 1940s German submarine, lit by small yellow electric lamps. Pipes, valves and dials cover the curved metal walls. At a tiny fold-down table, a stocky Indian man in his forties with a round face, round wire-rimmed glasses and a high forehead in a plain shirt sits dictating calmly, one hand raised as he thinks. Opposite him, a young Indian man with a thin moustache types on a portable typewriter. A German sailor squeezes past in the narrow passage behind them. A bowl of khichdi rests on the table. Warm, cosy, cramped and determined mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The eighty-mile walk  (short story)
+==============================================================================
+FILE NAME: the-eighty-mile-walk
+Save it as the-eighty-mile-walk.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The eighty-mile walk", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Burma, late April 1945, a dusty road through dry teak forest under a hot hazy sky. A long line of tired Indian soldiers in khaki and young women soldiers in khaki uniforms with caps walk along the road on foot, carrying packs. Near the front, walking among them rather than ahead, a stocky Indian man in his forties with a round face, round wire-rimmed glasses and a high forehead in a khaki military uniform and cap. To the side of the road, an abandoned army truck. Far off in the sky, tiny dark specks of aircraft. Weary but steady, comradely mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The doctor and the Rani of Jhansi Regiment  (short story)
+==============================================================================
+FILE NAME: the-doctor-and-the-rani-of-jhansi-regiment
+Save it as the-doctor-and-the-rani-of-jhansi-regiment.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The doctor and the Rani of Jhansi Regiment", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Singapore, 1943, a training ground with palm trees and colonial buildings behind. Rows of young Indian women and teenage girls in khaki uniforms, shirts, breeches and caps, stand at attention in neat lines, some with hair in braids under their caps. In front of them, a confident young Indian woman officer in her late twenties, also in khaki uniform and cap, inspects the line. Bright tropical morning light, long shadows. Proud, disciplined, hopeful mood. No weapons pointed at anyone. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The forty-five Tokyo Boys  (short story)
+==============================================================================
+FILE NAME: the-forty-five-tokyo-boys
+Save it as the-forty-five-tokyo-boys.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The forty-five Tokyo Boys", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Japan, 1944, an airfield of a military air academy on a crisp clear winter morning, snowy mountain faint in the distance. A group of young Indian cadets in their late teens, in flight jackets, leather flying helmets and goggles pushed up, stand together looking up at a small single-engine training aeroplane flying overhead. One points upward excitedly. Japanese hangars in the background. Bright, wonder-filled mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Three friends on trial at the Red Fort  (short story)
+==============================================================================
+FILE NAME: three-friends-on-trial-at-the-red-fort
+Save it as three-friends-on-trial-at-the-red-fort.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Three friends on trial at the Red Fort", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Delhi, late 1945. Outside the huge red sandstone walls and gate of the Red Fort, a vast peaceful crowd of Indian men and women of different communities: Sikh men in turbans, Muslim men in caps, Hindu men in Gandhi caps, women in saris, students. They hold up plain hand-painted banners with no readable text. Inside the fort, glimpsed through the gateway, three young Indian officers in khaki uniforms walk with heads high between British guards. Late afternoon golden light. Hopeful, united mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. The mystery of 18 August 1945  (short story)
+==============================================================================
+FILE NAME: the-mystery-of-18-august-1945
+Save it as the-mystery-of-18-august-1945.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The mystery of 18 August 1945", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dusk on a quiet airfield in Taiwan in 1945. A single twin-engine 1940s Japanese bomber plane stands alone on the runway, propellers still, with no markings visible. Behind it the sky glows orange and purple. In the foreground, a question-like curl of mist drifts across the empty tarmac. No people, no crash, no fire. Quiet, mysterious, melancholy mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
