@@ -1,0 +1,28 @@
+---
+id: IF-0311
+kind: person
+name: "Haidar Ali"
+summary: "Documented in the cited source in connection with Indian National Army operations."
+born: ""
+died: ""
+year: 1944
+region: "Manipur"
+role: "INA participant"
+places: []
+related:
+  - "indian-national-army-operations"
+sources:
+  - title: "Unsung Heroes of India's Freedom Struggle"
+    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
+    publisher: "Ministry of Culture, Government of India"
+---
+
+<!--
+  Research carried over from the old project. It never appears on the site.
+  Stories about this subject go in src/content/stories/.
+-->
+
+## Research notes
+
+Documented in the cited source in connection with Indian National Army operations.
+

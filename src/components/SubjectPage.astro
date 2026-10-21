@@ -1,0 +1,101 @@
+---
+import Base from "../layouts/Base.astro";
+import Hero from "./Hero.astro";
+import QuickFacts from "./QuickFacts.astro";
+import StoryCard from "./StoryCard.astro";
+import { loadSite, hubUrl, type Subject } from "../lib/site";
+
+interface Props { subject: Subject }
+const { subject } = Astro.props;
+const site = await loadSite();
+const d = subject.data;
+
+const main = site.mainStoriesOf(subject.id);
+const flagships = main.filter((s) => s.data.type === "flagship");
+const shorts = main.filter((s) => s.data.type === "short");
+const appears = site.appearsInOf(subject.id);
+const planned = d.angles.filter((a) => !a.story);
+
+const related = d.related.map((id) => site.subjectById.get(id)).filter((s) => s !== undefined);
+const moments = related.filter((s) => s.data.kind === "event").map((s) => s.data.name);
+const people = related.filter((s) => s.data.kind === "person");
+const linkedPeople = people.filter((p) => site.hasHub(p.id));
+---
+<Base title={`${d.name}: stories from India's freedom struggle`} description={d.summary} crumb={d.name}>
+  <main class="page">
+    <Hero
+      subject={subject}
+      label={d.role ?? (d.kind === "event" ? "Moment in the struggle" : "Freedom struggle")}
+      heading={d.name}
+      dek={d.summary}
+      quote={d.quote}
+      image={d.image}
+    />
+    <QuickFacts subject={subject} moments={moments} people={people.map((p) => p.data.name)} />
+
+    <section class="hub-section">
+      <h2 class="section-title">
+        {main.length > 0
+          ? `${main.length === 1 ? "1 story" : `${main.length} stories`} about ${d.name}`
+          : `${d.name} in our stories`}
+      </h2>
+      {flagships.length > 0 && (
+        <ul class="story-list story-list-big">{flagships.map((s) => <li><StoryCard story={s} subject={subject} big /></li>)}</ul>
+      )}
+      {shorts.length > 0 && (
+        <>
+          <h3 class="label sub-title">Short stories</h3>
+          <ul class="story-list">{shorts.map((s) => <li><StoryCard story={s} subject={subject} /></li>)}</ul>
+        </>
+      )}
+      {appears.length > 0 && (
+        <>
+          {main.length > 0 && <h3 class="label sub-title">{d.name} also appears in</h3>}
+          <ul class="story-list">
+            {appears.map((s) => <li><StoryCard story={s} subject={site.subjectById.get(s.data.about[0])} /></li>)}
+          </ul>
+        </>
+      )}
+    </section>
+
+    {planned.length > 0 && (
+      <section class="hub-section">
+        <h2 class="section-title">Stories still to be told</h2>
+        <ul class="planned">
+          {planned.map((a) => (
+            <li>
+              <span class="label">{a.type === "flagship" ? "Flagship story" : "Short story"} · coming soon</span>
+              <strong>{a.title}</strong>
+              <p>{a.hook}</p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {linkedPeople.length > 0 && (
+      <section class="hub-section">
+        <h2 class="section-title">People connected to {d.name}</h2>
+        <ul class="people people-grid">
+          {linkedPeople.map((p) => (
+            <li>
+              <a class="person" href={hubUrl(p)}>
+                <span class="avatar">{p.data.image ? <img src={p.data.image.src} alt="" loading="lazy" /> : p.data.name.charAt(0)}</span>
+                <span><span class="person-name">{p.data.name}</span><span class="person-note">{p.data.role}</span></span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {d.sources.length > 0 && (
+      <section class="hub-section sources">
+        <h2>Sources about {d.name}</h2>
+        <ol>
+          {d.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span class="pub">{s.publisher}</span>}</li>)}
+        </ol>
+      </section>
+    )}
+  </main>
+</Base>

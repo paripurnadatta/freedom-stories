@@ -1,11 +1,12 @@
 ---
-import { getCollection } from "astro:content";
 import Base from "../layouts/Base.astro";
+import StoryCard from "../components/StoryCard.astro";
+import { loadSite } from "../lib/site";
 
-const all = await getCollection("stories");
-const published = all.filter((s) => s.data.status === "published").sort((a, b) => a.data.year - b.data.year);
-const people = all.filter((s) => s.data.kind === "person").length;
-const events = all.length - people;
+const site = await loadSite();
+const people = site.subjects.filter((s) => s.data.kind === "person").length;
+const events = site.subjects.length - people;
+const planned = site.subjects.reduce((n, s) => n + s.data.angles.filter((a) => !a.story).length, 0);
 ---
 <Base title="The Struggle for Freedom: stories of India, 1757 to 1947">
   <section class="home-hero">
@@ -20,27 +21,15 @@ const events = all.length - people;
       <div class="home-stats">
         <span class="label">1757–1947</span>
         <strong>{people} people · {events} moments</strong>
-        <span class="label">{published.length} {published.length === 1 ? "story" : "stories"} told so far</span>
+        <span class="label">{site.stories.length} {site.stories.length === 1 ? "story" : "stories"} told · {planned} on the way</span>
       </div>
     </div>
   </section>
 
   <main class="page">
+    <h2 class="section-title home-section">Read a story</h2>
     <ul class="story-list">
-      {published.map((s) => (
-        <li>
-          <a class="story-card" href={`/stories/${s.id}/`}>
-            <span class="thumb">
-              {s.data.image ? <img src={s.data.image.src} alt="" loading="lazy" /> : s.data.name.charAt(0)}
-            </span>
-            <span>
-              <span class="label">{s.data.name}</span>
-              <h3>{s.data.title}</h3>
-              <p>{s.data.subtitle}</p>
-            </span>
-          </a>
-        </li>
-      ))}
+      {site.stories.map((s) => <li><StoryCard story={s} subject={site.subjectById.get(s.data.about[0])} /></li>)}
     </ul>
   </main>
 </Base>

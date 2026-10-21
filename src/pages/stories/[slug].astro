@@ -1,115 +1,48 @@
 ---
-import { getCollection, render } from "astro:content";
+import { render } from "astro:content";
 import Base from "../../layouts/Base.astro";
-import { formatDate } from "../../lib/years";
+import Hero from "../../components/Hero.astro";
+import QuickFacts from "../../components/QuickFacts.astro";
+import { loadSite, hubUrl, storyUrl, type Story } from "../../lib/site";
 
 export async function getStaticPaths() {
-  const all = await getCollection("stories");
-  const byId = new Map(all.map((s) => [s.id, s]));
-  return all
-    .filter((s) => s.data.status === "published")
-    .map((story) => ({ params: { slug: story.id }, props: { story, byId } }));
+  const site = await loadSite();
+  return site.stories.map((story) => ({ params: { slug: story.id }, props: { story } }));
 }
 
-const { story, byId } = Astro.props;
+const { story } = Astro.props as { story: Story };
+const site = await loadSite();
 const d = story.data;
 const { Content, headings } = await render(story);
 const sections = headings.filter((h) => h.depth === 2);
 
-const related = d.related
-  .map((slug) => byId.get(slug))
-  .filter((s): s is NonNullable<typeof s> => Boolean(s))
-  .map((s) => ({
-    slug: s.id,
-    name: s.data.name,
-    kind: s.data.kind,
-    note: s.data.kind === "person" ? s.data.role : String(s.data.year),
-    image: s.data.image?.src,
-    live: s.data.status === "published",
-    year: s.data.year,
-  }));
-const relatedPeople = related.filter((r) => r.kind === "person");
-const relatedEvents = related.filter((r) => r.kind === "event").sort((a, b) => a.year - b.year);
+const main = site.subjectById.get(d.about[0])!;
+const others = d.about.slice(1).map((id) => site.subjectById.get(id)).filter((s) => s !== undefined);
+const people = others.filter((s) => s.data.kind === "person");
+const moments = others.filter((s) => s.data.kind === "event").sort((a, b) => a.data.year - b.data.year);
 
-const facts: [string, string][] = (d.kind === "person"
-  ? [
-      ["Born", formatDate(d.born)],
-      ["Died", formatDate(d.died)],
-      ["Region", d.region],
-      ["Known as", d.role ?? ""],
-      ["Places", d.places.join(" · ")],
-      ["Key moments", relatedEvents.slice(0, 3).map((e) => e.name).join(" · ")],
-    ]
-  : [
-      ["Date", formatDate(d.date)],
-      ["Region", d.region],
-      ["Places", d.places.join(" · ")],
-      ["People involved", relatedPeople.slice(0, 4).map((p) => p.name).join(" · ")],
-    ]
-).filter(([, v]) => v) as [string, string][];
-
-const dates = d.kind === "person"
-  ? [d.born?.slice(0, 4), d.died?.slice(0, 4)].filter(Boolean).join("–")
-  : formatDate(d.date);
-const initial = d.name.charAt(0);
+const moreAbout = site.mainStoriesOf(main.id).filter((s) => s.id !== story.id);
+const comingSoon = main.data.angles.filter((a) => !a.story).length;
 ---
-<Base title={`${d.title} | ${d.name}`} description={d.subtitle} crumb={d.name}>
+<Base title={`${d.title} | ${main.data.name}`} description={d.subtitle} crumb={main.data.name} crumbHref={hubUrl(main)}>
   <main class="page">
-    <header class="hero">
-      <div>
-        {d.role && <span class="label">{d.role}</span>}
-        <h1 class="hero-name">{d.name}</h1>
-        <p class="hero-title">{d.title}</p>
-        {d.subtitle && <p class="hero-dek">{d.subtitle}</p>}
-        {d.quote && (
-          <blockquote class="hero-quote">
-            <p>“{d.quote.text}”</p>
-            <footer>— {d.quote.by}</footer>
-          </blockquote>
-        )}
-        <dl class="hero-meta">
-          {dates && <><dt class="label">Dates</dt><dd>{dates}</dd></>}
-          {d.region && <><dt class="label">Region</dt><dd>{d.region}</dd></>}
-        </dl>
-      </div>
+    <Hero
+      subject={main}
+      label={`${d.type === "flagship" ? "Flagship story" : "Short story"} · ${main.data.name}`}
+      heading={d.title}
+      dek={d.subtitle}
+      quote={d.quote ?? main.data.quote}
+      image={d.image ?? main.data.image}
+    />
 
-      <figure class="portrait">
-        {d.image ? (
-          <>
-            <img src={d.image.src} alt={d.image.alt} loading="eager" />
-            <figcaption>
-              {d.image.caption}
-              <span class="credit">
-                {d.image.credit}{d.image.license && ` · ${d.image.license}`}
-                {d.image.sourceUrl && <> · <a href={d.image.sourceUrl} rel="noopener">source</a></>}
-              </span>
-            </figcaption>
-          </>
-        ) : (
-          <div class="portrait-empty" aria-hidden="true">{initial}</div>
-        )}
-      </figure>
-    </header>
-
-    {facts.length > 0 && (
-      <section class="quick-facts" aria-labelledby="qf">
-        <div class="quick-facts-head"><h2 id="qf" class="label">Quick facts</h2></div>
-        <ol class="facts-grid">
-          {facts.map(([k, v]) => (
-            <li><div><span class="label">{k}</span><strong>{v}</strong></div></li>
-          ))}
-        </ol>
-      </section>
-    )}
+    <QuickFacts subject={main} moments={moments.map((m) => m.data.name)} people={people.map((p) => p.data.name)} />
 
     <div class="reading">
       <aside class="contents-col">
         {sections.length > 0 && (
           <nav class="contents sticky" aria-label="Contents">
             <span class="label">Contents</span>
-            <ol>
-              {sections.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
-            </ol>
+            <ol>{sections.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
           </nav>
         )}
       </aside>
@@ -120,58 +53,51 @@ const initial = d.name.charAt(0);
           <h2>Where this story comes from</h2>
           <ol>
             {d.sources.map((s) => (
-              <li>
-                <a href={s.url} rel="noopener">{s.title}</a>
-                {s.publisher && <span class="pub">{s.publisher}</span>}
-              </li>
+              <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span class="pub">{s.publisher}</span>}</li>
             ))}
           </ol>
         </section>
       </article>
 
       <aside class="rail">
-        {d.quote && (
-          <div class="rail-card rail-quote">
-            <span class="label">In their own words</span>
-            <p>“{d.quote.text}”</p>
-            <footer>— {d.quote.by}</footer>
-          </div>
-        )}
-        {relatedPeople.length > 0 && (
+        <div class="rail-card">
+          <span class="label">More about {main.data.name}</span>
+          <ul class="people">
+            {moreAbout.map((s) => (
+              <li><a class="person plain" href={storyUrl(s)}><span><span class="person-name">{s.data.title}</span><span class="person-note">{s.data.type === "flagship" ? "Flagship story" : "Short story"}</span></span></a></li>
+            ))}
+            <li><a class="person plain" href={hubUrl(main)}><span><span class="person-name">All about {main.data.name}</span><span class="person-note">{comingSoon > 0 ? `${comingSoon} more stories on the way` : "Facts, stories and sources"}</span></span></a></li>
+          </ul>
+        </div>
+
+        {people.length > 0 && (
           <div class="rail-card">
             <span class="label">People in this story</span>
             <ul class="people">
-              {relatedPeople.map((p) => {
-                const inner = (
-                  <>
-                    <span class="avatar">{p.image ? <img src={p.image} alt="" loading="lazy" /> : p.name.charAt(0)}</span>
-                    <span>
-                      <span class="person-name">{p.name}</span>
-                      <span class="person-note">{p.live ? p.note : <span class="soon">Story coming soon</span>}</span>
-                    </span>
-                  </>
-                );
-                return <li>{p.live ? <a class="person" href={`/stories/${p.slug}/`}>{inner}</a> : <div class="person">{inner}</div>}</li>;
-              })}
+              {people.map((p) => (
+                <li>
+                  <a class="person" href={hubUrl(p)}>
+                    <span class="avatar">{p.data.image ? <img src={p.data.image.src} alt="" loading="lazy" /> : p.data.name.charAt(0)}</span>
+                    <span><span class="person-name">{p.data.name}</span><span class="person-note">{p.data.role}</span></span>
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
         )}
-        {relatedEvents.length > 0 && (
+
+        {moments.length > 0 && (
           <div class="rail-card">
             <span class="label">Moments in this story</span>
             <ul class="people">
-              {relatedEvents.map((e) => {
-                const inner = (
-                  <>
-                    <span class="avatar">{String(e.year).slice(2)}</span>
-                    <span>
-                      <span class="person-name">{e.name}</span>
-                      <span class="person-note">{e.live ? e.year : <span class="soon">Story coming soon</span>}</span>
-                    </span>
-                  </>
-                );
-                return <li>{e.live ? <a class="person" href={`/stories/${e.slug}/`}>{inner}</a> : <div class="person">{inner}</div>}</li>;
-              })}
+              {moments.map((m) => (
+                <li>
+                  <a class="person" href={hubUrl(m)}>
+                    <span class="avatar">{String(m.data.year).slice(2)}</span>
+                    <span><span class="person-name">{m.data.name}</span><span class="person-note">{m.data.year}</span></span>
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
         )}

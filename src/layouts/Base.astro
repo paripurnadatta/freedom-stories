@@ -5,8 +5,9 @@ interface Props {
   title: string;
   description?: string;
   crumb?: string;
+  crumbHref?: string;
 }
-const { title, crumb, description = "Stories of India's freedom struggle, from Plassey in 1757 to Independence in 1947." } = Astro.props;
+const { title, crumb, crumbHref, description = "Stories of India's freedom struggle, from Plassey in 1757 to Independence in 1947." } = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 ---
 <!doctype html>
@@ -37,7 +38,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         </a>
         <nav class="crumbs" aria-label="Breadcrumb">
           <a href="/">All stories</a>
-          {crumb && <><span>/</span><span aria-current="page">{crumb}</span></>}
+          {crumb && <><span>/</span>{crumbHref ? <a href={crumbHref}>{crumb}</a> : <span aria-current="page">{crumb}</span>}</>}
         </nav>
       </div>
     </header>

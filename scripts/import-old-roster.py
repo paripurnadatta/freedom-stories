@@ -2,15 +2,14 @@
 One-time import from the old freedom-fighter-timeline repo.
 
 Turns the 748-person / 178-event dataset (plus the enrichment overlay)
-into one Markdown file per story under src/content/stories/.
-Every imported file is a draft: it carries the facts block and the old
-research notes, and never appears on the site until a real story is
-written and its status is changed to "published".
+into one subject file per person or event under src/content/subjects/.
+A subject file holds the facts and the old research notes. Stories about
+the subject live separately in src/content/stories/.
 
 Usage:
   python3 scripts/import-old-roster.py /path/to/freedom-fighter-timeline
 
-Run it once. It will not overwrite a file that is already published.
+Run it once. Existing subject files are left alone unless you pass --force.
 """
 import json
 import re
@@ -19,8 +18,10 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
-OLD = Path(sys.argv[1] if len(sys.argv) > 1 else "../freedom-fighter-timeline")
-OUT = Path(__file__).resolve().parent.parent / "src" / "content" / "stories"
+_args = [a for a in sys.argv[1:] if not a.startswith("--")]
+OLD = Path(_args[0] if _args else "../freedom-fighter-timeline")
+FORCE = "--force" in sys.argv
+OUT = Path(__file__).resolve().parent.parent / "src" / "content" / "subjects"
 OUT.mkdir(parents=True, exist_ok=True)
 
 
@@ -156,8 +157,8 @@ def dates(p):
 
 def notes_block(rec_id, fallback):
     lines = ["<!--",
-             "  DRAFT. Everything below is research carried over from the old project.",
-             "  Replace it with the finished story, then set status: published.",
+             "  Research carried over from the old project. It never appears on the site.",
+             "  Stories about this subject go in src/content/stories/.",
              "-->", "", "## Research notes", ""]
     if fallback:
         lines += [fallback, ""]
@@ -219,10 +220,8 @@ def yaml_image(img):
 
 def write(slug, front, body):
     path = OUT / f"{slug}.md"
-    if path.exists():
-        existing = path.read_text(encoding="utf-8").split("\n---", 1)[0]
-        if re.search(r"^status:\s*published\s*$", existing, re.M):
-            return False
+    if path.exists() and not FORCE:
+        return False
     path.write_text("---\n" + front + "\n---\n\n" + body + "\n", encoding="utf-8")
     return True
 
@@ -238,8 +237,7 @@ for p in people:
         f"id: {pid}",
         "kind: person",
         f"name: {q(p['canonical_name'])}",
-        f"title: {q(p['canonical_name'])}",
-        f"subtitle: {q(pick(prof, 'headline', 'dek') or p.get('notable_for') or '')}",
+        f"summary: {q(pick(prof, 'headline', 'dek') or p.get('notable_for') or '')}",
         f"born: {q(born)}",
         f"died: {q(died)}",
         f"year: {p.get('active_from') or p.get('birth_year') or 1857}",
@@ -249,7 +247,6 @@ for p in people:
         yaml_list("related", rel),
         yaml_sources(sources_for(pid, p)),
         *([yaml_image(portraits.get(pid))] if yaml_image(portraits.get(pid)) else []),
-        "status: draft",
     ])
     written += write(slug_of[pid], front, notes_block(pid, p.get("notable_for")))
 
@@ -261,8 +258,7 @@ for e in events:
         f"id: {eid}",
         "kind: event",
         f"name: {q(e['event_name'])}",
-        f"title: {q(e['event_name'])}",
-        f"subtitle: {q(e.get('description') or '')}",
+        f"summary: {q(e.get('description') or '')}",
         f"date: {q(e.get('start_date') or '')}",
         f"endDate: {q(e.get('end_date') or '')}",
         f"year: {year}",
@@ -270,8 +266,7 @@ for e in events:
         yaml_list("places", [e["location"]] if e.get("location") else []),
         yaml_list("related", rel),
         yaml_sources(sources_for(eid, e)),
-        "status: draft",
     ])
     written += write(slug_of[eid], front, notes_block(eid, e.get("description")))
 
-print(f"Wrote {written} draft story files to {OUT}")
+print(f"Wrote {written} subject files to {OUT}")

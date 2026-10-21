@@ -1,0 +1,21 @@
+---
+import type { Story, Subject } from "../lib/site";
+import { storyUrl } from "../lib/site";
+
+interface Props {
+  story: Story;
+  subject?: Subject;
+  big?: boolean;
+}
+const { story, subject, big = false } = Astro.props;
+const img = story.data.image ?? subject?.data.image;
+const kind = story.data.type === "flagship" ? "Flagship story" : "Short story";
+---
+<a class:list={["story-card", { "story-card-big": big }]} href={storyUrl(story)}>
+  <span class="thumb">{img ? <img src={img.src} alt="" loading="lazy" /> : (subject?.data.name ?? story.data.title).charAt(0)}</span>
+  <span>
+    <span class="label">{kind}{subject && ` · ${subject.data.name}`}</span>
+    <h3>{story.data.title}</h3>
+    <p>{story.data.subtitle}</p>
+  </span>
+</a>
