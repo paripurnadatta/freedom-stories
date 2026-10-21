@@ -7,6 +7,7 @@ const { story, wide = false, showWho = true } = Astro.props;
 const site = await loadSite();
 const who = site.subjectById.get(story.data.about[0]);
 const picture = site.cardPicture(story);
+const painted = !!picture && picture.src === site.paintingFor(story)?.src;
 const flagship = story.data.type === "flagship";
 
 // Date card, for stories with no picture yet: the moment in big type, in one of four tints.
@@ -16,7 +17,7 @@ const tint = [...story.id].reduce((n, c) => n + c.charCodeAt(0), 0) % 4;
 ---
 <a class:list={["card", { wide }]} href={storyUrl(story)}>
   {picture ? (
-    <span class="art"><img src={picture.src} alt="" loading="lazy" /></span>
+    <span class="art"><img src={picture.src} alt="" loading="lazy" />{painted && <span class="ai-badge">AI illustration</span>}</span>
   ) : (
     <span class:list={["art", "date-card", `tint-${tint}`]} aria-hidden="true">
       <span class="dc-year">{year}</span>

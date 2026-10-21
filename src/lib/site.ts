@@ -67,7 +67,8 @@ async function build() {
   /**
    * A painting for a story, if one has arrived. Paintings live in the main subject's folder as
    * illustrations/<story-id>.webp and are picked up automatically; a story can also name one in
-   * its facts block. Captions always say it is an artist's impression.
+   * its facts block. Every painting is made with AI, and the site always says so: in the
+   * caption, in the alt text, and with an "AI illustration" badge on the picture itself.
    */
   const paintingFor = (story: Story): Picture | undefined => {
     if (story.data.illustration) return story.data.illustration;
@@ -77,9 +78,9 @@ async function build() {
     if (!existsSync(`src/content/${rel}`)) return undefined;
     return {
       src: `/files/${rel}`,
-      alt: `An artist's impression of a scene from "${story.data.title}"`,
-      caption: "An artist's impression.",
-      credit: "Illustration made for The Struggle for Freedom",
+      alt: `AI-generated illustration of a scene from "${story.data.title}"`,
+      caption: "AI-generated illustration. It shows how the scene might have looked; it is not a real picture of what happened.",
+      credit: "Made with AI for The Struggle for Freedom",
     };
   };
 
@@ -115,6 +116,7 @@ async function build() {
     hasStories,
     mediaOf,
     leadPicture,
+    paintingFor,
     cardPicture,
     mainStoriesOf: (id: string) => sortStories(mainStories.get(id)),
     appearsInOf: (id: string) => sortStories(appearsIn.get(id)),
@@ -124,11 +126,14 @@ async function build() {
   };
 }
 
+/** The year in a date written any way: "1869", "2 October 1869", "1869-10-02". */
+const yearIn = (date?: string) => date?.match(/\b(\d{4})\b/)?.[1];
+
 export function datesOf(s: Subject): string {
   const d = s.data;
-  if (d.kind === "person") return [d.born?.slice(0, 4), d.died?.slice(0, 4)].filter(Boolean).join("–");
-  if (d.kind === "organisation") return [d.founded, d.ended].filter(Boolean).join("–") || "";
-  if (d.kind === "event") return d.date ? d.date.slice(0, 4) : String(d.year);
+  if (d.kind === "person") return [yearIn(d.born), yearIn(d.died)].filter(Boolean).join("–");
+  if (d.kind === "organisation") return [yearIn(d.founded), yearIn(d.ended)].filter(Boolean).join("–") || "";
+  if (d.kind === "event") return yearIn(d.date) ?? String(d.year);
   return "";
 }
 

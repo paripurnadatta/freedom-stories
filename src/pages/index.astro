@@ -12,7 +12,7 @@ const count = (k: keyof typeof KINDS) => site.subjects.filter((s) => s.data.kind
 // (see that folder's prompts.txt). Until then, an archive photograph.
 const painted = existsSync("src/content/home/illustrations/home-hero.webp");
 const hero = painted
-  ? { src: "/files/home/illustrations/home-hero.webp", alt: "", caption: "An artist's impression." }
+  ? { src: "/files/home/illustrations/home-hero.webp", alt: "", caption: "AI-generated illustration, not a real picture." }
   : { src: "/files/people/bhagat-singh/archive/drama-club-1924.webp", alt: "", caption: "National College drama club, Lahore, 1924. Public domain." };
 
 const featured = [...site.stories.filter((s) => s.data.featured), ...site.latest.filter((s) => !s.data.featured)].slice(0, 3);
@@ -39,6 +39,7 @@ const tiles = [
       </div>
       <figure class:list={["hero-art", { archive: !painted }]}>
         <img src={hero.src} alt={hero.alt} fetchpriority="high" />
+        {painted && <span class="ai-badge">AI illustration</span>}
         {hero.caption && <figcaption>{hero.caption}</figcaption>}
       </figure>
     </div>

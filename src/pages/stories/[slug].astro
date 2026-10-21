@@ -87,6 +87,7 @@ const jsonLd = {
     {picture && (
       <figure class:list={["lead-art", { archive: !painted, short: !isFlagship }]}>
         <img src={picture.src} alt={picture.alt} fetchpriority="high" />
+        {painted && <span class="ai-badge">AI illustration</span>}
         <figcaption>
           {picture.caption}
           {(picture.credit || picture.license) && <span class="credit"> {[picture.credit, picture.license].filter(Boolean).join(", ")}.</span>}

@@ -65,6 +65,8 @@ when he has to run something on his own computer (Windows, PowerShell).
    `illustrations/prompts.txt` in the house format (copy an existing prompts.txt). Never
    invent a face for someone with no known photo; no flag or Ashoka Chakra; no readable
    text; no gore. Send the file to the owner.
+   The site labels every painting as AI-generated automatically (badge on the picture
+   and a caption). Never remove that label.
 5. **Update `index.md`**: summary, full dates, `related:`, `sources:`, and `angles:` (each
    written story gets `story: "<slug>"`; unwritten ones are "coming soon" on the site).
 6. **Check and build**: `npm run check` then `npm run build`. Both must pass.

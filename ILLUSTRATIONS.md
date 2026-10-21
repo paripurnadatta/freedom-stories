@@ -13,7 +13,7 @@ src/content/home/illustrations/prompts.txt          (home page)
 2. Save the image in that same folder, named with its **FILE NAME** (for example `the-disguise-on-the-train.png`).
 3. Run `node scripts/place-illustrations.mjs`, or hand the image to Claude. It is resized to a web-friendly `.webp`.
 
-That's all. The site finds `illustrations/<story-name>.webp` by itself and uses it at the top of the story and on its card everywhere. Its caption always says "An artist's impression". `npm run check` tells you how many illustrations are still waiting.
+That's all. The site finds `illustrations/<story-name>.webp` by itself and uses it at the top of the story and on its card everywhere. Its caption always says "AI-generated illustration (badge on the picture, and a caption saying it is not a real picture)". `npm run check` tells you how many illustrations are still waiting.
 
 ## Where paintings go
 
