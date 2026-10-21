@@ -1,15 +1,16 @@
 ---
 import Icon from "./Icon.astro";
-import { cleanCredit, shortCaption, type MediaItem } from "../lib/site";
+import { cleanCredit, shortCaption, thumbOf, largeOf, type MediaItem } from "../lib/site";
 
 interface Props { item: MediaItem }
 const { item } = Astro.props;
 const caption = shortCaption(item.description, item.title);
 const credit = cleanCredit(item.author, item.license);
+const thumb = thumbOf(item);
 ---
 {item.type === "image" ? (
-  <button class="media-item" type="button" data-lightbox data-src={item.url} data-thumb={item.thumb ?? item.url} data-caption={caption} data-credit={credit} data-page={item.page} data-year={item.year ?? ""}>
-    <span class="frame"><img src={item.thumb ?? item.url} alt={item.title} loading="lazy" /></span>
+  <button class="media-item" type="button" data-lightbox data-src={largeOf(item)} data-thumb={thumb} data-caption={caption} data-credit={credit} data-page={item.page} data-year={item.year ?? ""}>
+    <span class="frame"><img src={thumb} alt={item.title} loading="lazy" /></span>
     <span class="cap">{item.year && <span class="yr">{item.year}</span>}{caption}</span>
     <span class="credit">{credit}</span>
   </button>

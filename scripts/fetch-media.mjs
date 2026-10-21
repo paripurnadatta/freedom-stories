@@ -29,6 +29,8 @@ const MAX_DEPTH = 3; // how many levels of subcategories to walk
 const MAX_CATS = 400;
 // Subcategories that are not about the subject's life or memory.
 const SKIP_CAT = /(named after|national parks?|marine|airports?|ports?\b|bridges?|stadiums?|halls?\b|nagar\b|markets?|bhawan|bhavan|ghats?\b|lakes?\b|islands?\b|metro|railway|ships?\b|trains?\b|companies|politicians|elections?|people associated|quotations?|quotes|caps\b|nuclear|gandhism|by location|in popular culture|memes?|streets?|roads?|avenues?|squares?|schools?|colleges?|universit|hospitals?|stations?|buildings named|parks? named|awards?|prizes?|films? about|actors|portrayals|books about|cosplay|logos?)/i;
+// Words that mark a modern photo of an exhibit or memorial, even if its name has an old year.
+const MODERN = /(diorama|exhibit|statue|bust|museum|memorial|replica|samadhi|mural|sculpture|monument|painting by|model of|wax|plaque|poster at|display)/i;
 // Branches whose files are always later than the subject's lifetime.
 const LATER_CAT = /(monuments?|memorials?|statues?|busts?|sculptures?|in art|paintings? of|murals?|stamps?|coins?|banknotes?|anniversar|jayanti|museums?|heritage sites?|mausole|samadhi|in media|graffiti|wax)/i;
 const THUMB = 500;
@@ -238,10 +240,10 @@ async function collect(slug) {
   // (Walking several levels down otherwise drifts: Azad -> Alfred Park -> Allahabad Museum -> its sculptures.)
   const lastCat = (it) => (pathOf.get("File:" + it.file) ?? "").split(" / ").pop();
   const mentionsSubject = (it) => nameWords.some((w) => `${it.file} ${it.title} ${it.description} ${lastCat(it)}`.toLowerCase().includes(w));
-  // Years in the text other than the subject's own birth and death years.
+  // Years mentioned in the file's own text (life-span ranges removed).
   const textYears = (it) => ([it.date, it.title, it.file, it.description].join(" ")
     .replace(/(\d)o\b/g, "$10").replace(/\b1[6-9]\d\d\s*[-–—]\s*(1[6-9]|20)\d\d\b/g, " ")
-    .match(/\b(1[6-9]\d\d|20[0-2]\d)\b/g) ?? []).map(Number).filter((y) => !front.lifeYears.includes(y));
+    .match(/\b(1[6-9]\d\d|20[0-2]\d)\b/g) ?? []).map(Number);
 
   const items = described
     .map((d) => toItem(d, found.get(d.title)))
@@ -255,7 +257,13 @@ async function collect(slug) {
       // unless the file's own date says otherwise (Azad Hind stamps of 1943 are originals).
       const ownYear = Number(String(it.date).match(/\b(1[6-9]\d\d|20[0-2]\d)\b/)?.[1]) || null;
       const laterBranch = LATER_CAT.test(path) && !(ownYear && ownYear <= 1947) && !textYears(it).some((y) => y <= 1947);
-      const era = laterBranch ? "later" : year <= 1947 ? "original" : "later";
+      // A photo whose own date is after 1947 is a modern photo, whatever the text mentions
+      // ("Aga Khan Palace, built in 1892"). Old pictures re-dated to their upload day go in "originals" by hand.
+      const nameYears = (`${it.file} ${it.title}`.replace(/\b1[6-9]\d\d\s*[-–—]\s*(1[6-9]|20)\d\d\b/g, " ").replace(/(\d)o\b/g, "$10")
+        .match(/\b1[6-9]\d\d\b/g) ?? []).map(Number).filter((y) => y <= 1947 && (!front.lifeYears[0] || y >= front.lifeYears[0]));
+      const modernPhoto = ownYear && ownYear > 1947 &&
+        (!nameYears.length || MODERN.test(`${it.file} ${it.title} ${it.description.slice(0, 120)}`));
+      const era = laterBranch || modernPhoto ? "later" : year <= 1947 ? "original" : "later";
       const shownYear = era === "later" && ownYear && ownYear > 1947 ? ownYear : year === 9999 ? null : year;
       return { ...it, year: shownYear, era };
     })
@@ -273,6 +281,7 @@ async function collect(slug) {
     matchedBy: where.matchedBy,
     fetched: new Date().toISOString().slice(0, 10),
     hidden: previous?.hidden ?? [],
+    originals: previous?.originals ?? [], // marked by hand: old items whose Commons date is only the upload date
     items,
   }, null, 2) + "\n");
   return `${items.length} items (${where.matchedBy}${where.category ? `, category ${where.category}` : ""})`;

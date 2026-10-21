@@ -47,7 +47,9 @@ async function build() {
   const mediaOf = (id: string) => {
     const m = media.get(id);
     if (!m) return { original: [] as MediaItem[], later: [] as MediaItem[] };
-    const shown = m.items.filter((i) => !m.hidden.includes(i.file));
+    const shown = m.items
+      .filter((i) => !m.hidden.includes(i.file))
+      .map((i) => (m.originals.includes(i.file) ? { ...i, era: "original" as const } : i));
     return { original: shown.filter((i) => i.era === "original"), later: shown.filter((i) => i.era === "later") };
   };
   const mediaCount = (id: string) => {
@@ -162,4 +164,31 @@ export function shortCaption(description: string, title: string): string {
   const first = text.match(/^.{20,160}?[.!?](?=\s|$)/)?.[0] ?? text;
   const capped = first.length > 160 ? first.slice(0, 157).replace(/\s+\S*$/, "") + "..." : first;
   return capped.charAt(0).toUpperCase() + capped.slice(1);
+}
+
+/**
+ * A thumbnail that Wikimedia will actually serve to other sites. Small originals come back
+ * "unscaled" on upload.wikimedia.org, which refuses hotlinks (HTTP 429). For those we ask
+ * thumb.wikimedia.org for a scaled copy a little smaller than the original.
+ */
+type Sized = { type: string; url: string; thumb?: string; width?: number };
+/** A scaled copy from thumb.wikimedia.org: the largest standard width below the original's. */
+function scaled(item: Sized, max: number): string | null {
+  const m = item.url.match(/upload\.wikimedia\.org\/wikipedia\/(commons|en)\/([0-9a-f])\/([0-9a-f]{2})\/([^?#]+)/);
+  if (!m) return null;
+  const [, wiki, a, ab, name] = m;
+  const w = [1280, 960, 500, 330, 250].find((s) => s <= max && s < (item.width ?? 0));
+  if (!w) return null;
+  const ext = /\.(svg|tiff?)$/i.test(name) ? ".png" : "";
+  return `https://thumb.wikimedia.org/wikipedia/${wiki}/thumb/${a}/${ab}/${name}/${w}px-${name}${ext}`;
+}
+export function thumbOf(item: Sized): string {
+  const t = item.thumb ?? item.url;
+  if (item.type !== "image" || !/upload\.wikimedia\.org/.test(t)) return t;
+  return scaled(item, 330) ?? t;
+}
+/** The big picture for the lightbox. Originals on upload.wikimedia.org refuse hotlinks too. */
+export function largeOf(item: Sized): string {
+  if (item.type !== "image") return item.url;
+  return scaled(item, 1280) ?? thumbOf(item);
 }

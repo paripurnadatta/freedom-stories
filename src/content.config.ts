@@ -128,6 +128,7 @@ const media = defineCollection({
     wikipedia: z.string().nullable(),
     commonsCategory: z.string().nullable(),
     hidden: z.array(z.string()).default([]),
+    originals: z.array(z.string()).default([]), // marked by hand as from the subject's own time
     items: z.array(mediaItem),
   }),
 });

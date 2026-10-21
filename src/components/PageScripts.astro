@@ -28,7 +28,8 @@ import Icon from "./Icon.astro";
 
     // Lightbox: the picture large, with caption and credit. Arrow keys move between pictures.
     var dialog = document.querySelector(".lightbox");
-    var items = Array.prototype.slice.call(document.querySelectorAll("[data-lightbox]"));
+    // Pictures can be added later (gallery "Show more"), so the list is read at click time.
+    var items = [];
     var current = -1;
     function show(i) {
       var el = items[i]; if (!el) return;
@@ -41,7 +42,12 @@ import Icon from "./Icon.astro";
       dialog.querySelector("[data-lb-page]").href = el.dataset.page;
       if (!dialog.open) dialog.showModal();
     }
-    items.forEach(function (el, i) { el.addEventListener("click", function () { show(i); }); });
+    document.addEventListener("click", function (e) {
+      var el = e.target.closest && e.target.closest("[data-lightbox]");
+      if (!el) return;
+      items = Array.prototype.slice.call(document.querySelectorAll("[data-lightbox]"));
+      show(items.indexOf(el));
+    });
     dialog.querySelector("[data-lb-close]").addEventListener("click", function () { dialog.close(); });
     dialog.addEventListener("click", function (e) { if (e.target === dialog) dialog.close(); });
     dialog.addEventListener("keydown", function (e) {
@@ -51,8 +57,30 @@ import Icon from "./Icon.astro";
       if (e.key === "ArrowLeft") step(-1);
     });
 
-    // Gallery: shelves (then / later), kind chips (pictures, papers...), and "Show more".
+    // Gallery: shelves (then / later), kind chips (pictures, papers...) and "Show more".
+    // The page prints the first few items of each shelf; the rest come from a JSON file on first use.
+    var esc = function (t) { var d = document.createElement("div"); d.textContent = t == null ? "" : String(t); return d.innerHTML; };
+    var kindOf = function (t) { return t === "audio" || t === "video" ? "av" : t; };
+    function itemHtml(m) {
+      var yr = m.year ? '<span class="yr">' + m.year + "</span>" : "";
+      if (m.type === "image") {
+        return '<button class="media-item" type="button" data-lightbox data-src="' + esc(m.url) + '" data-thumb="' + esc(m.thumb) + '" data-caption="' + esc(m.caption) + '" data-credit="' + esc(m.credit) + '" data-page="' + esc(m.page) + '" data-year="' + esc(m.year || "") + '">' +
+          '<span class="frame"><img src="' + esc(m.thumb) + '" alt="' + esc(m.title) + '" loading="lazy"></span>' +
+          '<span class="cap">' + yr + esc(m.caption) + '</span><span class="credit">' + esc(m.credit) + "</span></button>";
+      }
+      var file = m.type === "document" ? '<a href="' + esc(m.url) + '" class="big" rel="noopener">Read the document</a>'
+        : m.type === "audio" ? '<span class="big">Listen</span><audio controls preload="none" src="' + esc(m.url) + '"></audio>'
+        : '<video controls preload="none" src="' + esc(m.url) + '"></video>';
+      return '<div><div class="media-file">' + file + '</div><span class="media-item" style="cursor:default"><span class="cap">' + yr + esc(m.title) +
+        '</span><span class="credit">' + esc(m.credit) + '. <a href="' + esc(m.page) + '" rel="noopener">Details</a></span></span></div>';
+    }
     Array.prototype.forEach.call(document.querySelectorAll("[data-gallery]"), function (g) {
+      var data = null, loading = null;
+      function load() {
+        if (data) return Promise.resolve(data);
+        loading = loading || fetch(g.dataset.src).then(function (r) { return r.json(); }).then(function (d) { data = d; return d; });
+        return loading;
+      }
       var tabs = g.querySelectorAll("[data-shelf-tab]");
       Array.prototype.forEach.call(tabs, function (t) {
         t.addEventListener("click", function () {
@@ -61,11 +89,14 @@ import Icon from "./Icon.astro";
         });
       });
       Array.prototype.forEach.call(g.querySelectorAll("[data-shelf]"), function (shelf) {
-        var lis = Array.prototype.slice.call(shelf.querySelectorAll(".media-grid > li"));
+        var grid = shelf.querySelector(".media-grid");
         var btn = shelf.querySelector(".show-more");
-        var page = btn ? Number(btn.dataset.more) : lis.length;
+        var page = btn ? Number(btn.dataset.more) : 1e9;
+        var total = Number(shelf.dataset.total);
+        var full = grid.children.length >= total; // everything already printed
         var kind = "all", shown = page;
         function paint() {
+          var lis = Array.prototype.slice.call(grid.children);
           var match = lis.filter(function (li) { return kind === "all" || li.dataset.type === kind; });
           lis.forEach(function (li) { li.hidden = true; });
           match.slice(0, shown).forEach(function (li) { li.hidden = false; });
@@ -75,11 +106,21 @@ import Icon from "./Icon.astro";
             btn.querySelector("[data-left]").textContent = left;
           }
         }
-        if (btn) btn.addEventListener("click", function () { shown += page; paint(); });
-        Array.prototype.forEach.call(shelf.querySelectorAll("[data-kind]"), function (c, _, all) {
+        function ensureAll() {
+          if (full) return Promise.resolve();
+          if (btn) btn.disabled = true;
+          return load().then(function (d) {
+            grid.innerHTML = d[shelf.dataset.shelf].map(function (m) { return '<li data-type="' + kindOf(m.type) + '">' + itemHtml(m) + "</li>"; }).join("");
+            full = true;
+            if (btn) btn.disabled = false;
+          }).catch(function () { if (btn) btn.disabled = false; });
+        }
+        if (btn) btn.addEventListener("click", function () { ensureAll().then(function () { shown += page; paint(); }); });
+        Array.prototype.forEach.call(shelf.querySelectorAll("[data-kind]"), function (c) {
           c.addEventListener("click", function () {
             Array.prototype.forEach.call(shelf.querySelectorAll("[data-kind]"), function (x) { x.setAttribute("aria-pressed", String(x === c)); });
-            kind = c.dataset.kind; shown = page; paint();
+            kind = c.dataset.kind; shown = page;
+            ensureAll().then(paint);
           });
         });
       });

@@ -120,7 +120,7 @@ const jsonLd = d.kind === "person"
         </div>
         {(() => {
           // Two shelves: from the subject's own time, and how they were remembered later.
-          // Each shows PAGE items at first; "Show more" reveals the next lot (see PageScripts).
+          // Each prints PAGE items; "Show more" and the filters load the rest from /media/<id>.json (see PageScripts).
           const PAGE = 24;
           const shelves = [
             { id: "then", label: d.kind === "person" ? "From his or her lifetime" : "From the time", items: media.original },
@@ -134,7 +134,7 @@ const jsonLd = d.kind === "person"
           ].filter(([k]) => k === "all" || items.some((i) => (k === "av" ? i.type === "audio" || i.type === "video" : i.type === k)));
           const kindOf = (t: string) => (t === "audio" || t === "video" ? "av" : t);
           return (
-            <div class="gallery" data-gallery>
+            <div class="gallery" data-gallery data-src={`/media/${subject.id}.json`}>
               {shelves.length > 1 && (
                 <div class="shelf-tabs" role="tablist">
                   {shelves.map((s, i) => (
@@ -145,21 +145,21 @@ const jsonLd = d.kind === "person"
                 </div>
               )}
               {shelves.map((s, i) => (
-                <div class="shelf" data-shelf={s.id} hidden={i > 0}>
+                <div class="shelf" data-shelf={s.id} data-total={s.items.length} hidden={i > 0}>
                   {kinds(s.items).length > 2 && (
                     <div class="kind-chips">
                       {kinds(s.items).map(([k, label], j) => <button type="button" aria-pressed={String(j === 0)} data-kind={k}>{label}</button>)}
                     </div>
                   )}
                   <ul class="media-grid">
-                    {s.items.map((m, n) => <li data-type={kindOf(m.type)} hidden={n >= PAGE}><MediaItem item={m} /></li>)}
+                    {s.items.slice(0, PAGE).map((m) => <li data-type={kindOf(m.type)}><MediaItem item={m} /></li>)}
                   </ul>
                   {s.items.length > PAGE && (
                     <p class="show-more-row"><button type="button" class="show-more" data-more={PAGE}>Show more <span data-left>{s.items.length - PAGE}</span> left</button></p>
                   )}
                 </div>
               ))}
-              <noscript><style>{`.media-grid li[hidden]{display:block!important}.shelf[hidden]{display:block!important}.show-more-row,.shelf-tabs,.kind-chips{display:none}`}</style></noscript>
+              <noscript><style>{`.shelf[hidden]{display:block!important}.show-more-row,.shelf-tabs,.kind-chips{display:none}`}</style></noscript>
             </div>
           );
         })()}
