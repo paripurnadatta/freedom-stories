@@ -26,6 +26,8 @@ related:
   - "kakori-train-action"
   - "saunders-assassination-lahore-protest-phase"
   - "non-cooperation-and-khilafat-movement"
+  - "bhagwati-charan-vohra"
+  - "durga-bhabhi"
 sources:
   - title: "Chandra Shekhar Azad"
     url: "https://en.wikipedia.org/wiki/Chandra_Shekhar_Azad"
@@ -81,9 +83,14 @@ angles:
     type: short
     hook: "In a museum hall in Prayagraj lies a small old pistol. Its owner gave it a name."
     story: "the-pistol-in-the-museum"
-  - title: "The train under the Viceroy"
+  - title: "The bomb under the Viceroy's train"
     type: short
-    hook: "In December 1929 the revolutionaries tried to blow up the Viceroy's train near Delhi. What happened, and what did Gandhi say about it?"
+    hook: "A hidden wire, a buried bomb, and the most powerful Briton in India on his way to New Delhi. What happened, and what did Gandhi say?"
+    story: "the-bomb-under-the-viceroys-train"
+  - title: "The rescue that never happened"
+    type: short
+    hook: "Azad's group planned to free Bhagat Singh from Lahore jail. Then, on the bank of the Ravi, everything went wrong."
+    story: "the-rescue-that-never-happened"
 ---
 
 <!--
@@ -136,4 +143,9 @@ The death should remain anchored in documented underground activity rather than 
 - Nehru meeting: Nehru, An Autobiography (1936), pp. 261-262, quoted in DailyO. Only use Nehru's own words; DailyO's other claims are advocacy.
 - Alfred Park: Nott-Bower tipped off; Sukhdev Raj escaped; Nott-Bower hit in the wrist, Thakur Vishweshwar Singh in the jaw (Wikipedia); cremated at Rasulabad Ghat; Kamala Nehru at the funeral (Gaur, via DailyO). The Tribune says he killed three policemen: not used, not confirmed elsewhere.
 - Pistol: Colt Model 1903 Pocket Hammerless .32 (Wikipedia, citing Hindustan Times 2016); name "Bamtul Bukhara" (Madras Courier). The "taken to England and returned" story: NOT confirmed; flagged in the story.
+- Pistol's return: Tornos India (1972 letter from UP Home Secretary A. K. Mustafi; Nott-Bower agreed; Lucknow; Allahabad Museum 1976) and Live History India (returned 1977). Year differs; marked in the story. Vaishampayan remembered a Mauser.
+- Photo: Amar Ujala confirms Rudra Narayan took it, hid it from the British, released it after 1947. The destroy request is still from Navbharat Live only; marked.
+- Viceroy train, 23 Dec 1929: bomb between rails, cable to battery, restaurant car wrecked, one attendant slightly hurt (1929 wire reports via South Asia Commons, Google Arts & Culture). The Quint's "many killed" is wrong. Planned with Azad; carried out by Bhagwati Charan and Yashpal (Countercurrents).
+- Rescue plan, 1930: Bhagwati Charan died 28 May 1930 testing a bomb by the Ravi (The Wire, Scroll, Countercurrents). Durga Devi sold Rs 3,000 of jewellery (Wikipedia); stayed a month where Azad hid (Scroll).
+- Sukhdev Raj: too little reliable material for a story of his own yet.
 - Not confirmed: that the British cut down the tree (told as "many accounts say").

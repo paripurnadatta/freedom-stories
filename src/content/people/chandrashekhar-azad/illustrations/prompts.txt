@@ -102,3 +102,32 @@ Inside a quiet modern Indian museum hall. A small old dark-metal pocket pistol l
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+==============================================================================
+7. The bomb under the Viceroy's train  (short story)
+==============================================================================
+FILE NAME: the-bomb-under-the-viceroys-train
+Save it as the-bomb-under-the-viceroys-train.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The bomb under the Viceroy's train", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Winter morning, December 1929, flat open land near New Delhi with domes and ruins faint in the haze. A long, gleaming cream-and-maroon colonial special train with a steam engine rolls along the tracks. Near one carriage in the middle, a puff of grey smoke and dust rises from beside the rails. In the far foreground, half-hidden in tall dry grass, a thin dark cable snakes away from the tracks towards a bush. No people visible, no fire, no injuries. Pale golden winter light, mist, a feeling of a held breath. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+8. The rescue that never happened  (short story)
+==============================================================================
+FILE NAME: the-rescue-that-never-happened
+Save it as the-rescue-that-never-happened.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The rescue that never happened", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small, dim room in Lahore, 1930, lit by one oil lantern on a low wooden table. A young Indian woman in a simple cotton sari, hair tied back, sits holding a small cloth bundle of gold bangles and earrings, about to hand it over. Across the table, seen from behind and in shadow, a strong-built young man in a white kurta leans forward. A rolled hand-drawn map lies on the table. Through a small window, the high outer wall of a colonial jail is faintly visible against a deep blue night. Quiet, secret, determined mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

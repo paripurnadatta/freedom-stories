@@ -22,6 +22,12 @@ sources:
   - title: "Biography: Chandra Shekhar Azad, the master of disguises"
     url: "https://www.oneindia.com/feature/biography-chandra-shekhar-azad-the-master-of-disguises-2512130.html"
     publisher: "Oneindia"
+  - title: "Chandrashekhar Azad's Weapon"
+    url: "https://tornosindia.com/chandrashekhar-azads-weapon/"
+    publisher: "Tornos India"
+  - title: "Heritage Matters: Treasure Hunt At India's Museums"
+    url: "https://www.livehistoryindia.com/story/cover-story/heritage-matters-treasure-museums"
+    publisher: "Live History India"
 status: published
 ---
 
@@ -53,11 +59,21 @@ He had promised never to be taken alive. He kept that promise in the park that m
 
 ## Where it is now
 
-Today the pistol sits in the entrance hall of the Allahabad Museum.
+Today it sits in the entrance hall of the Allahabad Museum.
 
 The museum was set up in 1931, the same year Azad died. It stands inside the very same park where he fell. The park is now called Chandrashekhar Azad Park. So the pistol rests only a short walk from the place where its story ended.
 
-<aside class="note"><b>A story we could not check</b>: you may read that a British officer took the pistol to England, and that it was later brought back. We have not found a reliable source for that yet. If we do, we will add it here.</aside>
+## The journey to England and back
+
+The pistol did not stay in India. It went to England with Nott-Bower, the police officer who led the attack in the park. A 1931 record suggests it was presented to him when he left India.
+
+For about forty years it stayed with him.
+
+Then, in 1972, an officer of the Uttar Pradesh government wrote to Nott-Bower. He asked for the pistol back. The Indian government's office in Britain also asked him. Nott-Bower agreed. In return, he asked for a photograph of Azad's statue in the park, and a letter of thanks.
+
+The pistol came home, first to Delhi and then to Lucknow. In 1976 it moved to the Allahabad Museum.
+
+<aside class="note"><b>Small differences</b>: one account says the pistol came back in 1977, not earlier. And one of Azad's comrades remembered his gun as a Mauser, a different make. The museum and the police inquest of 1931 both call it a Colt.</aside>
 
 ## Other pistols, other stories
 

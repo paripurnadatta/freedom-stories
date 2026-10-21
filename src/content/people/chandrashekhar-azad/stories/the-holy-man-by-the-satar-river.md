@@ -19,6 +19,9 @@ sources:
   - title: "Who took the famous photo of Chandrashekhar Azad twirling his moustache? (in Hindi)"
     url: "https://navbharatlive.com/india/chandrashekhar-azad-master-rudra-narayan-jhansi-kakori-story-1913983.html"
     publisher: "Navbharat Live"
+  - title: "Rudra Narayan of Jhansi would not trade Azad, even when hungry (in Hindi)"
+    url: "https://www.amarujala.com/uttar-pradesh/jhansi/rudra-narayan-of-jhansi-did-not-even-deal-with-azad-s-arrest-in-fakakashi-jhansi-news-jhs2008744151"
+    publisher: "Amar Ujala"
 status: published
 ---
 
@@ -59,6 +62,8 @@ He learned one more skill in Jhansi. He learned to drive a car, at a motor garag
 Azad hid around Jhansi for a long time. Some accounts say it was about three years. The police never found him there.
 
 They tried to buy him, though. Historians say the British offered Rudra Narayan 25,000 rupees to give Azad away. That was a huge sum in those days. Rudra Narayan said no.
+
+His family was poor, and some days there was little to eat. Once, Azad joked that his friend should hand him over and collect the reward, so the children could eat. Rudra Narayan refused. He said he would rather starve than eat food bought by betraying a friend.
 
 Today, a village near the old hiding place is called Azadpura. It was named in his honour.
 

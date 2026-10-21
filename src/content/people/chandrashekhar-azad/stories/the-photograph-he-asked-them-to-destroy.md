@@ -28,6 +28,9 @@ sources:
   - title: "Vishwanath Vaishampayan"
     url: "https://en.wikipedia.org/wiki/Vishwanath_Vaishampayan"
     publisher: "Wikipedia"
+  - title: "Rudra Narayan of Jhansi would not trade Azad, even when hungry (in Hindi)"
+    url: "https://www.amarujala.com/uttar-pradesh/jhansi/rudra-narayan-of-jhansi-did-not-even-deal-with-azad-s-arrest-in-fakakashi-jhansi-news-jhs2008744151"
+    publisher: "Amar Ujala"
 status: published
 ---
 
@@ -59,9 +62,11 @@ So he sent a message to his friend. It was carried by another young revolutionar
 
 Rudra Narayan made a brave choice. He did not destroy it. He hid it safely instead. He believed that one day, people would want to see the face of this hero.
 
-He kept it safe for the rest of his life.
+He kept it safe for the rest of his life. British officers tried hard to get hold of it, but they never did. Only after India became free did he let the world see it.
 
 Rudra Narayan was a brave man in other ways too. In 1945, while the British still ruled, he put up a statue of Rani Lakshmibai in Jhansi. Many saw it as a direct challenge to British rule.
+
+<aside class="note"><b>How do we know?</b> The story of the message asking for the photo to be destroyed comes from one news report, which spoke to Rudra Narayan's family. Other reports agree that he took the photo and hid it from the British.</aside>
 
 <aside class="note"><b>Was it the only photo?</b> Some writers call it Azad's "first and last" photograph. Other pictures said to show him exist too. But this is the best-known by far.</aside>
 
