@@ -146,3 +146,33 @@ PROMPT (copy everything between the lines):
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+10. The day the cooks got a holiday  (short story)
+==============================================================================
+FILE NAME: the-day-the-cooks-got-a-holiday
+Save it as the-day-the-cooks-got-a-holiday.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The day the cooks got a holiday", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+February 1915, an open-air school kitchen courtyard at Santiniketan, Bengal, with simple brick buildings, thatched roofs and tall sal trees. Indian schoolboys aged about 10 to 16, in simple white kurtas and dhotis, cheerfully cut vegetables, sift grain in flat baskets and scrub big brass cooking pots. One boy sits on a mat playing a sitar while the others work. A few young Indian teachers in kurtas help. At the edge, a 45-year-old Indian man with short dark hair and a small moustache, wearing a plain white Kathiawadi turban, white kurta and dhoti, watches and smiles. Morning light, warm and cheerful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+11. When the earth shook in Bihar  (short story)
+==============================================================================
+FILE NAME: when-the-earth-shook-in-bihar
+Save it as when-the-earth-shook-in-bihar.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "When the earth shook in Bihar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+February 1934, a town in north Bihar after a great earthquake: brick houses cracked and partly fallen, rubble in the lanes, cracks in the ground. Families in simple 1930s Indian clothes gather calmly at a relief camp with tents, cooking pots and rice sacks; volunteers in white khadi hand out food. Walking among them, a thin bald Indian man of 64 with round glasses, a white dhoti and a white shawl over his shoulders, listening kindly to an old woman. No injured people shown. Dusty golden afternoon light, sad but hopeful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

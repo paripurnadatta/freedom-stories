@@ -122,7 +122,7 @@ which ones should be redone and why.
 | Bhagat Singh | 16 | done |
 | Chandrashekhar Azad | 9 | done |
 | Subhas Chandra Bose | 11 | done |
-| Mahatma Gandhi | 15 | done |
+| Mahatma Gandhi | 17 | 2 prompts waiting |
 | Ashfaqulla Khan | 4 | 3 prompts waiting |
 | Batukeshwar Dutt | 5 | 3 prompts waiting |
 

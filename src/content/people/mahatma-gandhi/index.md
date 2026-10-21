@@ -137,6 +137,14 @@ angles:
     type: short
     hook: "He was ten minutes late for prayers. He never reached the prayer ground."
     story: "the-last-walk-to-prayer"
+  - title: "The day the cooks got a holiday"
+    type: short
+    hook: "At Tagore's school, Gandhi asked the boys to cook and clean for themselves. The school still remembers it every 10 March."
+    story: "the-day-the-cooks-got-a-holiday"
+  - title: "When the earth shook in Bihar"
+    type: short
+    hook: "Gandhi called the 1934 earthquake a punishment. Tagore said that was unscientific. Both said so in public."
+    story: "when-the-earth-shook-in-bihar"
 ---
 
 <!--
