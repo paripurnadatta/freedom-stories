@@ -43,7 +43,7 @@ Each angle is one moment, object, relationship, place, mystery or "what happened
 - Title (short, intriguing)
 - One-line hook a 10-year-old would want to read
 - The key facts for it, each with: source link | exact quote
-- Which angle you think is the big "flagship" story, and why
+- Which angles are big enough to be "flagship" stories (there is no limit: list every one that has enough sourced material for 900+ words), and why
 
 ## 3. People and places connected
 Names of people, groups, events and places that appear in the angles, with one line each on the connection.

@@ -8,7 +8,9 @@ README.md (site and folders), ILLUSTRATIONS.md (paintings) and RESEARCH_BRIEF.md
 
 A **story site** about India's freedom struggle (1757–1947) for **Class 5 readers**
 (about 10 years old). It is not a research database. Every person or event can have
-many stories: one or two long **flagship** stories and several **short** ones.
+many stories: long **flagship** stories and **short** ones. There is no limit on either.
+If a subject has five big stories worth 900+ sourced words each, write five flagships.
+The only limit is the sources: never stretch thin material to reach flagship length.
 
 The owner (Paripurna) generates the paintings and sometimes sends research from other
 AIs. He is not a programmer: explain things in plain words, and give exact commands

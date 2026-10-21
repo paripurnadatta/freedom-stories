@@ -40,7 +40,7 @@ Pictures in these folders are served at `/files/<kind>/<slug>/...`, for example 
 ## Making stories for a subject
 
 1. **Find the angles.** Research the subject and list every story worth telling under `angles:` in its `index.md`: a title, `flagship` or `short`, and a one-line hook. Notes and sources go below the facts block, in the research notes. See `people/bhagat-singh/index.md`.
-2. **Write the flagship first**, then the short stories. Each story is a file in the subject's `stories/` folder. `about:` lists who it is about; the first name is the folder it lives in.
+2. **Write the flagship stories first** (as many as the sources can support), then the short stories. Each story is a file in the subject's `stories/` folder. `about:` lists who it is about; the first name is the folder it lives in.
 3. When a story is published, add `story: <file-name>` to its angle.
 4. **Write illustration prompts** for the stories that need a painting, in `illustrations/prompts.txt` (see ILLUSTRATIONS.md).
 5. Run `npm run check`.
