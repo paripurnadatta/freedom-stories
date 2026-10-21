@@ -73,7 +73,7 @@ const stories = defineCollection({
     featured: z.boolean().default(false), // show on the home page
     illustration: image.optional(), // painted lead image; falls back to an archive photo
     about: z.array(z.string()).min(1),
-    year: z.number().int().min(1000).max(1950),
+    year: z.number().int().min(1000).max(2030), // when the story happens; later stories (memorials, legacy) are allowed
     image: image.optional(),
     quote: quote.optional(),
     sources: z.array(source).default([]),

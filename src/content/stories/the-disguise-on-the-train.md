@@ -23,7 +23,7 @@ sources:
 status: published
 ---
 
-The police had a description. They were looking for a young Sikh man from Punjab, with long hair tied under a turban and a beard on his chin. Two days earlier, a police officer had been shot dead outside the police office in Lahore. Now every road and every railway platform in the city was being watched.
+The police had a description. They were looking for a young Sikh man from Punjab, with long hair tied under a turban and a beard on his chin. Three days earlier, a police officer had been shot dead outside the police office in Lahore. Now every road and every railway platform in the city was being watched.
 
 The young man they wanted was Bhagat Singh. And he had a plan.
 
@@ -51,7 +51,13 @@ At the station, the little family walked along the platform. There were policeme
 
 They saw a gentleman in a hat. They saw his wife and their small child. They saw a servant with the bags. They did not see a Sikh revolutionary at all.
 
-The family got onto the train, and the train pulled out of Lahore. Nobody stopped them. Days later, Bhagat Singh was safe in Calcutta, hundreds of kilometres away.
+The family got onto the train, and the train pulled out of Lahore. Nobody stopped them.
+
+They did not go straight to Calcutta. The police at Calcutta's Howrah station checked passengers who came straight from Lahore. So they went to Kanpur first, then changed to a train for Lucknow. There Rajguru went his own way.
+
+<aside class="note"><b>Howrah</b>: the big railway station of Calcutta, the city we now call Kolkata.</aside>
+
+From Lucknow, Bhagat Singh, Durga Devi and the little boy travelled on to Calcutta. He was safe, more than a thousand kilometres away.
 
 ## Why it matters
 

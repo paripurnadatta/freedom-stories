@@ -59,54 +59,68 @@ image:
 angles:
   - title: "The bomb that was meant to miss"
     type: flagship
-    hook: "Why would a young man throw a bomb where nobody was sitting, and then wait for the police?"
+    hook: "Why would a young man throw a bomb where nobody was sitting, and then wait for the police to come and get him?"
     story: "the-bomb-that-was-meant-to-miss"
   - title: "The last day in Lahore jail"
     type: flagship
-    hook: "The hanging was set for the 24th. At 2 pm on the 23rd, the jail barber came with a secret, and a book still had pages left."
+    hook: "The hanging was set for the 24th. So why did the jail barber come round on the afternoon of the 23rd with a secret?"
+    story: "the-last-day-in-lahore-jail"
+  - title: "The planted guns and the bottle of earth"
+    type: short
+    hook: "Two of the most famous stories about little Bhagat. Did they really happen, and how would we ever know?"
+    story: "the-planted-guns-and-the-bottle-of-earth"
   - title: "The wedding he ran away from"
     type: short
-    hook: "His family had chosen a bride. He left a note and took a train to Kanpur instead."
+    hook: "His family had chosen a bride. So why did a teenage boy leave a letter on the table and take a train to Kanpur?"
+    story: "the-wedding-he-ran-away-from"
   - title: "The man called Balwant"
     type: short
-    hook: "For months a young writer called Balwant worked at a Delhi newspaper. Balwant was not his real name."
+    hook: "A young writer called Balwant worked at a Delhi newspaper. Another called Vidrohi wrote angry articles. Who were they?"
+    story: "the-man-called-balwant"
   - title: "Sixty thousand rupees for one young man"
     type: short
-    hook: "In 1927 the police arrested a twenty-year-old and set his bail at a sum that could buy a village. What were they so afraid of?"
+    hook: "In 1927 the police arrested a nineteen-year-old and would only let him go for a huge sum. What were they so afraid of?"
+    story: "sixty-thousand-rupees"
   - title: "The wrong man on 17 December"
     type: short
-    hook: "The plan had one target. The bullets found someone else."
+    hook: "The plan had one target, a police chief called Scott. So how did a 21-year-old officer called Saunders end up dead instead?"
+    story: "the-wrong-man-on-17-december"
   - title: "The disguise on the train"
     type: short
-    hook: "The police were watching every station in Lahore. So he cut his hair, borrowed a wife and a baby, and walked right past them."
+    hook: "Every policeman in Lahore was looking for a young Sikh man. So how did he walk right past them?"
     story: "the-disguise-on-the-train"
   - title: "The hat in the photograph"
     type: short
-    hook: "The most famous hat in Indian history may not even have been his."
-  - title: "116 days without food"
+    hook: "It is the most famous photograph of Bhagat Singh. But was it ever meant to be a portrait, and was it even his hat?"
+    story: "the-hat-in-the-photograph"
+  - title: "More than a hundred days without food"
     type: short
-    hook: "Prisoners who fought for India were being treated like thieves. He decided his empty plate would be his weapon."
-  - title: "Three hundred books in 716 days"
+    hook: "Prisoners who fought for India were being treated like thieves. So he decided his empty plate would be his weapon."
+    story: "more-than-a-hundred-days-without-food"
+  - title: "404 pages for Bhagat Singh"
     type: short
-    hook: "A man waiting to be hanged kept a notebook. Its first page has a line from Shakespeare and one from Ghalib."
+    hook: "A prisoner was handed an empty notebook with his name on the cover. What did he fill it with, and how did it survive?"
+    story: "404-pages-for-bhagat-singh"
   - title: "Why I am an atheist"
     type: short
-    hook: "A friend in jail said he was too proud to pray. He answered with an essay."
+    hook: "A fellow prisoner said fame had made him too proud to pray. The day before his verdict, he answered with an essay."
+    story: "why-i-am-an-atheist"
   - title: "The letter to his father"
     type: short
-    hook: "His father begged the court to save his life. The son wrote back that it felt like a stab in the back."
+    hook: "His father begged the court to save his life. Why did the son write back that he felt stabbed in the back?"
+    story: "the-letter-to-his-father"
   - title: "Shoot us, don't hang us"
     type: short
-    hook: "Three young men facing death made one last request to the Governor of Punjab."
-  - title: "The planted guns and the bottle of earth"
-    type: short
-    hook: "Two famous stories about little Bhagat. Did they really happen, and how would we ever know?"
+    hook: "Three young men were about to die. They did not ask to be saved. So what did they ask the Governor of Punjab for?"
+    story: "shoot-us-dont-hang-us"
   - title: "The village India swapped for twelve"
     type: short
-    hook: "After Partition, the place where Bhagat Singh was cremated ended up in Pakistan. India gave twelve villages to get it back."
+    hook: "After Partition, the place where Bhagat Singh was cremated ended up in Pakistan. So India made an unusual trade."
+    story: "the-village-india-swapped-for-twelve"
   - title: "The square in Lahore"
     type: short
-    hook: "In Pakistan today, some people are still asking for a Lahore square to carry his name."
+    hook: "In Pakistan today, some people are still trying to name a busy Lahore square after Bhagat Singh. Why is it so hard?"
+    story: "the-square-in-lahore"
 ---
 
 <!--

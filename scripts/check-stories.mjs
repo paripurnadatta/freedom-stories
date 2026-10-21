@@ -79,7 +79,8 @@ for (const file of storyFiles) {
   if (MIN_WORDS[type] && words < MIN_WORDS[type]) say(where, `is short for a ${type} story (${words} words; aim for ${MIN_WORDS[type]}+)`);
 
   // Class 5 reading level: short sentences on average, no very long ones.
-  const sentences = prose.split(/(?<=[.!?])["”']?\s+/).map((x) => x.trim()).filter((x) => /[a-z]/i.test(x));
+  // List items and line breaks end a sentence too.
+  const sentences = prose.replace(/^\s*[-*]\s+/gm, "").split(/(?<=[.!?:])["”']?\s+|\n+/).map((x) => x.trim()).filter((x) => /[a-z]/i.test(x));
   const lengths = sentences.map((x) => x.split(/\s+/).length);
   const avg = lengths.reduce((a, b) => a + b, 0) / (lengths.length || 1);
   if (avg > 15) say(where, `sentences average ${avg.toFixed(1)} words; keep it under 15 for Class 5 readers`);
