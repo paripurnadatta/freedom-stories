@@ -48,6 +48,10 @@ angles:
     type: flagship
     hook: "His name usually comes last in \"Bhagat Singh, Rajguru and Sukhdev\". On the police list, it came first."
     story: "accused-number-one"
+  - title: "The brain and the right arm"
+    type: flagship
+    hook: "Two friends who read all night, argued about love, and were hanged together. A letter the police found tells their story."
+    story: "the-brain-and-the-right-arm"
   - title: "Shirts for his friends"
     type: short
     hook: "Why did he keep asking his family for clothes for his \"friends\"?"

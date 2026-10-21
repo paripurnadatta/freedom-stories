@@ -50,6 +50,10 @@ angles:
     type: flagship
     hook: "Poet, translator, organiser of a secret party, leader at Kakori. In his last days in a death cell, he was still writing."
     story: "the-poet-who-signed-himself-bismil"
+  - title: "Written on scraps of paper"
+    type: flagship
+    hook: "In his death cell he secretly wrote his life story: banned books, a comrade who fired at him, his mother's promise, and his doubts."
+    story: "written-on-scraps-of-paper"
   - title: "Two poets called Bismil"
     type: short
     hook: "Almost everyone thinks he wrote Sarfaroshi ki Tamanna. Another poet with the same pen name did."

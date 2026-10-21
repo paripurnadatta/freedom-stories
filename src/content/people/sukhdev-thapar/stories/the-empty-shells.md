@@ -25,6 +25,9 @@ sources:
   - title: "Hindustan Socialist Republican Association"
     url: "https://en.wikipedia.org/wiki/Hindustan_Socialist_Republican_Association"
     publisher: "Wikipedia"
+  - title: "Letter to Shaheed Sukhdev, by Bhagat Singh (5 April 1929), with notes"
+    url: "https://www.marxists.org/archive/bhagat-singh/1929/04/05.htm"
+    publisher: "Marxists Internet Archive"
   - title: "Sukhdev Thapar"
     url: "https://en.wikipedia.org/wiki/Sukhdev_Thapar"
     publisher: "Wikipedia"
@@ -65,6 +68,8 @@ A historian, Bakhshish Singh Nijjar, wrote that the police once noticed Kishori 
 ## The raid
 
 On 15 April 1929, one week after the bombs in Delhi, the police raided the workshop. They arrested three men: Kishori Lal, Jai Gopal and Sukhdev himself.
+
+<aside class="note"><b>Which day?</b> Wikipedia gives 15 April 1929 for the raid and the arrests. The notes to a letter found on Sukhdev say he was arrested on 13 April. One article says May 1929.</aside>
 
 It was a heavy blow to the revolutionaries. Sukhdev was their organiser in Punjab, and now he was in prison.
 

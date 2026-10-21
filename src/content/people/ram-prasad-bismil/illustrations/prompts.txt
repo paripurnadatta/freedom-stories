@@ -56,3 +56,18 @@ PROMPT (copy everything between the lines):
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+4. Written on scraps of paper  (flagship story)
+==============================================================================
+FILE NAME: written-on-scraps-of-paper
+Save it as written-on-scraps-of-paper.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Written on scraps of paper", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+December 1927, a small bare stone prison cell in Gorakhpur jail at night. An Indian man of 30 with short dark hair and a thick moustache, round face, in simple white prison clothes, sits cross-legged on the floor by a small oil lamp. He writes carefully with a stub of pencil on small loose scraps of paper; a few finished scraps are tucked under a folded blanket beside him. The scraps show only faint unreadable squiggles. Iron bars of the cell door behind him, moonlight through a high window. Quiet, thoughtful, determined mood. Wide composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

@@ -34,6 +34,9 @@ sources:
   - title: "Bhagat Singh & Room No 69, by Ali Abbas (23 March 2017)"
     url: "https://www.nation.com.pk/23-Mar-2017/bhagat-singh-and-room-no-69-when-the-revolution-against-british-imperialism-was-brewing-in-the-heart-of-lahore"
     publisher: "The Nation (Lahore)"
+  - title: "The supreme martyrs, by Chaman Lal"
+    url: "https://tribuneindia.com/news/the-supreme-martyrs-229076"
+    publisher: "The Tribune"
   - title: "Durgawati Devi"
     url: "https://en.wikipedia.org/wiki/Durgawati_Devi"
     publisher: "Wikipedia"
@@ -61,7 +64,9 @@ Today, when people remember the three friends who were hanged together in 1931, 
 
 ## A boy from Ludhiana
 
-Sukhdev Thapar was born on 15 May 1907, in Ludhiana, in Punjab. His family lived in a lane in the old city called Naughara Mohalla. The name means something like "nine houses". It came from nine houses built close together by Thapar families.
+Sukhdev Thapar was born on 15 May 1907, in Ludhiana, in Punjab.
+
+<aside class="note"><b>Which birthday?</b> His family's records say 15 May 1907. The historian Chaman Lal notes that his school certificate gives 18 February 1907.</aside> His family lived in a lane in the old city called Naughara Mohalla. The name means something like "nine houses". It came from nine houses built close together by Thapar families.
 
 His father, Ram Lal, died in 1910, when Sukhdev was about three. His mother, Ralli Devi, also died early.
 

@@ -127,8 +127,8 @@ which ones should be redone and why.
 | Mahatma Gandhi | 17 | 2 prompts waiting |
 | Ashfaqulla Khan | 4 | 3 prompts waiting |
 | Batukeshwar Dutt | 5 | 3 prompts waiting |
-| Ram Prasad Bismil | 4 (+1 on Kakori page) | 3 prompts waiting |
-| Sukhdev Thapar | 5 | 3 prompts waiting |
+| Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
+| Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
 
 Suggested next: Shivaram Rajguru, Durga Bhabhi, Rajendra Lahiri, Roshan Singh.
