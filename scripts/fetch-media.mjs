@@ -33,10 +33,16 @@ const named = args.filter((a) => !a.startsWith("--"));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function api(base, params) {
-  const url = `${base}?${new URLSearchParams({ format: "json", formatversion: "2", ...params })}`;
+  // POST, so long lists of file names never make the address too long.
+  const url = base;
+  const body = new URLSearchParams({ format: "json", formatversion: "2", ...params });
   for (let attempt = 1; attempt <= 6; attempt++) {
     await sleep(PAUSE);
-    const res = await fetch(url, { headers: { "User-Agent": UA, "Api-User-Agent": UA } });
+    const res = await fetch(url, {
+      method: "POST",
+      headers: { "User-Agent": UA, "Api-User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded" },
+      body,
+    });
     if (res.status === 429 || res.status >= 500) {
       const wait = Number(res.headers.get("retry-after")) * 1000 || 5000 * attempt;
       await sleep(wait);
@@ -46,7 +52,7 @@ async function api(base, params) {
     try { return JSON.parse(text); }
     catch { await sleep(5000 * attempt); }
   }
-  throw new Error(`Gave up after repeated refusals: ${url}`);
+  throw new Error(`Gave up after repeated refusals: ${url} ${String(body).slice(0, 80)}`);
 }
 const commons = (p) => api("https://commons.wikimedia.org/w/api.php", p);
 const enwiki = (p) => api("https://en.wikipedia.org/w/api.php", p);
