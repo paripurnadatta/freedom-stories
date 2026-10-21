@@ -85,6 +85,14 @@ angles:
     type: flagship
     hook: "He had a first-class ticket. So why did a young Indian lawyer spend the night shivering on a dark station?"
     story: "the-coldest-night-in-pietermaritzburg"
+  - title: "Do or die"
+    type: flagship
+    hook: "He told India \"Do or Die\", and in the same speech asked for no hatred. Then came twenty-one months in a palace prison."
+    story: "do-or-die"
+  - title: "A loincloth in London"
+    type: flagship
+    hook: "He stayed in the East End, met Charlie Chaplin and the mill workers who blamed him, and went to tea with the King in his loincloth."
+    story: "a-loincloth-in-london"
   - title: "The word he could not spell"
     type: short
     hook: "The teacher nudged him with his boot to copy. He did not understand, and got it wrong."

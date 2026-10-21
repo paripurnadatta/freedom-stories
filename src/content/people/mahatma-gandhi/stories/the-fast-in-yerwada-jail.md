@@ -7,6 +7,7 @@ where: "Yerwada Central Jail, Poona"
 published: 2026-10-21
 about:
   - "mahatma-gandhi"
+  - "b-r-ambedkar"
   - "poona-pact"
   - "poona"
 year: 1932

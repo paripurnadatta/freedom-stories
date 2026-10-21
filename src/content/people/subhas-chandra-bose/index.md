@@ -75,6 +75,10 @@ angles:
     type: flagship
     hook: "Two submarines, two navies, one stormy swap in the middle of the ocean. How Netaji got from Germany to Asia in 1943."
     story: "ninety-days-under-the-sea"
+  - title: "The flag at Moirang"
+    type: flagship
+    hook: "In April 1944, the INA raised its flag in a town in Manipur. Then came Imphal, the monsoon, and a long walk back."
+    story: "the-flag-at-moirang"
   - title: "The boy who went looking for a guru"
     type: short
     hook: "At seventeen, Subhas ran off to find a holy teacher. A holy man told him to stop looking."

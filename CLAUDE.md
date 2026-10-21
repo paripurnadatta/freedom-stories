@@ -123,8 +123,8 @@ which ones should be redone and why.
 |---|---|---|
 | Bhagat Singh | 16 | done |
 | Chandrashekhar Azad | 9 | done |
-| Subhas Chandra Bose | 11 | done |
-| Mahatma Gandhi | 17 | 2 prompts waiting |
+| Subhas Chandra Bose | 12 | done |
+| Mahatma Gandhi | 19 | 2 prompts waiting |
 | Ashfaqulla Khan | 4 | 3 prompts waiting |
 | Batukeshwar Dutt | 5 | 3 prompts waiting |
 | Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
@@ -132,4 +132,4 @@ which ones should be redone and why.
 | Kakori train action (event) | 2 | 2 prompts waiting |
 
 Suggested next: Shivaram Rajguru, Durga Bhabhi, Rajendra Lahiri, Roshan Singh.
-Dr B. R. Ambedkar has no subject folder yet: create one (copy an index.md's shape).
+Dr B. R. Ambedkar now has a folder (b-r-ambedkar) but no stories yet.
