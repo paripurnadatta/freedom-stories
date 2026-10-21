@@ -1,7 +1,7 @@
 {
   "name": "freedom-stories",
   "version": "1.0.0",
-  "description": "Stories of India's freedom struggle, 1757\u20131947",
+  "description": "Stories of India's freedom struggle, 1757–1947",
   "scripts": {
     "dev": "astro dev",
     "build": "npm run check && astro build && pagefind --site dist",
@@ -14,5 +14,8 @@
     "pagefind": "^1.5.2"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
 }

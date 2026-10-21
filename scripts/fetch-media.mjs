@@ -1,5 +1,5 @@
 // Collects free-to-reuse media for each subject from Wikimedia Commons and Wikipedia,
-// and saves it to src/content/media/<subject>.json for the subject's media section.
+// and saves it to src/content/<kind>/<subject>/media.json for the subject's media section.
 //
 // Where it looks:
 //   1. The subject's Commons category (from Wikidata, property P373), plus its direct subcategories.
@@ -13,17 +13,18 @@
 //   node scripts/fetch-media.mjs --all --refresh              (re-fetch files that already exist)
 //
 // To hide an item by hand, add its file name to "hidden" in the JSON. Re-runs keep that list.
-import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { allSubjects } from "./lib/subjects.mjs";
 
-const SUBJECTS = "src/content/subjects";
-// MEDIA_OUT lets a long run write somewhere else first, then be copied in when it finishes.
-const OUT = process.env.MEDIA_OUT || "src/content/media";
+const FOLDERS = new Map(allSubjects().map((s) => [s.slug, s.dir]));
+// MEDIA_OUT lets a long run write somewhere else first (as <slug>.json), then be copied in when it finishes.
+const OUT = process.env.MEDIA_OUT;
 const UA = "FreedomStories/1.0 (https://github.com/paripurnadatta/freedom-stories; paripurna.dutta@gmail.com)";
 const PAUSE = 1500; // ms between API calls: Wikimedia asks bots to go slowly
 const MAX_ITEMS = 80;
 const THUMB = 500;
-mkdirSync(OUT, { recursive: true });
+if (OUT) mkdirSync(OUT, { recursive: true });
 
 const args = process.argv.slice(2);
 const refresh = args.includes("--refresh");
@@ -77,7 +78,7 @@ function typeOf(mime = "", name = "") {
 }
 
 function readFront(slug) {
-  const raw = readFileSync(join(SUBJECTS, `${slug}.md`), "utf8");
+  const raw = readFileSync(join(FOLDERS.get(slug), "index.md"), "utf8");
   const get = (k) => raw.match(new RegExp(`^${k}:\\s*"?(.*?)"?\\s*$`, "m"))?.[1] ?? "";
   return { name: get("name"), wikidata: get("wikidata"), wikipedia: get("wikipedia"), kind: get("kind") };
 }
@@ -180,7 +181,7 @@ const earliestYear = (item) => {
 };
 
 async function collect(slug) {
-  const dest = join(OUT, `${slug}.json`);
+  const dest = OUT ? join(OUT, `${slug}.json`) : join(FOLDERS.get(slug), "media.json");
   const previous = existsSync(dest) ? JSON.parse(readFileSync(dest, "utf8")) : null;
   if (previous && !refresh) return "kept";
 
@@ -225,7 +226,7 @@ async function collect(slug) {
 }
 
 const slugs = all
-  ? readdirSync(SUBJECTS).filter((f) => f.endsWith(".md")).map((f) => f.replace(/\.md$/, ""))
+  ? [...FOLDERS.keys()]
   : named;
 if (slugs.length === 0) {
   console.log("Name some subjects (e.g. bhagat-singh) or pass --all.");

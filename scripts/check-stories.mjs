@@ -1,14 +1,23 @@
 // The one quality check. Runs before every build (`npm run check`).
-// Every published story must pass. Subject files are checked for broken links.
-import { readFileSync, readdirSync } from "node:fs";
+// Every published story must pass. Subject files are checked for broken links,
+// and every picture a story points to must exist.
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import { join } from "node:path";
 
-const SUBJECTS = "src/content/subjects";
-const STORIES = "src/content/stories";
-const mdFiles = (dir) => readdirSync(dir).filter((f) => f.endsWith(".md"));
-const subjectIds = new Set(mdFiles(SUBJECTS).map((f) => f.replace(/\.md$/, "")));
-const storyFiles = mdFiles(STORIES);
-const storyIds = new Set(storyFiles.map((f) => f.replace(/\.md$/, "")));
+const CONTENT = "src/content";
+const KINDS = ["people", "events", "places", "organisations"];
+const IMAGE = /\.(webp|png|jpe?g)$/i;
+
+// Every subject folder: src/content/<kind>/<slug>/
+const folders = KINDS.flatMap((k) =>
+  existsSync(join(CONTENT, k)) ? readdirSync(join(CONTENT, k)).map((slug) => ({ kind: k, slug, dir: join(CONTENT, k, slug) })) : [],
+);
+const subjectIds = new Set(folders.map((f) => f.slug));
+const storyFiles = folders.flatMap((f) => {
+  const dir = join(f.dir, "stories");
+  return existsSync(dir) ? readdirSync(dir).filter((n) => n.endsWith(".md")).map((n) => ({ folder: f, name: n, path: join(dir, n) })) : [];
+});
+const storyIds = new Set(storyFiles.map((s) => s.name.replace(/\.md$/, "")));
 
 const MIN_WORDS = { flagship: 900, short: 350 };
 
@@ -32,23 +41,31 @@ const list = (front, k) => {
   return [...block.matchAll(/-\s+"?([^"\n]+?)"?\s*$/gm)].map((m) => m[1].trim());
 };
 
-// ---- subjects: links must point somewhere real ---------------------------
-for (const file of mdFiles(SUBJECTS)) {
-  const parts = split(readFileSync(join(SUBJECTS, file), "utf8"));
-  if (!parts) { say(`subjects/${file}`, "missing the facts block at the top"); continue; }
+// ---- subjects: files in place, links pointing somewhere real -------------
+for (const f of folders) {
+  const where = `${f.kind}/${f.slug}`;
+  const index = join(f.dir, "index.md");
+  if (!existsSync(index)) { say(where, "has no index.md"); continue; }
+  const parts = split(readFileSync(index, "utf8"));
+  if (!parts) { say(where, "index.md is missing the facts block at the top"); continue; }
   for (const id of list(parts.front, "related")) {
-    if (!subjectIds.has(id)) say(`subjects/${file}`, `related link to a subject that doesn't exist: ${id}`);
+    if (!subjectIds.has(id)) say(where, `related link to a subject that doesn't exist: ${id}`);
   }
   for (const m of parts.front.matchAll(/^\s+story:\s*"?([^"\n]+)"?\s*$/gm)) {
-    if (!storyIds.has(m[1].trim())) say(`subjects/${file}`, `angle points to a story that doesn't exist: ${m[1].trim()}`);
+    if (!storyIds.has(m[1].trim())) say(where, `angle points to a story that doesn't exist: ${m[1].trim()}`);
   }
 }
 
+// Pictures a page points to (/files/...) must exist in the subject folders.
+const missingFile = (raw) =>
+  [...raw.matchAll(/["(](\/files\/[^"')\s]+)/g)].map((m) => m[1]).filter((p) => !existsSync(join(CONTENT, decodeURIComponent(p.slice(7)))));
+
 // ---- stories ------------------------------------------------------------
 let published = 0;
-for (const file of storyFiles) {
-  const where = `stories/${file}`;
-  const parts = split(readFileSync(join(STORIES, file), "utf8"));
+for (const story of storyFiles) {
+  const where = `${story.folder.kind}/${story.folder.slug}/stories/${story.name}`;
+  const raw = readFileSync(story.path, "utf8");
+  const parts = split(raw);
   if (!parts) { say(where, "missing the facts block at the top"); continue; }
   const { front, body } = parts;
   if (field(front, "status") !== "published") continue;
@@ -61,6 +78,8 @@ for (const file of storyFiles) {
 
   const about = list(front, "about");
   if (about.length === 0) say(where, "doesn't say who it is about (about:)");
+  else if (about[0] !== story.folder.slug) say(where, `is mainly about ${about[0]}, so it belongs in that subject's stories folder`);
+  for (const p of missingFile(raw)) say(where, `points to a picture that isn't there: ${p}`);
   for (const id of about) if (!subjectIds.has(id)) say(where, `is about a subject that doesn't exist: ${id}`);
 
   const sources = front.match(/^\s+url:\s*"(.+?)"/gm) ?? [];
@@ -99,7 +118,16 @@ if (problems.length) {
   process.exit(1);
 }
 
-const planned = mdFiles(SUBJECTS)
-  .map((f) => readFileSync(join(SUBJECTS, f), "utf8"))
+// Illustrations: entries in each prompts.txt whose image hasn't arrived yet.
+let waiting = 0;
+for (const f of folders) {
+  const prompts = join(f.dir, "illustrations", "prompts.txt");
+  if (!existsSync(prompts)) continue;
+  const have = readdirSync(join(f.dir, "illustrations")).filter((n) => IMAGE.test(n)).map((n) => n.replace(IMAGE, ""));
+  for (const m of readFileSync(prompts, "utf8").matchAll(/^FILE NAME:\s*(\S+)/gm)) if (!have.includes(m[1])) waiting++;
+}
+
+const planned = folders
+  .map((f) => (existsSync(join(f.dir, "index.md")) ? readFileSync(join(f.dir, "index.md"), "utf8") : ""))
   .reduce((n, raw) => n + (raw.match(/^\s+hook:/gm)?.length ?? 0) - (raw.match(/^\s+story:/gm)?.length ?? 0), 0);
-console.log(`All ${published} published stories pass. ${subjectIds.size} subjects, ${planned} planned stories waiting.`);
+console.log(`All ${published} published stories pass. ${subjectIds.size} subjects, ${planned} planned stories waiting, ${waiting} illustrations waiting.`);

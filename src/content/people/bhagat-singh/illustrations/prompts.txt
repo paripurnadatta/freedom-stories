@@ -1,0 +1,160 @@
+ILLUSTRATIONS NEEDED: Bhagat Singh
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Tell Claude, or run:  node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. Stories with good archive
+pictures use those instead. See ILLUSTRATIONS.md for the rules.
+
+==============================================================================
+1. The last day in Lahore jail  (flagship story)
+==============================================================================
+FILE NAME: the-last-day-in-lahore-jail
+Save it as the-last-day-in-lahore-jail.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The last day in Lahore jail", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening, 23 March 1931, inside a colonial-era Indian prison yard in Lahore. Three young Indian men in plain white kurta-pyjamas walk side by side with their arms linked, the one in the middle slim with a thin moustache and short hair. They are calm, almost smiling, heads held high. Behind barred cell windows along the yard, other prisoners press their faces to the bars. Warm lantern light against a deep indigo dusk sky, long shadows on the ground. No gallows, no ropes, no guards' weapons in view. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The bomb that was meant to miss  (flagship story)
+==============================================================================
+FILE NAME: the-bomb-that-was-meant-to-miss
+Save it as the-bomb-that-was-meant-to-miss.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The bomb that was meant to miss", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside a grand round colonial assembly hall in Delhi, 8 April 1929. High in the visitors' gallery, two young Indian men stand calmly at the railing: one about 21, slim face, thin moustache, wearing a brown felt hat and a plain shirt; beside him a young man in a white kurta. Below them, a cloud of white smoke rises over empty wooden benches, and hundreds of small paper leaflets drift down through shafts of light from tall windows. British officials in suits are turning away in surprise. The two young men are not running. Dramatic light, sense of a frozen moment. Wide composition, 16:9, main figures slightly right of centre.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The wedding he ran away from  (short story)
+==============================================================================
+FILE NAME: the-wedding-he-ran-away-from
+Save it as the-wedding-he-ran-away-from.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The wedding he ran away from", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet early morning in a 1920s Punjabi family home in Lahore. A sixteen-year-old boy in a white kurta and a small turban places a folded handwritten letter on a wooden table beside a brass lamp, glancing back toward a doorway. A small cloth bundle is slung over his shoulder. Through the open door, soft dawn light and a lane leading away. Tender, bittersweet mood. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The man called Balwant  (short story)
+==============================================================================
+FILE NAME: the-man-called-balwant
+Save it as the-man-called-balwant.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man called Balwant", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A busy 1925 Delhi newspaper office: wooden desks, stacks of paper, a hand-operated printing press in the background, ink-stained workers. In the centre, a quiet young man of about seventeen with a small turban writes with a dip pen, while an older editor reads over a proof sheet beside him, unaware of who he really is. Lamplight and dust in the air. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The disguise on the train  (short story)
+==============================================================================
+FILE NAME: the-disguise-on-the-train
+Save it as the-disguise-on-the-train.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The disguise on the train", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A crowded railway platform in Lahore at dawn, December 1928. A steam train breathes white clouds. Walking calmly toward a carriage is a young man about 21 with short hair and no beard, in a smart Western suit and a felt hat, like a rich gentleman. Beside him walks a young Indian woman in a sari holding a small child in her arms, and behind them a young man dressed as a servant carries suitcases. British-era policemen in khaki uniforms and turbans stand along the platform, scanning faces, not noticing them. Warm lamplight, cool morning blue, quiet tension. Extra-wide composition, 16:6, the family in the centre.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. 404 pages for Bhagat Singh  (short story)
+==============================================================================
+FILE NAME: 404-pages-for-bhagat-singh
+Save it as 404-pages-for-bhagat-singh.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "404 pages for Bhagat Singh", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Close view of a young prisoner's hands writing carefully in a worn hardbound notebook by the light of an oil lamp, in a 1930 jail cell. A small stack of borrowed books beside him: some in English, one with Urdu script on the spine (no readable words). Ink pot, dip pen, the stone wall softly lit. Intimate, thoughtful mood. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. The letter to his father  (short story)
+==============================================================================
+FILE NAME: the-letter-to-his-father
+Save it as the-letter-to-his-father.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The letter to his father", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A middle-aged Sikh man in a white turban and kurta, with a greying beard, stands in a doorway of a 1930 Punjab home reading a handwritten letter, his face full of grief and pride at once. Behind him, a quiet courtyard with a charpai and a neem tree. Soft afternoon light. Deeply emotional but restrained. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+8. Shoot us, don't hang us  (short story)
+==============================================================================
+FILE NAME: shoot-us-dont-hang-us
+Save it as shoot-us-dont-hang-us.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Shoot us, don't hang us", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside a 1931 Lahore jail cell at night, three young Indian men sit close together around a single oil lamp. The one in the middle writes on a sheet of paper while the other two read over his shoulders, serious and determined. Bars and stone walls in deep indigo shadow, warm lamplight on their faces. No weapons. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+9. The planted guns and the bottle of earth  (short story)
+==============================================================================
+FILE NAME: the-planted-guns-and-the-bottle-of-earth
+Save it as the-planted-guns-and-the-bottle-of-earth.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The planted guns and the bottle of earth", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A storybook scene in two halves, softly blended. Left: a three-year-old Punjabi boy in 1910 kneels in a green field in Banga, pressing small sticks into the soil, while his father in a white turban and a friend look on, amused. Right: an eleven-year-old boy in 1919 holds a small glass bottle of earth, with his sister placing marigold flowers beside it. Dreamlike, memory-like haze between the two scenes. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+10. The square in Lahore  (short story)
+==============================================================================
+FILE NAME: the-square-in-lahore
+Save it as the-square-in-lahore.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The square in Lahore", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A busy modern-day road crossing in Lahore at golden hour: rickshaws, motorbikes, buses, old trees, a mix of old and new buildings. On the corner, a man in a dark suit holding a folder of papers looks up at a blank street-name signboard on a pole. Ordinary city life all around him. Warm evening light, gentle and hopeful. Extra-wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

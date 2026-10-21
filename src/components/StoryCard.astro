@@ -6,13 +6,24 @@ interface Props { story: Story; wide?: boolean; showWho?: boolean }
 const { story, wide = false, showWho = true } = Astro.props;
 const site = await loadSite();
 const who = site.subjectById.get(story.data.about[0]);
-const { picture } = site.leadPicture(story);
+const picture = site.cardPicture(story);
 const flagship = story.data.type === "flagship";
+
+// Date card, for stories with no picture yet: the moment in big type, in one of four tints.
+const year = story.data.when?.match(/\b(1[6-9]\d\d|20\d\d)\b/)?.[1] ?? String(story.data.year);
+const place = (story.data.where ?? "").split(",")[0].trim();
+const tint = [...story.id].reduce((n, c) => n + c.charCodeAt(0), 0) % 4;
 ---
 <a class:list={["card", { wide }]} href={storyUrl(story)}>
-  {picture
-    ? <span class="art"><img src={picture.src} alt="" loading="lazy" /></span>
-    : <span class="art letter" aria-hidden="true">{story.data.title.charAt(0)}</span>}
+  {picture ? (
+    <span class="art"><img src={picture.src} alt="" loading="lazy" /></span>
+  ) : (
+    <span class:list={["art", "date-card", `tint-${tint}`]} aria-hidden="true">
+      <span class="dc-year">{year}</span>
+      {place && <span class="dc-place">{place}</span>}
+      <span class="dc-band"></span>
+    </span>
+  )}
   <span class="body">
     <span class:list={["kind", { short: !flagship }]}>{flagship ? "Flagship story" : "Short story"}{showWho && who && <span style="color:var(--soft);font-weight:400;text-transform:none;letter-spacing:0"> · {who.data.name}</span>}</span>
     <h3>{story.data.title}</h3>

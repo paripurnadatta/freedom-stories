@@ -27,9 +27,25 @@ const angle = z.object({
   story: z.string().optional(),
 });
 
-// A person or an event: the facts, kept in one place and shared by every story about them.
+/*
+  Every person, event, place and organisation has its own folder:
+
+    src/content/<people|events|places|organisations>/<slug>/
+      index.md          facts, research notes and story angles
+      media.json        pictures and papers from Wikimedia (scripts/fetch-media.mjs)
+      portrait.webp     the portrait, if there is one
+      archive/          historical pictures used inside stories
+      stories/*.md      stories mainly about this subject
+      illustrations/    prompts.txt, and the paintings made from it
+
+  Pictures in these folders are served at /files/<kind>/<slug>/... (see astro.config.mjs).
+*/
+const KIND_FOLDERS = "{people,events,places,organisations}";
+const folderOf = (entry: string) => entry.split("/")[1];
+
+// A person, event, place or organisation: the facts, shared by every story about them.
 const subjects = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/subjects" }),
+  loader: glob({ pattern: `${KIND_FOLDERS}/*/index.md`, base: "./src/content", generateId: ({ entry }) => folderOf(entry) }),
   schema: z.object({
     id: z.string(),
     kind: z.enum(["person", "event", "place", "organisation"]),
@@ -62,7 +78,11 @@ const subjects = defineCollection({
 // A story. The first subject in `about` is who the story is mainly about;
 // the rest are people and events who appear in it.
 const stories = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/stories" }),
+  loader: glob({
+    pattern: `${KIND_FOLDERS}/*/stories/*.md`,
+    base: "./src/content",
+    generateId: ({ entry }) => entry.split("/").pop()!.replace(/\.md$/, ""),
+  }),
   schema: z.object({
     title: z.string(),
     subtitle: z.string(),
@@ -102,7 +122,7 @@ const mediaItem = z.object({
   foundIn: z.string(),
 });
 const media = defineCollection({
-  loader: glob({ pattern: "**/*.json", base: "./src/content/media" }),
+  loader: glob({ pattern: `${KIND_FOLDERS}/*/media.json`, base: "./src/content", generateId: ({ entry }) => folderOf(entry) }),
   schema: z.object({
     subject: z.string(),
     wikipedia: z.string().nullable(),

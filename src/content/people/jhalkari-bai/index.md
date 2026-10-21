@@ -1,0 +1,57 @@
+---
+id: IF-0044
+kind: person
+name: "Jhalkari Bai"
+summary: "The Jhansi soldier remembered as a Durga Dal fighter, trusted adviser and enduring figure of Bundelkhand's popular memory"
+born: ""
+died: "1858"
+year: 1857
+region: "Jhansi"
+role: "Soldier"
+places: []
+related:
+  - "revolt-of-1857"
+  - "rani-lakshmibai"
+sources:
+  - title: "Jhalkari Bai"
+    url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?285="
+    publisher: "Ministry of Culture, Government of India"
+  - title: "Unsung Heroes of India’s Freedom Struggle"
+    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
+    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "/files/people/jhalkari-bai/portrait.webp"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Jhalkari Bai"
+  caption: "Jhalkari Bai Statue"
+  credit: "MulberryMukne · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Jhalkari_Bai_Statue.jpg"
+---
+
+<!--
+  Research carried over from the old project. It never appears on the site.
+  Stories about this subject go in src/content/stories/.
+-->
+
+## Research notes
+
+Associated with the defence of Jhansi; later memorialized in popular traditions.
+
+### A soldier whose memory outgrew the archive
+
+The secure core is her association with Lakshmibai's army and Durga Dal; the disguise episode must be labelled as remembered tradition rather than documentary certainty.
+
+### A Dalit heroine in Bundelkhand memory
+
+Later communities have made Jhalkari Bai an important symbol of courage and representation; the profile can document that memory without treating every commemorative detail as verified event history.
+
+### Chronology
+
+- **1857-1858**: Jhansi resistance. Jhalkari Bai is remembered as part of the military circle around Rani Lakshmibai during the uprising
+
+### Evidence claims
+
+- The Ministry of Culture profile identifies Jhalkari Bai as a soldier in Rani Lakshmibai's army and a trusted adviser. (high confidence)
+- The same profile places her in the women's unit known as the Durga Dal. (high confidence)
+- The famous account that she disguised herself as Lakshmibai to divert British forces is preserved in official commemoration but explicitly described as part of Bundelkhand popular memory and folklore. (high confidence)
+

@@ -14,7 +14,7 @@ const planned = site.subjects.reduce((n, s) => n + s.data.angles.filter((a) => !
     <header style="padding:1.5rem 0 0.5rem">
       <h1 style="font-size:clamp(2.2rem,5vw,3.2rem);font-weight:800">Stories</h1>
       <p style="margin-top:0.6rem;font-size:1.15rem;color:var(--soft);max-width:42rem">
-        Flagship stories tell a whole life or a whole event. Short stories zoom in on one moment. {site.stories.length} so far, and {planned} more on the way.
+        Flagship stories tell a whole life or a whole event. Short stories zoom in on one moment. {site.stories.length} so far{planned > 0 ? `, and ${planned} more on the way` : ""}.
       </p>
     </header>
     {flagships.length > 0 && (

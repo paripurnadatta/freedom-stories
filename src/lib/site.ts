@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs";
 import { getCollection, type CollectionEntry } from "astro:content";
 
 export type Subject = CollectionEntry<"subjects">;
@@ -61,12 +62,44 @@ async function build() {
   const sortStories = (list: Story[] = []) =>
     [...list].sort((a, b) => (a.data.type === b.data.type ? a.data.year - b.data.year : a.data.type === "flagship" ? -1 : 1));
 
-  /** The picture that leads a story: its painting, its own picture, or its main subject's portrait. */
+  /**
+   * A painting for a story, if one has arrived. Paintings live in the main subject's folder as
+   * illustrations/<story-id>.webp and are picked up automatically; a story can also name one in
+   * its facts block. Captions always say it is an artist's impression.
+   */
+  const paintingFor = (story: Story): Picture | undefined => {
+    if (story.data.illustration) return story.data.illustration;
+    const main = subjectById.get(story.data.about[0]);
+    if (!main) return undefined;
+    const rel = `${KINDS[main.data.kind].path}/${main.id}/illustrations/${story.id}.webp`;
+    if (!existsSync(`src/content/${rel}`)) return undefined;
+    return {
+      src: `/files/${rel}`,
+      alt: `An artist's impression of a scene from "${story.data.title}"`,
+      caption: "An artist's impression.",
+      credit: "Illustration made for The Struggle for Freedom",
+    };
+  };
+
+  /** The first archive picture printed inside a story, if any. */
+  const firstPlate = (story: Story): Picture | undefined => {
+    const m = story.body?.match(/<img src="([^"]+)" alt="([^"]*)"/);
+    return m ? { src: m[1], alt: m[2] } : undefined;
+  };
+
+  /** The picture at the top of a story page: painting, then the story's own picture, then the main subject's portrait. */
   const leadPicture = (story: Story): { picture?: Picture; painted: boolean } => {
-    if (story.data.illustration) return { picture: story.data.illustration, painted: true };
+    const painting = paintingFor(story);
+    if (painting) return { picture: painting, painted: true };
     const main = subjectById.get(story.data.about[0]);
     return { picture: story.data.image ?? main?.data.image, painted: false };
   };
+
+  /**
+   * The picture on a story's card: painting, the story's own picture, the first archive picture inside it.
+   * Never the subject's portrait, so a page of cards never repeats one face. No picture means a date card.
+   */
+  const cardPicture = (story: Story): Picture | undefined => paintingFor(story) ?? story.data.image ?? firstPlate(story);
 
   const latest = [...stories].sort((a, b) => (b.data.published?.getTime() ?? 0) - (a.data.published?.getTime() ?? 0));
 
@@ -80,6 +113,7 @@ async function build() {
     hasStories,
     mediaOf,
     leadPicture,
+    cardPicture,
     mainStoriesOf: (id: string) => sortStories(mainStories.get(id)),
     appearsInOf: (id: string) => sortStories(appearsIn.get(id)),
     /** Other published stories that share at least one subject with this one. */

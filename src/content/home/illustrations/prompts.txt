@@ -1,0 +1,25 @@
+ILLUSTRATIONS NEEDED: Home page
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Tell Claude, or run:  node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. Stories with good archive
+pictures use those instead. See ILLUSTRATIONS.md for the rules.
+
+==============================================================================
+1. Home page hero
+==============================================================================
+FILE NAME: home-hero
+Save it as home-hero.png (or .jpg / .webp) in this folder.
+Shape: very wide, 21:9. Generate at 2560 x 1100 pixels if your tool lets you choose.
+Where it goes: the big picture at the top of the home page. Keep the left third quiet: the headline sits there.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A wide panoramic scene at golden hour in 1920s–1930s India: a long, peaceful procession of ordinary people (farmers in turbans, women in saris, students, an old man with a walking stick, children) walking together along a dusty road toward a distant city skyline with domes and old towers. Some carry handwritten placards with no readable words. Dust glowing in the evening light, birds overhead, a banyan tree on the right. The left third of the image is soft open sky and road with little detail, for text to sit on. Ultra-wide composition, 21:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
