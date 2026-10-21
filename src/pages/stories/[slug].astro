@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import LifeLine from "../../components/LifeLine.astro";
+import { formatDate, yearOf } from "../../lib/years";
+
+export async function getStaticPaths() {
+  const all = await getCollection("stories");
+  const published = all.filter((s) => s.data.status === "published");
+  const byId = new Map(all.map((s) => [s.id, s]));
+  return published.map((story) => ({ params: { slug: story.id }, props: { story, byId } }));
+}
+
+const { story, byId } = Astro.props;
+const d = story.data;
+const { Content } = await render(story);
+
+const from = d.kind === "person" ? yearOf(d.born) ?? d.year : yearOf(d.date) ?? d.year;
+const to = d.kind === "person" ? yearOf(d.died) : yearOf(d.endDate);
+
+const facts: [string, string][] = d.kind === "person"
+  ? [["Born", formatDate(d.born)], ["Died", formatDate(d.died)], ["Region", d.region], ["Places", d.places.join("; ")]]
+  : [["Date", formatDate(d.date)], ["Region", d.region], ["Places", d.places.join("; ")]];
+
+// Related stories that are written link through; the rest are listed by name.
+const related = d.related
+  .map((slug) => byId.get(slug))
+  .filter(Boolean)
+  .map((s) => ({ slug: s!.id, name: s!.data.name, live: s!.data.status === "published", year: s!.data.year }))
+  .sort((a, b) => a.year - b.year);
+---
+<Base title={`${d.title}: ${d.name}`} description={d.subtitle}>
+  <main class="wrap">
+    <header class="story-head">
+      {d.title !== d.name && <p class="story-person">{d.name}</p>}
+      <h1 class="story-title">{d.title}</h1>
+      {d.subtitle && <p class="story-dek">{d.subtitle}</p>}
+      <LifeLine from={from} to={to} />
+      <dl class="facts">
+        {facts.filter(([, v]) => v).map(([k, v]) => (<><dt>{k}</dt><dd>{v}</dd></>))}
+      </dl>
+    </header>
+
+    <article class="story-body">
+      <Content />
+    </article>
+
+    <section class="after">
+      {related.length > 0 && (
+        <>
+          <h2>People and events in this story</h2>
+          <ul class="related">
+            {related.map((r) => (
+              <li>{r.live ? <a href={`/stories/${r.slug}/`}>{r.name}</a> : <span class="pending">{r.name}</span>}</li>
+            ))}
+          </ul>
+        </>
+      )}
+      <h2>Sources</h2>
+      <ol class="sources">
+        {d.sources.map((s) => (
+          <li>
+            <a href={s.url} rel="noopener">{s.title}</a>
+            {s.publisher && <span class="pub">{s.publisher}</span>}
+          </li>
+        ))}
+      </ol>
+    </section>
+  </main>
+</Base>

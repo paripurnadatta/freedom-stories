@@ -1,0 +1,56 @@
+---
+id: IF-0075
+kind: person
+name: "V.O. Chidambaram Pillai"
+title: "V.O. Chidambaram Pillai"
+subtitle: "The lawyer who challenged colonial commerce with a Swadeshi shipping enterprise"
+born: "1872"
+died: "1936"
+year: 1905
+region: "Tamil Nadu"
+role: "Revolutionary / activist"
+places: []
+related:
+  - "swadeshi-movement"
+  - "bal-gangadhar-tilak"
+  - "subramania-siva"
+  - "subramania-bharati"
+sources:
+  - title: "V.O. Chidambaram Pillai"
+    url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?504="
+    publisher: "Ministry of Culture, Government of India"
+  - title: "Unsung Heroes of India’s Freedom Struggle"
+    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
+    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+status: draft
+---
+
+<!--
+  DRAFT. Everything below is research carried over from the old project.
+  Replace it with the finished story, then set status: published.
+-->
+
+## Research notes
+
+Led economic resistance and labour mobilization in Tuticorin.
+
+### Documented record
+
+Born 5 September 1872 in Ottapidaram, Tuticorin district. Known as Kappalottiya Tamilan for running a Swadeshi ship. Left a lucrative legal career for the freedom struggle and suffered severe prison labour. The source narrative links him politically with Bal Gangadhar Tilak and Subramania Siva; treat these as association, not inferred formal membership.
+
+### Chronology
+
+- **1872-09-05**: Birth at Ottapidaram
+- **1900s**: Swadeshi shipping challenge
+- **1900s**: Imprisonment and forced labour
+
+### Evidence claims
+
+- Born 5 September 1872 in Ottapidaram, Tuticorin district. (high confidence)
+- Known as Kappalottiya Tamilan for running a Swadeshi ship. (high confidence)
+- Left a lucrative legal career for the freedom struggle and suffered severe prison labour. (high confidence)
+- The source narrative links him politically with Bal Gangadhar Tilak and Subramania Siva; treat these as association, not inferred formal membership. (high confidence)
+- The supplied record connects V. O. Chidambaram Pillai with Swadeshi Movement as participant in. (high confidence)
+- The supplied record connects V. O. Chidambaram Pillai with Bal Gangadhar Tilak as associated with. (high confidence)
+- The supplied record connects V. O. Chidambaram Pillai with Subramania Siva as associated with. (high confidence)
+

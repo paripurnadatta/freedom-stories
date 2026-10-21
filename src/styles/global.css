@@ -1,0 +1,220 @@
+/*
+  Freedom Stories
+  Undyed khadi paper, indigo ink, one marigold thread for time.
+*/
+:root {
+  --paper: #e9e8e3;
+  --paper-deep: #dedcd4;
+  --ink: #1c2550;
+  --text: #22252b;
+  --muted: #62666f;
+  --rule: #c5c2b8;
+  --thread: #c98a12;
+
+  --display: "Rozha One", "Tiro Devanagari Hindi", Georgia, serif;
+  --body: "Newsreader", Georgia, "Times New Roman", serif;
+
+  --measure: 36rem;
+  --gutter: 16px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121630;
+    --paper-deep: #1a1f3d;
+    --ink: #d9dcef;
+    --text: #e4e2da;
+    --muted: #a3a6b4;
+    --rule: #343a5c;
+    --thread: #e6a933;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121630;
+  --paper-deep: #1a1f3d;
+  --ink: #d9dcef;
+  --text: #e4e2da;
+  --muted: #a3a6b4;
+  --rule: #343a5c;
+  --thread: #e6a933;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--text);
+  font-family: var(--body);
+  font-size: 1.1875rem;
+  line-height: 1.62;
+  font-optical-sizing: auto;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--ink); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { text-decoration-color: var(--thread); }
+:focus-visible { outline: 2px solid var(--thread); outline-offset: 3px; border-radius: 2px; }
+
+.wrap {
+  width: 100%;
+  max-width: calc(var(--measure) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* ---- site bar ---------------------------------------------------------- */
+.site-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  font-size: 0.95rem;
+}
+.site-name {
+  font-family: var(--display);
+  font-size: 1.35rem;
+  color: var(--ink);
+  text-decoration: none;
+  line-height: 1;
+}
+.site-bar nav a { color: var(--muted); text-decoration: none; }
+.site-bar nav a:hover { color: var(--ink); }
+
+/* ---- story header ------------------------------------------------------ */
+.story-head { padding-top: 3.5rem; }
+.story-person {
+  margin: 0 0 0.75rem;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--muted);
+}
+.story-title {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 400;
+  color: var(--ink);
+  font-size: clamp(2.6rem, 9vw, 4.6rem);
+  line-height: 0.98;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+.story-dek {
+  margin: 1.4rem 0 0;
+  font-size: 1.3rem;
+  line-height: 1.45;
+  color: var(--text);
+  text-wrap: pretty;
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.2rem 1.25rem;
+  margin: 2rem 0 0;
+  font-size: 0.98rem;
+}
+.facts dt { color: var(--muted); }
+.facts dd { margin: 0; }
+
+/* ---- the life-line: where this story sits in 1757–1947 ------------------ */
+.lifeline { margin: 2.75rem 0 0; }
+.lifeline svg { display: block; width: 100%; height: auto; overflow: visible; }
+.lifeline .axis { stroke: var(--rule); stroke-width: 1; }
+.lifeline .tick { stroke: var(--rule); stroke-width: 1; }
+.lifeline .span { stroke: var(--thread); stroke-width: 5; stroke-linecap: round; }
+.lifeline .dot { fill: var(--thread); }
+.lifeline text { font-family: var(--body); font-size: 12px; fill: var(--muted); }
+.lifeline .mark { fill: var(--text); font-size: 13px; }
+.lifeline figcaption { margin-top: 0.6rem; font-size: 0.9rem; color: var(--muted); font-style: italic; }
+
+/* ---- story body -------------------------------------------------------- */
+.story-body { padding: 3rem 0 1rem; }
+.story-body > p:first-child::first-letter {
+  float: left;
+  font-family: var(--display);
+  color: var(--ink);
+  font-size: 4.4em;
+  line-height: 0.8;
+  padding: 0.08em 0.1em 0 0;
+}
+.story-body p { margin: 0 0 1.15em; text-wrap: pretty; hanging-punctuation: first; }
+.story-body h2 {
+  margin: 2.6em 0 0.7em;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.75rem;
+  line-height: 1.15;
+  color: var(--ink);
+}
+.story-body blockquote {
+  margin: 1.8em 0;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--thread);
+  font-style: italic;
+}
+
+/* ---- after the story --------------------------------------------------- */
+.after { padding: 2rem 0 4rem; border-top: 1px solid var(--rule); margin-top: 2rem; }
+.after h2 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: var(--ink);
+  margin: 2rem 0 0.75rem;
+}
+.after h2:first-child { margin-top: 0.5rem; }
+
+.related { list-style: none; padding: 0; margin: 0; columns: 2 14rem; column-gap: 1.5rem; font-size: 1rem; }
+.related li { break-inside: avoid; padding: 0.15rem 0; }
+.related .pending { color: var(--muted); }
+
+.sources { padding-left: 1.4rem; margin: 0; font-size: 0.95rem; line-height: 1.5; }
+.sources li { margin-bottom: 0.6rem; padding-left: 0.2rem; }
+.sources .pub { display: block; color: var(--muted); font-size: 0.88rem; }
+
+/* ---- home ------------------------------------------------------------- */
+.home-head { padding: 4rem 0 2.5rem; }
+.home-title {
+  margin: 0;
+  font-family: var(--display);
+  font-weight: 400;
+  color: var(--ink);
+  font-size: clamp(3rem, 12vw, 5.5rem);
+  line-height: 0.95;
+}
+.home-lede { margin: 1.25rem 0 0; font-size: 1.3rem; line-height: 1.45; max-width: 30rem; }
+.progress { margin: 1.25rem 0 0; color: var(--muted); font-size: 0.98rem; }
+
+.index { list-style: none; margin: 0 0 5rem; padding: 0; border-top: 1px solid var(--rule); }
+.index li { border-bottom: 1px solid var(--rule); }
+.index a {
+  display: grid;
+  grid-template-columns: 3.6rem 1fr;
+  gap: 0 1rem;
+  padding: 1.15rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+.index .yr { font-variant-numeric: tabular-nums; color: var(--thread); padding-top: 0.35rem; font-size: 1rem; }
+.index .t { font-family: var(--display); color: var(--ink); font-size: 1.6rem; line-height: 1.1; }
+.index .who { display: block; font-style: italic; color: var(--muted); font-size: 0.98rem; margin-top: 0.3rem; }
+.index a:hover .t { text-decoration: underline; text-decoration-color: var(--thread); text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
+
+.site-foot { padding-top: 2rem; padding-bottom: 3rem; font-size: 0.9rem; color: var(--muted); border-top: 1px solid var(--rule); }
+
+@media (max-width: 480px) {
+  body { font-size: 1.125rem; }
+  .story-head { padding-top: 2rem; }
+  .story-dek { font-size: 1.18rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}

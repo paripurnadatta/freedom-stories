@@ -1,0 +1,16 @@
+{
+  "name": "freedom-stories",
+  "version": "1.0.0",
+  "description": "Stories of India's freedom struggle, 1757\u20131947",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run check && astro build",
+    "preview": "astro preview",
+    "check": "node scripts/check-stories.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.4.1"
+  },
+  "private": true,
+  "type": "module"
+}

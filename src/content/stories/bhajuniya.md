@@ -1,0 +1,52 @@
+---
+id: IF-0668
+kind: person
+name: "Bhajuniya"
+title: "Bhajuniya"
+subtitle: "Source-specific record documenting Bhajuniya's connection with Revolt of 1857."
+born: ""
+died: "1857"
+year: 1857
+region: "Jharkhand"
+role: "1857 rebel / anti-colonial combatant"
+places:
+  - "Sarangadeih / Gumla"
+related:
+  - "chotanagpur-uprising-of-1857"
+sources:
+  - title: "Dictionary of Martyrs: India's Freedom Struggle (1857-1947), Vol. 4"
+    url: "https://culture.gov.in/files/inline-documents/Martyrs_Vol_4_06_03_2019_6.pdf"
+    publisher: "Ministry of Culture / Indian Council of Historical Research"
+  - title: "Dictionary of Martyrs Vol. 4 entry — Bhajuniya"
+    url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_4_06_03_2019.pdf"
+    publisher: "Ministry of Culture, Government of India & Indian Council of Historical Research (ICHR)"
+status: draft
+---
+
+<!--
+  DRAFT. Everything below is research carried over from the old project.
+  Replace it with the finished story, then set status: published.
+-->
+
+## Research notes
+
+Source-specific record documenting Bhajuniya's connection with Revolt of 1857.
+
+### Overview
+
+Local 1857 resistance participant from Sarangadeih in the Gumla region who was killed in an encounter with Company troops.
+
+### Chronology
+
+- **1857**: Participated in local anti-Company resistance and was killed in an encounter
+
+### Evidence claims
+
+- Bhajuniya was a resident of Sarangadeih in Gumla, then Bihar and now Jharkhand. (HIGH confidence)
+- He joined local rebels during the 1857 uprising and fought British forces. (HIGH confidence)
+- He was killed in an encounter with East India Company troops in 1857. (HIGH confidence)
+
+### Places
+
+- Sarangadeih / Gumla: Home and resistance region
+
