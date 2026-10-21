@@ -49,6 +49,10 @@ angles:
     type: flagship
     hook: "Everyone remembers the boy who was hanged. What happened to the one who stood beside him, and survived?"
     story: "the-one-who-lived"
+  - title: "The island of black water"
+    type: flagship
+    hook: "Shipped to the Andamans in 1933, he led a hunger strike, lost three comrades, and helped turn a prison into a school."
+    story: "the-island-of-black-water"
   - title: "Two boys with lanterns"
     type: short
     hook: "A flood in Kanpur, a dark river bank, and two teenagers holding up lights for strangers."

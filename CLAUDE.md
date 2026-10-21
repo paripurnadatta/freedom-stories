@@ -126,10 +126,11 @@ which ones should be redone and why.
 | Subhas Chandra Bose | 13 | done |
 | Mahatma Gandhi | 19 | 2 prompts waiting |
 | Ashfaqulla Khan | 4 | done |
-| Batukeshwar Dutt | 5 | done |
+| Batukeshwar Dutt | 6 | done |
 | Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
+| B. R. Ambedkar | 2 | done |
 
 Suggested next: Shivaram Rajguru, Durga Bhabhi, Rajendra Lahiri, Roshan Singh.
-Dr B. R. Ambedkar now has a folder (b-r-ambedkar) but no stories yet.
+Ambedkar needs more stories (Round Table, Poona Pact from his side, the Constitution).
