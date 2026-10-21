@@ -79,6 +79,10 @@ angles:
     type: flagship
     hook: "In April 1944, the INA raised its flag in a town in Manipur. Then came Imphal, the monsoon, and a long walk back."
     story: "the-flag-at-moirang"
+  - title: "The election Gandhi lost"
+    type: flagship
+    hook: "In 1939 Bose beat Gandhi's candidate for Congress president. Within three months, he had to resign."
+    story: "the-election-gandhi-lost"
   - title: "The boy who went looking for a guru"
     type: short
     hook: "At seventeen, Subhas ran off to find a holy teacher. A holy man told him to stop looking."
