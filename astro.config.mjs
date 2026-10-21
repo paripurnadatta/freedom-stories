@@ -12,6 +12,9 @@ import { fileURLToPath } from "node:url";
 const CONTENT = fileURLToPath(new URL("./src/content/", import.meta.url));
 const TYPES = { ".webp": "image/webp", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".gif": "image/gif", ".svg": "image/svg+xml", ".pdf": "application/pdf" };
 
+// research/ folders hold working notes and other AIs' findings: never served, never published.
+const isPrivate = (path) => /(^|[\\/])research([\\/]|$)/.test(path);
+
 function subjectFiles() {
   return {
     name: "subject-files",
@@ -21,7 +24,7 @@ function subjectFiles() {
           if (!req.url?.startsWith("/files/")) return next();
           const rel = normalize(decodeURIComponent(req.url.slice("/files/".length).split("?")[0]));
           const file = join(CONTENT, rel);
-          if (!file.startsWith(CONTENT) || !TYPES[extname(file).toLowerCase()] || !existsSync(file) || !statSync(file).isFile()) return next();
+          if (!file.startsWith(CONTENT) || isPrivate(rel) || !TYPES[extname(file).toLowerCase()] || !existsSync(file) || !statSync(file).isFile()) return next();
           res.setHeader("Content-Type", TYPES[extname(file).toLowerCase()]);
           createReadStream(file).pipe(res);
         });
@@ -31,7 +34,7 @@ function subjectFiles() {
         const walk = (d) => {
           for (const e of readdirSync(d, { withFileTypes: true })) {
             const p = join(d, e.name);
-            if (e.isDirectory()) walk(p);
+            if (e.isDirectory()) { if (!isPrivate(p)) walk(p); }
             else if (TYPES[extname(e.name).toLowerCase()]) cpSync(p, join(out, p.slice(CONTENT.length)), { recursive: true });
           }
         };
