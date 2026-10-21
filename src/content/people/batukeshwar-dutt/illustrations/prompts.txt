@@ -1,0 +1,55 @@
+ILLUSTRATIONS NEEDED: Batukeshwar Dutt
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+
+Only stories that need a painting are listed. The others use real photographs.
+Photographs of Batukeshwar Dutt and Bhagat Singh exist, so their faces may be
+shown: keep them close to those photographs.
+
+==============================================================================
+1. The one who lived  (flagship story)
+==============================================================================
+FILE NAME: the-one-who-lived
+Save it as the-one-who-lived.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The one who lived", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Patna, early 1960s, a modest street with small shops. A thin, tired-looking Indian man in his fifties with greying hair, round glasses and a simple white kurta-pyjama, carries a cloth bag of biscuit packets, pausing to look at an old, faded photograph in his hand of two young men from 1929. Behind him, in a soft dreamlike glow painted into the evening sky, the faint ghostly memory of a grand round colonial assembly hall with leaflets drifting. Quiet, bittersweet, dignified mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Two boys with lanterns  (short story)
+==============================================================================
+FILE NAME: two-boys-with-lanterns
+Save it as two-boys-with-lanterns.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two boys with lanterns", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Night, 1924, the flooded bank of the river Ganga at Kanpur. Two teenage Indian boys stand side by side at the water's edge, each holding up a glowing kerosene lantern: a slim Bengali boy of about 14 with short hair in a kurta and dhoti, and a taller Sikh boy of about 16 wearing a small turban (patka) and kurta. Dark swirling floodwater, a distant figure swimming toward the light, rooftops half under water behind. The lanterns cast warm golden light on their determined faces. Brave, hopeful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The buttons in Class 9  (short story)
+==============================================================================
+FILE NAME: the-buttons-in-class-nine
+Save it as the-buttons-in-class-nine.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The buttons in Class 9", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1930, a Delhi school classroom with wooden benches and a blackboard (no writing on it). A group of Indian schoolboys of about 14 or 15, in white shirts, shorts and Gandhi caps, proudly show each other small round tin buttons pinned to their shirts, each button bearing a tiny portrait of a young man in a hat. At the door, a stern British-era police officer in a khaki uniform and topi peers in, writing in a notebook. Bright morning light through tall windows. Gently humorous, proud mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
