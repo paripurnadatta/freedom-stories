@@ -1,0 +1,46 @@
+{
+  "subject": "gandhi-irwin-pact",
+  "wikidata": "Q580348",
+  "wikipedia": "Gandhi–Irwin Pact",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Mahatma-Gandhi, studio, 1931.jpg",
+      "type": "image",
+      "title": "Mahatma-Gandhi, studio, 1931",
+      "description": "Studio photograph of Mahatma Gandhi ji, London, 1931.",
+      "date": "1931",
+      "author": "Elliott & Fry",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/500px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+      "width": 2620,
+      "height": 3270,
+      "foundIn": "wikipedia",
+      "year": 1931,
+      "era": "original"
+    },
+    {
+      "file": "1st Earl of Halifax 1947.jpg",
+      "type": "image",
+      "title": "1st Earl of Halifax 1947",
+      "description": "Edward Frederick Lindley Wood, 1st Earl of Halifax",
+      "date": "1944",
+      "author": "Yousuf Karsh",
+      "license": "CC BY-SA 3.0 nl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1st_Earl_of_Halifax_1947.jpg/500px-1st_Earl_of_Halifax_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/1st_Earl_of_Halifax_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:1st_Earl_of_Halifax_1947.jpg",
+      "width": 1382,
+      "height": 1875,
+      "foundIn": "wikipedia",
+      "year": 1944,
+      "era": "original"
+    }
+  ]
+}

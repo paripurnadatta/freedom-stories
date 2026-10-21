@@ -1,0 +1,46 @@
+{
+  "subject": "annie-mascarene",
+  "wikidata": "Q3618092",
+  "wikipedia": "Annie Mascarene",
+  "commonsCategory": null,
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Anniemascarene.jpg",
+      "type": "image",
+      "title": "Anniemascarene",
+      "description": "This is the picture of Annie Mascarene",
+      "date": "before 1940",
+      "author": "UnknownUnknown",
+      "license": "Public domain",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Anniemascarene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Anniemascarene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Anniemascarene.jpg",
+      "width": 388,
+      "height": 440,
+      "foundIn": "wikipedia",
+      "year": 1940,
+      "era": "original"
+    },
+    {
+      "file": "Annie Mascarene statue at Vazhuthacaud, Thiruvananthapuram.jpg",
+      "type": "image",
+      "title": "Annie Mascarene statue at Vazhuthacaud, Thiruvananthapuram",
+      "description": "Annie Mascarene statue at Vazhuthacaud, Thiruvananthapuram",
+      "date": "2023-08-13 07:37:12",
+      "author": "Vis M",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Annie_Mascarene_statue_at_Vazhuthacaud%2C_Thiruvananthapuram.jpg/500px-Annie_Mascarene_statue_at_Vazhuthacaud%2C_Thiruvananthapuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Annie_Mascarene_statue_at_Vazhuthacaud%2C_Thiruvananthapuram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Annie_Mascarene_statue_at_Vazhuthacaud,_Thiruvananthapuram.jpg",
+      "width": 9248,
+      "height": 6936,
+      "foundIn": "wikipedia",
+      "year": 2023,
+      "era": "later"
+    }
+  ]
+}

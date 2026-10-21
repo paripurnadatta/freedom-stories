@@ -1,0 +1,47 @@
+{
+  "subject": "durga-bhabhi",
+  "wikidata": "Q5316432",
+  "wikipedia": "Durgawati Devi",
+  "commonsCategory": "Durgawati Devi",
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Durgawati Devi.jpg",
+      "type": "image",
+      "title": "Durgawati Devi",
+      "description": "A sculpture of Durgawati Devi (Durga Bhabhi) died in Ghaziabad on 14 October 1999 at the age of 92.",
+      "date": "2016-12-20 18:59:02",
+      "author": "Nishutoshk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Durgawati_Devi.jpg/500px-Durgawati_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Durgawati_Devi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Durgawati_Devi.jpg",
+      "width": 3120,
+      "height": 4160,
+      "foundIn": "wikipedia",
+      "year": 1999,
+      "era": "later"
+    },
+    {
+      "file": "Durga Bhabhi.webp",
+      "type": "image",
+      "title": "Durga Bhabhi",
+      "description": "This is real picture of Durga Bhabhi",
+      "date": "2025-04-20",
+      "author": "KKC12345",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Durga_Bhabhi.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Durga_Bhabhi.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Durga_Bhabhi.webp",
+      "width": 312,
+      "height": 312,
+      "foundIn": "wikipedia",
+      "year": 2025,
+      "era": "later"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "subject": "zakapa",
+  "wikidata": "Q131551546",
+  "wikipedia": "Zakapa",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Zakapa captured by Shakespear.jpg",
+      "type": "image",
+      "title": "Zakapa captured by Shakespear",
+      "description": "Zakapa on the day he was captured by John Shakespear.",
+      "date": "1895",
+      "author": "John Shakespear",
+      "license": "Public domain",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Zakapa_captured_by_Shakespear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Zakapa_captured_by_Shakespear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Zakapa_captured_by_Shakespear.jpg",
+      "width": 350,
+      "height": 238,
+      "foundIn": "wikipedia",
+      "year": 1895,
+      "era": "original"
+    },
+    {
+      "file": "Plate 25 Folk-Lore, vol. 20.jpg",
+      "type": "image",
+      "title": "Plate 25 Folk-Lore, vol. 20",
+      "description": "FANAI CHIEF.",
+      "date": "1909",
+      "author": "J. Shakespear",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Plate_25_Folk-Lore%2C_vol._20.jpg/500px-Plate_25_Folk-Lore%2C_vol._20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Plate_25_Folk-Lore%2C_vol._20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Plate_25_Folk-Lore,_vol._20.jpg",
+      "width": 611,
+      "height": 843,
+      "foundIn": "wikipedia",
+      "year": 1909,
+      "era": "original"
+    }
+  ]
+}

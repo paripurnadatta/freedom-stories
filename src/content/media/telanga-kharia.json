@@ -1,0 +1,47 @@
+{
+  "subject": "telanga-kharia",
+  "wikidata": "Q26266161",
+  "wikipedia": "Telanga Kharia",
+  "commonsCategory": null,
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Telanga Kharia.jpg",
+      "type": "image",
+      "title": "Telanga Kharia",
+      "description": "Telanga Kharia(1806-1880)",
+      "date": "2016-08-14 13:29:47",
+      "author": "Dr. Sushil Kerketta",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Telanga_Kharia.jpg/500px-Telanga_Kharia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Telanga_Kharia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Telanga_Kharia.jpg",
+      "width": 2180,
+      "height": 3054,
+      "foundIn": "wikipedia",
+      "year": 1806,
+      "era": "original"
+    },
+    {
+      "file": "Question book-new.svg",
+      "type": "image",
+      "title": "Question book-new",
+      "description": "no original description",
+      "date": "2019-08-13",
+      "author": "en:User:Saranphat.cha",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/500px-Question_book-new.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "width": 512,
+      "height": 399,
+      "foundIn": "wikipedia",
+      "year": 2019,
+      "era": "later"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "subject": "vanchinathan",
+  "wikidata": "Q3411606",
+  "wikipedia": "Vanchinathan",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Revolutionary Vanchi Iyer.jpg",
+      "type": "image",
+      "title": "Revolutionary Vanchi Iyer",
+      "description": "Revolutionary Vanchi Iyer",
+      "date": "before 1960date QS:P,+1960-00-00T00:00:0",
+      "author": "Tamilnadu state archives",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Revolutionary_Vanchi_Iyer.jpg/500px-Revolutionary_Vanchi_Iyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Revolutionary_Vanchi_Iyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Revolutionary_Vanchi_Iyer.jpg",
+      "width": 731,
+      "height": 1000,
+      "foundIn": "wikipedia",
+      "year": 1960,
+      "era": "later"
+    },
+    {
+      "file": "VanchiManiyachiJunction.JPG",
+      "type": "image",
+      "title": "VanchiManiyachiJunction",
+      "description": "Photo of name board at Maniyachi Railway Station in Tamil Nadu, India. It shows the now-renamed Vanchi Maniyachi Railway Station in honour of Vanchinathan, an Indian freedom fighter. A goods train is seen in the backdrop.",
+      "date": "2007-11-08",
+      "author": "Sundar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/VanchiManiyachiJunction.JPG/500px-VanchiManiyachiJunction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/VanchiManiyachiJunction.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:VanchiManiyachiJunction.JPG",
+      "width": 2816,
+      "height": 2112,
+      "foundIn": "wikipedia",
+      "year": 2007,
+      "era": "later"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "subject": "paliath-achan",
+  "wikidata": "Q1573387",
+  "wikipedia": "Paliath Achan",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Paliam naalukettu.jpg",
+      "type": "image",
+      "title": "Paliam naalukettu",
+      "description": "Paliam Naalukettu (5/2006) --Vivin Paliath (വിവി൯ പാലിയത്) 17:18, 13 January 2007 (UTC)",
+      "date": "13 January 2007 (original upload date)",
+      "author": "Vivin at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Paliam_naalukettu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Paliam_naalukettu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Paliam_naalukettu.jpg",
+      "width": 480,
+      "height": 360,
+      "foundIn": "wikipedia",
+      "year": 2006,
+      "era": "later"
+    },
+    {
+      "file": "Paliyam Palace.jpg",
+      "type": "image",
+      "title": "Paliyam Palace",
+      "description": "Paliyam Palace",
+      "date": "16 April 2022 (according to Exif data)",
+      "author": "Ppyoonus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Paliyam_Palace.jpg/500px-Paliyam_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Paliyam_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Paliyam_Palace.jpg",
+      "width": 1840,
+      "height": 3984,
+      "foundIn": "wikipedia",
+      "year": 2022,
+      "era": "later"
+    }
+  ]
+}

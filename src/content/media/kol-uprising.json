@@ -1,0 +1,46 @@
+{
+  "subject": "kol-uprising",
+  "wikidata": "Q65287982",
+  "wikipedia": "Kol uprising",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Map of present-day Jharkhand region by Rennell, 1779.jpg",
+      "type": "image",
+      "title": "Map of present-day Jharkhand region by Rennell, 1779",
+      "description": "Administrative map Jharkhand region in 1770s",
+      "date": "1779",
+      "author": "James Rennell",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Map_of_present-day_Jharkhand_region_by_Rennell%2C_1779.jpg/500px-Map_of_present-day_Jharkhand_region_by_Rennell%2C_1779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Map_of_present-day_Jharkhand_region_by_Rennell%2C_1779.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Map_of_present-day_Jharkhand_region_by_Rennell,_1779.jpg",
+      "width": 4000,
+      "height": 3000,
+      "foundIn": "wikipedia",
+      "year": 1779,
+      "era": "original"
+    },
+    {
+      "file": "India location map.svg",
+      "type": "image",
+      "title": "India location map",
+      "description": "Location map of India. Equirectangular projection. Strechted by 106.0%. Geographic limits of the map: N: 37.5° N S: 5.0° N W: 67.0° E E: 99.0° E Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.",
+      "date": "2010-02-20",
+      "author": "Uwe Dedering at German Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/India_location_map.svg/500px-India_location_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/India_location_map.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:India_location_map.svg",
+      "width": 1500,
+      "height": 1615,
+      "foundIn": "wikipedia",
+      "year": 2010,
+      "era": "later"
+    }
+  ]
+}

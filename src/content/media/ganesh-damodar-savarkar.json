@@ -1,0 +1,45 @@
+{
+  "subject": "ganesh-damodar-savarkar",
+  "wikidata": "Q5520829",
+  "wikipedia": "Ganesh Damodar Savarkar",
+  "commonsCategory": null,
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "The Savarkar brothers (Left to right) Narayan, Ganesh and Vinayak, with Shanta, sister Maina Kale and Yamuna.jpg",
+      "type": "image",
+      "title": "The Savarkar brothers (Left to right) Narayan, Ganesh and Vinayak, with Shanta, sister Maina Kale and Yamuna",
+      "description": "(Left to right) Narayan, Ganesh and Vinayak, with Shanta, sister Maina Kale and Yamuna",
+      "date": "before 1950date QS:P,+1950-00-00T00:00:0",
+      "author": "Maharashtra state archives",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Savarkar_brothers_%28Left_to_right%29_Narayan%2C_Ganesh_and_Vinayak%2C_with_Shanta%2C_sister_Maina_Kale_and_Yamuna.jpg/500px-The_Savarkar_brothers_%28Left_to_right%29_Narayan%2C_Ganesh_and_Vinayak%2C_with_Shanta%2C_sister_Maina_Kale_and_Yamuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Savarkar_brothers_%28Left_to_right%29_Narayan%2C_Ganesh_and_Vinayak%2C_with_Shanta%2C_sister_Maina_Kale_and_Yamuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Savarkar_brothers_(Left_to_right)_Narayan,_Ganesh_and_Vinayak,_with_Shanta,_sister_Maina_Kale_and_Yamuna.jpg",
+      "width": 720,
+      "height": 536,
+      "foundIn": "wikipedia",
+      "year": 1950,
+      "era": "later"
+    },
+    {
+      "file": "Ganesh Damodar Savarkar.jpg",
+      "type": "image",
+      "title": "Ganesh Damodar Savarkar",
+      "description": "Ganesh Damodar Savarkar",
+      "date": "before 1950date QS:P,+1950-00-00T00:00:0",
+      "author": "Maharashtra state archives",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ganesh_Damodar_Savarkar.jpg/500px-Ganesh_Damodar_Savarkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ganesh_Damodar_Savarkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Ganesh_Damodar_Savarkar.jpg",
+      "width": 681,
+      "height": 955,
+      "foundIn": "wikipedia",
+      "year": 1950,
+      "era": "later"
+    }
+  ]
+}

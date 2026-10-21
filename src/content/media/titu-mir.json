@@ -1,0 +1,46 @@
+{
+  "subject": "titu-mir",
+  "wikidata": "Q3346553",
+  "wikipedia": "Titumir",
+  "commonsCategory": null,
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Syed Mir Nisar Ali (Titumir).jpg",
+      "type": "image",
+      "title": "Syed Mir Nisar Ali (Titumir)",
+      "description": "Syed Mir Nisar Ali (27 January 1782 – 19 November 1831), better known as Titumir, was a Bengali Islamist revolutionary.",
+      "date": "Unknown date",
+      "author": "Unknown authorUnknown author",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Syed_Mir_Nisar_Ali_%28Titumir%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Syed_Mir_Nisar_Ali_%28Titumir%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Syed_Mir_Nisar_Ali_(Titumir).jpg",
+      "width": 205,
+      "height": 235,
+      "foundIn": "wikipedia",
+      "year": 1782,
+      "era": "original"
+    },
+    {
+      "file": "Bayt al Mukarram.jpg",
+      "type": "image",
+      "title": "Bayt al Mukarram",
+      "description": "en:Baitul Mukarram National Mosque in en:Dhaka was built in en:1962. The structure resembles the en:Kaaba in en:Mecca",
+      "date": "22 December 2004 (original upload date)",
+      "author": "OneGuy at English Wikipedia",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bayt_al_Mukarram.jpg/500px-Bayt_al_Mukarram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bayt_al_Mukarram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Bayt_al_Mukarram.jpg",
+      "width": 740,
+      "height": 467,
+      "foundIn": "wikipedia",
+      "year": 1962,
+      "era": "later"
+    }
+  ]
+}

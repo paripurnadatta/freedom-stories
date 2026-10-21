@@ -1,0 +1,46 @@
+{
+  "subject": "yashpal",
+  "wikidata": "Q1148472",
+  "wikipedia": "Yashpal",
+  "commonsCategory": "Yashpal",
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "P vip.svg",
+      "type": "image",
+      "title": "P vip",
+      "description": "",
+      "date": "",
+      "author": "",
+      "license": "Public domain",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/P_vip.svg/500px-P_vip.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/P_vip.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:P_vip.svg",
+      "width": 1911,
+      "height": 1944,
+      "foundIn": "wikipedia",
+      "year": null,
+      "era": "later"
+    },
+    {
+      "file": "Hasmukh Baradi with Arthur C Clarke and Yashpal.jpg",
+      "type": "image",
+      "title": "Hasmukh Baradi with Arthur C Clarke and Yashpal",
+      "description": "Gujarati writer Hasmukh Baradi with Arthur C Clarke and Yashpal",
+      "date": "Unknown date",
+      "author": "Manvita Baradi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Hasmukh_Baradi_with_Arthur_C_Clarke_and_Yashpal.jpg/500px-Hasmukh_Baradi_with_Arthur_C_Clarke_and_Yashpal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Hasmukh_Baradi_with_Arthur_C_Clarke_and_Yashpal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Hasmukh_Baradi_with_Arthur_C_Clarke_and_Yashpal.jpg",
+      "width": 2736,
+      "height": 1680,
+      "foundIn": "commons",
+      "year": null,
+      "era": "later"
+    }
+  ]
+}

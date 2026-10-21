@@ -1,0 +1,47 @@
+{
+  "subject": "rani-chennabhairadevi",
+  "wikidata": "Q114670764",
+  "wikipedia": "Rani Chennabhairadevi",
+  "commonsCategory": null,
+  "matchedBy": "name search",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Mirjan Fort 02.JPG",
+      "type": "image",
+      "title": "Mirjan Fort 02",
+      "description": "This is a photo of ASI monument number",
+      "date": "Taken on 11 July 2012, 13:00:11",
+      "author": "Gandharva S",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mirjan_Fort_02.JPG/500px-Mirjan_Fort_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mirjan_Fort_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Mirjan_Fort_02.JPG",
+      "width": 3888,
+      "height": 2592,
+      "foundIn": "wikipedia",
+      "year": 2012,
+      "era": "later"
+    },
+    {
+      "file": "Chaturmukha basadi, Gerusoppa (cropped).jpg",
+      "type": "image",
+      "title": "Chaturmukha basadi, Gerusoppa (cropped)",
+      "description": "This is a photo of ASI monument number",
+      "date": "2018-03-25 18:02:06",
+      "author": "Vinay Hegde",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Chaturmukha_basadi%2C_Gerusoppa_%28cropped%29.jpg/500px-Chaturmukha_basadi%2C_Gerusoppa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chaturmukha_basadi%2C_Gerusoppa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Chaturmukha_basadi,_Gerusoppa_(cropped).jpg",
+      "width": 3176,
+      "height": 1733,
+      "foundIn": "wikipedia",
+      "year": 2018,
+      "era": "later"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "subject": "roshan-singh",
+  "wikidata": "Q7368818",
+  "wikipedia": "Roshan Singh",
+  "commonsCategory": null,
+  "matchedBy": "wikidata id",
+  "fetched": "2026-10-21",
+  "hidden": [],
+  "items": [
+    {
+      "file": "Question book-new.svg",
+      "type": "image",
+      "title": "Question book-new",
+      "description": "no original description",
+      "date": "2019-08-13",
+      "author": "en:User:Saranphat.cha",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/500px-Question_book-new.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Question_book-new.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Question_book-new.svg",
+      "width": 512,
+      "height": 399,
+      "foundIn": "wikipedia",
+      "year": 2019,
+      "era": "later"
+    },
+    {
+      "file": "Raushan singh.tif",
+      "type": "image",
+      "title": "Raushan singh",
+      "description": "Raushan singh",
+      "date": "2025-05-10",
+      "author": "ROLL of honour KC GHOSH",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Raushan_singh.tif/lossy-page1-500px-Raushan_singh.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Raushan_singh.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "page": "https://commons.wikimedia.org/wiki/File:Raushan_singh.tif",
+      "width": 757,
+      "height": 1090,
+      "foundIn": "wikipedia",
+      "year": 2025,
+      "era": "later"
+    }
+  ]
+}
