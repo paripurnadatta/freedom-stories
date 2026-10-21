@@ -1,0 +1,104 @@
+ILLUSTRATIONS NEEDED: Chandrashekhar Azad
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Tell Claude, or run:  node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. "The photograph he asked them
+to destroy" uses the real Jhansi photograph instead. See ILLUSTRATIONS.md.
+
+About his face: a real photograph of Azad exists (the moustache picture taken
+in Jhansi), so his face may be shown. Keep it close to that photograph.
+Nehru's face is kept turned away: the story is Azad's.
+
+==============================================================================
+1. The last morning in Alfred Park  (flagship story)
+==============================================================================
+FILE NAME: the-last-morning-in-alfred-park
+Save it as the-last-morning-in-alfred-park.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The last morning in Alfred Park", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early morning, February 1931, in a large green colonial-era park in Allahabad, India. Under a big leafy jamun tree, two young Indian men sit on the grass talking quietly: one is a strong-built young Indian man with a broad face, a thick upturned moustache, short hair, wearing a plain white dhoti and a simple kurta, aged 24; the other is younger and slimmer, in a kurta. Soft winter mist between tall trees, a white colonial building far in the background. Far away at the edge of the park, small dark figures of policemen in khaki turbans are just appearing between the trees; the two men have not noticed yet. A calm, tense, quiet moment before something happens. Wide composition, 16:9, the two men left of centre.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The boy who said his name was Azad  (short story)
+==============================================================================
+FILE NAME: the-boy-who-said-his-name-was-azad
+Save it as the-boy-who-said-his-name-was-azad.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The boy who said his name was Azad", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A colonial-era Indian courtroom in Banaras, December 1921. A thin 15-year-old Indian schoolboy with short hair, wearing a plain white kurta and dhoti, stands straight and unafraid in the dock, chin raised, looking up at a stern older magistrate in a dark coat seated high behind a heavy wooden bench. Indian clerks and a few spectators watch in surprise. Dusty light falls through tall shuttered windows. The boy is small in the frame but clearly the centre of attention. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The holy man by the Satar river  (short story)
+==============================================================================
+FILE NAME: the-holy-man-by-the-satar-river
+Save it as the-holy-man-by-the-satar-river.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The holy man by the Satar river", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late afternoon in a forest near Orchha, Central India, late 1920s. Beside a small rocky river stands a tiny stone Hanuman temple painted saffron, and next to it a simple thatched hut. Sitting cross-legged on a mat outside the hut, a strong-built young Indian man with a broad face, a thick upturned moustache, short hair, wearing a plain white dhoti and a simple kurta now dressed as a sadhu in a saffron dhoti with a shawl over one shoulder, teaches a small group of village children in simple clothes who sit around him with slates. Golden light through the trees, ancient domed Orchha temples faint on the horizon. Peaceful, warm, with a hint of secrecy. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The one who got away from Kakori  (short story)
+==============================================================================
+FILE NAME: the-one-who-got-away-from-kakori
+Save it as the-one-who-got-away-from-kakori.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The one who got away from Kakori", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dusk, August 1925, open countryside near Kakori village outside Lucknow, monsoon season. An old steam passenger train has stopped on the tracks, steam drifting from the engine, warm lamplight glowing in the carriage windows. Small distant silhouettes of a few young men walk quickly away from the train into tall green fields. One figure in the foreground, seen from behind, pauses and glances back over his shoulder; his face is not visible. Heavy purple monsoon clouds, wet grass. No weapons shown. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The question Nehru could not answer  (short story)
+==============================================================================
+FILE NAME: the-question-nehru-could-not-answer
+Save it as the-question-nehru-could-not-answer.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The question Nehru could not answer", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside a book-lined study in a large old house in Allahabad, early 1931, evening lamplight. Two men sit facing each other across a low table with cups of tea. On the left, a strong-built young Indian man with a broad face, a thick upturned moustache, short hair, wearing a plain white dhoti and a simple kurta, leaning forward earnestly, hands open as if asking a question. On the right, seen mostly from behind and in shadow, a slim older man in a white khadi kurta and white Gandhi cap, his face turned away from the viewer. Bookshelves, a window with night outside. Quiet, serious, thoughtful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The pistol in the museum  (short story)
+==============================================================================
+FILE NAME: the-pistol-in-the-museum
+Save it as the-pistol-in-the-museum.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The pistol in the museum", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside a quiet modern Indian museum hall. A small old dark-metal pocket pistol lies on red velvet inside a lit glass display case. In the foreground, a few Indian schoolchildren in uniforms and an old grandfather stand looking at the case in silence, seen from behind and the side, their reflections faint in the glass. Soft spotlight on the case, the rest of the hall in warm shadow. Respectful, reflective mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
