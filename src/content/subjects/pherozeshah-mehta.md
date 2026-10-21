@@ -13,6 +13,7 @@ places: []
 related:
   - "formation-of-the-indian-national-congress"
   - "dinshaw-wacha"
+  - "indian-national-congress"
 sources:
   - title: "P. Sundarayya and the Peasant Movement in Andhra Pradesh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?13358="

@@ -4,9 +4,7 @@ import { loadSite } from "../../lib/site";
 
 export async function getStaticPaths() {
   const site = await loadSite();
-  return site.hubs
-    .filter((s) => s.data.kind === "event")
-    .map((subject) => ({ params: { slug: subject.id }, props: { subject } }));
+  return site.hubs.filter((s) => s.data.kind === "event").map((subject) => ({ params: { slug: subject.id }, props: { subject } }));
 }
 ---
 <SubjectPage subject={Astro.props.subject} />

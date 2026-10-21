@@ -11,6 +11,7 @@ places:
   - "Dewas"
 related:
   - "thakur-bhanwar-singh"
+  - "dewas"
 sources:
   - title: "Thakur Bhanwar Singh"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?10771="

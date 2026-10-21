@@ -11,6 +11,7 @@ role: "INA intelligence official"
 places: []
 related:
   - "indian-national-army-operations"
+  - "indian-national-army"
 sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"

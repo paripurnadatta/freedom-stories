@@ -11,6 +11,7 @@ places:
   - "Hindoria and Damoh"
 related:
   - "raja-kishor-singh"
+  - "hindoria-and-damoh"
 sources:
   - title: "Raja Kishor Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?28688="

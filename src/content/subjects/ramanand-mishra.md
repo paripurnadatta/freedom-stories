@@ -12,6 +12,7 @@ places:
   - "Hazaribagh Central Jail"
 related:
   - "hazaribagh-jailbreak-and-bihar-quit-india-underground"
+  - "azad-dasta"
 sources:
   - title: "The Quit India Movement in Hazaribagh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16154="

@@ -16,6 +16,7 @@ related:
   - "bhairav-murmu"
   - "phulo-murmu"
   - "jhano-murmu"
+  - "santhal-pargana"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

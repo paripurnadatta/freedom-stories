@@ -10,7 +10,8 @@ region: "West Bengal"
 role: "Jugantar revolutionary"
 places:
   - "Bengal Presidency"
-related: []
+related:
+  - "jugantar"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Sushil Kumar Dasgupta"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12394="

@@ -12,6 +12,7 @@ places:
 related:
   - "neki-ram-sharma"
   - "shri-ram-sharma"
+  - "haryana"
 sources:
   - title: "Neki Ram Sharma"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23955="

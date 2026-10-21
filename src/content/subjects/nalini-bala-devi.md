@@ -13,6 +13,7 @@ places: []
 related:
   - "swadeshi-movement"
   - "non-cooperation-and-khilafat-movement"
+  - "barpeta"
 sources:
   - title: "Pandey Ganpat Rai"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?8781="

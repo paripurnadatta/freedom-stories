@@ -9,7 +9,8 @@ year: 1767
 region: "Karnataka"
 places:
   - "Mysore"
-related: []
+related:
+  - "mysore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -12,6 +12,7 @@ places:
 related:
   - "babu-chotelal-shrivastava"
   - "pandit-sunderlal-sharma"
+  - "kandel-dhamtari"
 sources:
   - title: "Babu Chotelal Shrivastava"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?90="

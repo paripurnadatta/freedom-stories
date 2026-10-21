@@ -11,6 +11,7 @@ places:
   - "Princely State of Tripura"
 related:
   - "sachindra-lal-singh"
+  - "princely-state-of-tripura"
 sources:
   - title: "Untold Stories of the Freedom Struggle from North-East India"
     url: "https://www.publicationsdivision.nic.in/index.php?product_id=4541&route=product%2Fproduct"

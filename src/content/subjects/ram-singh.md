@@ -12,6 +12,7 @@ places:
   - "Punjab Province"
 related:
   - "indian-national-army-campaigns"
+  - "indian-national-army"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Ram Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?13268="

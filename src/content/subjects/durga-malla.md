@@ -12,6 +12,7 @@ role: "INA officer"
 places: []
 related:
   - "indian-national-army-campaigns"
+  - "indian-national-army"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Durga Malla"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?9814="

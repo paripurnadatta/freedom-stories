@@ -13,6 +13,7 @@ places: []
 related:
   - "formation-of-the-indian-national-congress"
   - "mahatma-gandhi"
+  - "indian-national-congress"
 sources:
   - title: "Deshbhakta Tarun Ram Phukan"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?453="

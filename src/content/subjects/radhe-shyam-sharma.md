@@ -11,6 +11,7 @@ role: "Princely-state political activist"
 places: []
 related:
   - "rajasthan-praja-mandal-and-azad-morcha-movements"
+  - "jaipur-praja-mandal"
 sources:
   - title: "Maulvi Liaqat Ali: Icon of 1857 Uprising at Allahabad"
     url: "https://books.google.com/books/about/Maulvi_Liaqat_Ali.html?hl=en&id=dvn3MgEACAAJ"

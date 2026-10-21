@@ -11,6 +11,7 @@ role: "Revolutionary activist"
 places: []
 related:
   - "saunders-assassination-lahore-protest-phase"
+  - "hindustan-socialist-republican-association"
 sources:
   - title: "Dictionary of Martyrs — India’s Freedom Struggle (1857–1947), official series landing page"
     url: "https://culture.gov.in/dictionary-martyrs-indias-freedom-struggle"

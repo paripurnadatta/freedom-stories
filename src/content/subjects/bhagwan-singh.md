@@ -11,6 +11,7 @@ role: "INA soldier / freedom fighter"
 places: []
 related:
   - "indian-national-army-campaigns"
+  - "indian-national-army"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Bhagwan Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12362="

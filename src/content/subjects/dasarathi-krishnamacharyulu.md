@@ -12,6 +12,7 @@ places: []
 related:
   - "telangana-peasant-agitation-and-armed-struggle-onset"
   - "hyderabad-state-congress-campaign-for-responsible-government-and-merger"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Dasarathi Krishnamacharyulu"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?252="

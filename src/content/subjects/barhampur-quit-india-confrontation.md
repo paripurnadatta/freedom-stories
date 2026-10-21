@@ -11,6 +11,7 @@ places:
   - "Barhampur, Nagaon"
 related:
   - "bhogeswari-phukanani"
+  - "barhampur-nagaon"
 sources:
   - title: "Quit India Movement in Barhampur"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?14461="

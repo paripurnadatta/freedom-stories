@@ -13,6 +13,7 @@ places:
   - "Travancore"
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "Azamgarh Proclamation (Manifesto of the 1857 Revolutionaries)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9251="

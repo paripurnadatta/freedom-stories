@@ -12,6 +12,7 @@ role: "Revolutionary activist"
 places: []
 related:
   - "saunders-assassination-lahore-protest-phase"
+  - "hindustan-socialist-republican-association"
 sources:
   - title: "Jaidev Kapoor"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2095="

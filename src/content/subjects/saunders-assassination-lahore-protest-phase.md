@@ -14,6 +14,7 @@ related:
   - "gaya-prasad-katiyar"
   - "jaidev-kapoor"
   - "mahabir-singh"
+  - "lahore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

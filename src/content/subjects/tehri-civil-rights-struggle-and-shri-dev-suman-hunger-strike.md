@@ -11,6 +11,7 @@ places:
   - "Tehri Princely State"
 related:
   - "shri-dev-suman"
+  - "tehri-princely-state"
 sources:
   - title: "Shri Dev ‘Suman’"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?10597="

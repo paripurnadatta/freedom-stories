@@ -12,6 +12,7 @@ role: "Political organizer"
 places: []
 related:
   - "formation-of-the-assam-provincial-congress-committee"
+  - "assam-provincial-congress-committee"
 sources:
   - title: "Chittaranjan Das's Speech at Calcutta Municipal Corporation, 1924"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12900="

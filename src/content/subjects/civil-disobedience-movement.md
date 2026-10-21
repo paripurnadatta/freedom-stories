@@ -120,6 +120,7 @@ related:
   - "dibakar-bera"
   - "harendranath-bhattacharya"
   - "hari-dayal-chakrabarti"
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

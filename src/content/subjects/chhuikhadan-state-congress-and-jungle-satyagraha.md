@@ -11,6 +11,7 @@ places:
   - "Chhuikhadan"
 related:
   - "samaru-ram-mahobia"
+  - "chhuikhadan"
 sources:
   - title: "Samaru Ram Mahobia"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?27203="

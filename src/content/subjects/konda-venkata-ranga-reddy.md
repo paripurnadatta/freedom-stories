@@ -13,6 +13,7 @@ places: []
 related:
   - "formation-of-the-nizam-rashtra-andhra-mahasabha"
   - "hyderabad-state-congress-campaign-for-responsible-government-and-merger"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Konda Venkata Ranga Reddy"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?1952="

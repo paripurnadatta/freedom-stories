@@ -12,6 +12,7 @@ places: []
 related:
   - "kuli-begar-movement-at-bageshwar"
   - "govind-ballabh-pant"
+  - "kumaon-parishad"
 sources:
   - title: "Historical Phenomena of Uttarakhand"
     url: "https://cdnbbsr.s3waas.gov.in/s37a68443f5c80d181c42967cd71612af1/uploads/2025/03/20250324187324537.pdf"

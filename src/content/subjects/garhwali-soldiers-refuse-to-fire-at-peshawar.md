@@ -11,6 +11,7 @@ places:
   - "Peshawar"
 related:
   - "veer-chandra-singh-garhwali"
+  - "peshawar"
 sources:
   - title: "Veer Chandra Singh Garhwali"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?228="

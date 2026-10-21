@@ -32,7 +32,7 @@ const subjects = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/subjects" }),
   schema: z.object({
     id: z.string(),
-    kind: z.enum(["person", "event"]),
+    kind: z.enum(["person", "event", "place", "organisation"]),
     name: z.string(),
     wikidata: z.string().optional(), // e.g. "Q312689": helps the media collector find the right Wikipedia page
     wikipedia: z.string().optional(), // English Wikipedia title, if the name alone is ambiguous
@@ -44,6 +44,12 @@ const subjects = defineCollection({
     year: z.number().int().min(1000).max(1950),
     region: z.string().default(""),
     role: z.string().optional(),
+    founded: z.string().optional(), // organisations
+    ended: z.string().optional(), // organisations
+    aliases: z.string().optional(),
+    placeType: z.string().optional(), // places
+    lat: z.number().optional(), // places: for the map, once verified
+    lng: z.number().optional(),
     places: z.array(z.string()).default([]),
     related: z.array(z.string()).default([]),
     sources: z.array(source).default([]),
@@ -61,6 +67,11 @@ const stories = defineCollection({
     title: z.string(),
     subtitle: z.string(),
     type: z.enum(["flagship", "short"]),
+    when: z.string().optional(), // shown in the story header, e.g. "8 April 1929"
+    where: z.string().optional(), // e.g. "Central Legislative Assembly, Delhi"
+    published: z.coerce.date().optional(), // date the story went live; drives "Latest stories"
+    featured: z.boolean().default(false), // show on the home page
+    illustration: image.optional(), // painted lead image; falls back to an archive photo
     about: z.array(z.string()).min(1),
     year: z.number().int().min(1000).max(1950),
     image: image.optional(),

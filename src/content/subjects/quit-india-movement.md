@@ -155,6 +155,7 @@ related:
   - "lalsingh-deka"
   - "mangal-murmu"
   - "mangra-bhagat"
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

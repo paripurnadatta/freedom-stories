@@ -13,6 +13,8 @@ places: []
 related:
   - "quit-india-satyagraha-in-hyderabad"
   - "hyderabad-state-congress-campaign-for-responsible-government-and-merger"
+  - "hyderabad-state-congress"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Kaloji Narayana Rao"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?11481="

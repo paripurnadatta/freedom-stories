@@ -14,6 +14,7 @@ related:
   - "nikuala-zahau"
   - "lianphunga-sailo"
   - "zakapa"
+  - "lushai-hills"
 sources:
   - title: "Shoorvir Pasaltha Khuangchera"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?13388="

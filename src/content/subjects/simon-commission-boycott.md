@@ -13,6 +13,7 @@ related:
   - "lala-lajpat-rai"
   - "tanguturi-prakasam"
   - "yusuf-meherally"
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

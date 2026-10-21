@@ -1,0 +1,10 @@
+---
+import SubjectPage from "../../components/SubjectPage.astro";
+import { loadSite } from "../../lib/site";
+
+export async function getStaticPaths() {
+  const site = await loadSite();
+  return site.hubs.filter((s) => s.data.kind === "place").map((subject) => ({ params: { slug: subject.id }, props: { subject } }));
+}
+---
+<SubjectPage subject={Astro.props.subject} />

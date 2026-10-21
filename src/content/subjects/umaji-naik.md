@@ -12,6 +12,7 @@ role: "Armed resistance leader"
 places: []
 related:
   - "umaji-naik-and-ramoshi-resistance"
+  - "pune"
 sources:
   - title: "Pandey Ganpat Rai"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?8781="

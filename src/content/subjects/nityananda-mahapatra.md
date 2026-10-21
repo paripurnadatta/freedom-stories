@@ -12,6 +12,7 @@ role: "Satyagrahi and political prisoner"
 places: []
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"

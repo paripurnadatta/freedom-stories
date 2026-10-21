@@ -12,6 +12,7 @@ role: "Ghadar revolutionary"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Fazal Din"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12713="

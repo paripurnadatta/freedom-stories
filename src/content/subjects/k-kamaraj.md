@@ -16,6 +16,7 @@ related:
   - "non-cooperation-and-khilafat-movement"
   - "civil-disobedience-movement"
   - "quit-india-movement"
+  - "indian-national-congress"
 sources:
   - title: "Kumaraswami Kamaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23480="

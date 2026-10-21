@@ -11,6 +11,7 @@ places:
   - "Pangti, Wokha"
 related:
   - "mhonyimo-ngullie"
+  - "pangti"
 sources:
   - title: "Mhonyimo Ngullie"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2795="

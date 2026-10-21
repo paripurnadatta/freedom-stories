@@ -1,176 +1,152 @@
 ---
 import Base from "../layouts/Base.astro";
-import Plate from "./Plate.astro";
-import { loadSite, hubUrl, storyUrl, datesOf, cleanCredit, shortCaption, type Subject } from "../lib/site";
+import Icon from "./Icon.astro";
+import StoryCard from "./StoryCard.astro";
+import SubjectRow from "./SubjectRow.astro";
+import MediaItem from "./MediaItem.astro";
+import PageScripts from "./PageScripts.astro";
+import { loadSite, datesOf, KINDS, type Subject } from "../lib/site";
 import { formatDate } from "../lib/years";
 
 interface Props { subject: Subject }
 const { subject } = Astro.props;
 const site = await loadSite();
 const d = subject.data;
+const kind = KINDS[d.kind];
 
 const written = site.mainStoriesOf(subject.id);
 const appears = site.appearsInOf(subject.id);
 const planned = d.angles.filter((a) => !a.story);
 const media = site.mediaOf(subject.id);
-const pictures = (list: typeof media.original) => list.filter((m) => m.type === "image");
-const papers = (list: typeof media.original) => list.filter((m) => m.type !== "image");
-
 const related = d.related.map((id) => site.subjectById.get(id)).filter((s) => s !== undefined);
-const connected = related.filter((p) => site.hasHub(p.id));
+const connections = {
+  people: related.filter((s) => s.data.kind === "person"),
+  events: related.filter((s) => s.data.kind === "event").sort((a, b) => a.data.year - b.data.year),
+  places: related.filter((s) => s.data.kind === "place"),
+  groups: related.filter((s) => s.data.kind === "organisation"),
+};
 const dates = datesOf(subject);
 
-const facts = (d.kind === "person"
-  ? [["Born", formatDate(d.born)], ["Died", formatDate(d.died)], ["From", d.region], ["Known as", d.role ?? ""], ["Places in the story", d.places.join(", ")]]
-  : [["When", formatDate(d.date)], ["Where", [d.region, ...d.places].filter(Boolean).join(", ")]]
-).filter(([, v]) => v);
+const facts = ({
+  person: [["Born", formatDate(d.born)], ["Died", formatDate(d.died)], ["From", d.region], ["Known as", d.role ?? ""]],
+  event: [["When", formatDate(d.date)], ["Where", d.region], ["Places", d.places.join(", ")]],
+  place: [["Region", d.region], ["Kind of place", d.placeType ?? ""]],
+  organisation: [["Founded", d.founded ?? ""], ["Ended", d.ended ?? ""], ["Also called", d.aliases ?? ""], ["Active in", d.region]],
+}[d.kind] as [string, string][]).filter(([, v]) => v);
 
-const credit = (m: { author: string; license: string }) => cleanCredit(m.author, m.license);
-const cap = (m: { description: string; title: string }) => shortCaption(m.description, m.title);
-const dims = (m: { width?: number; height?: number }) => (m.width && m.height ? { width: 500, height: Math.round((500 * m.height) / m.width) } : {});
+const hasStories = written.length + appears.length > 0;
+const tabs = [
+  ["stories", "Stories"],
+  media.original.length + media.later.length > 0 && ["gallery", "Pictures and papers"],
+  related.length > 0 && ["connections", "Connections"],
+  d.sources.length > 0 && ["sources", "Sources"],
+].filter(Boolean) as [string, string][];
+
+const jsonLd = d.kind === "person"
+  ? { "@context": "https://schema.org", "@type": "Person", name: d.name, description: d.summary, birthDate: d.born || undefined, deathDate: d.died || undefined, image: d.image ? new URL(d.image.src, Astro.site).toString() : undefined }
+  : { "@context": "https://schema.org", "@type": d.kind === "organisation" ? "Organization" : d.kind === "place" ? "Place" : "Event", name: d.name, description: d.summary };
 ---
-<Base title={`${d.name}: stories from India's freedom struggle`} description={d.summary}>
-  <main class="wide">
-    <header class="cover">
+<Base
+  title={`${d.name}: stories from India's freedom struggle`}
+  description={d.summary || `Stories, pictures and papers about ${d.name}.`}
+  image={d.image?.src}
+  type={d.kind === "person" ? "profile" : "website"}
+  section={kind.path}
+  noindex={!hasStories}
+  jsonLd={jsonLd}
+>
+  <div class="page">
+    <ol class="crumbs" aria-label="Breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href={`/${kind.path}/`}>{kind.plural}</a></li>
+      <li aria-current="page">{d.name}</li>
+    </ol>
+
+    <header class="subject-head" data-pagefind-body>
       <div>
+        <span class="kind">{d.role ?? kind.one}</span>
         <h1>{d.name}</h1>
         {dates && <p class="years">{dates}</p>}
         {d.summary && <p class="summary">{d.summary}</p>}
       </div>
-      {d.image && <Plate image={d.image} portrait />}
+      {d.image && (
+        <figure class="portrait">
+          <img src={d.image.src} alt={d.image.alt} />
+          <figcaption>{[d.image.credit, d.image.license].filter(Boolean).join(", ")}{d.image.sourceUrl && <>. <a href={d.image.sourceUrl} rel="noopener">Source</a></>}</figcaption>
+        </figure>
+      )}
     </header>
 
-    {facts.length > 0 && (
-      <dl class="facts">{facts.map(([k, v]) => <><dt>{k}</dt><dd>{v}</dd></>)}</dl>
-    )}
+    {facts.length > 0 && <dl class="facts">{facts.map(([k, v]) => <div><dt>{k}</dt><dd>{v}</dd></div>)}</dl>}
 
-    <h2 class="chapter-head">
-      Stories
-      <small>{written.length > 0 ? "Start with the big story, then pick any short one." : `${d.name} appears in these stories.`}</small>
-    </h2>
-    <ol class="contents">
-      {written.map((s) => (
-        <li class:list={{ flag: s.data.type === "flagship" }}>
-          <a href={storyUrl(s)}>
-            <span>
-              <span class="kind">{s.data.type === "flagship" ? "The big story" : "Short story"}</span>
-              <span class="t">{s.data.title}</span>
-              <span class="h">{s.data.subtitle}</span>
-            </span>
-          </a>
-        </li>
-      ))}
-      {appears.map((s) => {
-        const lead = site.subjectById.get(s.data.about[0]);
-        return (
-          <li>
-            <a href={storyUrl(s)}>
-              <span>
-                <span class="kind">From {lead?.data.name}'s story</span>
-                <span class="t">{s.data.title}</span>
-                <span class="h">{s.data.subtitle}</span>
-              </span>
-            </a>
-          </li>
-        );
-      })}
-      {planned.map((a) => (
-        <li>
-          <div class="later">
-            <span>
-              <span class="kind">Coming soon</span>
-              <span class="t">{a.title}</span>
-              <span class="h">{a.hook}</span>
-            </span>
+    <nav class="tabs no-print" aria-label={`About ${d.name}`}>
+      <ul>{tabs.map(([id, label], i) => <li><a href={`#${id}`} aria-current={i === 0 ? "true" : "false"}>{label}</a></li>)}</ul>
+    </nav>
+
+    <section class="section" id="stories">
+      <div class="section-head">
+        <div>
+          <h2>Stories</h2>
+          <p>{written.length > 0 ? "Start with the big story, then pick any short one." : hasStories ? `${d.name} appears in these stories.` : `We haven't written ${d.name}'s story yet.`}</p>
+        </div>
+      </div>
+      {written.filter((s) => s.data.type === "flagship").map((s) => <StoryCard story={s} wide showWho={false} />)}
+      {written.filter((s) => s.data.type === "short").length > 0 && (
+        <ul class="cards" style="margin-top:1.25rem">{written.filter((s) => s.data.type === "short").map((s) => <li><StoryCard story={s} showWho={false} /></li>)}</ul>
+      )}
+      {appears.length > 0 && (
+        <>
+          {written.length > 0 && <h3 style="margin:2rem 0 1rem;font-size:1.1rem">{d.name} also appears in</h3>}
+          <ul class="cards">{appears.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+        </>
+      )}
+      {planned.length > 0 && (
+        <>
+          <h3 style="margin:2.25rem 0 0;font-size:1.1rem">Stories on the way</h3>
+          <ul class="coming">
+            {planned.map((a) => <li><span class="h">{a.type === "flagship" ? "Flagship story" : "Short story"}, coming soon</span><strong>{a.title}</strong><p>{a.hook}</p></li>)}
+          </ul>
+        </>
+      )}
+    </section>
+
+    {media.original.length + media.later.length > 0 && (
+      <section class="section" id="gallery">
+        <div class="section-head">
+          <div>
+            <h2>Pictures and papers</h2>
+            <p>{media.original.length > 0 ? `Photographs, letters and documents from ${d.kind === "person" ? `${d.name}'s own lifetime` : "the time"}.` : "Pictures of memorials and places that remember this history."}</p>
           </div>
-        </li>
-      ))}
-    </ol>
-
-    {(media.original.length > 0 || media.later.length > 0) && (
-      <section>
-        <h2 class="chapter-head">
-          Pictures and papers
-          <small>Photographs, letters and documents, most of them from {d.kind === "person" ? `${d.name}'s own lifetime` : "the time"}.</small>
-        </h2>
-
-        {pictures(media.original).length > 0 && (
-          <ul class="gallery">
-            {pictures(media.original).map((m) => (
-              <li>
-                <a href={m.page} rel="noopener">
-                  <img src={m.thumb ?? m.url} alt={m.title} loading="lazy" {...dims(m)} />
-                  <span class="cap">{m.year && <span class="yr">{m.year}</span>}{cap(m)}</span>
-                  <span class="credit">{credit(m)}</span>
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
-
-        {papers(media.original).length > 0 && (
-          <ul class="gallery">
-            {papers(media.original).map((m) => (
-              <li>
-                <div class:list={[m.type === "document" ? "doc" : "snd"]}>
-                  {m.type === "document" && <a href={m.url} rel="noopener"><span class="doc-mark">Read the document</span></a>}
-                  {m.type === "audio" && <audio controls preload="none" src={m.url}></audio>}
-                  {m.type === "video" && <video controls preload="none" src={m.url} style="width:100%"></video>}
-                  <span class="cap">{m.year && <span class="yr">{m.year}</span>}{m.title}</span>
-                  <span class="credit">{credit(m)}. <a href={m.page} rel="noopener">Details</a></span>
-                </div>
-              </li>
-            ))}
-          </ul>
-        )}
-
+        </div>
+        {media.original.length > 0 && <ul class="media-grid">{media.original.map((m) => <li><MediaItem item={m} /></li>)}</ul>}
         {media.later.length > 0 && (
-          <details class="more-media">
-            <summary>How India remembers {d.name} <span>({media.later.length} pictures of statues, memorials and places)</span></summary>
-            <ul class="gallery">
-              {media.later.map((m) => (
-                <li>
-                  <a href={m.page} rel="noopener">
-                    {m.type === "image" ? <img src={m.thumb ?? m.url} alt={m.title} loading="lazy" {...dims(m)} /> : null}
-                    <span class="cap">{m.year && <span class="yr">{m.year}</span>}{cap(m)}</span>
-                    <span class="credit">{credit(m)}</span>
-                  </a>
-                </li>
-              ))}
-            </ul>
+          <details class="more" open={media.original.length === 0}>
+            <summary>How India remembers {d.name} ({media.later.length})</summary>
+            <ul class="media-grid">{media.later.map((m) => <li><MediaItem item={m} /></li>)}</ul>
           </details>
         )}
-
-        <p class="small-print">
-          These come from Wikimedia Commons and Wikipedia. We only show files that anyone is free to reuse, and each one names who made it and its licence.
-          Tap any picture to see its full record.
-        </p>
+        <p class="fine-print">From Wikimedia Commons and Wikipedia. We only show files anyone is free to reuse; each names who made it and its licence. Tap a picture to see it large.</p>
       </section>
     )}
 
-    {connected.length > 0 && (
-      <section>
-        <h2 class="chapter-head">People and moments around {d.name}</h2>
-        <ul class="people-row">
-          {connected.map((p) => (
-            <li>
-              <a href={hubUrl(p)}>
-                <span class="face">{p.data.image ? <img src={p.data.image.src} alt="" loading="lazy" /> : p.data.name.charAt(0)}</span>
-                <span><span class="who">{p.data.name}</span><span class="what">{p.data.kind === "event" ? p.data.year : p.data.role}</span></span>
-              </a>
-            </li>
-          ))}
-        </ul>
+    {related.length > 0 && (
+      <section class="section" id="connections">
+        <div class="section-head"><h2>Connections</h2></div>
+        {Object.entries(connections).filter(([, list]) => list.length).map(([group, list]) => (
+          <>
+            <h3 style="margin:1.5rem 0 0.5rem;font-size:1rem;color:var(--soft)">{({ people: "People", events: "Events", places: "Places", groups: "Groups and organisations" } as Record<string, string>)[group]}</h3>
+            <ul class="people-grid">{list.map((s) => <li><SubjectRow subject={s} /></li>)}</ul>
+          </>
+        ))}
       </section>
     )}
 
     {d.sources.length > 0 && (
-      <section class="after" style="padding-top:0">
-        <h2 class="chapter-head">Where we found the facts</h2>
-        <ol class="sources">
-          {d.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span class="pub">. {s.publisher}</span>}</li>)}
-        </ol>
+      <section class="section sources" id="sources">
+        <div class="section-head"><h2>Where we found the facts</h2></div>
+        <ol>{d.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span style="color:var(--soft)">. {s.publisher}</span>}</li>)}</ol>
       </section>
     )}
-  </main>
+  </div>
+  <PageScripts />
 </Base>

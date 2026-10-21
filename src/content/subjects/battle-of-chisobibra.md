@@ -11,6 +11,7 @@ places:
   - "Chisobibra, Garo Hills"
 related:
   - "pa-togan-nengminza-sangma"
+  - "chisobibra-garo-hills"
 sources:
   - title: "Pa Togan Nengminza Sangma — Commemorative Postage Stamp Brochure"
     url: "https://postagestamps.gov.in/Pdf/Pa_Togan_Nengminza_Sangma_BROCHURE.pdf"

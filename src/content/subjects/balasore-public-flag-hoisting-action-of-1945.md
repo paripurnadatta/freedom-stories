@@ -11,6 +11,7 @@ places:
   - "Balasore / Jharpimpal"
 related:
   - "gour-hari-das"
+  - "jharpimpal-balasore"
 sources:
   - title: "Gour Hari Das"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?12396="

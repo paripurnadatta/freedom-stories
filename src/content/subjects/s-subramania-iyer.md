@@ -13,6 +13,7 @@ places: []
 related:
   - "madras-mahajana-sabha-public-politics"
   - "annie-besant"
+  - "madras-mahajana-sabha"
 sources:
   - title: "N. G. Ranga"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2850="

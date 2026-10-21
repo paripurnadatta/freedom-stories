@@ -12,6 +12,7 @@ role: "Nationalist / Ghadar organizer"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Bhai Parmanand"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12466="

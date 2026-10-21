@@ -11,6 +11,7 @@ role: "INA officer"
 places: []
 related:
   - "indian-national-army-operations"
+  - "indian-national-army"
 sources: []
 ---
 

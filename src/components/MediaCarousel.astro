@@ -1,0 +1,15 @@
+---
+import Icon from "./Icon.astro";
+import MediaItem from "./MediaItem.astro";
+import type { MediaItem as Item } from "../lib/site";
+
+interface Props { items: Item[]; label: string }
+const { items, label } = Astro.props;
+---
+<div class="carousel" data-carousel>
+  <button class="carousel-btn prev" type="button" data-dir="-1" aria-label={`Previous pictures in ${label}`}><Icon name="left" /></button>
+  <ul class="carousel-track" aria-label={label}>
+    {items.map((item) => <li><MediaItem item={item} /></li>)}
+  </ul>
+  <button class="carousel-btn next" type="button" data-dir="1" aria-label={`Next pictures in ${label}`}><Icon name="right" /></button>
+</div>

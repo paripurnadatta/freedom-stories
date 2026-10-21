@@ -13,6 +13,7 @@ places:
   - "Kobe / Japan"
 related:
   - "rani-of-jhansi-regiment-training-and-mobilisation"
+  - "rani-of-jhansi-regiment"
 sources:
   - title: "Firoz Shah in Bangar Mau"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16185="

@@ -11,6 +11,7 @@ places:
   - "Chirala–Perala"
 related:
   - "duggirala-gopalakrishnayya"
+  - "chiralaperala"
 sources:
   - title: "Chirala-Perala no-tax campaign"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?7615="

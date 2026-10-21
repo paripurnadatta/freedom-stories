@@ -11,6 +11,7 @@ role: "Political organizer"
 places: []
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources: []
 ---
 

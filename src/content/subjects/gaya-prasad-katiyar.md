@@ -12,6 +12,7 @@ role: "Revolutionary activist"
 places: []
 related:
   - "saunders-assassination-lahore-protest-phase"
+  - "hindustan-socialist-republican-association"
 sources:
   - title: "Dr. Gaya Prasad Katiyar"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?22883="

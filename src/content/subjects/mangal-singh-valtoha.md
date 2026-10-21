@@ -11,6 +11,7 @@ role: "Ghadar revolutionary"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Mangal Singh Valtoha"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12642="

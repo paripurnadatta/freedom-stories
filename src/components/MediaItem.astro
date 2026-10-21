@@ -1,0 +1,28 @@
+---
+import Icon from "./Icon.astro";
+import { cleanCredit, shortCaption, type MediaItem } from "../lib/site";
+
+interface Props { item: MediaItem }
+const { item } = Astro.props;
+const caption = shortCaption(item.description, item.title);
+const credit = cleanCredit(item.author, item.license);
+---
+{item.type === "image" ? (
+  <button class="media-item" type="button" data-lightbox data-src={item.url} data-thumb={item.thumb ?? item.url} data-caption={caption} data-credit={credit} data-page={item.page} data-year={item.year ?? ""}>
+    <span class="frame"><img src={item.thumb ?? item.url} alt={item.title} loading="lazy" /></span>
+    <span class="cap">{item.year && <span class="yr">{item.year}</span>}{caption}</span>
+    <span class="credit">{credit}</span>
+  </button>
+) : (
+  <div>
+    <div class="media-file">
+      {item.type === "document" && <a href={item.url} class="big" rel="noopener"><Icon name="document" /> Read the document</a>}
+      {item.type === "audio" && <><span class="big"><Icon name="sound" /> Listen</span><audio controls preload="none" src={item.url}></audio></>}
+      {item.type === "video" && <video controls preload="none" src={item.url}></video>}
+    </div>
+    <span class="media-item" style="cursor:default">
+      <span class="cap">{item.year && <span class="yr">{item.year}</span>}{item.title}</span>
+      <span class="credit">{credit}. <a href={item.page} rel="noopener">Details</a></span>
+    </span>
+  </div>
+)}

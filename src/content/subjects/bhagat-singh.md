@@ -26,6 +26,10 @@ related:
   - "ajit-singh"
   - "jallianwala-bagh-massacre"
   - "simon-commission-boycott"
+  - "hindustan-socialist-republican-association"
+  - "naujawan-bharat-sabha"
+  - "lahore"
+  - "delhi"
 sources:
   - title: "Dictionary of Martyrs: India's Freedom Struggle (1857–1947), Vol. I Part II, Bhagat Singh entry"
     url: "https://www.culture.gov.in/files/publications_documents/Martyrs_Vol_1_Part_II_06_03_2019_2.pdf"
@@ -74,7 +78,8 @@ angles:
     hook: "The plan had one target. The bullets found someone else."
   - title: "The disguise on the train"
     type: short
-    hook: "The police were watching every station in Lahore. So he cut his hair, borrowed a wife and a baby, and bought a first-class ticket."
+    hook: "The police were watching every station in Lahore. So he cut his hair, borrowed a wife and a baby, and walked right past them."
+    story: "the-disguise-on-the-train"
   - title: "The hat in the photograph"
     type: short
     hook: "The most famous hat in Indian history may not even have been his."

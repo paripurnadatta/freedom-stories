@@ -12,6 +12,7 @@ role: "Congress organizer"
 places: []
 related:
   - "dipa-congress-movement"
+  - "dipa-congress-committee"
 sources:
   - title: "Azamgarh Proclamation (Manifesto of the 1857 Revolutionaries)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9251="

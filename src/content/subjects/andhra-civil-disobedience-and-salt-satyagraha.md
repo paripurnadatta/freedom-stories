@@ -11,6 +11,7 @@ places:
   - "Coastal Andhra"
 related:
   - "unnava-lakshminarayana"
+  - "coastal-andhra-movement-region"
 sources:
   - title: "Krovvidi Lingaraju"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?23302="

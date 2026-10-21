@@ -17,6 +17,7 @@ related:
   - "kaloji-narayana-rao"
   - "dasarathi-krishnamacharyulu"
   - "marri-chenna-reddy"
+  - "hyderabad-state"
 sources:
   - title: "Swami Ramanand Tirtha"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2291="

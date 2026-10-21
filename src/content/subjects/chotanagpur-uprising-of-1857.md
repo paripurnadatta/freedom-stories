@@ -15,6 +15,7 @@ related:
   - "achraj-singh"
   - "bhajuniya"
   - "hari-ram"
+  - "chotanagpur-place"
 sources:
   - title: "Pandey Ganpat Rai"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?8781="

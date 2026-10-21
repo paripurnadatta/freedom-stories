@@ -17,6 +17,7 @@ related:
   - "s-srinivasa-iyengar"
   - "bhagwan-das"
   - "neki-ram-sharma"
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

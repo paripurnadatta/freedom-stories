@@ -11,6 +11,7 @@ role: "Underground activist / propagandist"
 places: []
 related:
   - "quit-india-movement"
+  - "amravati"
 sources:
   - title: "Brijmohan Gopicharan Gupta"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?11154="

@@ -13,6 +13,7 @@ places:
   - "Tendukheda"
 related:
   - "quit-india-movement"
+  - "tendukheda"
 sources:
   - title: "Phoolchand Gupta"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?29280="

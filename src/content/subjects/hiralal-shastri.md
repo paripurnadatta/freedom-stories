@@ -13,6 +13,7 @@ places: []
 related:
   - "rajasthan-praja-mandal-and-azad-morcha-movements"
   - "hans-d-rai"
+  - "jaipur-praja-mandal"
 sources:
   - title: "Chittaranjan Das's Speech at Calcutta Municipal Corporation, 1924"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12900="

@@ -15,6 +15,7 @@ places:
   - "Singhauli, post-Makanpur"
 related:
   - "civil-disobedience-movement"
+  - "singhauli"
 sources:
   - title: "Mewa Lal"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?27992="

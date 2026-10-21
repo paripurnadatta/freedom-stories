@@ -14,6 +14,8 @@ related:
   - "civil-disobedience-movement"
   - "quit-india-movement"
   - "omeo-kumar-das"
+  - "mukti-sangha"
+  - "lakhimpur"
 sources:
   - title: "Pushpalata Das"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?459="

@@ -12,6 +12,7 @@ role: "Political organizer"
 places: []
 related:
   - "formation-of-the-indian-national-congress"
+  - "indian-national-congress"
 sources: []
 image:
   src: "/portraits/t-s-s-rajan.webp"

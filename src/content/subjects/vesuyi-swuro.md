@@ -12,6 +12,7 @@ places: []
 related:
   - "inajapanese-campaign-and-local-support-in-the-naga-hills"
   - "ina-imphal-kohima-campaign"
+  - "azad-hind-government"
 sources:
   - title: "Poswuyi Swuro"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3229="

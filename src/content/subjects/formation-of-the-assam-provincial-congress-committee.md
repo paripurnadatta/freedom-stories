@@ -11,6 +11,7 @@ places:
   - "Kamrup Metropolitan / Guwahati area"
 related:
   - "kuladhar-chaliha"
+  - "kamrup-metropolitan-guwahati-area"
 sources:
   - title: "Formation of Assam Provincial Congress Committee, 1921"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?14698="

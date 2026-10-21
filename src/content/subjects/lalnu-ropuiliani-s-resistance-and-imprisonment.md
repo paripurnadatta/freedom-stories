@@ -12,6 +12,7 @@ places:
 related:
   - "lalnu-ropuiliani"
   - "lalthuama"
+  - "lushai-hills-lunglei"
 sources:
   - title: "Lalnu Ropuiliani"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12492="

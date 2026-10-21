@@ -14,6 +14,7 @@ related:
   - "k-kelappan"
   - "k-p-kesava-menon"
   - "t-k-madhavan"
+  - "travancore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

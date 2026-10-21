@@ -13,6 +13,8 @@ places:
 related:
   - "satara-prati-sarkar"
   - "quit-india-movement"
+  - "prati-sarkar"
+  - "yedemachindra-satara"
 sources:
   - title: "P. Sundarayya and the Peasant Movement in Andhra Pradesh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?13358="

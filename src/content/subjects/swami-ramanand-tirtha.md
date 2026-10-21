@@ -13,6 +13,7 @@ places: []
 related:
   - "hyderabad-state-congress-satyagraha"
   - "hyderabad-state-congress-campaign-for-responsible-government-and-merger"
+  - "hyderabad-state-congress"
 sources:
   - title: "Swami Ramanand Tirtha"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2291="

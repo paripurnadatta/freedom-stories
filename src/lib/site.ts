@@ -2,21 +2,38 @@ import { getCollection, type CollectionEntry } from "astro:content";
 
 export type Subject = CollectionEntry<"subjects">;
 export type Story = CollectionEntry<"stories">;
+type MediaData = CollectionEntry<"media">["data"];
+export type MediaItem = MediaData["items"][number];
+export type Picture = NonNullable<Subject["data"]["image"]>;
 
-export const hubUrl = (s: Subject) => `/${s.data.kind === "person" ? "people" : "events"}/${s.id}/`;
+export const KINDS = {
+  person: { path: "people", plural: "People", one: "Person" },
+  event: { path: "events", plural: "Events", one: "Event" },
+  place: { path: "places", plural: "Places", one: "Place" },
+  organisation: { path: "organisations", plural: "Organisations", one: "Organisation" },
+} as const;
+export type Kind = keyof typeof KINDS;
+
+export const hubUrl = (s: Subject) => `/${KINDS[s.data.kind].path}/${s.id}/`;
 export const storyUrl = (s: Story) => `/stories/${s.id}/`;
 
-/** Everything the pages need, loaded once per build. */
+/** A subject earns its own page once a story features it, or once it has enough pictures to be worth a visit. */
+const MEDIA_FOR_PAGE = 4;
+
+let cache: Awaited<ReturnType<typeof build>> | undefined;
 export async function loadSite() {
-  const subjects = await getCollection("subjects");
+  cache ??= await build();
+  return cache;
+}
+
+async function build() {
+  const subjects = (await getCollection("subjects")).sort((a, b) => a.data.name.localeCompare(b.data.name));
   const stories = (await getCollection("stories"))
     .filter((s) => s.data.status === "published")
     .sort((a, b) => a.data.year - b.data.year);
-
   const subjectById = new Map(subjects.map((s) => [s.id, s]));
-  const mediaById = new Map((await getCollection("media")).map((m) => [m.data.subject, m.data]));
+  const media = new Map((await getCollection("media")).map((m) => [m.data.subject, m.data as MediaData]));
 
-  // Stories mainly about a subject (first in `about`), and stories they appear in.
   const mainStories = new Map<string, Story[]>();
   const appearsIn = new Map<string, Story[]>();
   for (const story of stories) {
@@ -26,38 +43,72 @@ export async function loadSite() {
     });
   }
 
-  // A subject gets its own page once at least one published story features it.
-  const hasHub = (id: string) => mainStories.has(id) || appearsIn.has(id);
+  const mediaOf = (id: string) => {
+    const m = media.get(id);
+    if (!m) return { original: [] as MediaItem[], later: [] as MediaItem[] };
+    const shown = m.items.filter((i) => !m.hidden.includes(i.file));
+    return { original: shown.filter((i) => i.era === "original"), later: shown.filter((i) => i.era === "later") };
+  };
+  const mediaCount = (id: string) => {
+    const m = mediaOf(id);
+    return m.original.length + m.later.length;
+  };
+
+  const hasStories = (id: string) => mainStories.has(id) || appearsIn.has(id);
+  const hasHub = (id: string) => hasStories(id) || mediaCount(id) >= MEDIA_FOR_PAGE;
   const hubs = subjects.filter((s) => hasHub(s.id));
 
   const sortStories = (list: Story[] = []) =>
     [...list].sort((a, b) => (a.data.type === b.data.type ? a.data.year - b.data.year : a.data.type === "flagship" ? -1 : 1));
 
+  /** The picture that leads a story: its painting, its own picture, or its main subject's portrait. */
+  const leadPicture = (story: Story): { picture?: Picture; painted: boolean } => {
+    if (story.data.illustration) return { picture: story.data.illustration, painted: true };
+    const main = subjectById.get(story.data.about[0]);
+    return { picture: story.data.image ?? main?.data.image, painted: false };
+  };
+
+  const latest = [...stories].sort((a, b) => (b.data.published?.getTime() ?? 0) - (a.data.published?.getTime() ?? 0));
+
   return {
     subjects,
     stories,
+    latest,
     subjectById,
     hubs,
     hasHub,
-    mediaOf: (id: string) => {
-      const m = mediaById.get(id);
-      if (!m) return { original: [], later: [] };
-      const shown = m.items.filter((i) => !m.hidden.includes(i.file));
-      return { original: shown.filter((i) => i.era === "original"), later: shown.filter((i) => i.era === "later") };
-    },
+    hasStories,
+    mediaOf,
+    leadPicture,
     mainStoriesOf: (id: string) => sortStories(mainStories.get(id)),
     appearsInOf: (id: string) => sortStories(appearsIn.get(id)),
+    /** Other published stories that share at least one subject with this one. */
+    relatedStories: (story: Story) =>
+      stories.filter((s) => s.id !== story.id && s.data.about.some((id) => story.data.about.includes(id))),
   };
 }
 
 export function datesOf(s: Subject): string {
-  if (s.data.kind === "event") return s.data.date ?? String(s.data.year);
-  return [s.data.born?.slice(0, 4), s.data.died?.slice(0, 4)].filter(Boolean).join("–");
+  const d = s.data;
+  if (d.kind === "person") return [d.born?.slice(0, 4), d.died?.slice(0, 4)].filter(Boolean).join("–");
+  if (d.kind === "organisation") return [d.founded, d.ended].filter(Boolean).join("–") || "";
+  if (d.kind === "event") return d.date ? d.date.slice(0, 4) : String(d.year);
+  return "";
+}
+
+/** One short line under a name: a person's role, an event's year, a place's region. */
+export function lineFor(s: Subject): string {
+  const d = s.data;
+  if (d.kind === "person") return [d.role, datesOf(s)].filter(Boolean).join(", ");
+  if (d.kind === "event") return [datesOf(s), d.region].filter(Boolean).join(", ");
+  if (d.kind === "organisation") return [datesOf(s) && `Founded ${d.founded}`, d.region].filter(Boolean).join(", ");
+  return d.region;
 }
 
 /** Roughly how long a story takes a young reader (about 150 words a minute). */
 export function minutesToRead(body = ""): number {
-  const words = body.replace(/<[^>]+>/g, " ").replace(/[#*_>`-]/g, " ").split(/\s+/).filter(Boolean).length;
+  const text = body.replace(/<figure[\s\S]*?<\/figure>/g, "").replace(/<aside[\s\S]*?<\/aside>/g, "").replace(/<[^>]+>/g, " ");
+  const words = text.replace(/[#*_>`-]/g, " ").split(/\s+/).filter(Boolean).length;
   return Math.max(2, Math.round(words / 150));
 }
 
@@ -74,7 +125,7 @@ export function cleanCredit(author: string, license: string): string {
 /** A short caption: the first sentence of the description, or the title. */
 export function shortCaption(description: string, title: string): string {
   const text = (description || title).replace(/\s+/g, " ").trim();
-  const first = text.match(/^.{20,180}?[.!?](?=\s|$)/)?.[0] ?? text;
-  const capped = first.length > 180 ? first.slice(0, 177).replace(/\s+\S*$/, "") + "..." : first;
+  const first = text.match(/^.{20,160}?[.!?](?=\s|$)/)?.[0] ?? text;
+  const capped = first.length > 160 ? first.slice(0, 157).replace(/\s+\S*$/, "") + "..." : first;
   return capped.charAt(0).toUpperCase() + capped.slice(1);
 }

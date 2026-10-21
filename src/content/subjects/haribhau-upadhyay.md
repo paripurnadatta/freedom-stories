@@ -11,6 +11,7 @@ role: "Political organizer"
 places: []
 related:
   - "formation-of-the-indian-national-congress"
+  - "indian-national-congress"
 sources: []
 ---
 

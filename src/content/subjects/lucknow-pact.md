@@ -9,7 +9,8 @@ year: 1916
 region: "Uttar Pradesh"
 places:
   - "Lucknow"
-related: []
+related:
+  - "lucknow"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

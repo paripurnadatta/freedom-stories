@@ -9,7 +9,8 @@ year: 1909
 region: "Pan-India"
 places:
   - "India"
-related: []
+related:
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

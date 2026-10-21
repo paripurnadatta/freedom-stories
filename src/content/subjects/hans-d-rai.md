@@ -12,6 +12,7 @@ places: []
 related:
   - "rajasthan-praja-mandal-and-azad-morcha-movements"
   - "hiralal-shastri"
+  - "jaipur-praja-mandal"
 sources:
   - title: "Maulvi Liaqat Ali"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?4596="

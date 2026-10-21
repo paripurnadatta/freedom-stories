@@ -11,6 +11,7 @@ role: "Ghadar revolutionary"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Sher Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12590="

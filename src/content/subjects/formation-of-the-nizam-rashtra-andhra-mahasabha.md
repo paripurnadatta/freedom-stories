@@ -11,6 +11,7 @@ places:
   - "Hyderabad State"
 related:
   - "konda-venkata-ranga-reddy"
+  - "hyderabad-state"
 sources:
   - title: "Konda Venkata Ranga Reddy"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?1952="

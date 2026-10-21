@@ -11,6 +11,7 @@ places:
   - "Puri / Cuttack"
 related:
   - "bhagwati-charan-panigrahi"
+  - "puricuttack-nationalist-literary-region"
 sources:
   - title: "Bhagwati Charan Panigrahi"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?6880="

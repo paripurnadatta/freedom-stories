@@ -14,6 +14,7 @@ places:
   - "Salikotha / Jaleswar / Balasore"
 related:
   - "civil-disobedience-movement"
+  - "salikotha"
 sources:
   - title: "Tikait Umrao Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?19748="

@@ -14,6 +14,7 @@ places:
   - "Bhimrad / Gujarat coast"
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources:
   - title: "Azamgarh Proclamation (Manifesto of the 1857 Revolutionaries)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9251="

@@ -12,6 +12,7 @@ role: "Political organizer"
 places: []
 related:
   - "formation-of-the-indian-national-congress"
+  - "indian-national-congress"
 sources:
   - title: "S. Srinivasa Iyengar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?8474="

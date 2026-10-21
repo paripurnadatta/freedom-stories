@@ -14,6 +14,7 @@ places:
   - "Thiruvananthapuram"
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "Azimullah Khan"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?1859="

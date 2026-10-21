@@ -11,6 +11,7 @@ places:
   - "Pune region"
 related:
   - "umaji-naik"
+  - "pune"
 sources:
   - title: "Umaji Naik"
     url: "https://amritmahotsav.nic.in/event-detail.htm?114208="

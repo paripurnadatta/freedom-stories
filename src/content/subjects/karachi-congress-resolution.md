@@ -9,7 +9,8 @@ year: 1931
 region: "Sindh (historical)"
 places:
   - "Karachi"
-related: []
+related:
+  - "karachi"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

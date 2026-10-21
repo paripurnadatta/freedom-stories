@@ -9,7 +9,8 @@ year: 1931
 region: "Delhi"
 places:
   - "Delhi"
-related: []
+related:
+  - "delhi"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

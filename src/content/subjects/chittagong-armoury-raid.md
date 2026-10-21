@@ -19,6 +19,7 @@ related:
   - "sachindra-lal-singh"
   - "apurva-sen"
   - "ardhendu-dastidar"
+  - "chittagong"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

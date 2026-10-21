@@ -14,6 +14,7 @@ places:
   - "Vedaranyam"
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources:
   - title: "Malagarh Fort — Walidad Khan"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?24691="

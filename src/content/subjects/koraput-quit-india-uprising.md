@@ -25,6 +25,7 @@ related:
   - "khagapati-amanatya"
   - "khagapati-bhotra"
   - "mangal-madkami"
+  - "koraputmalkangiri"
 sources:
   - title: "Tribal Leaders and Freedom Movement"
     url: "https://cmsadmin.amritmahotsav.nic.in/blogdetail.htm?47="

@@ -13,6 +13,7 @@ related:
   - "u-kiang-nongbah"
   - "kat-daloi"
   - "oossa-maratteang"
+  - "jaintia-hills"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

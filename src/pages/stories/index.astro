@@ -1,0 +1,33 @@
+---
+import Base from "../../layouts/Base.astro";
+import StoryCard from "../../components/StoryCard.astro";
+import { loadSite } from "../../lib/site";
+
+const site = await loadSite();
+const flagships = site.stories.filter((s) => s.data.type === "flagship");
+const shorts = site.stories.filter((s) => s.data.type === "short");
+const planned = site.subjects.reduce((n, s) => n + s.data.angles.filter((a) => !a.story).length, 0);
+---
+<Base title="Stories of India's freedom struggle" description="Flagship stories and short stories about the people and moments of India's freedom struggle, written for young readers." section="stories">
+  <div class="page">
+    <ol class="crumbs" aria-label="Breadcrumb"><li><a href="/">Home</a></li><li aria-current="page">Stories</li></ol>
+    <header style="padding:1.5rem 0 0.5rem">
+      <h1 style="font-size:clamp(2.2rem,5vw,3.2rem);font-weight:800">Stories</h1>
+      <p style="margin-top:0.6rem;font-size:1.15rem;color:var(--soft);max-width:42rem">
+        Flagship stories tell a whole life or a whole event. Short stories zoom in on one moment. {site.stories.length} so far, and {planned} more on the way.
+      </p>
+    </header>
+    {flagships.length > 0 && (
+      <section class="section" style="padding-top:1.5rem">
+        <div class="section-head"><h2>Flagship stories</h2></div>
+        <ul class="cards">{flagships.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+      </section>
+    )}
+    {shorts.length > 0 && (
+      <section class="section">
+        <div class="section-head"><h2>Short stories</h2></div>
+        <ul class="cards">{shorts.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+      </section>
+    )}
+  </div>
+</Base>

@@ -12,6 +12,7 @@ places: []
 related:
   - "formation-of-the-indian-national-congress"
   - "anugrah-narayan-sinha"
+  - "indian-national-congress"
 sources:
   - title: "K. P. Keshava Menon"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3266="

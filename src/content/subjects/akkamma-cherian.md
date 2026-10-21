@@ -13,6 +13,7 @@ places: []
 related:
   - "travancore-state-congress-movement"
   - "quit-india-movement"
+  - "travancore-state-congress"
 sources:
   - title: "Accamma Cherian"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?54="

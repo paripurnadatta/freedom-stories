@@ -14,6 +14,7 @@ related:
   - "shyamlal-som"
   - "meendhu-kumhar"
   - "shankar-rao-ganoudwale"
+  - "rudrinavagaon-lakhanpuri"
 sources:
   - title: "Jungle Satyagraha 1930"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?21406="

@@ -11,6 +11,7 @@ role: "Princely-state political activist"
 places: []
 related:
   - "rajasthan-praja-mandal-and-azad-morcha-movements"
+  - "jaipur-praja-mandal"
 sources:
   - title: "Firoz Shah"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?13879="

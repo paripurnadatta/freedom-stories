@@ -13,6 +13,7 @@ related:
   - "moji-riba"
   - "moje-riba"
   - "ligin-bomjen"
+  - "dipa-arunachal-frontier"
 sources:
   - title: "Moji Riba"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?4940="

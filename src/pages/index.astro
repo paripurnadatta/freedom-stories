@@ -1,38 +1,76 @@
 ---
+import { existsSync } from "node:fs";
 import Base from "../layouts/Base.astro";
-import { loadSite, storyUrl } from "../lib/site";
+import Icon from "../components/Icon.astro";
+import StoryCard from "../components/StoryCard.astro";
+import { loadSite, KINDS } from "../lib/site";
 
 const site = await loadSite();
-const people = site.subjects.filter((s) => s.data.kind === "person").length;
-const planned = site.subjects.reduce((n, s) => n + s.data.angles.filter((a) => !a.story).length, 0);
----
-<Base title="The Struggle for Freedom: stories of India, 1757 to 1947">
-  <main class="wide">
-    <header class="home-open">
-      <h1>The Struggle for Freedom<span class="hi">आज़ादी की कहानियाँ</span></h1>
-      <p>
-        True stories of the people who fought for India's freedom, from the Battle of Plassey in 1757 to Independence in 1947.
-        Every story is checked against real records.
-      </p>
-      <p class="count">{site.stories.length} {site.stories.length === 1 ? "story" : "stories"} so far. {planned} more on the way, and {people} people still waiting for theirs.</p>
-    </header>
+const count = (k: keyof typeof KINDS) => site.subjects.filter((s) => s.data.kind === k).length;
 
-    <h2 class="chapter-head">Start reading</h2>
-    <ol class="contents">
-      {site.stories.map((s) => {
-        const who = site.subjectById.get(s.data.about[0]);
-        return (
-          <li class:list={{ flag: s.data.type === "flagship" }}>
-            <a href={storyUrl(s)}>
-              <span>
-                <span class="kind">{who?.data.name}</span>
-                <span class="t">{s.data.title}</span>
-                <span class="h">{s.data.subtitle}</span>
-              </span>
-            </a>
-          </li>
-        );
-      })}
-    </ol>
-  </main>
+// The painted hero, once it exists in public/illustrations/. Until then, an archive photograph.
+const painted = existsSync("public/illustrations/home-hero.webp");
+const hero = painted
+  ? { src: "/illustrations/home-hero.webp", alt: "", caption: "" }
+  : { src: "/media/bhagat-singh/drama-club-1924.webp", alt: "", caption: "National College drama club, Lahore, 1924. Public domain." };
+
+const featured = [...site.stories.filter((s) => s.data.featured), ...site.latest.filter((s) => !s.data.featured)].slice(0, 3);
+const latest = site.latest.slice(0, 8);
+const tiles = [
+  ["people", "person", "People", count("person"), "Freedom fighters, leaders and unsung heroes"],
+  ["events", "calendar", "Events", count("event"), "Battles, movements and turning points"],
+  ["places", "pin", "Places", count("place"), "Towns, villages and jails"],
+  ["organisations", "organisation", "Organisations", count("organisation"), "Groups, parties and secret societies"],
+  ["stories", "book", "Stories", site.stories.length, "Flagship and short stories"],
+] as const;
+---
+<Base title="The Struggle for Freedom: true stories of India, 1757 to 1947">
+  <section class="hero">
+    <div class="page">
+      <div class="hero-copy">
+        <h1>Real stories. Remarkable people. A free India.<span class="hi">आज़ादी की कहानियाँ</span></h1>
+        <p>Discover the people, events and places of India's long struggle for freedom, from Plassey in 1757 to Independence in 1947. Every story is checked against real records.</p>
+        <form class="search-box" action="/search/" role="search">
+          <Icon name="search" />
+          <label class="visually-hidden" for="q-hero">Search stories, people, events and places</label>
+          <input id="q-hero" name="q" type="search" placeholder="Search stories, people, events, places" />
+        </form>
+      </div>
+      <figure class:list={["hero-art", { archive: !painted }]}>
+        <img src={hero.src} alt={hero.alt} fetchpriority="high" />
+        {hero.caption && <figcaption>{hero.caption}</figcaption>}
+      </figure>
+    </div>
+  </section>
+
+  <div class="page">
+    <section class="section">
+      <div class="section-head"><h2>Featured stories</h2><a class="see-all" href="/stories/">See all stories <Icon name="arrow" /></a></div>
+      <ul class="cards">{featured.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Explore by category</h2></div>
+      <ul class="tiles">
+        {tiles.map(([path, icon, label, n, text]) => (
+          <li><a class="tile" href={`/${path}/`}><Icon name={icon} /><strong>{label}</strong><span class="n">{n}</span><span>{text}</span></a></li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="section">
+      <div class="banner">
+        <div>
+          <h2>Stories from across India</h2>
+          <p>The freedom struggle happened in every corner of the country: in Bengal and Punjab, in the hills of the North East and the coasts of the South. Find the places where it happened.</p>
+        </div>
+        <a class="button" href="/places/"><Icon name="map" /> Browse places</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Latest stories</h2><a class="see-all" href="/stories/">See all stories <Icon name="arrow" /></a></div>
+      <ul class="cards">{latest.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+    </section>
+  </div>
 </Base>

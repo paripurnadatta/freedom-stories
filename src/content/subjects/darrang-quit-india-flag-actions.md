@@ -13,6 +13,7 @@ related:
   - "pushpalata-das"
   - "mukunda-kakati"
   - "omeo-kumar-das"
+  - "lakhimpur"
 sources:
   - title: "Pushpalata Das"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?459="

@@ -11,6 +11,7 @@ places:
   - "Sihawa–Nagri, Dhamtari"
 related:
   - "shyamlal-som"
+  - "sihawanagri"
 sources:
   - title: "Nagri Sihawa Jungle Satyagraha"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?14747="

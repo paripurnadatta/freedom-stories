@@ -11,6 +11,7 @@ role: "Martyr / freedom-struggle participant"
 places: []
 related:
   - "ina-trials"
+  - "indian-national-army"
 sources:
   - title: "Dictionary of Martyrs Vol. 4 entry — Chandra Sekhar Pal"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_4_06_03_2019.pdf"

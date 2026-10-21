@@ -12,6 +12,7 @@ places:
   - "Delhi"
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources:
   - title: "Tikait Umrao Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?19748="

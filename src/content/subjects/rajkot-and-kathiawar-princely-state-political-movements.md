@@ -13,6 +13,7 @@ related:
   - "saroj-behan-balvantrai-mehta"
   - "amritlal-sheth"
   - "u-n-dhebar"
+  - "rajkotkathiawar"
 sources:
   - title: "Saroj Behan Balvantrai Mehta"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?16031="

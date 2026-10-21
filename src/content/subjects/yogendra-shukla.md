@@ -14,6 +14,7 @@ related:
   - "hazaribagh-jailbreak-and-bihar-quit-india-underground"
   - "suraj-narayan-singh"
   - "jayaprakash-narayan"
+  - "azad-dasta"
 sources:
   - title: "N. G. Ranga"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2850="

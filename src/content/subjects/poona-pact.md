@@ -9,7 +9,8 @@ year: 1932
 region: "Maharashtra"
 places:
   - "Poona"
-related: []
+related:
+  - "poona"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

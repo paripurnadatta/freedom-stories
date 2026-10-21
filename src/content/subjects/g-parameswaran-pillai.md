@@ -15,6 +15,7 @@ places:
   - "Travancore / Thiruvananthapuram"
 related:
   - "malayali-memorial"
+  - "pallippuram-thiruvananthapuram"
 sources:
   - title: "Firoz Shah"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?13879="

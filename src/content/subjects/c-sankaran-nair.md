@@ -10,7 +10,8 @@ year: 1885
 region: "Kerala"
 role: "Early Congress nationalist"
 places: []
-related: []
+related:
+  - "indian-national-congress"
 sources:
   - title: "Past Party Presidents"
     url: "https://inc.in/leadership/past-party-presidents"

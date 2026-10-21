@@ -14,6 +14,7 @@ related:
   - "hazaribagh-jailbreak-and-bihar-quit-india-underground"
   - "jayaprakash-narayan"
   - "yogendra-shukla"
+  - "azad-dasta"
 sources:
   - title: "P. Krishnapillai"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?9224="

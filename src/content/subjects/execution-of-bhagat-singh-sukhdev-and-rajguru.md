@@ -12,6 +12,7 @@ places:
 related:
   - "tana-bhagat"
   - "durga-bhabhi"
+  - "lahore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

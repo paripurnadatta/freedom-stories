@@ -12,6 +12,7 @@ places: []
 related:
   - "telangana-peasant-agitation-and-armed-struggle-onset"
   - "ravi-narayana-reddy"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Maulvi Liaqat Ali"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?4596="

@@ -12,6 +12,7 @@ places:
 related:
   - "rani-chennamma"
   - "sangolli-rayanna"
+  - "kittur"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

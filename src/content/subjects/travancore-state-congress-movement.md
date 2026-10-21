@@ -20,6 +20,7 @@ related:
   - "a-shankara-pillai"
   - "k-c-george"
   - "s-varadarajan-nair"
+  - "travancore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

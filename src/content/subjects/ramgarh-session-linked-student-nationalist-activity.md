@@ -11,6 +11,7 @@ places:
   - "Ramgarh / Ranchi"
 related:
   - "vimal-kumar-das-gupta"
+  - "ramgarhranchi-nationalist-area"
 sources:
   - title: "Vimal Kumar Das Gupta"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?7100="

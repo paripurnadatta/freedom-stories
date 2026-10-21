@@ -12,6 +12,7 @@ places:
   - "Bankipur (Patna)"
 related:
   - "formation-of-the-indian-national-congress"
+  - "indian-national-congress"
 sources: []
 ---
 

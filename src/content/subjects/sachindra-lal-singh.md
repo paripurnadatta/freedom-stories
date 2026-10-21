@@ -15,6 +15,7 @@ related:
   - "reang-uprising-under-ratanmani-in-tripura"
   - "tripura-state-congress-and-responsible-government-movement"
   - "ratanmani-noatia"
+  - "tripura-state-congress"
 sources:
   - title: "Mahadevappa Mailar commemorative stamp summary"
     url: "https://istampgallery.com/mahadevappa-mailar/"

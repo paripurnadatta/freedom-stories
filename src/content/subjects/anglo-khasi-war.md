@@ -12,6 +12,7 @@ places:
 related:
   - "tirot-sing"
   - "ka-phan-nonglait"
+  - "khasi-hills"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

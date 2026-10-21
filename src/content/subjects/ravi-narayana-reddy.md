@@ -13,6 +13,7 @@ related:
   - "hyderabad-state-congress-satyagraha"
   - "telangana-peasant-agitation-and-armed-struggle-onset"
   - "baddam-yella-reddy"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Bulusu Sambamurti"
     url: "https://www.youtube.com/watch?v=yE1uyGiAJpg"

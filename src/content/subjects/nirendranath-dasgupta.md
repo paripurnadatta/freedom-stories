@@ -12,6 +12,7 @@ places:
   - "Bengal Presidency / Faridpur"
 related:
   - "bagha-jatin-and-german-plot"
+  - "jugantar"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Nirendranath Dasgupta"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?4438="

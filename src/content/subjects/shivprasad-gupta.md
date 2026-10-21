@@ -10,7 +10,8 @@ region: "Uttar Pradesh"
 role: "Congress nationalist"
 places:
   - "United Provinces / Varanasi"
-related: []
+related:
+  - "indian-national-congress"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Shivprasad Gupta"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?514="

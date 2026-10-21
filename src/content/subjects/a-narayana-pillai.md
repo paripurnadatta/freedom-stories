@@ -11,6 +11,7 @@ role: "Princely-state political activist"
 places: []
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "A. Narayana Pillai"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?5491="

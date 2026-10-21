@@ -13,6 +13,7 @@ related:
   - "formation-of-the-indian-national-congress"
   - "pherozeshah-mehta"
   - "dadabhai-naoroji"
+  - "indian-national-congress"
 sources:
   - title: "Kumaraswami Kamaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23480="

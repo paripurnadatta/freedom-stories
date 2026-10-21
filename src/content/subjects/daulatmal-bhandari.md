@@ -11,6 +11,7 @@ role: "Princely-state political activist"
 places: []
 related:
   - "rajasthan-praja-mandal-and-azad-morcha-movements"
+  - "jaipur-praja-mandal"
 sources:
   - title: "Faizabad and the 1857 Uprising — Maulavi Ahmadullah Shah"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9726="

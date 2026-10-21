@@ -11,6 +11,7 @@ role: "Revolutionary activist"
 places: []
 related:
   - "saunders-assassination-lahore-protest-phase"
+  - "hindustan-socialist-republican-association"
 sources:
   - title: "Kishori Lal"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3564="

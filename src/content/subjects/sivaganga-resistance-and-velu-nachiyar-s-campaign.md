@@ -13,6 +13,7 @@ related:
   - "rani-velu-nachiyar"
   - "marudhu-pandiyar"
   - "chinna-marudhu"
+  - "sivaganga"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

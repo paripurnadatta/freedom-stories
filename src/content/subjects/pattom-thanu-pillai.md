@@ -14,6 +14,7 @@ places:
   - "Thiruvananthapuram"
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "Firoz Shah in Bangar Mau"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16185="

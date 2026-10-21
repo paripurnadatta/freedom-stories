@@ -11,6 +11,7 @@ role: "Tamralipta organizer"
 places: []
 related:
   - "tamralipta-jatiya-sarkar"
+  - "tamralipta-jatiya-sarkar-organisation"
 sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"

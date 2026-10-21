@@ -1,0 +1,25 @@
+---
+import Icon from "./Icon.astro";
+import { loadSite, hubUrl, lineFor, type Subject } from "../lib/site";
+
+interface Props { subject: Subject; note?: string }
+const { subject, note } = Astro.props;
+const site = await loadSite();
+const linked = site.hasHub(subject.id);
+const img = subject.data.image?.src;
+const icon = { person: "person", event: "calendar", place: "pin", organisation: "organisation" }[subject.data.kind] as "person";
+const inner = { line: note ?? lineFor(subject) };
+---
+{linked ? (
+  <a class="row" href={hubUrl(subject)}>
+    <span class:list={["thumb", { round: subject.data.kind === "person" }]}>{img ? <img src={img} alt="" loading="lazy" /> : <Icon name={icon} />}</span>
+    <span><span class="t">{subject.data.name}</span><span class="s">{inner.line}</span></span>
+    <Icon name="right" />
+  </a>
+) : (
+  <div class="row">
+    <span class:list={["thumb", { round: subject.data.kind === "person" }]}>{img ? <img src={img} alt="" loading="lazy" /> : <Icon name={icon} />}</span>
+    <span><span class="t">{subject.data.name}</span><span class="s">{inner.line}</span></span>
+    <span></span>
+  </div>
+)}

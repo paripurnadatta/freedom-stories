@@ -12,6 +12,7 @@ places:
 related:
   - "sachindra-lal-singh"
   - "ratanmani-noatia"
+  - "reang-uprising-area-in-princely-tripura"
 sources:
   - title: "Yojana August 2024 — Untold Stories of Freedom Struggle from North-East India"
     url: "https://www.publicationsdivision.nic.in/journals/Journalarchives/Yojana/Yojana-Telugu/2024/August/Yojana%20Aug%202024%201%20%281%29.pdf"

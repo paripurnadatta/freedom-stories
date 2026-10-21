@@ -12,6 +12,7 @@ places: []
 related:
   - "telangana-peasant-agitation-and-armed-struggle-onset"
   - "arutla-kamaladevi"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Chittaranjan Das's Speech at Calcutta Municipal Corporation, 1924"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12900="

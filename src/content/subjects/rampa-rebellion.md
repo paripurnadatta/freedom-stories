@@ -11,6 +11,7 @@ places:
   - "Godavari Agency"
 related:
   - "alluri-sitarama-raju"
+  - "godavari-agency"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

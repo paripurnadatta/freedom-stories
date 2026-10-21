@@ -11,6 +11,7 @@ role: "Prajamandal activist"
 places: []
 related:
   - "dewas-prajamandal-activism-during-the-quit-india-era"
+  - "dewas-prajamandal"
 sources:
   - title: "Azamgarh Proclamation (Manifesto of the 1857 Revolutionaries)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9251="

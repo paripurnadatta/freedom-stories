@@ -15,6 +15,7 @@ related:
   - "durgabai-deshmukh"
   - "rajkumari-amrit-kaur"
   - "aruna-asaf-ali"
+  - "gujarat"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

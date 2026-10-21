@@ -11,6 +11,7 @@ places:
   - "Satara district"
 related:
   - "krantisinh-nana-patil"
+  - "yedemachindra-satara"
 sources:
   - title: "Krantisinh Nana Patil"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3465="

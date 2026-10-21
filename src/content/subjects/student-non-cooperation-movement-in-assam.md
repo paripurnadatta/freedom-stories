@@ -12,6 +12,7 @@ places:
 related:
   - "chandranath-sarma"
   - "lakshmidhar-sarma"
+  - "sonitpur-historical-darrang"
 sources:
   - title: "Non-Cooperation Movement by the students of Assam"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?6270="

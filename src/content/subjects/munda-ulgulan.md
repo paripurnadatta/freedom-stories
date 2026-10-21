@@ -15,6 +15,7 @@ related:
   - "maki-munda"
   - "hathi-ram"
   - "monjhia-munda"
+  - "chotanagpur"
 sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"

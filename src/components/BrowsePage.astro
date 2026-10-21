@@ -1,0 +1,68 @@
+---
+import Base from "../layouts/Base.astro";
+import Icon from "./Icon.astro";
+import SubjectRow from "./SubjectRow.astro";
+import { loadSite, hubUrl, lineFor, KINDS, type Kind } from "../lib/site";
+
+interface Props { kind: Kind }
+const { kind } = Astro.props;
+const site = await loadSite();
+const info = KINDS[kind];
+const all = site.subjects.filter((s) => s.data.kind === kind);
+const withStories = all.filter((s) => site.hasStories(s.id));
+const intro = {
+  person: "Freedom fighters, leaders, writers and ordinary people who did extraordinary things.",
+  event: "Battles, risings, marches, trials and turning points, from 1757 to 1947.",
+  place: "Towns, villages, jails and meeting places where the struggle happened.",
+  organisation: "Parties, secret societies, unions and groups that organised the struggle.",
+}[kind];
+---
+<Base title={`${info.plural} of India's freedom struggle`} description={intro} section={info.path}>
+  <div class="page">
+    <ol class="crumbs" aria-label="Breadcrumb"><li><a href="/">Home</a></li><li aria-current="page">{info.plural}</li></ol>
+    <header style="padding:1.5rem 0 0.5rem">
+      <h1 style="font-size:clamp(2.2rem,5vw,3.2rem);font-weight:800">{info.plural}</h1>
+      <p style="margin-top:0.6rem;font-size:1.15rem;color:var(--soft);max-width:40rem">{intro}</p>
+    </header>
+
+    {withStories.length > 0 && (
+      <section class="section" style="padding-top:1.5rem">
+        <div class="section-head"><h2>With stories to read</h2></div>
+        <ul class="people-grid">{withStories.map((s) => <li><SubjectRow subject={s} /></li>)}</ul>
+      </section>
+    )}
+
+    <section class="section" data-filter>
+      <div class="section-head"><div><h2>Everyone on our list</h2><p>Names in bold have a page now. The rest are waiting for their stories.</p></div></div>
+      <div class="filter">
+        <label class="search-box">
+          <Icon name="search" />
+          <span class="visually-hidden">Filter {info.plural.toLowerCase()} by name</span>
+          <input type="search" placeholder={`Type a name`} data-filter-input />
+        </label>
+        <span class="count" data-filter-count aria-live="polite">{all.length} {info.plural.toLowerCase()}</span>
+      </div>
+      <ul class="az">
+        {all.map((s) => (
+          <li data-name={s.data.name.toLowerCase()}>
+            {site.hasHub(s.id) ? <a href={hubUrl(s)}>{s.data.name}</a> : <span class="later">{s.data.name}</span>}
+            {lineFor(s) && <span>, {lineFor(s)}</span>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+  <script is:inline>
+    (function () {
+      var input = document.querySelector("[data-filter-input]");
+      var rows = Array.prototype.slice.call(document.querySelectorAll(".az li"));
+      var count = document.querySelector("[data-filter-count]");
+      var label = count.textContent.replace(/^\d+\s*/, "");
+      input.addEventListener("input", function () {
+        var q = input.value.trim().toLowerCase(), n = 0;
+        rows.forEach(function (r) { var show = !q || r.dataset.name.indexOf(q) > -1; r.hidden = !show; if (show) n++; });
+        count.textContent = n + " " + label;
+      });
+    })();
+  </script>
+</Base>

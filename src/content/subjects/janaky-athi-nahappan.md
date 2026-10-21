@@ -13,6 +13,7 @@ places:
   - "Singapore / Southeast Asia"
 related:
   - "rani-of-jhansi-regiment-training-and-mobilisation"
+  - "rani-of-jhansi-regiment"
 sources:
   - title: "'Deshbandhu' - Chittaranjan Das"
     url: "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=72712"

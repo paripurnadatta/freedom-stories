@@ -9,7 +9,8 @@ year: 1939
 region: "Madhya Pradesh"
 places:
   - "Tripuri"
-related: []
+related:
+  - "tripuri"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

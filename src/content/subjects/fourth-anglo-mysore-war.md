@@ -9,7 +9,8 @@ year: 1799
 region: "Karnataka"
 places:
   - "Srirangapatna"
-related: []
+related:
+  - "srirangapatna"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

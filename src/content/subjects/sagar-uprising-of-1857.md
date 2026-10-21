@@ -11,6 +11,7 @@ places:
   - "Sagar"
 related:
   - "sheikh-ramzan"
+  - "sagar"
 sources:
   - title: "Sheikh Ramzan's Participation in the 1857 Uprising"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?19426="

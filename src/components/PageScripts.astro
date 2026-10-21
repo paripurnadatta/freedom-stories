@@ -1,0 +1,98 @@
+---
+// Behaviour shared by story and subject pages: carousels, lightbox, section tabs,
+// and share / bookmark / print. Everything works without it; this only adds comfort.
+import Icon from "./Icon.astro";
+---
+<dialog class="lightbox" aria-label="Picture">
+  <div class="tools">
+    <a class="icon-button" data-lb-page href="#" rel="noopener" aria-label="Open the full record of this picture"><Icon name="expand" /></a>
+    <button class="icon-button" type="button" data-lb-close aria-label="Close"><Icon name="close" /></button>
+  </div>
+  <figure>
+    <img alt="" />
+    <figcaption><span data-lb-caption></span><span class="credit" data-lb-credit></span></figcaption>
+  </figure>
+</dialog>
+
+<script is:inline>
+  (function () {
+    // Carousels: arrow buttons scroll by one view.
+    document.querySelectorAll("[data-carousel]").forEach(function (c) {
+      var track = c.querySelector(".carousel-track");
+      c.querySelectorAll(".carousel-btn").forEach(function (b) {
+        b.addEventListener("click", function () {
+          track.scrollBy({ left: Number(b.dataset.dir) * track.clientWidth * 0.85, behavior: "smooth" });
+        });
+      });
+    });
+
+    // Lightbox: the picture large, with caption and credit. Arrow keys move between pictures.
+    var dialog = document.querySelector(".lightbox");
+    var items = Array.prototype.slice.call(document.querySelectorAll("[data-lightbox]"));
+    var current = -1;
+    function show(i) {
+      var el = items[i]; if (!el) return;
+      current = i;
+      var img = dialog.querySelector("img");
+      img.src = el.dataset.thumb; img.alt = el.dataset.caption;
+      var full = new Image(); full.onload = function () { if (current === i) img.src = el.dataset.src; }; full.src = el.dataset.src;
+      dialog.querySelector("[data-lb-caption]").textContent = (el.dataset.year ? el.dataset.year + ". " : "") + el.dataset.caption;
+      dialog.querySelector("[data-lb-credit]").textContent = el.dataset.credit;
+      dialog.querySelector("[data-lb-page]").href = el.dataset.page;
+      if (!dialog.open) dialog.showModal();
+    }
+    items.forEach(function (el, i) { el.addEventListener("click", function () { show(i); }); });
+    dialog.querySelector("[data-lb-close]").addEventListener("click", function () { dialog.close(); });
+    dialog.addEventListener("click", function (e) { if (e.target === dialog) dialog.close(); });
+    dialog.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowRight") show(Math.min(current + 1, items.length - 1));
+      if (e.key === "ArrowLeft") show(Math.max(current - 1, 0));
+    });
+
+    // Section tabs: underline the section you are reading.
+    var tabLinks = Array.prototype.slice.call(document.querySelectorAll(".tabs a[href^='#']"));
+    var sections = tabLinks.map(function (a) { return document.getElementById(a.getAttribute("href").slice(1)); }).filter(Boolean);
+    if (sections.length && "IntersectionObserver" in window) {
+      var visible = new Map();
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) { visible.set(e.target.id, e.isIntersecting); });
+        var first = sections.find(function (s) { return visible.get(s.id); });
+        if (!first) return;
+        tabLinks.forEach(function (a) { a.setAttribute("aria-current", String(a.getAttribute("href") === "#" + first.id)); });
+      }, { rootMargin: "-140px 0px -55% 0px" });
+      sections.forEach(function (s) { io.observe(s); });
+    }
+
+    // Share: the phone's share sheet if there is one, otherwise copy the link.
+    var share = document.querySelector("[data-share]");
+    if (share) share.addEventListener("click", function () {
+      var data = { title: document.title, url: location.href };
+      if (navigator.share) { navigator.share(data).catch(function () {}); return; }
+      navigator.clipboard && navigator.clipboard.writeText(location.href).then(function () {
+        share.setAttribute("aria-label", "Link copied"); share.title = "Link copied";
+      });
+    });
+
+    // Bookmark: saved on this device only.
+    var mark = document.querySelector("[data-bookmark]");
+    if (mark) {
+      var key = "bookmarks", id = mark.dataset.bookmark;
+      var read = function () { try { return JSON.parse(localStorage.getItem(key) || "[]"); } catch (e) { return []; } };
+      var paint = function () {
+        var on = read().indexOf(id) > -1;
+        mark.setAttribute("aria-pressed", String(on));
+        mark.setAttribute("aria-label", on ? "Remove bookmark" : "Bookmark this story");
+      };
+      mark.addEventListener("click", function () {
+        var list = read(), i = list.indexOf(id);
+        if (i > -1) list.splice(i, 1); else list.push(id);
+        try { localStorage.setItem(key, JSON.stringify(list)); } catch (e) {}
+        paint();
+      });
+      paint();
+    }
+
+    var print = document.querySelector("[data-print]");
+    if (print) print.addEventListener("click", function () { window.print(); });
+  })();
+</script>

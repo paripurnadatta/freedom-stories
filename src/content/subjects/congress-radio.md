@@ -11,6 +11,7 @@ places:
   - "Bombay"
 related:
   - "usha-mehta"
+  - "bombay"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

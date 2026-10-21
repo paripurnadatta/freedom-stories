@@ -11,6 +11,7 @@ places:
   - "Ankola"
 related:
   - "karnad-sadashiva-rao"
+  - "ankola"
 sources:
   - title: "Salt Satyagraha in Ankola"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?6800="

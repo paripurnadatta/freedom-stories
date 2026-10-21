@@ -9,7 +9,8 @@ year: 1875
 region: "Maharashtra"
 places:
   - "Deccan"
-related: []
+related:
+  - "deccan"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

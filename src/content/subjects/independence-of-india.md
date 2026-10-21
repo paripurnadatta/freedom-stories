@@ -13,6 +13,7 @@ related:
   - "taraknath-das"
   - "j-b-kripalani"
   - "hasrat-mohani"
+  - "delhi"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

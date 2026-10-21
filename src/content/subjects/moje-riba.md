@@ -11,6 +11,7 @@ role: "Congress organizer"
 places: []
 related:
   - "dipa-congress-movement"
+  - "dipa-congress-committee"
 sources:
   - title: "Moje Riba"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?4945="

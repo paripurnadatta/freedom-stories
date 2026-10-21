@@ -12,6 +12,7 @@ places:
 related:
   - "subhas-chandra-bose"
   - "s-a-ayer"
+  - "singapore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

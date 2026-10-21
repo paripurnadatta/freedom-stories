@@ -11,6 +11,7 @@ places:
   - "Bijolia"
 related:
   - "manikya-lal-verma"
+  - "bijolia"
 sources:
   - title: "Manikya Lal Verma"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2560="

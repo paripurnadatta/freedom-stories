@@ -13,6 +13,7 @@ related:
   - "burgula-ramakrishna-rao"
   - "kaloji-narayana-rao"
   - "padmaja-naidu"
+  - "hyderabad"
 sources:
   - title: "Dr. B. Ramakrishna Rao"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2892="

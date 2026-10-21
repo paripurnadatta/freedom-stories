@@ -11,6 +11,7 @@ places:
   - "Dhar Fort"
 related:
   - "raja-bakhtawar-singh"
+  - "dhar-fort"
 sources:
   - title: "Raja Bakhtawar Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?405="

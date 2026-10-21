@@ -13,6 +13,7 @@ places:
   - "South Travancore"
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "Rao Kadam Singh: A Less Known Hero of Indian Revolution of 1857"
     url: "https://jndmeerut.org/wp-content/uploads/2022/07/Vol.-31-No.-2-2022.pdf"

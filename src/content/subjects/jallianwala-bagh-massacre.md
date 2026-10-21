@@ -11,6 +11,7 @@ places:
   - "Amritsar"
 related:
   - "udham-singh"
+  - "amritsar"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

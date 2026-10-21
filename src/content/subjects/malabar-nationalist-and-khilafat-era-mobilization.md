@@ -11,6 +11,7 @@ places:
   - "Malabar"
 related:
   - "muhammad-abdur-rahiman"
+  - "malabar-place"
 sources:
   - title: "Muhammad Abdur Rahiman"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3267="

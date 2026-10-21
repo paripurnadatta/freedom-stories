@@ -9,7 +9,8 @@ year: 1755
 region: "Tamil Nadu"
 places:
   - "Tamil region"
-related: []
+related:
+  - "tamil-region"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

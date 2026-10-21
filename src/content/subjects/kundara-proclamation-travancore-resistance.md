@@ -12,6 +12,7 @@ places:
 related:
   - "velu-thampi-dalawa"
   - "paliath-achan"
+  - "travancore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -12,6 +12,7 @@ role: "Indian Independence Committee representative"
 places: []
 related:
   - "indian-independence-league-activity"
+  - "indian-independence-league"
 sources:
   - title: "A. C. N. Nambiar correspondence/profile materials"
     url: "https://nehruarchive.in/documents/to-a-c-n-nambiar-8-may-1958-v95kj"

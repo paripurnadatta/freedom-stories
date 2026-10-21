@@ -12,6 +12,7 @@ role: "Ghadar revolutionary / mobilizer"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Women Unsung Heroes of the Freedom Struggle — Gulab Kaur"
     url: "https://cmsadmin.amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?77%2F="

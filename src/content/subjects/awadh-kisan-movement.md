@@ -11,6 +11,7 @@ places:
   - "Awadh"
 related:
   - "baba-ram-chandra"
+  - "awadh"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -11,6 +11,7 @@ places:
   - "Faridkot"
 related:
   - "savitri-devi-sharma"
+  - "malerkotla-faridkot"
 sources:
   - title: "Savitri Devi Sharma"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?12750="

@@ -14,6 +14,7 @@ related:
   - "hati-singh"
   - "kunjal-singh"
   - "balabhadra-singh-deo"
+  - "sambalpurbargarh-resistance-region"
 sources:
   - title: "Madho Singh"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?6855="

@@ -14,6 +14,7 @@ related:
   - "ramanand-mishra"
   - "suraj-narayan-singh"
   - "rambriksha-benipuri"
+  - "hazaribaghnorth-bihar-underground-corridor"
 sources:
   - title: "Quit India Movement in Hazaribagh — underground leaders"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16154="

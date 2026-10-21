@@ -13,6 +13,7 @@ places:
   - "United States"
 related:
   - "umabai-kundapur"
+  - "hindustani-seva-dal"
 sources:
   - title: "Pandey Ganpat Rai"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?8781="

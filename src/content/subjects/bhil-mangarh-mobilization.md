@@ -11,6 +11,7 @@ places:
   - "Rajasthan-Gujarat border"
 related:
   - "govind-guru"
+  - "rajasthan-gujarat-border"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

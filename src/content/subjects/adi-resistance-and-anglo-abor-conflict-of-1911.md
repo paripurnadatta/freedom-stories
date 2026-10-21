@@ -11,6 +11,7 @@ places:
   - "Komsing and Adi Hills"
 related:
   - "matmur-jamoh"
+  - "komsing-adi-hills"
 sources:
   - title: "Tribal Leaders and Freedom Movement"
     url: "https://amritmahotsav.nic.in/blogdetail.htm?47="

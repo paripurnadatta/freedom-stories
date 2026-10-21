@@ -12,6 +12,7 @@ places:
 related:
   - "poswuyi-swuro"
   - "vesuyi-swuro"
+  - "northeast-india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

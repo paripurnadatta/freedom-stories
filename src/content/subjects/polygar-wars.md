@@ -12,6 +12,7 @@ places:
 related:
   - "veerapandiya-kattabomman"
   - "oomaithurai"
+  - "tamil-region"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

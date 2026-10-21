@@ -12,6 +12,7 @@ places: []
 related:
   - "non-cooperation-and-khilafat-movement"
   - "bhagat-singh"
+  - "prayagraj"
 sources:
   - title: "Glimpses of Jail Life by Ganesh Shankar Vidyarthi"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?11971="

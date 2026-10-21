@@ -12,6 +12,7 @@ role: "Political organizer"
 places: []
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources: []
 image:
   src: "/portraits/kalluri-chandramouli.webp"

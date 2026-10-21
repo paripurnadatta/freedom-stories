@@ -13,6 +13,7 @@ related:
   - "swami-ramanand-tirtha"
   - "ravi-narayana-reddy"
   - "jamalapuram-keshava-rao"
+  - "hyderabad-state"
 sources:
   - title: "Unsung hero Swami Ramanand Tirtha displayed at Chennai airport"
     url: "https://cmsadmin.amritmahotsav.nic.in/event-detail.htm?128444="

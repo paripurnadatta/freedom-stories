@@ -22,6 +22,7 @@ related:
   - "surajmal-basaniya"
   - "devichand-sagarmal"
   - "snehlata-varma"
+  - "rajasthan-princely-state-movement-region"
 sources:
   - title: "Hans D. Rai"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?29221="

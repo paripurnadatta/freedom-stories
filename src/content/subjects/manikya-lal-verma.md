@@ -13,6 +13,7 @@ related:
   - "bijolia-peasant-satyagraha-manikya-lal-verma-phase"
   - "vijay-singh-pathik"
   - "snehlata-varma"
+  - "bijolia"
 sources:
   - title: "Malagarh Fort — Walidad Khan"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?24691="

@@ -14,6 +14,7 @@ places:
   - "Punjab"
 related:
   - "indian-national-army-campaigns"
+  - "indian-national-army"
 sources:
   - title: "Firoz Shah"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?13879="

@@ -11,6 +11,8 @@ role: "Underground activist / organizer"
 places: []
 related:
   - "quit-india-movement"
+  - "maharashtra-parishad"
+  - "beed"
 sources:
   - title: "Sundaraiah Puchalapalli"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2883="

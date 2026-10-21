@@ -11,6 +11,7 @@ role: "Congress organizer"
 places: []
 related:
   - "dipa-congress-movement"
+  - "dipa-congress-committee"
 sources:
   - title: "Ligin Bomjen"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?7247="

@@ -16,6 +16,7 @@ related:
   - "bhagirathi-manjhi"
   - "singrai-manki"
   - "bindrai-manki"
+  - "chotanagpur"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -15,6 +15,7 @@ places:
 related:
   - "karnataka-quit-india-underground-and-mass-action"
   - "n-s-hardikar"
+  - "hindustani-seva-dal"
 sources:
   - title: "Chittaranjan Das's Speech at Calcutta Municipal Corporation, 1924"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12900="

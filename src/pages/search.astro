@@ -1,0 +1,19 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Search: The Struggle for Freedom" description="Search every story, person, event, place and organisation." noindex>
+  <div class="page search-page">
+    <h1 style="font-size:clamp(2rem,5vw,2.8rem);font-weight:800;margin:1.5rem 0 1rem">Search</h1>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <div id="search"></div>
+    <noscript><p>Search needs JavaScript. You can browse <a href="/stories/">all stories</a> or <a href="/people/">all people</a> instead.</p></noscript>
+  </div>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    (function () {
+      var ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, translations: { placeholder: "Search stories, people, events, places" } });
+      var q = new URLSearchParams(location.search).get("q");
+      if (q) ui.triggerSearch(q);
+    })();
+  </script>
+</Base>

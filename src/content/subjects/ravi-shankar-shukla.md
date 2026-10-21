@@ -11,6 +11,7 @@ role: "Political organizer"
 places: []
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources:
   - title: "Sundaraiah Puchalapalli"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2883="

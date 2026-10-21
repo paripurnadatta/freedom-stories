@@ -11,6 +11,7 @@ places:
   - "Ganjam / Kabisurya Nagar"
 related:
   - "hemalata-devi"
+  - "kabisurya-nagar-ganjam"
 sources:
   - title: "Hemalata Devi"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?6917="

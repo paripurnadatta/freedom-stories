@@ -12,6 +12,7 @@ places:
   - "Punjab Province"
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Randhir Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?5853="

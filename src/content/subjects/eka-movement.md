@@ -9,7 +9,8 @@ year: 1921
 region: "Uttar Pradesh"
 places:
   - "Awadh"
-related: []
+related:
+  - "awadh"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

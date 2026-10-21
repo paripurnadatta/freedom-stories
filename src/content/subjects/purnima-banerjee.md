@@ -13,6 +13,7 @@ places:
 related:
   - "quit-india-movement"
   - "aruna-asaf-ali"
+  - "indian-national-congress"
 sources:
   - title: "Vanchinatha Iyer"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?321="

@@ -31,6 +31,7 @@ related:
   - "bathina-ramakrishna-reddy"
   - "settypalli-bala-maddi"
   - "kashiben-chhaganlal-gandhi"
+  - "india"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -11,6 +11,8 @@ role: "Ghadar / youth revolutionary"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
+  - "naujawan-bharat-sabha"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Harbhajan Singh alias Bakhtawar Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12688="

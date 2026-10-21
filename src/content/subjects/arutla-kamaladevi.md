@@ -12,6 +12,7 @@ places: []
 related:
   - "telangana-peasant-agitation-and-armed-struggle-onset"
   - "arutla-ramachandra-reddy"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Arutla Kamala Devi: The Pride of Telangana"
     url: "https://www.arutla.org/wp-content/uploads/2023/07/telangana-veernaari-ak.pdf"

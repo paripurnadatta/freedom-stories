@@ -10,7 +10,8 @@ region: "West Bengal"
 role: "Jugantar revolutionary"
 places:
   - "Bengal Presidency"
-related: []
+related:
+  - "jugantar"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Dinesh Chandra Majumder"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?11179="

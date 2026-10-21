@@ -15,6 +15,7 @@ related:
   - "rajendra-lahiri"
   - "roshan-singh"
   - "manmath-nath-gupta"
+  - "kakori"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -11,6 +11,7 @@ role: "Ghadar press activist"
 places: []
 related:
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Kehar Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12714="

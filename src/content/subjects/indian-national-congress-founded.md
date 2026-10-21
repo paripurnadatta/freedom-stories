@@ -28,6 +28,7 @@ related:
   - "purushottam-das-tandon"
   - "madan-mohan-malaviya"
   - "bhagwan-das"
+  - "bombay"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

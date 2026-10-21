@@ -11,6 +11,7 @@ places:
   - "Nimar"
 related:
   - "khajya-nayak"
+  - "nimar"
 sources:
   - title: "Khajya Nayak"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12626="

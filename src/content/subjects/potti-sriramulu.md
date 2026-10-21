@@ -12,6 +12,7 @@ role: "Satyagrahi"
 places: []
 related:
   - "early-nationalist-press-activity"
+  - "indian-national-congress"
 sources: []
 image:
   src: "/portraits/potti-sriramulu.webp"

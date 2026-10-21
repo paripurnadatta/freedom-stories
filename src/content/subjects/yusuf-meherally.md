@@ -13,6 +13,8 @@ places:
 related:
   - "simon-commission-boycott"
   - "quit-india-movement"
+  - "bombay-youth-league"
+  - "bombay-place"
 sources:
   - title: "S. Srinivasa Iyengar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?8474="

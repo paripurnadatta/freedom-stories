@@ -13,6 +13,7 @@ places:
 related:
   - "ghadar-movement"
   - "civil-disobedience-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Lal Singh Jandiala"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12648="

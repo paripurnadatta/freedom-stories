@@ -9,7 +9,8 @@ year: 1929
 region: "Punjab"
 places:
   - "Lahore"
-related: []
+related:
+  - "lahore"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -11,6 +11,7 @@ places:
   - "Travancore"
 related:
   - "g-parameswaran-pillai"
+  - "pallippuram-thiruvananthapuram"
 sources:
   - title: "G. Parameswaran Pillai"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?18908="

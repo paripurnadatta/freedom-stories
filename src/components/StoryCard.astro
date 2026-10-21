@@ -1,0 +1,22 @@
+---
+import Icon from "./Icon.astro";
+import { loadSite, storyUrl, type Story } from "../lib/site";
+
+interface Props { story: Story; wide?: boolean; showWho?: boolean }
+const { story, wide = false, showWho = true } = Astro.props;
+const site = await loadSite();
+const who = site.subjectById.get(story.data.about[0]);
+const { picture } = site.leadPicture(story);
+const flagship = story.data.type === "flagship";
+---
+<a class:list={["card", { wide }]} href={storyUrl(story)}>
+  {picture
+    ? <span class="art"><img src={picture.src} alt="" loading="lazy" /></span>
+    : <span class="art letter" aria-hidden="true">{story.data.title.charAt(0)}</span>}
+  <span class="body">
+    <span class:list={["kind", { short: !flagship }]}>{flagship ? "Flagship story" : "Short story"}{showWho && who && <span style="color:var(--soft);font-weight:400;text-transform:none;letter-spacing:0"> · {who.data.name}</span>}</span>
+    <h3>{story.data.title}</h3>
+    <p>{story.data.subtitle}</p>
+  </span>
+  <span class="go" aria-hidden="true"><Icon name="arrow" /></span>
+</a>

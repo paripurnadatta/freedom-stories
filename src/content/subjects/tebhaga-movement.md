@@ -9,7 +9,8 @@ year: 1946
 region: "West Bengal"
 places:
   - "Bengal"
-related: []
+related:
+  - "bengal"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

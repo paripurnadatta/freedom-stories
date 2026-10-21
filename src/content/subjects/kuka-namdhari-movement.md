@@ -11,6 +11,7 @@ places:
   - "Punjab"
 related:
   - "baba-ram-singh-kuka"
+  - "punjab"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

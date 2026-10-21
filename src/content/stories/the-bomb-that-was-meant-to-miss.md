@@ -2,6 +2,10 @@
 title: "The bomb that was meant to miss"
 subtitle: "Why would a young man throw a bomb where nobody was sitting, and then wait for the police to come and get him?"
 type: flagship
+when: "8 April 1929"
+where: "Central Legislative Assembly, Delhi"
+published: 2026-10-21
+featured: true
 about:
   - "bhagat-singh"
   - "batukeshwar-dutt"
@@ -14,6 +18,10 @@ about:
   - "central-legislative-assembly-bombing"
   - "saunders-assassination-lahore-protest-phase"
   - "execution-of-bhagat-singh-sukhdev-and-rajguru"
+  - "hindustan-socialist-republican-association"
+  - "naujawan-bharat-sabha"
+  - "delhi"
+  - "lahore"
 year: 1929
 sources:
   - title: "Dictionary of Martyrs: India's Freedom Struggle (1857–1947), Vol. I Part II, Bhagat Singh entry"

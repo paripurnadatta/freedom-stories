@@ -13,6 +13,7 @@ places:
   - "Ipoh / Malaya"
 related:
   - "rani-of-jhansi-regiment-training-and-mobilisation"
+  - "rani-of-jhansi-regiment"
 sources:
   - title: "Faizabad and the 1857 Uprising — Maulavi Ahmadullah Shah"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?9726="

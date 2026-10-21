@@ -17,6 +17,7 @@ related:
   - "baddam-yella-reddy"
   - "arutla-ramachandra-reddy"
   - "arutla-kamaladevi"
+  - "nalgondawarangal-peasant-struggle-region"
 sources:
   - title: "Ravi Narayana Reddy and the Peasant Agitation"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?11759="

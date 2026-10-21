@@ -14,6 +14,7 @@ related:
   - "madras-mahajana-sabha-public-politics"
   - "p-ananda-charlu"
   - "m-veeraraghavachariar"
+  - "madras-mahajana-sabha"
 sources:
   - title: "The Madras Mahajana Sabha (1884)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?8844="

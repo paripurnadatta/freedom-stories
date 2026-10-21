@@ -14,6 +14,7 @@ related:
   - "formation-of-the-indian-national-congress"
   - "mahatma-gandhi"
   - "sri-krishna-sinha"
+  - "indian-national-congress"
 sources:
   - title: "Mahadevappa Mailar commemorative stamp summary"
     url: "https://istampgallery.com/mahadevappa-mailar/"

@@ -11,6 +11,7 @@ places:
   - "Almora district"
 related:
   - "bishni-devi-shah"
+  - "almora"
 sources:
   - title: "Civil Disobedience Movement in Almora"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?17920="

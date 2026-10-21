@@ -10,7 +10,8 @@ region: "Karnataka"
 role: "Mysore Congress activist"
 places:
   - "Kingdom of Mysore"
-related: []
+related:
+  - "indian-national-congress"
 sources:
   - title: "Candidate-specific Ministry of Culture record — A. G. Ramachandra Rao"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?18149="

@@ -9,7 +9,8 @@ year: 1922
 region: "Uttar Pradesh"
 places:
   - "Gorakhpur"
-related: []
+related:
+  - "gorakhpur"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

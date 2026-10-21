@@ -4,12 +4,14 @@
   "description": "Stories of India's freedom struggle, 1757\u20131947",
   "scripts": {
     "dev": "astro dev",
-    "build": "npm run check && astro build",
+    "build": "npm run check && astro build && pagefind --site dist",
     "preview": "astro preview",
     "check": "node scripts/check-stories.mjs"
   },
   "dependencies": {
-    "astro": "^7.4.1"
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^7.4.1",
+    "pagefind": "^1.5.2"
   },
   "private": true,
   "type": "module"

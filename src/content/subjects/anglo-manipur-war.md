@@ -16,6 +16,7 @@ related:
   - "chaodonpa"
   - "ghun-singh"
   - "heirang-khogja"
+  - "manipur"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -11,6 +11,7 @@ role: "Early nationalist political leader"
 places: []
 related:
   - "formation-of-the-indian-national-congress"
+  - "bombay-presidency-association"
 sources:
   - title: "Bombay Provincial Congress Committee and early political associations"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?6826="

@@ -12,6 +12,7 @@ places: []
 related:
   - "chhuikhadan-state-congress-and-jungle-satyagraha"
   - "quit-india-movement"
+  - "chhuikhadan-state-congress"
 sources:
   - title: "Firoz Shah in Bangar Mau"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16185="

@@ -11,7 +11,8 @@ role: "Journalist / social reformer"
 places:
   - "Banavasi"
   - "Belgaum"
-related: []
+related:
+  - "banavasi"
 sources:
   - title: "Hardekar Manjappa: Gandhi of Karnataka"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?25235="

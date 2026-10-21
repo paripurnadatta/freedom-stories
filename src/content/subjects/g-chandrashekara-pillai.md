@@ -11,6 +11,7 @@ role: "Princely-state political activist"
 places: []
 related:
   - "travancore-state-congress-movement"
+  - "travancore-state-congress"
 sources:
   - title: "G. Chandrashekara Pillai"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?11413="

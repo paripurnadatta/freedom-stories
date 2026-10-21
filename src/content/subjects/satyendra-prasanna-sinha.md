@@ -11,6 +11,7 @@ role: "Political organizer"
 places: []
 related:
   - "formation-of-the-indian-national-congress"
+  - "indian-national-congress"
 sources:
   - title: "Amrit Mahotsav Series — Gadicherla Harisarvottama Rao"
     url: "https://static.pib.gov.in/WriteReadData/userfiles/Unsung%20Heroes%20of%20Freedom%20Movement_o.pdf"

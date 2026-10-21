@@ -13,6 +13,7 @@ related:
   - "formation-of-the-indian-national-congress"
   - "p-ananda-charlu"
   - "g-subramania-iyer"
+  - "indian-national-congress"
 sources:
   - title: "The Madras Mahajana Sabha (1884)"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?8844="

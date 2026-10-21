@@ -12,6 +12,7 @@ role: "Peasant resistance leader"
 places: []
 related:
   - "telangana-peasant-agitation-and-armed-struggle-onset"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Chityala Ilamma"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?13263="

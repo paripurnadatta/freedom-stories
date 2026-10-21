@@ -11,6 +11,7 @@ role: "Indian National Army combatant / martyr"
 places: []
 related:
   - "indian-national-army-campaigns"
+  - "indian-national-army"
 sources:
   - title: "Dictionary of Martyrs Vol. 4 entry — Dhum Singh"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_4_06_03_2019.pdf"

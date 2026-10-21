@@ -13,6 +13,7 @@ related:
   - "poswuyi-swuro"
   - "vesuyi-swuro"
   - "rokosieo"
+  - "ruzazhophesama-naga-hills-campaign-area"
 sources:
   - title: "Poswuyi Swuro"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3229="

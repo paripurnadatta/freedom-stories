@@ -12,6 +12,7 @@ places:
   - "Punjab Province / Ambala"
 related:
   - "non-cooperation-and-khilafat-movement"
+  - "indian-national-congress"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Lala Murli Dhar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23950="

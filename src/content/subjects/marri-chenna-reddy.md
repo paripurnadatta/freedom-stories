@@ -12,6 +12,8 @@ role: "Student/youth and political organizer"
 places: []
 related:
   - "hyderabad-state-congress-campaign-for-responsible-government-and-merger"
+  - "hyderabad-state-congress"
+  - "nizam-rashtra-andhra-mahasabha"
 sources:
   - title: "Azadi Ka Safar with AIR News — Dr. Marri Chenna Reddy"
     url: "https://amritmahotsav.nic.in/event-detail.htm?8081="

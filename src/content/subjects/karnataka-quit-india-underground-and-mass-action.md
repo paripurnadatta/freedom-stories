@@ -11,6 +11,7 @@ places:
   - "Karnataka"
 related:
   - "umabai-kundapur"
+  - "karnataka-quit-india-region"
 sources:
   - title: "Umabai Kundapur"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?12651="

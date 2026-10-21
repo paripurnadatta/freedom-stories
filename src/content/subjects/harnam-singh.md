@@ -13,6 +13,7 @@ places:
 related:
   - "komagata-maru-budge-budge-clash"
   - "ghadar-movement"
+  - "ghadar-party"
 sources:
   - title: "Candidate-specific Ministry of Culture record — Harnam Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12694="

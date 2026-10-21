@@ -19,6 +19,7 @@ related:
   - "dhobi-nayak"
   - "dina-mallik"
   - "kashi-nayak"
+  - "odisha-princely-state-praja-mandal-region"
 sources:
   - title: "Praja Mandal movement in Odisha princely states"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3063="

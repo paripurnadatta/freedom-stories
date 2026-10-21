@@ -11,6 +11,7 @@ places:
   - "Mehkar / Buldhana"
 related:
   - "narayanrao-balwantrao-surushe"
+  - "mehkar"
 sources:
   - title: "Narayanrao Balwantrao Surushe"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12719="

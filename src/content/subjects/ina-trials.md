@@ -12,6 +12,7 @@ places:
 related:
   - "chandra-sekhar-pal"
   - "kadam-rasool"
+  - "delhi"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -13,6 +13,8 @@ places:
   - "Lahore / Punjab"
 related:
   - "swadeshi-movement"
+  - "bharat-stree-mahamandal"
+  - "kolkata"
 sources:
   - title: "Firoz Shah in Bangar Mau"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16185="

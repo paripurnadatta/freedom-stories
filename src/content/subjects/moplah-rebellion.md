@@ -9,7 +9,8 @@ year: 1921
 region: "Kerala"
 places:
   - "Malabar"
-related: []
+related:
+  - "malabar"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"

@@ -12,6 +12,7 @@ places:
 related:
   - "bulusu-sambamurti"
   - "duvvuri-subbamma"
+  - "kakinada"
 sources:
   - title: "Annual A.I.C.C. Session at Kakinada, 1923"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12652="

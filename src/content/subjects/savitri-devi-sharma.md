@@ -14,6 +14,7 @@ places:
 related:
   - "faridkot-praja-mandal-agitation"
   - "quit-india-movement"
+  - "malerkotla-faridkot"
 sources:
   - title: "Nawab Walidad Khan and the 1857 Struggle in the Bulandshahr district"
     url: "https://www.cambridge.org/core/books/abs/peasant-and-the-raj/nawab-walidad-khan-and-the-1857-struggle-in-the-bulandshahr-district/2F8D5DB84BACC27BAC95DF787504A08C"

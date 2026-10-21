@@ -11,6 +11,7 @@ places:
   - "Betul district"
 related:
   - "ganjan-singh-korku"
+  - "betul-district"
 sources:
   - title: "Ganjan Singh Korku"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23054="

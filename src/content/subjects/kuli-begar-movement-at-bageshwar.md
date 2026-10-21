@@ -12,6 +12,7 @@ places:
 related:
   - "badri-datt-pandey"
   - "govind-ballabh-pant"
+  - "bageshwar"
 sources:
   - title: "Historical phenomena of Uttarakhand"
     url: "https://cdnbbsr.s3waas.gov.in/s37a68443f5c80d181c42967cd71612af1/uploads/2025/03/20250324187324537.pdf"

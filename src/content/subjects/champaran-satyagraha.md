@@ -15,6 +15,7 @@ related:
   - "brij-kishore-prasad"
   - "sheikh-gulab"
   - "rajendra-prasad"
+  - "champaran"
 sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
