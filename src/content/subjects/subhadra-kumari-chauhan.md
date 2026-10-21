@@ -2,6 +2,7 @@
 id: IF-0642
 kind: person
 name: "Subhadra Kumari Chauhan"
+wikidata: "Q3635834"
 summary: "Staged historical profile"
 born: ""
 died: ""

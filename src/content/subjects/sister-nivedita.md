@@ -2,6 +2,7 @@
 id: IF-0201
 kind: person
 name: "Sister Nivedita"
+wikidata: "Q2353846"
 summary: "Supported Indian nationalist and educational causes; include as supporter, not fighter."
 born: "1867"
 died: "1911"

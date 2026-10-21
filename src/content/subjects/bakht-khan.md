@@ -2,6 +2,7 @@
 id: IF-0037
 kind: person
 name: "Bakht Khan"
+wikidata: "Q3774267"
 summary: "The veteran soldier who became commander-in-chief of rebel Delhi in 1857"
 born: ""
 died: "1859"

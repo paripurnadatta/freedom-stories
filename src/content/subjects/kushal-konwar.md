@@ -2,6 +2,7 @@
 id: IF-0112
 kind: person
 name: "Kushal Konwar"
+wikidata: "Q6447874"
 summary: "The Gandhian activist executed after a wartime sabotage case in Assam"
 born: "1905"
 died: "1943"

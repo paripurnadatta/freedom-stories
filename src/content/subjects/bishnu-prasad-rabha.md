@@ -2,6 +2,7 @@
 id: IF-0306
 kind: person
 name: "Bishnu Prasad Rabha"
+wikidata: "Q4917373"
 summary: "Staged historical profile"
 born: ""
 died: ""

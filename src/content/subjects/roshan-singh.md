@@ -2,6 +2,7 @@
 id: IF-0119
 kind: person
 name: "Roshan Singh"
+wikidata: "Q7368818"
 summary: "Revolutionary executed in connection with the Kakori case."
 born: "1892"
 died: "1927"

@@ -2,6 +2,7 @@
 id: IF-0166
 kind: person
 name: "Durgabai Deshmukh"
+wikidata: "Q3763917"
 summary: "The young Andhra activist who turned education, khadi work and women's satyagraha into a lifetime of public institution-building"
 born: "1909"
 died: "1981"

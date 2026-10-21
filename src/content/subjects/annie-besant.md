@@ -2,6 +2,7 @@
 id: IF-0078
 kind: person
 name: "Annie Besant"
+wikidata: "Q464318"
 summary: "The editor-organizer who made Home Rule a national demand during the First World War"
 born: "1847"
 died: "1933"

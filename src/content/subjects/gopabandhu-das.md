@@ -2,6 +2,7 @@
 id: IF-0105
 kind: person
 name: "Gopabandhu Das"
+wikidata: "Q3635640"
 summary: "The Odisha editor-reformer who carried Non-Cooperation into schools, villages and peasant politics"
 born: "1877"
 died: "1928"

@@ -2,6 +2,7 @@
 id: IF-0424
 kind: person
 name: "Jaidev Kapoor"
+wikidata: "Q64759416"
 summary: "Documented association with HSRA / Lahore Conspiracy in Uttar Pradesh."
 born: ""
 died: ""

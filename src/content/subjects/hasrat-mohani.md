@@ -2,6 +2,7 @@
 id: IF-0098
 kind: person
 name: "Hasrat Mohani"
+wikidata: "Q3764778"
 summary: "The poet-journalist who used Urdu print, radical demands for complete independence and the language of revolution against colonial rule"
 born: "1875"
 died: "1951"

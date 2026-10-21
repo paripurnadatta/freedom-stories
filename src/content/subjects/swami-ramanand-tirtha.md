@@ -2,6 +2,7 @@
 id: IF-0370
 kind: person
 name: "Swami Ramanand Tirtha"
+wikidata: "Q3630175"
 summary: "Principal leader of the Hyderabad State Congress and a leading figure in the Hyderabad freedom movement."
 born: "1903"
 died: "1972"

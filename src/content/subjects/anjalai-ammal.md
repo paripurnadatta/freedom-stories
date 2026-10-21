@@ -2,6 +2,7 @@
 id: IF-0492
 kind: person
 name: "Anjalai Ammal"
+wikidata: "Q28457101"
 summary: "The Cuddalore activist whose repeated imprisonment made women's participation in mass nationalism visible in Tamil Nadu"
 born: ""
 died: "1961"

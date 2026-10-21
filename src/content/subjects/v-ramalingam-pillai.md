@@ -2,6 +2,7 @@
 id: IF-0609
 kind: person
 name: "V. Ramalingam Pillai"
+wikidata: "Q7920084"
 summary: "Source-specific record documenting V. Ramalingam Pillai's connection with Nationalist poetry; Salt Satyagraha."
 born: ""
 died: ""

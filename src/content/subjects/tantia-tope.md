@@ -2,6 +2,7 @@
 id: IF-0032
 kind: person
 name: "Tantia Tope"
+wikidata: "Q983579"
 summary: "The mobile commander whose campaign repeatedly escaped and re-engaged British forces across Central India"
 born: "1814"
 died: "1859"

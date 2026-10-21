@@ -2,6 +2,7 @@
 id: IF-0212
 kind: person
 name: "Udham Singh"
+wikidata: "Q2473141"
 summary: "The transnational revolutionary who assassinated Michael O’Dwyer two decades after Jallianwala Bagh"
 born: "1899"
 died: "1940"

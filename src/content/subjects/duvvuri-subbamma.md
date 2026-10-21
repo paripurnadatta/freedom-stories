@@ -2,6 +2,7 @@
 id: IF-0408
 kind: person
 name: "Duvvuri Subbamma"
+wikidata: "Q12999915"
 summary: "Documented association with Non-Cooperation / women in Andhra Pradesh."
 born: ""
 died: ""

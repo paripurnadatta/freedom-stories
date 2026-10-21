@@ -2,6 +2,7 @@
 id: IF-0214
 kind: person
 name: "Chittaranjan Das"
+wikidata: "Q560182"
 summary: "Major Bengal nationalist and founder of the Swaraj Party."
 born: "1870"
 died: "1925"

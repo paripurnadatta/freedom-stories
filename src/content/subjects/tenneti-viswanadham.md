@@ -2,6 +2,7 @@
 id: IF-0457
 kind: person
 name: "Tenneti Viswanadham"
+wikidata: "Q7700274"
 summary: "Documented association with Quit India in Andhra Pradesh."
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0002
 kind: person
 name: "Mir Madan"
+wikidata: "Q28861765"
 summary: "The field commander remembered for continuing the fight at Plassey when the nawab's command structure fractured"
 born: ""
 died: "1757"

@@ -2,6 +2,7 @@
 id: IF-0341
 kind: person
 name: "Mukunda Kakati"
+wikidata: "Q108761617"
 summary: "Staged historical profile"
 born: ""
 died: "1942-09-20"

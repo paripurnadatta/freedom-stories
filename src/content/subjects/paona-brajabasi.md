@@ -2,6 +2,7 @@
 id: IF-0210
 kind: person
 name: "Paona Brajabasi"
+wikidata: "Q106597987"
 summary: "Staged historical profile"
 born: ""
 died: "1891"

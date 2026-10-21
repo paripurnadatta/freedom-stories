@@ -2,6 +2,7 @@
 id: IF-0079
 kind: person
 name: "Sarojini Naidu"
+wikidata: "Q250165"
 summary: "The poet-politician who turned oratory, women’s mobilization and Congress leadership into instruments of nationalism"
 born: "1879"
 died: "1949"

@@ -2,6 +2,7 @@
 id: IF-0318
 kind: person
 name: "Puchalapalli Sundarayya"
+wikidata: "Q1846150"
 summary: "Documented in the cited source in connection with Formation of the Indian National Congress."
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0160
 kind: person
 name: "Usha Mehta"
+wikidata: "Q7901884"
 summary: "The student broadcaster who carried Quit India through an underground radio network"
 born: "1920"
 died: "2000"

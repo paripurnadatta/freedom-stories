@@ -2,6 +2,7 @@
 id: IF-0068
 kind: person
 name: "Sohan Singh Bhakna"
+wikidata: "Q3632364"
 summary: "The migrant worker who became founding president of the Ghadar Party"
 born: "1870"
 died: "1968"

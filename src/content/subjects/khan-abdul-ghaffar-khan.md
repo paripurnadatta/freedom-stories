@@ -2,6 +2,7 @@
 id: IF-0095
 kind: person
 name: "Khan Abdul Ghaffar Khan"
+wikidata: "Q312966"
 summary: "The Pashtun leader who built the Khudai Khidmatgar into a disciplined movement of nonviolent resistance"
 born: "1890"
 died: "1988"

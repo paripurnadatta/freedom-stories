@@ -2,6 +2,7 @@
 id: IF-0070
 kind: person
 name: "Vishnu Ganesh Pingle"
+wikidata: "Q7935970"
 summary: "The Ghadar coordinator who connected Pacific-coast and North Indian revolutionary networks"
 born: "1888"
 died: "1915"

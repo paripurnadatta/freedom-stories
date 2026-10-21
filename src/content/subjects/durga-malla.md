@@ -2,6 +2,7 @@
 id: IF-0528
 kind: person
 name: "Durga Malla"
+wikidata: "Q5316382"
 summary: "Source-specific record documenting Durga Malla's connection with Indian National Army."
 born: ""
 died: "1944"

@@ -2,6 +2,7 @@
 id: IF-0440
 kind: person
 name: "Trilochan Pokhrel"
+wikidata: "Q15430874"
 summary: "Sikkim freedom fighter remembered as Gandhi Pokhrel; the official profile says his documented participation in the freedom struggle began during Quit India."
 born: ""
 died: ""

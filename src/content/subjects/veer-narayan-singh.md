@@ -2,6 +2,7 @@
 id: IF-0140
 kind: person
 name: "Veer Narayan Singh"
+wikidata: "Q19662789"
 summary: "The Sonakhan leader whose famine-era grain action fed directly into the 1857 rebellion in Chhattisgarh"
 born: "1795"
 died: "1857"

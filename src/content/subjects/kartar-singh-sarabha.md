@@ -2,6 +2,7 @@
 id: IF-0067
 kind: person
 name: "Kartar Singh Sarabha"
+wikidata: "Q4996911"
 summary: "The teenage Ghadar organizer who returned from California to help plan armed revolt in India"
 born: "1896"
 died: "1915"

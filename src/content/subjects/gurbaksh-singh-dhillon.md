@@ -2,6 +2,7 @@
 id: IF-0177
 kind: person
 name: "Gurbaksh Singh Dhillon"
+wikidata: "Q12418521"
 summary: "INA officer and Red Fort trial defendant."
 born: "1914"
 died: "2006"

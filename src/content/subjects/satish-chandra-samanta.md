@@ -2,6 +2,7 @@
 id: IF-0271
 kind: person
 name: "Satish Chandra Samanta"
+wikidata: "Q7426279"
 summary: "Documented in the cited source in connection with Tamralipta Jatiya Sarkar."
 born: ""
 died: ""

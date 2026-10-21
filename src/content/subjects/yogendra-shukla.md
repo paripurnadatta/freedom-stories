@@ -2,6 +2,7 @@
 id: IF-0419
 kind: person
 name: "Yogendra Shukla"
+wikidata: "Q8054363"
 summary: "Staged historical profile"
 born: ""
 died: ""

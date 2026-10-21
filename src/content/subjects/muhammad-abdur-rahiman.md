@@ -2,6 +2,7 @@
 id: IF-0103
 kind: person
 name: "Muhammad Abdur Rahiman"
+wikidata: "Q13114186"
 summary: "The Malabar Muslim nationalist who used relief work, imprisonment and the newspaper Al-Ameen to argue for anti-colonial politics"
 born: "1898"
 died: "1945"

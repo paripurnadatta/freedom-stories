@@ -2,6 +2,7 @@
 id: IF-0454
 kind: person
 name: "Gadicherla Harisarvottama Rao"
+wikidata: "Q5516381"
 summary: "Documented association with Swadeshi / press in Andhra Pradesh."
 born: ""
 died: ""

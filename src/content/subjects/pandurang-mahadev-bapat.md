@@ -2,6 +2,7 @@
 id: IF-0220
 kind: person
 name: "Pandurang Mahadev Bapat"
+wikidata: "Q3630659"
 summary: "Revolutionary who later became associated with Gandhian-era struggles."
 born: "1880"
 died: "1967"

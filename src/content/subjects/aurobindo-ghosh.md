@@ -2,6 +2,7 @@
 id: IF-0054
 kind: person
 name: "Aurobindo Ghosh"
+wikidata: "Q192207"
 summary: "The nationalist editor whose demand for complete independence moved from the press into the courtroom"
 born: "1872"
 died: "1950"

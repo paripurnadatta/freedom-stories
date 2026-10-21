@@ -2,6 +2,7 @@
 id: IF-0585
 kind: person
 name: "Garimella Satyanarayana"
+wikidata: "Q5523337"
 summary: "Source-specific record documenting Garimella Satyanarayana's connection with Nationalist songs; Non-Cooperation."
 born: ""
 died: ""

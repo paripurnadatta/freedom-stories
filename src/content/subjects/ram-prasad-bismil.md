@@ -2,6 +2,7 @@
 id: IF-0116
 kind: person
 name: "Ram Prasad Bismil"
+wikidata: "Q2724248"
 summary: "The revolutionary writer-organizer who helped build the HRA and led the Kakori action"
 born: "1897"
 died: "1927"

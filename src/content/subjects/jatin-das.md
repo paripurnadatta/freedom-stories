@@ -2,6 +2,7 @@
 id: IF-0125
 kind: person
 name: "Jatin Das"
+wikidata: "Q2913581"
 summary: "The political prisoner whose 63-day hunger strike made Lahore Jail a national stage"
 born: "1904"
 died: "1929"

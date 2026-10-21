@@ -2,6 +2,7 @@
 id: IF-0342
 kind: person
 name: "Omeo Kumar Das"
+wikidata: "Q23073899"
 summary: "Staged historical profile"
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0154
 kind: person
 name: "Sarat Chandra Bose"
+wikidata: "Q4094983"
 summary: "Senior nationalist and brother of Subhas Chandra Bose."
 born: "1889"
 died: "1950"

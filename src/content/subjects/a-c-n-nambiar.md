@@ -2,6 +2,7 @@
 id: IF-0268
 kind: person
 name: "A. C. N. Nambiar"
+wikidata: "Q12414166"
 summary: "A. C. N. Nambiar"
 born: ""
 died: ""

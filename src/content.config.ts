@@ -34,6 +34,8 @@ const subjects = defineCollection({
     id: z.string(),
     kind: z.enum(["person", "event"]),
     name: z.string(),
+    wikidata: z.string().optional(), // e.g. "Q312689": helps the media collector find the right Wikipedia page
+    wikipedia: z.string().optional(), // English Wikipedia title, if the name alone is ambiguous
     summary: z.string().default(""),
     born: z.string().optional(),
     died: z.string().optional(),
@@ -68,4 +70,35 @@ const stories = defineCollection({
   }),
 });
 
-export const collections = { subjects, stories };
+// Free-to-reuse media from Wikimedia Commons and Wikipedia, one file per subject.
+// Written by scripts/fetch-media.mjs; edit only the "hidden" list by hand.
+const mediaItem = z.object({
+  file: z.string(),
+  type: z.enum(["image", "audio", "video", "document"]),
+  title: z.string(),
+  description: z.string().default(""),
+  date: z.string().default(""),
+  author: z.string().default(""),
+  license: z.string(),
+  licenseUrl: z.string().optional(),
+  thumb: z.string().optional(),
+  url: z.string(),
+  page: z.string(),
+  width: z.number().optional(),
+  height: z.number().optional(),
+  year: z.number().nullable().default(null),
+  era: z.enum(["original", "later"]),
+  foundIn: z.string(),
+});
+const media = defineCollection({
+  loader: glob({ pattern: "**/*.json", base: "./src/content/media" }),
+  schema: z.object({
+    subject: z.string(),
+    wikipedia: z.string().nullable(),
+    commonsCategory: z.string().nullable(),
+    hidden: z.array(z.string()).default([]),
+    items: z.array(mediaItem),
+  }),
+});
+
+export const collections = { subjects, stories, media };

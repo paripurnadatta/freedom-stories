@@ -69,7 +69,12 @@ for (const file of storyFiles) {
   if (/Research notes/.test(body)) say(where, "still contains research notes");
   if (/\[(?:TODO|TK|citation needed)\]/i.test(body)) say(where, "contains a placeholder");
 
-  const prose = body.replace(/<!--[\s\S]*?-->/g, "").replace(/^#.*$/gm, "");
+  // Count only the story's own words: not comments, headings, pictures or margin notes.
+  const prose = body
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .replace(/<figure[\s\S]*?<\/figure>/g, "")
+    .replace(/<aside[\s\S]*?<\/aside>/g, "")
+    .replace(/^#.*$/gm, "");
   const words = prose.split(/\s+/).filter(Boolean).length;
   if (MIN_WORDS[type] && words < MIN_WORDS[type]) say(where, `is short for a ${type} story (${words} words; aim for ${MIN_WORDS[type]}+)`);
 

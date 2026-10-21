@@ -2,6 +2,7 @@
 id: IF-0512
 kind: person
 name: "Bhai Parmanand"
+wikidata: "Q3632667"
 summary: "Source-specific record documenting Bhai Parmanand's connection with Ghadar Movement; nationalist organizing."
 born: ""
 died: ""

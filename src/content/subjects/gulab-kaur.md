@@ -2,6 +2,7 @@
 id: IF-0639
 kind: person
 name: "Gulab Kaur"
+wikidata: "Q20645096"
 summary: "The Manila-based Ghadar activist who returned toward India with other revolutionaries"
 born: ""
 died: ""

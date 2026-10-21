@@ -2,6 +2,7 @@
 id: IF-0190
 kind: person
 name: "E.M.S. Namboodiripad"
+wikidata: "Q1273532"
 summary: "Participated in anti-colonial and socialist politics."
 born: "1909"
 died: "1998"

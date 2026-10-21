@@ -2,6 +2,7 @@
 id: IF-0091
 kind: person
 name: "Indulal Yagnik"
+wikidata: "Q12177483"
 summary: "The Gujarati nationalist who moved from Home Rule and Kheda-era politics into journalism and all-India peasant organization"
 born: "1892"
 died: "1972"

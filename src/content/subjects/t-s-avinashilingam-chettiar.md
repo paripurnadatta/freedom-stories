@@ -2,6 +2,7 @@
 id: IF-0489
 kind: person
 name: "T. S. Avinashilingam Chettiar"
+wikidata: "Q3530905"
 summary: "T. S. Avinashilingam Chettiar"
 born: "1903"
 died: "1991"

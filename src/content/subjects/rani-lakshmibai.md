@@ -2,6 +2,7 @@
 id: IF-0030
 kind: person
 name: "Rani Lakshmibai"
+wikidata: "Q181878"
 summary: "The queen of Jhansi whose defense of sovereignty became one of the defining campaigns of 1857"
 born: "1828"
 died: "1858"

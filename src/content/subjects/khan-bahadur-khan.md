@@ -2,6 +2,7 @@
 id: IF-0040
 kind: person
 name: "Khan Bahadur Khan"
+wikidata: "Q6400044"
 summary: "The Rohilkhand leader who established rebel authority in Bareilly during 1857 and tried to hold together a cross-community political order"
 born: ""
 died: "1860"

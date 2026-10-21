@@ -2,6 +2,7 @@
 id: IF-0102
 kind: person
 name: "K. Kelappan"
+wikidata: "Q6323503"
 summary: "The 'Kerala Gandhi' whose campaigns joined national satyagraha to temple-entry and anti-caste reform"
 born: "1889"
 died: "1971"

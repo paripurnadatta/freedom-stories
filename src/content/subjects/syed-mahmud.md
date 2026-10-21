@@ -2,6 +2,7 @@
 id: IF-0083
 kind: person
 name: "Syed Mahmud"
+wikidata: "Q7660367"
 summary: "Syed Mahmud"
 born: "1889"
 died: "1971"

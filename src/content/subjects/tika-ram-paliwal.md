@@ -2,6 +2,7 @@
 id: IF-0429
 kind: person
 name: "Tika Ram Paliwal"
+wikidata: "Q7801864"
 summary: "Staged historical profile"
 born: ""
 died: ""

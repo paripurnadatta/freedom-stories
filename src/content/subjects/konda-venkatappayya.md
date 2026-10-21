@@ -2,6 +2,7 @@
 id: IF-0280
 kind: person
 name: "Konda Venkatappayya"
+wikidata: "Q6428924"
 summary: "Konda Venkatappayya was an Andhra nationalist organizer, Congress leader and publicist. Ministry of Culture district-history records place him in the Andhra political network, the 1923 Kakinada Congress context, 1928 all-parties activity, and Civil Disobedience-era events in Guntur."
 born: ""
 died: ""

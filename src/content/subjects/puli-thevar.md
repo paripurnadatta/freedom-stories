@@ -2,6 +2,7 @@
 id: IF-0006
 kind: person
 name: "Puli Thevar"
+wikidata: "Q7259313"
 summary: "The Nerkattumseval chieftain who built an early Palayakkarar confederacy against Company-backed revenue demands"
 born: "1715"
 died: "1767"

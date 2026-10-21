@@ -2,6 +2,7 @@
 id: IF-0004
 kind: person
 name: "Mir Qasim"
+wikidata: "Q3595321"
 summary: "The Bengal nawab who tried to break Company privilege by equalising inland trade and then carried the conflict into war"
 born: "1728"
 died: "1777"

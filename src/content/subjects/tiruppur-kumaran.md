@@ -2,6 +2,7 @@
 id: IF-0193
 kind: person
 name: "Tiruppur Kumaran"
+wikidata: "Q7809411"
 summary: "The young protester whose refusal to let the nationalist flag fall made him an enduring symbol of civil resistance"
 born: "1904"
 died: "1932"

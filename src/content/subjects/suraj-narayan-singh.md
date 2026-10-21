@@ -2,6 +2,7 @@
 id: IF-0421
 kind: person
 name: "Suraj Narayan Singh"
+wikidata: "Q64003145"
 summary: "Freedom fighter / political organizer"
 born: ""
 died: ""

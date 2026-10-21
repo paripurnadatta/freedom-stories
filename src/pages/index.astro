@@ -1,35 +1,38 @@
 ---
 import Base from "../layouts/Base.astro";
-import StoryCard from "../components/StoryCard.astro";
-import { loadSite } from "../lib/site";
+import { loadSite, storyUrl } from "../lib/site";
 
 const site = await loadSite();
 const people = site.subjects.filter((s) => s.data.kind === "person").length;
-const events = site.subjects.length - people;
 const planned = site.subjects.reduce((n, s) => n + s.data.angles.filter((a) => !a.story).length, 0);
 ---
 <Base title="The Struggle for Freedom: stories of India, 1757 to 1947">
-  <section class="home-hero">
-    <div class="page">
-      <div class="home-intro">
-        <span class="label">Stories of the freedom struggle</span>
-        <h1 class="home-title">The struggle <em>for freedom</em></h1>
-        <p class="home-lede">
-          The people and moments of India's long fight against colonial rule, from Plassey to Independence, told as stories.
-        </p>
-      </div>
-      <div class="home-stats">
-        <span class="label">1757–1947</span>
-        <strong>{people} people · {events} moments</strong>
-        <span class="label">{site.stories.length} {site.stories.length === 1 ? "story" : "stories"} told · {planned} on the way</span>
-      </div>
-    </div>
-  </section>
+  <main class="wide">
+    <header class="home-open">
+      <h1>The Struggle for Freedom<span class="hi">आज़ादी की कहानियाँ</span></h1>
+      <p>
+        True stories of the people who fought for India's freedom, from the Battle of Plassey in 1757 to Independence in 1947.
+        Every story is checked against real records.
+      </p>
+      <p class="count">{site.stories.length} {site.stories.length === 1 ? "story" : "stories"} so far. {planned} more on the way, and {people} people still waiting for theirs.</p>
+    </header>
 
-  <main class="page">
-    <h2 class="section-title home-section">Read a story</h2>
-    <ul class="story-list">
-      {site.stories.map((s) => <li><StoryCard story={s} subject={site.subjectById.get(s.data.about[0])} /></li>)}
-    </ul>
+    <h2 class="chapter-head">Start reading</h2>
+    <ol class="contents">
+      {site.stories.map((s) => {
+        const who = site.subjectById.get(s.data.about[0]);
+        return (
+          <li class:list={{ flag: s.data.type === "flagship" }}>
+            <a href={storyUrl(s)}>
+              <span>
+                <span class="kind">{who?.data.name}</span>
+                <span class="t">{s.data.title}</span>
+                <span class="h">{s.data.subtitle}</span>
+              </span>
+            </a>
+          </li>
+        );
+      })}
+    </ol>
   </main>
 </Base>

@@ -2,6 +2,7 @@
 id: IF-0186
 kind: person
 name: "Purushottam Das Tandon"
+wikidata: "Q983057"
 summary: "Congress leader active in mass campaigns."
 born: "1882"
 died: "1962"

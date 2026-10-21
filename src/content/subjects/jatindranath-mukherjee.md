@@ -2,6 +2,7 @@
 id: IF-0060
 kind: person
 name: "Jatindranath Mukherjee"
+wikidata: "Q2929252"
 summary: "The Jugantar leader who tried to turn the First World War into an armed opening for Indian independence"
 born: "1879"
 died: "1915"

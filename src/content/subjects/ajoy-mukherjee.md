@@ -2,6 +2,7 @@
 id: IF-0273
 kind: person
 name: "Ajoy Mukherjee"
+wikidata: "Q3347922"
 summary: "Documented in the cited source in connection with Tamralipta Jatiya Sarkar."
 born: ""
 died: ""

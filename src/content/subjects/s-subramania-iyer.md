@@ -2,6 +2,7 @@
 id: IF-0261
 kind: person
 name: "S. Subramania Iyer"
+wikidata: "Q7387914"
 summary: "Political organizer"
 born: ""
 died: ""

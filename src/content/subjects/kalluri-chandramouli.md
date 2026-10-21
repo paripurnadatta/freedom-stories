@@ -2,6 +2,7 @@
 id: IF-0281
 kind: person
 name: "Kalluri Chandramouli"
+wikidata: "Q12993056"
 summary: "Kalluri Chandramouli (born 15 November 1898 at Moparru in Guntur district) was an Andhra nationalist who rejected government employment, joined the freedom movement, associated with Gandhi's Sevagram milieu, and participated in the Salt Satyagraha. Government historical records document imprisonment in 1930–31 and again in 1932–33."
 born: ""
 died: ""

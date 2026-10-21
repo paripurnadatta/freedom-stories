@@ -2,6 +2,7 @@
 id: IF-0031
 kind: person
 name: "Nana Sahib"
+wikidata: "Q951444"
 summary: "The dispossessed Peshwa heir who became the political centre of rebel rule at Kanpur in 1857"
 born: "1824"
 died: "1859"

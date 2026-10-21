@@ -2,6 +2,7 @@
 id: IF-0259
 kind: person
 name: "Rahimtulla Sayani"
+wikidata: "Q7283455"
 summary: "Political organizer"
 born: ""
 died: ""

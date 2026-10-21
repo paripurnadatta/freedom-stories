@@ -2,6 +2,7 @@
 id: IF-0405
 kind: person
 name: "Duggirala Gopalakrishnayya"
+wikidata: "Q16030325"
 summary: "The Andhra organizer who turned a municipal tax fight into the extraordinary mass evacuation of Chirala and Perala"
 born: ""
 died: ""

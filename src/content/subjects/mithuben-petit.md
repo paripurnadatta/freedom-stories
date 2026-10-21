@@ -2,6 +2,7 @@
 id: IF-0324
 kind: person
 name: "Mithuben Petit"
+wikidata: "Q31436151"
 summary: "Documented in the cited source in connection with Early nationalist press activity."
 born: ""
 died: ""

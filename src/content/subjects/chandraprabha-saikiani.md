@@ -2,6 +2,7 @@
 id: IF-0113
 kind: person
 name: "Chandraprabha Saikiani"
+wikidata: "Q20685394"
 summary: "The Assamese feminist organizer who made women's emancipation part of mass anti-colonial politics"
 born: "1901"
 died: "1972"

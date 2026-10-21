@@ -2,6 +2,7 @@
 id: IF-0197
 kind: person
 name: "Kamala Nehru"
+wikidata: "Q3633365"
 summary: "Staged historical profile"
 born: "1899"
 died: "1936"

@@ -2,6 +2,7 @@
 id: IF-0205
 kind: person
 name: "Bakshi Jagabandhu"
+wikidata: "Q4849564"
 summary: "Military / resistance leader"
 born: "1773"
 died: "1829"

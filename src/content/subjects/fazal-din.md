@@ -2,6 +2,7 @@
 id: IF-0510
 kind: person
 name: "Fazal Din"
+wikidata: "Q5439151"
 summary: "Source-specific record documenting Fazal Din's connection with Ghadar Movement; Lahore Conspiracy."
 born: ""
 died: ""

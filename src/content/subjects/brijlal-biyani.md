@@ -2,6 +2,7 @@
 id: IF-0473
 kind: person
 name: "Brijlal Biyani"
+wikidata: "Q4956007"
 summary: "Staged historical profile"
 born: ""
 died: ""

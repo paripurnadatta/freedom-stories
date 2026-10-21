@@ -2,6 +2,7 @@
 id: IF-0164
 kind: person
 name: "Leela Roy"
+wikidata: "Q6516265"
 summary: "Staged historical profile"
 born: "1900"
 died: "1970"

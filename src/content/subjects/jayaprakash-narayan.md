@@ -2,6 +2,7 @@
 id: IF-0155
 kind: person
 name: "Jayaprakash Narayan"
+wikidata: "Q734509"
 summary: "The socialist organizer who turned the Congress left into an institution and then escaped prison to build an underground Quit India network"
 born: "1902"
 died: "1979"

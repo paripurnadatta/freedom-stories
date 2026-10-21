@@ -2,6 +2,7 @@
 id: IF-0485
 kind: person
 name: "T.K. Madhavan"
+wikidata: "Q3529983"
 summary: "The Kerala journalist-reformer who carried the anti-untouchability question into Congress politics and helped launch the Vaikom Satyagraha"
 born: "1885"
 died: "1930"

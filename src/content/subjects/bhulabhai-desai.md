@@ -2,6 +2,7 @@
 id: IF-0218
 kind: person
 name: "Bhulabhai Desai"
+wikidata: "Q4902129"
 summary: "Prominent nationalist lawyer; defended INA officers at the Red Fort trials."
 born: "1877"
 died: "1946"

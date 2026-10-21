@@ -2,6 +2,7 @@
 id: IF-0117
 kind: person
 name: "Ashfaqulla Khan"
+wikidata: "Q1571670"
 summary: "The Kakori revolutionary whose partnership with Bismil became one of the HRA’s defining relationships"
 born: "1900"
 died: "1927"

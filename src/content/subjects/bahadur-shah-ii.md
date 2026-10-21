@@ -2,6 +2,7 @@
 id: IF-0028
 kind: person
 name: "Bahadur Shah II"
+wikidata: "Q127369"
 summary: "The last Mughal emperor transformed by the Delhi uprising of 1857 from a pensioned monarch into the symbolic sovereign of a rebellion he could not fully control"
 born: "1775"
 died: "1862"

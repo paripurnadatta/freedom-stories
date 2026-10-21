@@ -2,6 +2,7 @@
 id: IF-0097
 kind: person
 name: "Shaukat Ali"
+wikidata: "Q3595825"
 summary: "Shaukat Ali"
 born: "1873"
 died: "1938"

@@ -2,6 +2,7 @@
 id: IF-0055
 kind: person
 name: "Barindra Kumar Ghosh"
+wikidata: "Q4860758"
 summary: "The Jugantar organizer whose Maniktala network became the centre of the Alipore Bomb Case"
 born: "1880"
 died: "1959"

@@ -2,6 +2,7 @@
 id: IF-0173
 kind: person
 name: "K.P. Jayaswal"
+wikidata: "Q6322989"
 summary: "Nationalist scholar and political participant; verify scope."
 born: "1881"
 died: "1937"

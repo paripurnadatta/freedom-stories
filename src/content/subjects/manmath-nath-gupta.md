@@ -2,6 +2,7 @@
 id: IF-0130
 kind: person
 name: "Manmath Nath Gupta"
+wikidata: "Q6750641"
 summary: "Manmath Nath Gupta"
 born: "1908"
 died: "2000"

@@ -2,6 +2,7 @@
 id: IF-0215
 kind: person
 name: "Motilal Nehru"
+wikidata: "Q380148"
 summary: "Senior nationalist and Swarajist leader."
 born: "1861"
 died: "1931"

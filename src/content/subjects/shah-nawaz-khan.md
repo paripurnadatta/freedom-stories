@@ -2,6 +2,7 @@
 id: IF-0175
 kind: person
 name: "Shah Nawaz Khan"
+wikidata: "Q7461322"
 summary: "Senior INA officer and later INA trial defendant."
 born: "1914"
 died: "1983"

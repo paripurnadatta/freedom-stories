@@ -2,6 +2,7 @@
 id: IF-0129
 kind: person
 name: "Shiv Verma"
+wikidata: "Q114073127"
 summary: "HSRA revolutionary and political prisoner."
 born: "1907"
 died: "1997"

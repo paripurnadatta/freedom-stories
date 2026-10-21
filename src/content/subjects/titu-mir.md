@@ -2,6 +2,7 @@
 id: IF-0204
 kind: person
 name: "Titu Mir"
+wikidata: "Q3346553"
 summary: "Led resistance in Bengal against oppressive revenue and zamindari structures backed by colonial rule."
 born: "1782"
 died: "1831"

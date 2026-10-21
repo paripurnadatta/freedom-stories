@@ -2,6 +2,7 @@
 id: IF-0158
 kind: person
 name: "Aruna Asaf Ali"
+wikidata: "Q467207"
 summary: "The underground leader who made the Quit India flag-hoisting one of 1942’s defining images"
 born: "1909"
 died: "1996"

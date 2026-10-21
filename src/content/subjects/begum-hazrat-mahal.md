@@ -2,6 +2,7 @@
 id: IF-0035
 kind: person
 name: "Begum Hazrat Mahal"
+wikidata: "Q717960"
 summary: "The Awadh leader who sustained resistance after the British retook Lucknow"
 born: ""
 died: "1879"

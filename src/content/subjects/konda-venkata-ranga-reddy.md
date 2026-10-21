@@ -2,6 +2,7 @@
 id: IF-0372
 kind: person
 name: "Konda Venkata Ranga Reddy"
+wikidata: "Q6428923"
 summary: "Played a vital role in forming the Nizam Rashtra Andhra Mahasabha and later in Hyderabad's political struggle."
 born: ""
 died: ""

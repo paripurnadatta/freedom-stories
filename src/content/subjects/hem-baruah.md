@@ -2,6 +2,7 @@
 id: IF-0624
 kind: person
 name: "Hem Baruah"
+wikidata: "Q136486550"
 summary: "Source-specific record documenting Hem Baruah's connection with Quit India Movement."
 born: ""
 died: ""

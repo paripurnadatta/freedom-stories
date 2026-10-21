@@ -2,6 +2,7 @@
 id: IF-0232
 kind: person
 name: "Nalini Bala Devi"
+wikidata: "Q6960908"
 summary: "Staged historical profile"
 born: "1898"
 died: "1977-12-24"

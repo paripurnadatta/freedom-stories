@@ -2,6 +2,7 @@
 id: IF-0217
 kind: person
 name: "Bhagwan Das"
+wikidata: "Q854704"
 summary: "Nationalist thinker and collaborator in Home Rule politics."
 born: "1869"
 died: "1958"

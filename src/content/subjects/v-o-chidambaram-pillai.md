@@ -2,6 +2,7 @@
 id: IF-0075
 kind: person
 name: "V.O. Chidambaram Pillai"
+wikidata: "Q492527"
 summary: "The lawyer who challenged colonial commerce with a Swadeshi shipping enterprise"
 born: "1872"
 died: "1936"

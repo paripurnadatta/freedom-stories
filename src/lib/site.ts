@@ -14,6 +14,7 @@ export async function loadSite() {
     .sort((a, b) => a.data.year - b.data.year);
 
   const subjectById = new Map(subjects.map((s) => [s.id, s]));
+  const mediaById = new Map((await getCollection("media")).map((m) => [m.data.subject, m.data]));
 
   // Stories mainly about a subject (first in `about`), and stories they appear in.
   const mainStories = new Map<string, Story[]>();
@@ -38,6 +39,12 @@ export async function loadSite() {
     subjectById,
     hubs,
     hasHub,
+    mediaOf: (id: string) => {
+      const m = mediaById.get(id);
+      if (!m) return { original: [], later: [] };
+      const shown = m.items.filter((i) => !m.hidden.includes(i.file));
+      return { original: shown.filter((i) => i.era === "original"), later: shown.filter((i) => i.era === "later") };
+    },
     mainStoriesOf: (id: string) => sortStories(mainStories.get(id)),
     appearsInOf: (id: string) => sortStories(appearsIn.get(id)),
   };
@@ -46,4 +53,28 @@ export async function loadSite() {
 export function datesOf(s: Subject): string {
   if (s.data.kind === "event") return s.data.date ?? String(s.data.year);
   return [s.data.born?.slice(0, 4), s.data.died?.slice(0, 4)].filter(Boolean).join("–");
+}
+
+/** Roughly how long a story takes a young reader (about 150 words a minute). */
+export function minutesToRead(body = ""): number {
+  const words = body.replace(/<[^>]+>/g, " ").replace(/[#*_>`-]/g, " ").split(/\s+/).filter(Boolean).length;
+  return Math.max(2, Math.round(words / 150));
+}
+
+/** Commons credits are messy ("Unknown authorUnknown author"). Make them readable. */
+export function cleanCredit(author: string, license: string): string {
+  let a = author.replace(/\s+/g, " ").trim();
+  const half = a.length / 2;
+  if (a.length % 2 === 0 && a.slice(0, half) === a.slice(half)) a = a.slice(0, half);
+  a = a.replace(/^(.+?)\s*\1$/i, "$1").replace(/^unknown( author| photographer)?$/i, "Unknown photographer").trim();
+  if (a.length > 80) a = a.slice(0, 77).replace(/\s+\S*$/, "") + "...";
+  return [a, license].filter(Boolean).join(", ");
+}
+
+/** A short caption: the first sentence of the description, or the title. */
+export function shortCaption(description: string, title: string): string {
+  const text = (description || title).replace(/\s+/g, " ").trim();
+  const first = text.match(/^.{20,180}?[.!?](?=\s|$)/)?.[0] ?? text;
+  const capped = first.length > 180 ? first.slice(0, 177).replace(/\s+\S*$/, "") + "..." : first;
+  return capped.charAt(0).toUpperCase() + capped.slice(1);
 }

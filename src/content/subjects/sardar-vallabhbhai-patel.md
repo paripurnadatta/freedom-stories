@@ -2,6 +2,7 @@
 id: IF-0090
 kind: person
 name: "Sardar Vallabhbhai Patel"
+wikidata: "Q9455"
 summary: "The organizer who turned agrarian satyagraha into disciplined mass power in Gujarat"
 born: "1875"
 died: "1950"

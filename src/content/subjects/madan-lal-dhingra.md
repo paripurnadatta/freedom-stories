@@ -2,6 +2,7 @@
 id: IF-0072
 kind: person
 name: "Madan Lal Dhingra"
+wikidata: "Q269266"
 summary: "The India House-era revolutionary whose assassination of Curzon Wyllie shocked imperial London"
 born: "1883"
 died: "1909"

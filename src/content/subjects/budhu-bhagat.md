@@ -2,6 +2,7 @@
 id: IF-0018
 kind: person
 name: "Budhu Bhagat"
+wikidata: "Q12442290"
 summary: "The Oraon leader who helped turn the Kol-Larka upheaval into a broad armed challenge across Chotanagpur in 1831–32"
 born: ""
 died: "1832"

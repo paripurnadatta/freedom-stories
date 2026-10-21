@@ -2,6 +2,7 @@
 id: IF-0099
 kind: person
 name: "C. Rajagopalachari"
+wikidata: "Q378404"
 summary: "The Madras Presidency strategist who carried Home Rule and satyagraha into the Vedaranyam salt campaign"
 born: "1878"
 died: "1972"

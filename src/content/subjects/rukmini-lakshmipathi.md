@@ -2,6 +2,7 @@
 id: IF-0325
 kind: person
 name: "Rukmini Lakshmipathi"
+wikidata: "Q3453122"
 summary: "Documented in the cited source in connection with Early nationalist press activity."
 born: ""
 died: ""

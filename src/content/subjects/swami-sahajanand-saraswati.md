@@ -2,6 +2,7 @@
 id: IF-0222
 kind: person
 name: "Swami Sahajanand Saraswati"
+wikidata: "Q7399427"
 summary: "The ascetic who turned Bihar's agrarian grievances into a national peasant movement"
 born: "1889"
 died: "1950"

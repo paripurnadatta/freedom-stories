@@ -2,6 +2,7 @@
 id: IF-0371
 kind: person
 name: "Burgula Ramakrishna Rao"
+wikidata: "Q3595576"
 summary: "Founder member of Hyderabad State Congress, Andhra Mahasabha leader and participant in Hyderabad's Quit India and 1947 freedom struggle."
 born: "1899"
 died: "1967"

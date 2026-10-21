@@ -2,6 +2,7 @@
 id: IF-0134
 kind: person
 name: "Surya Sen"
+wikidata: "Q462082"
 summary: "The schoolteacher who built the Chittagong revolutionary network"
 born: "1894"
 died: "1934"

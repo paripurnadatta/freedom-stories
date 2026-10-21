@@ -2,6 +2,7 @@
 id: IF-0167
 kind: person
 name: "Rajkumari Amrit Kaur"
+wikidata: "Q431601"
 summary: "The princess who became a long-serving Gandhian organizer, prisoner and advocate of women's political rights"
 born: "1889"
 died: "1964"

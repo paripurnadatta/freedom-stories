@@ -2,6 +2,7 @@
 id: IF-0194
 kind: person
 name: "S. Srinivasa Iyengar"
+wikidata: "Q7387908"
 summary: "Prominent Madras Presidency nationalist."
 born: "1874"
 died: "1941"

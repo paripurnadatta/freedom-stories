@@ -2,6 +2,7 @@
 id: IF-0446
 kind: person
 name: "Sachindra Lal Singh"
+wikidata: "Q7396755"
 summary: "Staged historical profile"
 born: "1907"
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0001
 kind: person
 name: "Siraj ud-Daulah"
+wikidata: "Q1998495"
 summary: "The Bengal nawab whose defeat at Plassey opened the decisive first breach for Company political power"
 born: "1733"
 died: "1757"

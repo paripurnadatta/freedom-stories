@@ -2,6 +2,7 @@
 id: IF-0480
 kind: person
 name: "Tarkeshwari Sinha"
+wikidata: "Q7686261"
 summary: "Staged historical profile"
 born: "1926"
 died: "2007"

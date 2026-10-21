@@ -2,6 +2,7 @@
 id: IF-0496
 kind: person
 name: "Nellie Sengupta"
+wikidata: "Q6990136"
 summary: "Official profile documents Non-Cooperation participation and imprisonment."
 born: ""
 died: ""

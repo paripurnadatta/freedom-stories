@@ -2,6 +2,7 @@
 id: IF-0188
 kind: person
 name: "Rafi Ahmed Kidwai"
+wikidata: "Q7282619"
 summary: "Congress organizer and nationalist."
 born: "1894"
 died: "1954"

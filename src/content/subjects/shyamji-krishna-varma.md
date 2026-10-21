@@ -2,6 +2,7 @@
 id: IF-0064
 kind: person
 name: "Shyamji Krishna Varma"
+wikidata: "Q1731326"
 summary: "The expatriate organizer who built India House into a centre of revolutionary nationalism in London"
 born: "1857"
 died: "1930"

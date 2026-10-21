@@ -2,6 +2,7 @@
 id: IF-0005
 kind: person
 name: "Rani Velu Nachiyar"
+wikidata: "Q15408153"
 summary: "The Sivaganga queen who built alliances and reclaimed her kingdom in an early war against Company power"
 born: "1730"
 died: "1796"

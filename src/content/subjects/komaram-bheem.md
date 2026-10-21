@@ -2,6 +2,7 @@
 id: IF-0149
 kind: person
 name: "Komaram Bheem"
+wikidata: "Q6428141"
 summary: "The Gond leader who organized armed resistance to the Hyderabad State around land, forest access and Adivasi autonomy"
 born: "1901"
 died: "1940"

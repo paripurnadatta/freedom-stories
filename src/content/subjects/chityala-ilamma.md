@@ -2,6 +2,7 @@
 id: IF-0377
 kind: person
 name: "Chityala Ilamma"
+wikidata: "Q5102542"
 summary: "The washerwoman-peasant whose refusal to surrender cultivated land became an emblem of the Telangana anti-feudal struggle"
 born: ""
 died: "1985-09-10"

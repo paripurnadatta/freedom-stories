@@ -2,6 +2,7 @@
 id: IF-0303
 kind: person
 name: "Sohan Singh Josh"
+wikidata: "Q13586115"
 summary: "Documented in the cited source in connection with Formation of the Indian National Congress."
 born: ""
 died: ""

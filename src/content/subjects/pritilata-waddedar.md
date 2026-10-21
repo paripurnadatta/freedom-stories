@@ -2,6 +2,7 @@
 id: IF-0133
 kind: person
 name: "Pritilata Waddedar"
+wikidata: "Q2435073"
 summary: "The Chittagong revolutionary who led the Pahartali European Club attack"
 born: "1911"
 died: "1932"

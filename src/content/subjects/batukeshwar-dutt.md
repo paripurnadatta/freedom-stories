@@ -2,6 +2,7 @@
 id: IF-0124
 kind: person
 name: "Batukeshwar Dutt"
+wikidata: "Q3630733"
 summary: "The HSRA revolutionary who turned the Assembly trial and prison hunger strike into political theatre"
 born: "1910"
 died: "1965"

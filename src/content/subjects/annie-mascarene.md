@@ -2,6 +2,7 @@
 id: IF-0412
 kind: person
 name: "Annie Mascarene"
+wikidata: "Q3618092"
 summary: "Documented association with Travancore State Congress in Kerala."
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0472
 kind: person
 name: "Hiralal Shastri"
+wikidata: "Q5698076"
 summary: "Staged historical profile"
 born: ""
 died: ""

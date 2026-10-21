@@ -2,6 +2,7 @@
 id: IF-0033
 kind: person
 name: "Kunwar Singh"
+wikidata: "Q3595882"
 summary: "The Jagdishpur leader who turned Bihar into a major theatre of the 1857 rebellion"
 born: "1777"
 died: "1858"

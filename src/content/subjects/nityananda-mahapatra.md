@@ -2,6 +2,7 @@
 id: IF-0294
 kind: person
 name: "Nityananda Mahapatra"
+wikidata: "Q6574946"
 summary: "Documented in the cited source in connection with Early nationalist press activity."
 born: ""
 died: ""

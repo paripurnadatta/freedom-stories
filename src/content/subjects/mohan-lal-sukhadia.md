@@ -2,6 +2,7 @@
 id: IF-0615
 kind: person
 name: "Mohan Lal Sukhadia"
+wikidata: "Q1942799"
 summary: "Staged historical profile"
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0343
 kind: person
 name: "Kuladhar Chaliha"
+wikidata: "Q24579113"
 summary: "Staged historical profile"
 born: ""
 died: ""

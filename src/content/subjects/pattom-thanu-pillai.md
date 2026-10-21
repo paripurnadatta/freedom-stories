@@ -2,6 +2,7 @@
 id: IF-0413
 kind: person
 name: "Pattom Thanu Pillai"
+wikidata: "Q3595542"
 summary: "Documented association with Travancore State Congress in Kerala."
 born: ""
 died: ""

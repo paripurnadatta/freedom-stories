@@ -2,6 +2,7 @@
 id: IF-0637
 kind: person
 name: "Parbati Giri"
+wikidata: "Q7136339"
 summary: "Staged historical profile"
 born: "1926"
 died: "1995"

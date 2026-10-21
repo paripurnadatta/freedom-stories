@@ -2,6 +2,7 @@
 id: IF-0108
 kind: person
 name: "Malati Choudhury"
+wikidata: "Q6741394"
 summary: "The Odisha organizer who linked salt satyagraha, peasant mobilization, princely-state agitation and Quit India"
 born: "1904"
 died: "1998"

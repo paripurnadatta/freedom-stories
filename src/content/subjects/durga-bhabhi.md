@@ -2,6 +2,7 @@
 id: IF-0127
 kind: person
 name: "Durga Bhabhi"
+wikidata: "Q5316432"
 summary: "The revolutionary organizer who helped Bhagat Singh escape Lahore and sustained the network behind the headlines"
 born: "1907"
 died: "1999"

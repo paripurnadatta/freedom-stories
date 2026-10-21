@@ -2,6 +2,7 @@
 id: IF-0135
 kind: person
 name: "Kalpana Dutta"
+wikidata: "Q3349891"
 summary: "The Chittagong revolutionary who carried the underground campaign beyond the armoury raid"
 born: "1913"
 died: "1995"

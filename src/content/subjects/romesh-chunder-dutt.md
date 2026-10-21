@@ -2,6 +2,7 @@
 id: IF-0416
 kind: person
 name: "Romesh Chunder Dutt"
+wikidata: "Q3348870"
 summary: "Documented association with early nationalism in Bengal."
 born: ""
 died: ""

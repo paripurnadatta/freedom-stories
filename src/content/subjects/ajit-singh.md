@@ -2,6 +2,7 @@
 id: IF-0213
 kind: person
 name: "Ajit Singh"
+wikidata: "Q7423676"
 summary: "The Punjab agrarian nationalist who turned colonial land legislation into a mass political crisis"
 born: "1881"
 died: "1947"

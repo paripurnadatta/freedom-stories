@@ -2,6 +2,7 @@
 id: IF-0260
 kind: person
 name: "G. Subramania Iyer"
+wikidata: "Q5512490"
 summary: "The editor who made newspapers, economic critique and political association instruments of early nationalism in Madras"
 born: ""
 died: ""

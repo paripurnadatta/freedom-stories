@@ -2,6 +2,7 @@
 id: IF-0081
 kind: person
 name: "Maulana Abul Kalam Azad"
+wikidata: "Q196617"
 summary: "The journalist-scholar who made anti-imperial writing, Hindu-Muslim unity and Congress leadership parts of one political project"
 born: "1888"
 died: "1958"

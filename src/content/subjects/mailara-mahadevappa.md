@@ -2,6 +2,7 @@
 id: IF-0459
 kind: person
 name: "Mailara Mahadevappa"
+wikidata: "Q13160744"
 summary: "Documented association with Quit India in Karnataka."
 born: ""
 died: ""

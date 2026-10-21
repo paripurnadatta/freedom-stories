@@ -2,6 +2,7 @@
 id: IF-0063
 kind: person
 name: "Ganesh Damodar Savarkar"
+wikidata: "Q5520829"
 summary: "Ganesh Damodar Savarkar"
 born: "1879"
 died: "1945"

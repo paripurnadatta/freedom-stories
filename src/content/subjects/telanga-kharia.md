@@ -2,6 +2,7 @@
 id: IF-0400
 kind: person
 name: "Telanga Kharia"
+wikidata: "Q26266161"
 summary: "Staged historical profile"
 born: ""
 died: ""

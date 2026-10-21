@@ -2,6 +2,7 @@
 id: IF-0139
 kind: person
 name: "Surendra Sai"
+wikidata: "Q7918122"
 summary: "Staged historical profile"
 born: "1809"
 died: "1884"

@@ -2,6 +2,7 @@
 id: IF-0029
 kind: person
 name: "Mangal Pandey"
+wikidata: "Q382027"
 summary: "The Barrackpore sepoy whose March 1857 defiance became an enduring opening image of the great uprising"
 born: "1827"
 died: "1857"

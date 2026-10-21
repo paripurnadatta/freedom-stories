@@ -2,6 +2,7 @@
 id: IF-0262
 kind: person
 name: "Krishna Kumar Mitra"
+wikidata: "Q6437442"
 summary: "Journalist"
 born: ""
 died: ""

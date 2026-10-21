@@ -1,9 +1,8 @@
 ---
 import { render } from "astro:content";
 import Base from "../../layouts/Base.astro";
-import Hero from "../../components/Hero.astro";
-import QuickFacts from "../../components/QuickFacts.astro";
-import { loadSite, hubUrl, storyUrl, type Story } from "../../lib/site";
+import Plate from "../../components/Plate.astro";
+import { loadSite, hubUrl, storyUrl, minutesToRead, datesOf, type Story } from "../../lib/site";
 
 export async function getStaticPaths() {
   const site = await loadSite();
@@ -13,95 +12,64 @@ export async function getStaticPaths() {
 const { story } = Astro.props as { story: Story };
 const site = await loadSite();
 const d = story.data;
-const { Content, headings } = await render(story);
-const sections = headings.filter((h) => h.depth === 2);
+const { Content } = await render(story);
 
 const main = site.subjectById.get(d.about[0])!;
-const others = d.about.slice(1).map((id) => site.subjectById.get(id)).filter((s) => s !== undefined);
-const people = others.filter((s) => s.data.kind === "person");
-const moments = others.filter((s) => s.data.kind === "event").sort((a, b) => a.data.year - b.data.year);
-
+const cast = d.about.slice(1).map((id) => site.subjectById.get(id)).filter((s) => s !== undefined);
+const people = cast.filter((s) => s.data.kind === "person");
 const moreAbout = site.mainStoriesOf(main.id).filter((s) => s.id !== story.id);
-const comingSoon = main.data.angles.filter((a) => !a.story).length;
+const planned = main.data.angles.filter((a) => !a.story);
+const image = d.image ?? main.data.image;
+const minutes = minutesToRead(story.body);
+const dates = datesOf(main);
 ---
-<Base title={`${d.title} | ${main.data.name}`} description={d.subtitle} crumb={main.data.name} crumbHref={hubUrl(main)}>
-  <main class="page">
-    <Hero
-      subject={main}
-      label={`${d.type === "flagship" ? "Flagship story" : "Short story"} · ${main.data.name}`}
-      heading={d.title}
-      dek={d.subtitle}
-      quote={d.quote ?? main.data.quote}
-      image={d.image ?? main.data.image}
-    />
+<Base title={`${d.title}: a story about ${main.data.name}`} description={d.subtitle}>
+  <main class="column">
+    <header class="opening">
+      <p class="about">
+        {d.type === "flagship" ? "The big story" : "A short story"} about <a href={hubUrl(main)}>{main.data.name}</a>{dates && `, ${dates}`}
+      </p>
+      <h1>{d.title}</h1>
+      <p class="question">{d.subtitle}</p>
+      <p class="reading-time">About {minutes} minutes to read.</p>
+    </header>
 
-    <QuickFacts subject={main} moments={moments.map((m) => m.data.name)} people={people.map((p) => p.data.name)} />
+    {image && <Plate image={image} portrait />}
 
-    <div class="reading">
-      <aside class="contents-col">
-        {sections.length > 0 && (
-          <nav class="contents sticky" aria-label="Contents">
-            <span class="label">Contents</span>
-            <ol>{sections.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
-          </nav>
-        )}
-      </aside>
+    <article class="story"><Content /></article>
+    <p class="end-mark" aria-hidden="true">✦</p>
 
-      <article class="story">
-        <div class="story-body"><Content /></div>
-        <section class="sources">
-          <h2>Where this story comes from</h2>
-          <ol>
-            {d.sources.map((s) => (
-              <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span class="pub">{s.publisher}</span>}</li>
+    <section class="after">
+      {people.length > 0 && (
+        <>
+          <h2>Who's who in this story</h2>
+          <ul class="whos-who">
+            {[main, ...people].map((p) => (
+              <li>
+                <span class="face">{p.data.image ? <img src={p.data.image.src} alt="" loading="lazy" /> : p.data.name.charAt(0)}</span>
+                <span>
+                  <a class="who" href={hubUrl(p)}>{p.data.name}</a>
+                  <span class="what">{p.data.summary}</span>
+                </span>
+              </li>
             ))}
-          </ol>
-        </section>
-      </article>
-
-      <aside class="rail">
-        <div class="rail-card">
-          <span class="label">More about {main.data.name}</span>
-          <ul class="people">
-            {moreAbout.map((s) => (
-              <li><a class="person plain" href={storyUrl(s)}><span><span class="person-name">{s.data.title}</span><span class="person-note">{s.data.type === "flagship" ? "Flagship story" : "Short story"}</span></span></a></li>
-            ))}
-            <li><a class="person plain" href={hubUrl(main)}><span><span class="person-name">All about {main.data.name}</span><span class="person-note">{comingSoon > 0 ? `${comingSoon} more stories on the way` : "Facts, stories and sources"}</span></span></a></li>
           </ul>
-        </div>
+        </>
+      )}
 
-        {people.length > 0 && (
-          <div class="rail-card">
-            <span class="label">People in this story</span>
-            <ul class="people">
-              {people.map((p) => (
-                <li>
-                  <a class="person" href={hubUrl(p)}>
-                    <span class="avatar">{p.data.image ? <img src={p.data.image.src} alt="" loading="lazy" /> : p.data.name.charAt(0)}</span>
-                    <span><span class="person-name">{p.data.name}</span><span class="person-note">{p.data.role}</span></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
+      <h2>More about {main.data.name}</h2>
+      <p>
+        {moreAbout.length > 0 && <>Read next: {moreAbout.map((s, i) => <>{i > 0 && ", "}<a href={storyUrl(s)}>{s.data.title}</a></>)}. </>}
+        {planned.length > 0
+          ? <>We are writing {planned.length} more stories about {main.data.name}, starting with "{planned[0].title}". </>
+          : null}
+        Photographs, letters and papers from the time are on <a href={hubUrl(main)}>{main.data.name}'s page</a>.
+      </p>
 
-        {moments.length > 0 && (
-          <div class="rail-card">
-            <span class="label">Moments in this story</span>
-            <ul class="people">
-              {moments.map((m) => (
-                <li>
-                  <a class="person" href={hubUrl(m)}>
-                    <span class="avatar">{String(m.data.year).slice(2)}</span>
-                    <span><span class="person-name">{m.data.name}</span><span class="person-note">{m.data.year}</span></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        )}
-      </aside>
-    </div>
+      <h2>Where we found this story</h2>
+      <ol class="sources">
+        {d.sources.map((s) => <li><a href={s.url} rel="noopener">{s.title}</a>{s.publisher && <span class="pub">. {s.publisher}</span>}</li>)}
+      </ol>
+    </section>
   </main>
 </Base>

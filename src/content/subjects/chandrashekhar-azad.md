@@ -2,6 +2,7 @@
 id: IF-0120
 kind: person
 name: "Chandrashekhar Azad"
+wikidata: "Q738368"
 summary: "The underground commander who carried North Indian revolutionary organization from HRA into HSRA"
 born: "1906"
 died: "1931"

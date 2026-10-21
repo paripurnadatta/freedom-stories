@@ -2,6 +2,7 @@
 id: IF-0317
 kind: person
 name: "Potti Sriramulu"
+wikidata: "Q3595155"
 summary: "Potti Sriramulu (1901–1952) was a Gandhian satyagrahi who took part in the Salt Satyagraha, Individual Satyagraha and Quit India movement, undergoing repeated imprisonment. His famous 1952 fast for Andhra statehood is post-independence context and must not be turned into a freedom-struggle movement node."
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0475
 kind: person
 name: "Basawon Singh"
+wikidata: "Q4866310"
 summary: "Freedom fighter / political organizer"
 born: ""
 died: ""

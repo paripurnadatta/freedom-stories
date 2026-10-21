@@ -2,6 +2,7 @@
 id: IF-0110
 kind: person
 name: "Gopinath Bordoloi"
+wikidata: "Q737324"
 summary: "The Assamese Congress leader who carried Gandhian nationalism into provincial government and defended Assam’s political place in India"
 born: "1890"
 died: "1950"

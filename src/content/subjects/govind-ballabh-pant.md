@@ -2,6 +2,7 @@
 id: IF-0187
 kind: person
 name: "Govind Ballabh Pant"
+wikidata: "Q2724411"
 summary: "Staged historical profile"
 born: "1887"
 died: "1961"

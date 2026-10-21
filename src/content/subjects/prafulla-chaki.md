@@ -2,6 +2,7 @@
 id: IF-0057
 kind: person
 name: "Prafulla Chaki"
+wikidata: "Q2723923"
 summary: "The Bengal revolutionary whose underground career led to the 1908 Muzaffarpur attack"
 born: "1888"
 died: "1908"

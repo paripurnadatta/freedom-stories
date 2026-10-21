@@ -2,6 +2,7 @@
 id: IF-0086
 kind: person
 name: "Kasturba Gandhi"
+wikidata: "Q264908"
 summary: "The satyagrahi whose political life ran beside Gandhi's but included her own arrests, organizing work and repeated participation in mass struggle"
 born: "1869"
 died: "1944"

@@ -2,6 +2,7 @@
 id: IF-0077
 kind: person
 name: "Subramania Siva"
+wikidata: "Q7631887"
 summary: "Staged historical profile"
 born: "1884"
 died: "1925"

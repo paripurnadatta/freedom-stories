@@ -2,6 +2,7 @@
 id: IF-0019
 kind: person
 name: "Maniram Dewan"
+wikidata: "Q6749854"
 summary: "The Assamese tea pioneer who turned from service under Company rule to a plan for restoring Ahom power during the uprising of 1857"
 born: "1806"
 died: "1858"

@@ -2,6 +2,7 @@
 id: IF-0396
 kind: person
 name: "Sarangadhar Das"
+wikidata: "Q15999026"
 summary: "Princely-state political activist"
 born: ""
 died: ""

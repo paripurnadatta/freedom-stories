@@ -2,6 +2,7 @@
 id: IF-0061
 kind: person
 name: "Rash Behari Bose"
+wikidata: "Q3269584"
 summary: "The transnational revolutionary who linked prewar conspiracy, Ghadar networks and the later INA project"
 born: "1886"
 died: "1945"

@@ -2,6 +2,7 @@
 id: IF-0038
 kind: person
 name: "Rao Tula Ram"
+wikidata: "Q7293696"
 summary: "The Rewari chieftain who built a local rebel government in 1857 and continued seeking support abroad after military defeat"
 born: "1825"
 died: "1863"

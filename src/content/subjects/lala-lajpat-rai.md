@@ -2,6 +2,7 @@
 id: IF-0052
 kind: person
 name: "Lala Lajpat Rai"
+wikidata: "Q1395763"
 summary: "The Punjab nationalist whose career linked Swadeshi, agrarian agitation, Congress politics and the anti-Simon protest"
 born: "1865"
 died: "1928"

@@ -2,6 +2,7 @@
 id: IF-0131
 kind: person
 name: "Yashpal"
+wikidata: "Q1148472"
 summary: "Revolutionary organizer who later became a writer."
 born: "1903"
 died: "1976"

@@ -2,6 +2,7 @@
 id: IF-0137
 kind: person
 name: "Ganesh Ghosh"
+wikidata: "Q5520830"
 summary: "Participated in the Chittagong uprising and later politics."
 born: "1900"
 died: "1994"

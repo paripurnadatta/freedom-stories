@@ -2,6 +2,7 @@
 id: IF-0224
 kind: person
 name: "G. Parameswaran Pillai"
+wikidata: "Q5512388"
 summary: "Editor and publicist associated with the Malayali Memorial and political advocacy."
 born: "1864-02-26"
 died: ""

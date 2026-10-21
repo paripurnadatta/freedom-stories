@@ -2,6 +2,7 @@
 id: IF-0171
 kind: person
 name: "Akkamma Cherian"
+wikidata: "Q4672256"
 summary: "The Travancore organizer who turned responsible-government agitation into a mass women-led challenge"
 born: "1909"
 died: "1982"

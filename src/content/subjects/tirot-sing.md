@@ -2,6 +2,7 @@
 id: IF-0017
 kind: person
 name: "Tirot Sing"
+wikidata: "Q7809265"
 summary: "The Khasi chief who fought a four-year war against British expansion into the hills"
 born: ""
 died: "1835"

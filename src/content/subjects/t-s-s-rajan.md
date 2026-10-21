@@ -2,6 +2,7 @@
 id: IF-0326
 kind: person
 name: "T. S. S. Rajan"
+wikidata: "Q7668680"
 summary: "T. S. S. Rajan (1880–1953) was a physician, Congress organizer and Tamil political leader. Institutional biographical records place him in nationalist politics from the Rowlatt-era agitation and identify him with the Vedaranyam Salt Satyagraha; he later served in provincial government."
 born: ""
 died: ""

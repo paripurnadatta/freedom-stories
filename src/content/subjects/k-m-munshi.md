@@ -2,6 +2,7 @@
 id: IF-0284
 kind: person
 name: "K. M. Munshi"
+wikidata: "Q2721812"
 summary: "Documented in the cited source in connection with Early nationalist press activity."
 born: ""
 died: ""

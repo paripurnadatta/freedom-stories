@@ -2,6 +2,7 @@
 id: IF-0195
 kind: person
 name: "Tanguturi Prakasam"
+wikidata: "Q3523054"
 summary: "The barrister who abandoned a lucrative practice for Non-Cooperation and became 'Andhra Kesari' in the Simon Commission protests"
 born: "1872"
 died: "1957"

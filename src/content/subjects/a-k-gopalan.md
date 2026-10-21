@@ -2,6 +2,7 @@
 id: IF-0191
 kind: person
 name: "A.K. Gopalan"
+wikidata: "Q3595831"
 summary: "Participated in nationalist campaigns and later socialist politics."
 born: "1904"
 died: "1977"

@@ -2,6 +2,7 @@
 id: IF-0607
 kind: person
 name: "S. Varadarajan Nair"
+wikidata: "Q20560248"
 summary: "Source-specific record documenting S. Varadarajan Nair's connection with Responsible government movement."
 born: ""
 died: ""

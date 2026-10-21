@@ -2,6 +2,7 @@
 id: IF-0174
 kind: person
 name: "Captain Lakshmi Sahgal"
+wikidata: "Q465051"
 summary: "Doctor, commander and minister in the Azad Hind movement"
 born: "1914"
 died: "2012"

@@ -2,6 +2,7 @@
 id: IF-0144
 kind: person
 name: "Vijay Singh Pathik"
+wikidata: "Q7929211"
 summary: "The revolutionary-turned-organizer who gave the Bijolia peasant struggle a durable political network, press and national audience"
 born: "1882"
 died: "1954"

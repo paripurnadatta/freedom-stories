@@ -2,6 +2,7 @@
 id: IF-0310
 kind: person
 name: "Hijam Irabot"
+wikidata: "Q2797246"
 summary: "Staged historical profile"
 born: ""
 died: ""

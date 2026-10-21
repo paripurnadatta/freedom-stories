@@ -2,6 +2,7 @@
 id: IF-0159
 kind: person
 name: "Sucheta Kriplani"
+wikidata: "Q3520758"
 summary: "The organizer who built women’s political networks and worked through the underground during Quit India"
 born: "1908"
 died: "1974"

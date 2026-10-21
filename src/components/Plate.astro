@@ -1,0 +1,19 @@
+---
+interface Props {
+  image: { src: string; alt: string; caption?: string; credit?: string; license?: string; sourceUrl?: string };
+  portrait?: boolean;
+}
+const { image, portrait = false } = Astro.props;
+---
+<figure class:list={["plate", { portrait }]}>
+  <img src={image.src} alt={image.alt} />
+  {(image.caption || image.credit) && (
+    <figcaption>
+      {image.caption}
+      <span class="credit">
+        {[image.credit, image.license].filter(Boolean).join(", ")}
+        {image.sourceUrl && <>. <a href={image.sourceUrl} rel="noopener">Where this picture comes from</a></>}
+      </span>
+    </figcaption>
+  )}
+</figure>

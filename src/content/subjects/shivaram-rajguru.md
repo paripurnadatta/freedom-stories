@@ -2,6 +2,7 @@
 id: IF-0123
 kind: person
 name: "Shivaram Rajguru"
+wikidata: "Q2721886"
 summary: "The HSRA revolutionary whose role in the Saunders action bound his fate to Bhagat Singh and Sukhdev"
 born: "1908"
 died: "1931"

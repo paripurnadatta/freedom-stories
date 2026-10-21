@@ -2,6 +2,7 @@
 id: IF-0423
 kind: person
 name: "Gaya Prasad Katiyar"
+wikidata: "Q25543966"
 summary: "Documented association with HSRA / Lahore Conspiracy in Uttar Pradesh."
 born: ""
 died: ""

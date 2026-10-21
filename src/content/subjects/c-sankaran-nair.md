@@ -2,6 +2,7 @@
 id: IF-0606
 kind: person
 name: "C. Sankaran Nair"
+wikidata: "Q3524890"
 summary: "The constitutional nationalist who moved from Congress leadership into the imperial executive—and resigned after Jallianwala Bagh"
 born: ""
 died: ""

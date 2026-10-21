@@ -2,6 +2,7 @@
 id: IF-0315
 kind: person
 name: "Anugrah Narayan Sinha"
+wikidata: "Q4777746"
 summary: "Political organizer"
 born: ""
 died: ""

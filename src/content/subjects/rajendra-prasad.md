@@ -2,6 +2,7 @@
 id: IF-0093
 kind: person
 name: "Rajendra Prasad"
+wikidata: "Q197736"
 summary: "The Bihar organizer who linked provincial Congress politics to Non-Cooperation, Salt Satyagraha and Quit India"
 born: "1884"
 died: "1963"

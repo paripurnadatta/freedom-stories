@@ -2,6 +2,7 @@
 id: IF-0468
 kind: person
 name: "Balwantrai Mehta"
+wikidata: "Q3595245"
 summary: "Documented association with Praja Mandal / princely-state politics in Gujarat."
 born: ""
 died: ""

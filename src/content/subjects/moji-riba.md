@@ -2,6 +2,7 @@
 id: IF-0350
 kind: person
 name: "Moji Riba"
+wikidata: "Q121702633"
 summary: "Staged historical profile"
 born: "1911"
 died: "1973-10-11"

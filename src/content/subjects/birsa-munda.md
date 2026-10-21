@@ -2,6 +2,7 @@
 id: IF-0021
 kind: person
 name: "Birsa Munda"
+wikidata: "Q2721975"
 summary: "The Munda leader who fused religious renewal, land rights and resistance to colonial rule"
 born: "1875"
 died: "1900"

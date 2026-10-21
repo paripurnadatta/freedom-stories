@@ -2,6 +2,7 @@
 id: IF-0383
 kind: person
 name: "Marri Chenna Reddy"
+wikidata: "Q3764358"
 summary: "General Secretary of Andhra Mahasabha in 1942 and later a Hyderabad State Congress standing-committee member and Hyderabad City Congress general secretary."
 born: "1919-01-13"
 died: "1996-12-02"

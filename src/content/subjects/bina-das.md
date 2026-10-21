@@ -2,6 +2,7 @@
 id: IF-0132
 kind: person
 name: "Bina Das"
+wikidata: "Q4913805"
 summary: "The Bengal revolutionary who used a university convocation as a stage for anti-colonial defiance"
 born: "1911"
 died: "1986"

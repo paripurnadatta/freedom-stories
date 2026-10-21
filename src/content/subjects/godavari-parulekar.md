@@ -2,6 +2,7 @@
 id: IF-0582
 kind: person
 name: "Godavari Parulekar"
+wikidata: "Q13116977"
 summary: "The lawyer-turned-organizer who moved from civil disobedience into communist and Adivasi mobilisation in the Warli countryside"
 born: ""
 died: ""

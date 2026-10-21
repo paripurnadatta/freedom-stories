@@ -2,6 +2,7 @@
 id: IF-0216
 kind: person
 name: "Madan Mohan Malaviya"
+wikidata: "Q2721496"
 summary: "The Congress leader who treated education and institution-building as instruments of national regeneration"
 born: "1861"
 died: "1946"

@@ -2,6 +2,7 @@
 id: IF-0069
 kind: person
 name: "Taraknath Das"
+wikidata: "Q3351792"
 summary: "The diaspora revolutionary who turned North American immigrant politics and print into a transnational campaign against British rule"
 born: "1884"
 died: "1958"

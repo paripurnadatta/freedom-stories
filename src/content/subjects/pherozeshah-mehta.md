@@ -2,6 +2,7 @@
 id: IF-0257
 kind: person
 name: "Pherozeshah Mehta"
+wikidata: "Q3634940"
 summary: "Political organizer"
 born: ""
 died: ""

@@ -2,6 +2,7 @@
 id: IF-0223
 kind: person
 name: "Umaji Naik"
+wikidata: "Q7881063"
 summary: "Staged historical profile"
 born: ""
 died: "1832-02-03"

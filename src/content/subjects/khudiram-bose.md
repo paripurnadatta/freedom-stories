@@ -2,6 +2,7 @@
 id: IF-0056
 kind: person
 name: "Khudiram Bose"
+wikidata: "Q2642110"
 summary: "The teenage revolutionary executed after the failed 1908 attempt on Douglas Kingsford"
 born: "1889"
 died: "1908"

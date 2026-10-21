@@ -2,6 +2,7 @@
 id: IF-0219
 kind: person
 name: "Asaf Ali"
+wikidata: "Q684845"
 summary: "The nationalist lawyer whose career connected Congress politics, revolutionary defence and the INA trials"
 born: "1888"
 died: "1953"

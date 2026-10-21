@@ -2,6 +2,7 @@
 id: IF-0053
 kind: person
 name: "Bipin Chandra Pal"
+wikidata: "Q684198"
 summary: "The Swadeshi orator-journalist who helped define assertive nationalism in the age of Bengal’s partition"
 born: "1858"
 died: "1932"

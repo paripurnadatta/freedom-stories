@@ -2,6 +2,7 @@
 id: IF-0165
 kind: person
 name: "Kamaladevi Chattopadhyay"
+wikidata: "Q3347911"
 summary: "The organizer who pushed women toward the front line of civil disobedience and linked freedom to social reconstruction"
 born: "1903"
 died: "1988"

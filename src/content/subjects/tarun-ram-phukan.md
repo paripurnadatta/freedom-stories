@@ -2,6 +2,7 @@
 id: IF-0308
 kind: person
 name: "Tarun Ram Phukan"
+wikidata: "Q7686938"
 summary: "The Assamese organizer who carried Non-Cooperation across the Brahmaputra valley"
 born: ""
 died: ""

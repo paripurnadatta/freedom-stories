@@ -2,6 +2,7 @@
 id: IF-0142
 kind: person
 name: "Govind Guru"
+wikidata: "Q31942009"
 summary: "The Bhil social-religious leader whose movement culminated at Mangarh in 1913"
 born: "1858"
 died: "1931"

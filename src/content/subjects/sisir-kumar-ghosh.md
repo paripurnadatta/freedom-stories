@@ -2,6 +2,7 @@
 id: IF-0263
 kind: person
 name: "Sisir Kumar Ghosh"
+wikidata: "Q15118235"
 summary: "Journalist"
 born: ""
 died: ""

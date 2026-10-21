@@ -2,6 +2,7 @@
 id: IF-0065
 kind: person
 name: "Bhikaji Cama"
+wikidata: "Q2768981"
 summary: "The expatriate nationalist who carried Indian revolutionary propaganda onto international platforms"
 born: "1861"
 died: "1936"

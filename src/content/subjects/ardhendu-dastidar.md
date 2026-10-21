@@ -2,6 +2,7 @@
 id: IF-0651
 kind: person
 name: "Ardhendu Dastidar"
+wikidata: "Q20823796"
 summary: "Source-specific record documenting Ardhendu Dastidar's connection with Chittagong Armoury Raid."
 born: ""
 died: "1930"

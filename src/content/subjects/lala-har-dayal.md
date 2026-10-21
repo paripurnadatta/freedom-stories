@@ -2,6 +2,7 @@
 id: IF-0066
 kind: person
 name: "Lala Har Dayal"
+wikidata: "Q5653447"
 summary: "The expatriate radical who helped turn Indian migration on the Pacific coast into the Ghadar movement"
 born: "1884"
 died: "1939"

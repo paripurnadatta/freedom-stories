@@ -2,6 +2,7 @@
 id: IF-0252
 kind: person
 name: "Gomdhar Konwar"
+wikidata: "Q18006063"
 summary: "Staged historical profile"
 born: ""
 died: ""

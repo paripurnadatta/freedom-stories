@@ -2,6 +2,7 @@
 id: IF-0111
 kind: person
 name: "Kanaklata Barua"
+wikidata: "Q6360441"
 summary: "The young Assamese flag-bearer killed at Gohpur during Quit India"
 born: "1924"
 died: "1942"

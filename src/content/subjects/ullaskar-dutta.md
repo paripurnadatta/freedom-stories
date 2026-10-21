@@ -2,6 +2,7 @@
 id: IF-0059
 kind: person
 name: "Ullaskar Dutta"
+wikidata: "Q7879148"
 summary: "Revolutionary convicted in the Alipore case."
 born: "1885"
 died: "1965"

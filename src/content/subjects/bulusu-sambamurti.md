@@ -2,6 +2,7 @@
 id: IF-0406
 kind: person
 name: "Bulusu Sambamurti"
+wikidata: "Q4997180"
 summary: "Documented association with Civil Disobedience in Andhra Pradesh."
 born: ""
 died: ""

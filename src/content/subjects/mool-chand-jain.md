@@ -2,6 +2,7 @@
 id: IF-0391
 kind: person
 name: "Mool Chand Jain"
+wikidata: "Q19882198"
 summary: "Freedom movement volunteer who participated in Asodha Satyagraha and courted arrest during Individual Civil Disobedience in 1941."
 born: "1915-08-20"
 died: "1997-09-12"

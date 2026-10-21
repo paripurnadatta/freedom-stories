@@ -2,6 +2,7 @@
 id: IF-0009
 kind: person
 name: "Veerapandiya Kattabomman"
+wikidata: "Q888293"
 summary: "The Panchalankurichi Polygar whose refusal to submit to Company revenue authority ended in war and public execution"
 born: "1760"
 died: "1799"

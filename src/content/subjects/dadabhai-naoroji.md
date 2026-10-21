@@ -2,6 +2,7 @@
 id: IF-0048
 kind: person
 name: "Dadabhai Naoroji"
+wikidata: "Q10240"
 summary: "The economic nationalist who turned imperial finance into an argument for self-government"
 born: "1825"
 died: "1917"

@@ -2,6 +2,7 @@
 id: IF-0304
 kind: person
 name: "Achhar Singh Chhina"
+wikidata: "Q4673646"
 summary: "Documented in the cited source in connection with Formation of the Indian National Congress."
 born: ""
 died: ""

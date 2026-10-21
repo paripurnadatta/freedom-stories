@@ -2,6 +2,7 @@
 id: IF-0330
 kind: person
 name: "Vishwanath Shahdeo"
+wikidata: "Q12430430"
 summary: "The Barkagarh ruler who accepted leadership of the Chotanagpur rebels and helped dismantle British administration around Ranchi in 1857"
 born: ""
 died: ""

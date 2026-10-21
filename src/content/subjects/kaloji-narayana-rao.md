@@ -2,6 +2,7 @@
 id: IF-0375
 kind: person
 name: "Kaloji Narayana Rao"
+wikidata: "Q6354195"
 summary: "Used political activism and nationalist writing against the Nizam and was imprisoned during the Hyderabad freedom struggle."
 born: "1914-09-09"
 died: ""

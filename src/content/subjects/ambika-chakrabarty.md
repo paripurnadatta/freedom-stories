@@ -2,6 +2,7 @@
 id: IF-0138
 kind: person
 name: "Ambika Chakrabarty"
+wikidata: "Q4741460"
 summary: "Chittagong revolutionary; later imprisoned."
 born: "1892"
 died: "1962"

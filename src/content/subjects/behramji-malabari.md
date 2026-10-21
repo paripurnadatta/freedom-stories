@@ -2,6 +2,7 @@
 id: IF-0265
 kind: person
 name: "Behramji Malabari"
+wikidata: "Q45979"
 summary: "The Bombay journalist whose campaign against child marriage and enforced widowhood pushed social reform into imperial legislation and public debate"
 born: ""
 died: ""
