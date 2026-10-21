@@ -24,6 +24,13 @@ sources:
   - title: "Travancore State Congress and struggle for responsible government"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2438="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pattom_A._Thanu_Pillai.jpg"
+  alt: "Official portrait of Pattom A. Thanu Pillai"
+  caption: "Official portrait of Pattom A. Thanu Pillai from Telangana Raj Bhavan's former-governors record."
+  credit: "Telangana Raj Bhavan / Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Pattom_A._Thanu_Pillai.jpg"
 status: draft
 ---
 

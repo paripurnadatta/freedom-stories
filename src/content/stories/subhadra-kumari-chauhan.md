@@ -20,6 +20,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Subhadra Kumari Chauhan"
     url: "https://cmsadmin.amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?77%2F="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Subhadra_Kumari_Chauhan_1976_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Subhadra Kumari Chauhan"
+  caption: "Subhadra Kumari Chauhan 1976 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Subhadra_Kumari_Chauhan_1976_stamp_of_India.jpg"
 status: draft
 ---
 

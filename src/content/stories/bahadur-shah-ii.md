@@ -28,6 +28,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/da/Bahadur_Shah_II.jpg"
+  alt: "Bahadur Shah II"
+  caption: "Bahadur Shah II"
+  credit: "Ágoston Schoefft · http://www.paradoxplace.com/Insights/Civilizations/Mughals/Mughals.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bahadur_Shah_II.jpg"
 status: draft
 ---
 

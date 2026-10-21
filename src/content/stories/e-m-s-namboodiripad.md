@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/42/E._M._S._Namboodiripad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "E.M.S. Namboodiripad"
+  caption: "E.M.S. Namboodiripad"
+  credit: "Fotokannan at Malayalam Wikipedia . · Own work by Kannanshanmugam,shanmugam studio,Kollam Transferred from ml.wikipedia to Commons by Sreejithk2000 using CommonsHelper ."
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:E._M._S._Namboodiripad.jpg"
 status: draft
 ---
 

@@ -21,6 +21,13 @@ sources:
   - title: "Vice President recalls Gurus including Tenneti Viswanatham"
     url: "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=209904"
     publisher: "Press Information Bureau, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/10/Tenneti_Vishwanatham_statue_at_Tenneti_park_Visakhapatnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Tenneti Viswanadham"
+  caption: "Tenneti Vishwanatham statue at Tenneti park Visakhapatnam"
+  credit: "Adityamadhav83 · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tenneti_Vishwanatham_statue_at_Tenneti_park_Visakhapatnam.JPG"
 status: draft
 ---
 

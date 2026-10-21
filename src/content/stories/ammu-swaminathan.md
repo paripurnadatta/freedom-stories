@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/de/AmmuSwaminathan1945.png"
+  alt: "Ammu Swaminathan in a 1945 Indian Express photograph"
+  caption: "Ammu Swaminathan, published in the Indian Express on 4 December 1945."
+  credit: "Indian Express, 4 December 1945 / Wikimedia Commons"
+  license: "Public domain (PD-India / PD-1996)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:AmmuSwaminathan1945.png"
 status: draft
 ---
 

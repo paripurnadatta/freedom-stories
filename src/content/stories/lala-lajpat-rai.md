@@ -28,6 +28,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/28/Lala_Lajpat_Rai_Statue.JPG"
+  alt: "Statue of Lala Lajpat Rai at his memorial"
+  caption: "Statue of Lala Lajpat Rai at a Lala Lajpat Rai memorial."
+  credit: "Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lala_Lajpat_Rai_Statue.JPG"
 status: draft
 ---
 

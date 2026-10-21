@@ -22,6 +22,13 @@ sources:
   - title: "Tribal Freedom Fighters Museum, Ranchi — highlighted regional leaders"
     url: "https://cmsadmin.amritmahotsav.nic.in/event-detail.htm?6105="
     publisher: "Ministry of Culture / Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/16/Telanga_Kharia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Telanga Kharia"
+  caption: "Telanga Kharia"
+  credit: "Dr. Sushil Kerketta · Photograph from book \"Saheed Telanga Kharia ka Jeeva Darshan Evam ranti(1806-1880)\""
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Telanga_Kharia.jpg"
 status: draft
 ---
 

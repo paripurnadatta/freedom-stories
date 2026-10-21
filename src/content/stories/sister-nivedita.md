@@ -18,6 +18,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/05/S%C5%93ur_Nivedita.jpg"
+  alt: "Sister Nivedita"
+  caption: "Sister Nivedita"
+  credit: "Source credited to arcadelamor.org; page description says Sister Nivedita in India"
+  license: "Public domain / CC-PD-Mark"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3AS%C5%93ur_Nivedita.jpg"
 status: draft
 ---
 

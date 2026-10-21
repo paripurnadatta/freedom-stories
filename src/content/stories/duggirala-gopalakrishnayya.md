@@ -20,6 +20,13 @@ sources:
   - title: "Annual A.I.C.C session at Kakinada"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12652="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Duggirala_Gopalakrishnayya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Duggirala Gopalakrishnayya"
+  caption: "Duggirala Gopalakrishnayya"
+  credit: "Andhra Desa Library Association · Scanned at - Manasu Foundation, Source: Andhra Pradesh Library Association"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Duggirala_Gopalakrishnayya.jpg"
 status: draft
 ---
 

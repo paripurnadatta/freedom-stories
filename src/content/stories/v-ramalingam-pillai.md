@@ -17,6 +17,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — V. Ramalingam Pillai"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3534="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/45/Venkatarama_Ramalingam_Pillai_1989_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Venkatarama Ramalingam Pillai"
+  caption: "1989 India Post commemorative stamp depicting Venkatarama Ramalingam Pillai."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Venkatarama_Ramalingam_Pillai_1989_stamp_of_India.jpg"
 status: draft
 ---
 

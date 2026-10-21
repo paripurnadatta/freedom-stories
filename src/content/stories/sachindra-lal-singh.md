@@ -31,6 +31,13 @@ sources:
   - title: "Freedom Fighters of Tripura"
     url: "https://ica.tripura.gov.in/sites/default/files/Freedom.pdf"
     publisher: "Information & Cultural Affairs Department, Government of Tripura"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sachindra_Lal_Singh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Sachindra Lal Singh"
+  caption: "Sachindra Lal Singh"
+  credit: "Parliament of India, Lok Sabha · https://sansad.in/getFile/lssapi/MemberProfile/biodata_1_12/2601.gif"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sachindra_Lal_Singh.jpg"
 status: draft
 ---
 

@@ -22,6 +22,13 @@ sources:
   - title: "A.O. Hume letter responding to Malabari's reform notes, 1885"
     url: "https://en.wikisource.org/wiki/Allan_Octavian_Hume%2C_C.B./Appendix_II"
     publisher: "Wikisource transcription of contemporary published letter"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/67/Portret_van_Behramji_Malabari%2C_RP-F-2001-7-67-73.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Behramji Malabari"
+  caption: "Portret van Behramji Malabari, RP-F-2001-7-67-73"
+  credit: "Rijksmuseum · http://hdl.handle.net/10934/RM0001.COLLECT.615269"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Portret_van_Behramji_Malabari,_RP-F-2001-7-67-73.jpg"
 status: draft
 ---
 

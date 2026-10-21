@@ -26,6 +26,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/98/Bakshi_Jagabandhu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Bakshi Jagabandhu"
+  caption: "Bakshi Jagabandhu"
+  credit: "Balaji · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bakshi_Jagabandhu.jpg"
 status: draft
 ---
 

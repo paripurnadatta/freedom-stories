@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a5/GKGokhale.jpg"
+  alt: "Gopal Krishna Gokhale"
+  caption: "Gopal Krishna Gokhale — approved 1909 portrait"
+  credit: "The Indian National Congress, published 1909 by G. A. Natesan in Madras · public domain"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:GKGokhale.jpg"
 status: draft
 ---
 

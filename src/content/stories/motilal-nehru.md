@@ -17,6 +17,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/87/MotilalNehru4.jpg"
+  alt: "Motilal Nehru"
+  caption: "Motilal Nehru"
+  credit: "Source credited to Britannica biography of Motilal Nehru"
+  license: "Public domain (PD-India)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3AMotilalNehru4.jpg"
 status: draft
 ---
 

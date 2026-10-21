@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Accused_of_Cacori_Conspiracy1271.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Ram Prasad Bismil"
+  caption: "Kakori conspiracy accused group; Ram Prasad Bismil is listed among those pictured."
+  credit: "The original uploader was Krantmlverma at Hindi Wikipedia . · Transferred from hi.wikipedia to Commons."
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Accused_of_Cacori_Conspiracy1271.gif"
 status: draft
 ---
 

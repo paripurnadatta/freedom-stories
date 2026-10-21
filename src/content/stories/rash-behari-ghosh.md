@@ -22,6 +22,13 @@ sources:
   - title: "Rash Behari Ghosh"
     url: "https://en.wikipedia.org/wiki/Rash_Behari_Ghosh"
     publisher: "Biographical synthesis citing AICC past-president material"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/79/Rash_Behari_Ghosh_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Rash Behari Ghosh"
+  caption: "Rash Behari Ghosh 1908"
+  credit: "Unknown · The Modern Review (1908) volume 4."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rash_Behari_Ghosh_1908.jpg"
 status: draft
 ---
 

@@ -20,6 +20,13 @@ sources:
   - title: "Dictionary of Martyrs Vol. 4 entry — Ardhendu Dastidar"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_4_06_03_2019.pdf"
     publisher: "Ministry of Culture, Government of India & Indian Council of Historical Research (ICHR)"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/23/Martyr_Ardhendu_Dastidar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Ardhendu Dastidar"
+  caption: "Ardhendu Dastidar"
+  credit: "Unknown author Unknown author · Chittagong State Archives"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Martyr_Ardhendu_Dastidar.jpg"
 status: draft
 ---
 

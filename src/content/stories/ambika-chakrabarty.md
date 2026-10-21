@@ -16,6 +16,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ambika_Chakrabarty.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Ambika Chakrabarty"
+  caption: "Ambika Chakrabarty"
+  credit: "Calcutta state archives · Calcutta state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ambika_Chakrabarty.jpg"
 status: draft
 ---
 

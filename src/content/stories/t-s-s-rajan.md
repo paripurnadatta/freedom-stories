@@ -13,6 +13,13 @@ places: []
 related:
   - "formation-of-the-indian-national-congress"
 sources: []
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7d/TSSRajan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "T. S. S. Rajan"
+  caption: "TSSRajan"
+  credit: "Haripura Congress Souvenir, 1938"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:TSSRajan.jpg"
 status: draft
 ---
 

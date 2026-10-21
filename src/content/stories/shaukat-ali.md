@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Maulana_Shaukat_Ali_1932.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Shaukat Ali"
+  caption: "Maulana Shaukat Ali 1932"
+  credit: "Planet News / Agence Mondial · Bibliothèque nationale de France"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Maulana_Shaukat_Ali_1932.jpg"
 status: draft
 ---
 

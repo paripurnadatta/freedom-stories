@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/04/A_sculpture_of_some_martyres_from_Assam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Kushal Konwar"
+  caption: "Sculptural memorial to Assamese martyrs including Kushal Konwar."
+  credit: "Subhrajit · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:A_sculpture_of_some_martyres_from_Assam.JPG"
 status: draft
 ---
 

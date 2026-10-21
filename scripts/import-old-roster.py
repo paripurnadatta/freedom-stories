@@ -108,6 +108,12 @@ for r in enr["EntityRelationships"]:
         related[a].append(slug_of[b])
         related[b].append(slug_of[a])
 
+portraits = {}
+_pp = OLD / "src" / "data" / "person_portraits.generated.json"
+if _pp.exists():
+    for img in deep_fix(json.load(open(_pp, encoding="utf-8")))["portraits"]:
+        portraits.setdefault(img["person_id"], img)
+
 profile = {p["person_id"]: p for p in enr["PersonProfiles"]}
 for pid, prof in profile.items():
     if pick(prof, "research_summary"):
@@ -201,10 +207,22 @@ def yaml_sources(items):
     return "\n".join(out)
 
 
+def yaml_image(img):
+    if not img or not img.get("url"):
+        return None
+    out = ["image:", f"  src: {q(img['url'])}", f"  alt: {q(img.get('alt_text') or img.get('caption') or '')}"]
+    for key, src_key in [("caption", "caption"), ("credit", "credit"), ("license", "license"), ("sourceUrl", "original_source_url")]:
+        if img.get(src_key):
+            out.append(f"  {key}: {q(img[src_key])}")
+    return "\n".join(out)
+
+
 def write(slug, front, body):
     path = OUT / f"{slug}.md"
-    if path.exists() and "status: published" in path.read_text(encoding="utf-8"):
-        return False
+    if path.exists():
+        existing = path.read_text(encoding="utf-8").split("\n---", 1)[0]
+        if re.search(r"^status:\s*published\s*$", existing, re.M):
+            return False
     path.write_text("---\n" + front + "\n---\n\n" + body + "\n", encoding="utf-8")
     return True
 
@@ -230,6 +248,7 @@ for p in people:
         yaml_list("places", places),
         yaml_list("related", rel),
         yaml_sources(sources_for(pid, p)),
+        *([yaml_image(portraits.get(pid))] if yaml_image(portraits.get(pid)) else []),
         "status: draft",
     ])
     written += write(slug_of[pid], front, notes_block(pid, p.get("notable_for")))

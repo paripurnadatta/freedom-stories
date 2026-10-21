@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Veer_Jatra_Tana_Bhagat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Tana Bhagat"
+  caption: "Veer Jatra Tana Bhagat"
+  credit: "Gurpreet Singh Ranchi · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Veer_Jatra_Tana_Bhagat.jpg"
 status: draft
 ---
 

@@ -18,6 +18,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Revolutionary_Bhagwati_Charan_Vohra_alias_B.C._Vohra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Bhagwati Charan Vohra"
+  caption: "Revolutionary Bhagwati Charan Vohra alias B.C. Vohra"
+  credit: "Bhavisya aakhbaar · National archives of India"
+  license: "CC BY-SA 2.5"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Revolutionary_Bhagwati_Charan_Vohra_alias_B.C._Vohra.jpg"
 status: draft
 ---
 

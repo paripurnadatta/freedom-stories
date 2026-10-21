@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/03/Kolkata_Matangini_Hazra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Matangini Hazra"
+  caption: "Kolkata Matangini Hazra"
+  credit: "P.K.Niyogi at English Wikipedia · Own work ( P.K.Niyogi )"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kolkata_Matangini_Hazra.jpg"
 status: draft
 ---
 

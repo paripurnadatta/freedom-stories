@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ram_Manohar_Lohia_1997_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Ram Manohar Lohia"
+  caption: "1997 India Post commemorative stamp depicting Ram Manohar Lohia."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ram_Manohar_Lohia_1997_stamp_of_India.jpg"
 status: draft
 ---
 

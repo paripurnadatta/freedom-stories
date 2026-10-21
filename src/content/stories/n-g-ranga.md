@@ -20,6 +20,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/dd/N_G_Ranga_Statue_at_RK_Beach_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with N.G. Ranga"
+  caption: "N G Ranga Statue at RK Beach 02"
+  credit: "Adityamadhav83 · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:N_G_Ranga_Statue_at_RK_Beach_02.jpg"
 status: draft
 ---
 

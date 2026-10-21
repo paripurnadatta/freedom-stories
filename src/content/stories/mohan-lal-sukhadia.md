@@ -23,6 +23,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Mohan Lal Sukhadia"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?550="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Mohan_Lal_Sukhadia_1988_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Mohan Lal Sukhadia"
+  caption: "Mohan Lal Sukhadia 1988 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mohan_Lal_Sukhadia_1988_stamp_of_India.jpg"
 status: draft
 ---
 

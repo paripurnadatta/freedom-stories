@@ -16,6 +16,13 @@ sources:
   - title: "Dr. Gaya Prasad Katiyar"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?22883="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/28/Gaya_Prasad_Katiyar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Gaya Prasad Katiyar"
+  caption: "Gaya Prasad Katiyar"
+  credit: "Punjab state archives · Punjab state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gaya_Prasad_Katiyar.jpg"
 status: draft
 ---
 

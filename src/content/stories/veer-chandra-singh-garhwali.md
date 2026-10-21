@@ -16,6 +16,13 @@ sources:
   - title: "Veer Chandra Singh Garhwali"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?228="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/83/Stamp_of_India_-_1994_-_Colnect_163816_-_Chandra_Singh_Garhwali_Nationalist_-_15th_Death_Anniversar.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Veer Chandra Singh Garhwali"
+  caption: "Stamp of India - 1994 - Colnect 163816 - Chandra Singh Garhwali Nationalist - 15th Death Anniversar"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/163816-Chandra_Singh_Garhwali_Nationalist_-_15th_Death_Anniversar-Freedom_Fighters-India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1994_-_Colnect_163816_-_Chandra_Singh_Garhwali_Nationalist_-_15th_Death_Anniversar.jpeg"
 status: draft
 ---
 

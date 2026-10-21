@@ -16,6 +16,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Fazal Din"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12713="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Naik_Fazal_Din_VC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Fazal Din"
+  caption: "Naik Fazal Din VC"
+  credit: "Unknown author Unknown author · Baloch Regimental Centre, Abbottabad, Pakistan."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Naik_Fazal_Din_VC.jpg"
 status: draft
 ---
 

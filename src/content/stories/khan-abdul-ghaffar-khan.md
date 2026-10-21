@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Khan_Abdul_Ghaffar_Khan.jpg"
+  alt: "Khan Abdul Ghaffar Khan"
+  caption: "Khan Abdul Ghaffar Khan"
+  credit: "British India; page history records Awami National Party official party picture"
+  license: "Public domain (PD-India / PD-Pakistan / PD-1996 metadata)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3AKhan_Abdul_Ghaffar_Khan.jpg"
 status: draft
 ---
 

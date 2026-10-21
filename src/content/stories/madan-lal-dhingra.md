@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dhingra.jpg"
+  alt: "Madan Lal Dhingra"
+  caption: "Madan Lal Dhingra"
+  credit: "Source credited to Sikh Heritage: heritagebritain/dhingra.jpg"
+  license: "Public domain (PD-India / PD-US metadata)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ADhingra.jpg"
 status: draft
 ---
 

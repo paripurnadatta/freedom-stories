@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Roshan_Singh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Roshan Singh"
+  caption: "Roshan Singh"
+  credit: "Unknown author Unknown author · ত্রৈলোক্যনাথ চক্রবর্তী, জেলে ত্রিশ বছর পাক ভারতের স্বাধীনতা সংগ্রাম, ধ্রুপদ সাহিত্যাঙ্গন, ঢাকা, ঢাকা বইমেলা ২০০৪, পৃষ্ঠা ২৪৩।"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Roshan_Singh.jpg"
 status: draft
 ---
 

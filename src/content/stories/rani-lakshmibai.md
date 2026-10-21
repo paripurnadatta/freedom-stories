@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/LAKSMIBAI%2C_RANI_OF_JHANSI_%2822140388883%29.jpg/960px-LAKSMIBAI%2C_RANI_OF_JHANSI_%2822140388883%29.jpg"
+  alt: "Rani Lakshmibai"
+  caption: "Rani Lakshmibai"
+  credit: "the lost gallery · LAKSMIBAI, RANI OF JHANSI"
+  license: "CC BY 2.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:LAKSMIBAI,_RANI_OF_JHANSI_(22140388883).jpg"
 status: draft
 ---
 

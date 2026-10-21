@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/81/Mohammad_Ali_Jauhar_1978_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Maulana Mohammad Ali Jauhar"
+  caption: "Mohammad Ali Jauhar 1978 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mohammad_Ali_Jauhar_1978_stamp_of_India.jpg"
 status: draft
 ---
 

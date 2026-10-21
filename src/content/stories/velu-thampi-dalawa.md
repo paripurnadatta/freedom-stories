@@ -20,6 +20,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Stamp_of_India_-_2010_-_Colnect_259571_-_Velu_Thampi.jpeg"
+  alt: "India Post commemorative stamp depicting Velu Thampi"
+  caption: "2010 India Post commemorative stamp depicting Velu Thampi."
+  credit: "India Post / Post of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_2010_-_Colnect_259571_-_Velu_Thampi.jpeg"
 status: draft
 ---
 

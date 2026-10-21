@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/18/Hijam_Irabot_1998_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Hijam Irabot"
+  caption: "Hijam Irabot 1998 stamp of India"
+  credit: "India Post, Government of India · [1]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Hijam_Irabot_1998_stamp_of_India.jpg"
 status: draft
 ---
 

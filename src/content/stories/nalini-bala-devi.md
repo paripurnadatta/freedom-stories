@@ -20,6 +20,13 @@ sources:
   - title: "Nalini Bala Devi"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?18375="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/90/Nalini_bala_devi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Nalini Bala Devi"
+  caption: "Nalini bala devi"
+  credit: "Subhrajit at Assamese Wikipedia · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Nalini_bala_devi.JPG"
 status: draft
 ---
 

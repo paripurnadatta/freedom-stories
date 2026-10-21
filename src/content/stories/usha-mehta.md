@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Usha_Mehta.png"
+  alt: "Usha Mehta in 1996"
+  caption: "Dr. Usha Mehta in 1996, from a Government of India Publications Division source."
+  credit: "Publications Division, Ministry of Information and Broadcasting, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Usha_Mehta.png"
 status: draft
 ---
 

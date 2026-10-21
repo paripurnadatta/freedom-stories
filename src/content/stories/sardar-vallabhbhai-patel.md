@@ -29,6 +29,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sardar_patel_%28cropped%29.jpg"
+  alt: "Sardar Vallabhbhai Patel"
+  caption: "Sardar Vallabhbhai Patel"
+  credit: "Photo Division, Government of India"
+  license: "Public domain (PD-India; Commons page records US caveat)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ASardar_patel_%28cropped%29.jpg"
 status: draft
 ---
 

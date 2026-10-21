@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/33/Portrait_of_Rao_Tula_Ram_of_Rewari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Rao Tula Ram"
+  caption: "Portrait of Rao Tula Ram of Rewari"
+  credit: "Manishyadav 017 · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Rao_Tula_Ram_of_Rewari.jpg"
 status: draft
 ---
 

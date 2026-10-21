@@ -21,6 +21,13 @@ sources:
   - title: "Our Founder: Anugrah Narayan Sinha"
     url: "https://ancpatna.ac.in/founder"
     publisher: "Anugrah Narayan College, Patna"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/04/Anugrah_Narayan_Sinha_1988_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Anugrah Narayan Sinha"
+  caption: "Anugrah Narayan Sinha 1988 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Anugrah_Narayan_Sinha_1988_stamp_of_India.jpg"
 status: draft
 ---
 

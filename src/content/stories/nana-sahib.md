@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nana_Sahib%2C_watercolour_on_ivory%2C_c._1857.png"
+  alt: "Nana Sahib"
+  caption: "Nana Sahib"
+  credit: "Unknown author Unknown author · National Army Museum"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Nana_Sahib,_watercolour_on_ivory,_c._1857.png"
 status: draft
 ---
 

@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Barindra_Kumar_Ghosh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Barindra Kumar Ghosh"
+  caption: "Barindra Kumar Ghosh"
+  credit: "Barindra Kumar Ghosh (Life time: 5 January 1880 – 18 April 1959) · Original publication : Barindra Ghosh (1922). The tale of mu exile - twelve years in Andamans Immediate source : Barindra Ghosh (1922). The tale of my exile - twelve years in Andamans, Pondicherry: Arya Publications."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Barindra_Kumar_Ghosh_01.jpg"
 status: draft
 ---
 

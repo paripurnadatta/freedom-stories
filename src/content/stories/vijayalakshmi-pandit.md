@@ -20,6 +20,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vijaya_Lakshmi_Pandit_1965.jpg"
+  alt: "Vijaya Lakshmi Pandit in 1965"
+  caption: "Vijaya Lakshmi Pandit during a 1965 visit to the Netherlands."
+  credit: "Dutch National Archives, The Hague · Anefo Photo Collection · file 918-4258"
+  license: "CC BY-SA 3.0 NL"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Vijaya_Lakshmi_Pandit_1965.jpg"
 status: draft
 ---
 

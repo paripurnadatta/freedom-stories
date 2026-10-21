@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/29/Photograph_Hakim_Ajmal_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Hakim Ajmal Khan"
+  caption: "Photograph Hakim Ajmal Khan"
+  credit: "Unknown but due to the age the image is in Public domain. · The original uploader was 786hak at Wikimedia Commons ."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Photograph_Hakim_Ajmal_Khan.jpg"
 status: draft
 ---
 

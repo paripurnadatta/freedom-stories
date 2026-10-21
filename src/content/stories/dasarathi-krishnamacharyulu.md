@@ -17,6 +17,13 @@ sources:
   - title: "Dasarathi Krishnamacharyulu"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?252="
     publisher: "Azadi Ka Amrit Mahotsav / Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/66/Dasaradhi-Krishnamacharyulu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Dasarathi Krishnamacharyulu"
+  caption: "Dasaradhi-Krishnamacharyulu"
+  credit: "Frank2anil · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Dasaradhi-Krishnamacharyulu.jpg"
 status: draft
 ---
 

@@ -16,6 +16,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Garimella Satyanarayana"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2788="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/20/Garimella_Satyanarayana1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Garimella Satyanarayana"
+  caption: "Garimella Satyanarayana1"
+  credit: "Rajasekhar1961 · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Garimella_Satyanarayana1.JPG"
 status: draft
 ---
 

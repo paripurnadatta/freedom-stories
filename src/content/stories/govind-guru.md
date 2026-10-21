@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Govindgiri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Govind Guru"
+  caption: "Govind Guru"
+  credit: "Unknown author Unknown author · Vashishta, Vijay Kumar. (1997). Bhagat Movement: A Study of Cultural Transformation of the Bhils of Southern Rajasthan. Jaipur: Shruti Publication House."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Govindgiri.jpg"
 status: draft
 ---
 

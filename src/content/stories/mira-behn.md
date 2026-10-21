@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Madeleine_Slade%2C_now_%22Mirabehn%2C%22_teaches_women_in_Karachi_about_spinning_and_weaving.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Mira Behn"
+  caption: "Madeleine Slade, now \"Mirabehn,\" teaches women in Karachi about spinning and weaving; a news bureau photo from 1931 (*caption*) Source: ebay, Aug. 2007"
+  credit: "Unknown author Unknown author · http://www.columbia.edu/itc/mealac/pritchett/00routesdata/1900_1999/gandhi/westerners/westerners.html"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Madeleine_Slade,_now_%22Mirabehn,%22_teaches_women_in_Karachi_about_spinning_and_weaving.jpg"
 status: draft
 ---
 

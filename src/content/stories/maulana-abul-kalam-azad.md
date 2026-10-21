@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Abul_Kalam_Azad_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Maulana Abul Kalam Azad"
+  caption: "Maulana Abul Kalam Azad"
+  credit: "Template:Susmit · Template:Brainly.in"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Abul_Kalam_Azad_1.jpg"
 status: draft
 ---
 

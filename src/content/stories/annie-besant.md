@@ -29,6 +29,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Annie_Besant%2C_LoC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Annie Besant"
+  caption: "Annie Besant"
+  credit: "Unknown author Unknown author · https://www.loc.gov/pictures/item/91786293/"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Annie_Besant,_LoC.jpg"
 status: draft
 ---
 

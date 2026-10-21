@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Sohan_Singh_Bakhna.jpg"
+  alt: "Sohan Singh Bhakna"
+  caption: "Sohan Singh Bhakna"
+  credit: "University of California, Berkeley: South/Southeast Asia Library, Echoes of Freedom exhibit"
+  license: "Public domain (US pre-1931; Commons source-country metadata)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ASohan_Singh_Bakhna.jpg"
 status: draft
 ---
 

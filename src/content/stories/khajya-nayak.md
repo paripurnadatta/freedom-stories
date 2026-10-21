@@ -23,6 +23,13 @@ sources:
   - title: "Khajya Nayak"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12626="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/df/%E0%A4%96%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE_%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%95%2C_%E0%A4%AD%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80%2C_%E0%A4%89%E0%A4%A8%E0%A4%AA%E0%A4%A6%E0%A5%87%E0%A4%B5%2C_%E0%A4%A8%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%B0_Khajya_Naik%2C_Bhill_Krantikarak_Unapadevr%2C_Nandurbar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Khajya Nayak"
+  caption: "खाज्या नाईक, भिल्ल क्रांतिकारी, उनपदेव, नंदुरबार Khajya Naik, Bhill Krantikarak Unapadevr, Nandurbar"
+  credit: "MGB CEE · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:%E0%A4%96%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE_%E0%A4%A8%E0%A4%BE%E0%A4%88%E0%A4%95,_%E0%A4%AD%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B2_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%80,_%E0%A4%89%E0%A4%A8%E0%A4%AA%E0%A4%A6%E0%A5%87%E0%A4%B5,_%E0%A4%A8%E0%A4%82%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%B0_Khajya_Naik,_Bhill_Krantikarak_Unapadevr,_Nandurbar.jpg"
 status: draft
 ---
 

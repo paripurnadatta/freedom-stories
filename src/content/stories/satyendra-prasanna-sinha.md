@@ -16,6 +16,13 @@ sources:
   - title: "Amrit Mahotsav Series — Gadicherla Harisarvottama Rao"
     url: "https://static.pib.gov.in/WriteReadData/userfiles/Unsung%20Heroes%20of%20Freedom%20Movement_o.pdf"
     publisher: "Bureau of Outreach & Communication, Ministry of Information & Broadcasting"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/03/Satyendra_Prasanna_Sinha_in_Mukul_Patrika_1909.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Satyendra Prasanna Sinha"
+  caption: "Satyendra Prasanna Sinha in Mukul Patrika 1909"
+  credit: "Mukul Patrika · https://eap.bl.uk/archive-file/EAP921-7-2-83"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Satyendra_Prasanna_Sinha_in_Mukul_Patrika_1909.png"
 status: draft
 ---
 

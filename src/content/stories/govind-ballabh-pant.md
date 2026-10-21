@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pandit_Govind_Ballabh_Pant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Govind Ballabh Pant"
+  caption: "Govind Ballabh Pant"
+  credit: "Government of India work · http://photodivision.gov.in/waterMarkdetails.asp?id=27501.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Pandit_Govind_Ballabh_Pant.jpg"
 status: draft
 ---
 

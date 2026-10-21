@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/45/Surendranath_Bannerjee.jpg"
+  alt: "Surendranath Banerjea"
+  caption: "Surendranath Banerjea — portrait from The Modern Review, September 1925"
+  credit: "The Modern Review, September 1925 · public domain"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Surendranath_Bannerjee.jpg"
 status: draft
 ---
 

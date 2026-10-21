@@ -30,6 +30,13 @@ sources:
   - title: "Non-Cooperation Movement by the students of Assam"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?6270="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Omeo_Kumar_Das_1998_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Omeo Kumar Das"
+  caption: "Omeo Kumar Das 1998 stamp of India"
+  credit: "India Post, Government of India · [1]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Omeo_Kumar_Das_1998_stamp_of_India.jpg"
 status: draft
 ---
 

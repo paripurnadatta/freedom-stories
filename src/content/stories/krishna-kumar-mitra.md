@@ -16,6 +16,13 @@ sources:
   - title: "Vanchinatha Iyer"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?321="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Krishna_Kumar_Mitra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Krishna Kumar Mitra"
+  caption: "Krishna Kumar Mitra"
+  credit: "Unknown author Unknown author · http://www.aurobindo.ru/persons/00083_e.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Krishna_Kumar_Mitra.jpg"
 status: draft
 ---
 

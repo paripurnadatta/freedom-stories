@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/9b/The_Statue_of_Rani_Avantibai_Lodhi%2C_Dongargarh_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Rani Avantibai Lodhi"
+  caption: "The Statue of Rani Avantibai Lodhi, Dongargarh - panoramio"
+  credit: "Kailash Mohankar · https://web.archive.org/web/20161028113311/http://www.panoramio.com/photo/104342952"
+  license: "CC BY 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Statue_of_Rani_Avantibai_Lodhi,_Dongargarh_-_panoramio.jpg"
 status: draft
 ---
 

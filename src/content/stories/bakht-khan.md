@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1b/General_Bakht_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Bakht Khan"
+  caption: "General Bakht Khan"
+  credit: "Khangul · Transferred from 1"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:General_Bakht_Khan.jpg"
 status: draft
 ---
 

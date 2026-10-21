@@ -27,6 +27,13 @@ sources:
   - title: "Umabai Kundapur — Hindustani Seva Dal founded by Dr N S Hardikar"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?8854="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b8/N.S._Hardikar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "N S Hardikar"
+  caption: "N.S. Hardikar"
+  credit: "The Hindusthanee Student · http://www.saadigitalarchive.org/item/20121224-1182"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:N.S._Hardikar.jpg"
 status: draft
 ---
 

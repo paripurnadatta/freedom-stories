@@ -17,6 +17,13 @@ sources:
   - title: "Konda Venkata Ranga Reddy"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?1952="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/71/Konda_Venkata_Ranga_Reddy%2C_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Konda Venkata Ranga Reddy"
+  caption: "Konda Venkata Ranga Reddy, 1952"
+  credit: "Photo Division, Government of India · http://photodivision.gov.in/writereaddata/webimages/thumbnails/27325.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Konda_Venkata_Ranga_Reddy,_1952.jpg"
 status: draft
 ---
 

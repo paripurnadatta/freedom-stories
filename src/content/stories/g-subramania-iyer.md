@@ -27,6 +27,13 @@ sources:
   - title: "G S Iyer's writings about the 1st session of the INC"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?18907="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/36/G._Subramania_Iyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "G. Subramania Iyer"
+  caption: "G. Subramania Iyer"
+  credit: "(1921) Indian Nation Builders, Part I , pp. 92"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:G._Subramania_Iyer.jpg"
 status: draft
 ---
 

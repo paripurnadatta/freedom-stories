@@ -25,6 +25,13 @@ sources:
   - title: "Release of 3 special covers to commemorate the unsung freedom fighters of Arunachal Pradesh"
     url: "https://cmsadmin.amritmahotsav.nic.in/event-detail.htm?4151="
     publisher: "Ministry of Communications / Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/53/Moji_Riba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Moji Riba"
+  caption: "Moji Riba"
+  credit: "Geri Koyu · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Moji_Riba.jpg"
 status: draft
 ---
 

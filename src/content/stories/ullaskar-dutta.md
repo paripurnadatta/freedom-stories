@@ -16,6 +16,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ullaskar_Dutta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Ullaskar Dutta"
+  caption: "Ullaskar Dutta"
+  credit: "Unknown author Unknown author · Karakahani, a famous book written by Aurobindo Ghosh"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ullaskar_Dutta.jpg"
 status: draft
 ---
 

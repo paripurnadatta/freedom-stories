@@ -19,6 +19,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Parbati Giri"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?4541="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/56/Parbati_Giri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Parbati Giri"
+  caption: "Parbati Giri"
+  credit: "Government of Odisha · From Twitter account of Naveen Patnaik"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Parbati_Giri.jpg"
 status: draft
 ---
 

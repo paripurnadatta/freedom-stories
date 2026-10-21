@@ -27,7 +27,20 @@ All 926 people and events from the old project are already here as drafts. Each 
 3. Give it a title and a one-line subtitle, check the sources (at least two), and set `status: published`.
 4. Run `npm run check`. It tells you in plain words if anything is missing.
 
-Disputed or family-told details stay in the story, but say so in the text.
+### How a story should sound
+
+Write for a Class 5 student, and make them want to keep reading.
+
+- Open with a scene, not a birth date. Put the reader somewhere: a room, a morning, a moment.
+- Short sentences (the check keeps the average under 15 words). Plain words.
+- Explain every hard word the first time it appears ("lathis, long sticks").
+- Ask the questions a curious child would ask, then answer them as the story unfolds.
+- Every fact must come from the sources. Disputed or family-told details can stay, but the story says so.
+
+### Optional extras in the facts block
+
+- `image:` a portrait (`src`, `alt`, `caption`, `credit`, `license`, `sourceUrl`). 272 drafts already have one from the old project.
+- `quote:` a short line in the person's own words (`text`, `by`), shown in the header and the side panel.
 
 ## The quality check
 

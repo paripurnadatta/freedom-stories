@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c0/V._O._Chidambaram_Pillai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "V.O. Chidambaram Pillai"
+  caption: "V.O. Chidambaram Pillai"
+  credit: "hindu · http://1.bp.blogspot.com/-UOvQUhY0I_M/TyNskpksD8I/AAAAAAAAxcM/mSRHTSXG858/s1600/V.O.Chidambaram+Pillai+Rare+Photos+%25285%2529.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:V._O._Chidambaram_Pillai.jpg"
 status: draft
 ---
 

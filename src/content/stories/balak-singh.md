@@ -16,6 +16,13 @@ sources:
   - title: "Dictionary of Martyrs Vol. 4 entry — Balak Singh"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_4_06_03_2019.pdf"
     publisher: "Ministry of Culture, Government of India & Indian Council of Historical Research (ICHR)"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/15/Painting_of_Balak_Singh_Kuka_%28first_Namdhari_guru%29_sitting_cross-legged_on_rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Balak Singh"
+  caption: "Painting of Balak Singh Kuka (first Namdhari guru) sitting cross-legged on rock"
+  credit: "Unknown author Unknown author · https://twitter.com/zora_war/status/1214268679484919808"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Painting_of_Balak_Singh_Kuka_(first_Namdhari_guru)_sitting_cross-legged_on_rock.jpg"
 status: draft
 ---
 

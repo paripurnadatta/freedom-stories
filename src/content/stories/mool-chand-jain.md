@@ -16,6 +16,13 @@ sources:
   - title: "Mool Chand Jain"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?208="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/78/Mool-Chand-Jain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Mool Chand Jain"
+  caption: "Mool Chand Jain"
+  credit: "Family Photo · Website: http://moolchandjain.com/wp-content/uploads/2015/02/Photo0001.jpg"
+  license: "CC BY 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mool-Chand-Jain.jpg"
 status: draft
 ---
 

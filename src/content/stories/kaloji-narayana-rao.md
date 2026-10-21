@@ -20,6 +20,13 @@ sources:
   - title: "The Quit India Movement in Andhra and Telangana"
     url: "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=169423"
     publisher: "Press Information Bureau, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kaloji_Narayanarao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Kaloji Narayana Rao"
+  caption: "Kaloji Narayana Rao"
+  credit: "User:Lipika2005 · File:V._R._Vidyarthi_3.jpg"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kaloji_Narayanarao.jpg"
 status: draft
 ---
 

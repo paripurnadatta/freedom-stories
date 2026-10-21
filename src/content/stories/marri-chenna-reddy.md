@@ -16,6 +16,13 @@ sources:
   - title: "Azadi Ka Safar with AIR News — Dr. Marri Chenna Reddy"
     url: "https://amritmahotsav.nic.in/event-detail.htm?8081="
     publisher: "Ministry of Information and Broadcasting, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b2/DrMChannaReddy_%28cropped%29.jpg"
+  alt: "Marri Chenna Reddy"
+  caption: "Marri Chenna Reddy"
+  credit: "TN Raj Bhavan; source is the Raj Bhavan image URL"
+  license: "CC BY-SA 2.5"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ADrMChannaReddy_%28cropped%29.jpg"
 status: draft
 ---
 

@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Malati_Choudhury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Malati Choudhury"
+  caption: "Malati Choudhury"
+  credit: "Amlanmohanty at English Wikipedia · File:Numa portrait.jpg on English Wikipedia"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Malati_Choudhury.jpg"
 status: draft
 ---
 

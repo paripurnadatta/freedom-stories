@@ -21,6 +21,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/14/Veera_Kerala_Varma_Pazhassi_Raja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Kerala Varma Pazhassi Raja"
+  caption: "Veera Kerala Varma Pazhassi Raja"
+  credit: "Raja Ravi Varma · http://www.keralatourism.org/destination/destination.php?id=100"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Veera_Kerala_Varma_Pazhassi_Raja.jpg"
 status: draft
 ---
 

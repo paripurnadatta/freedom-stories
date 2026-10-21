@@ -30,6 +30,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sarojini_Naidu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Sarojini Naidu"
+  caption: "Sarojini Naidu"
+  credit: "Unknown author Unknown author · Sarojini Naidu"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarojini_Naidu.jpg"
 status: draft
 ---
 

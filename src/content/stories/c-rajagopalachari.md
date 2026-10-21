@@ -28,6 +28,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e5/C_Rajagopalachari_1944.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "C. Rajagopalachari"
+  caption: "C. Rajagopalachari"
+  credit: "Gandhi_Rajagopalachari.jpg : Unknown author Unknown author derivative work: Ganeshk ( talk ) · Gandhi_Rajagopalachari.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:C_Rajagopalachari_1944.jpg"
 status: draft
 ---
 

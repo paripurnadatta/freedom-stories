@@ -23,6 +23,13 @@ sources:
   - title: "Freedom Fighters' Pension Scheme: recognised movements"
     url: "https://www.mha.gov.in/sites/default/files/MovementSSSPensionSch_170415.pdf"
     publisher: "Ministry of Home Affairs, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Akkamma_Cherian.jpg"
+  alt: "Artistic depiction of Akkamma Cherian"
+  caption: "Artistic depiction of Accamma (Akkamma) Cherian."
+  credit: "Transferred from Malayalam Wikipedia; original source recorded on Commons"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Akkamma_Cherian.jpg"
 status: draft
 ---
 

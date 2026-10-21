@@ -21,6 +21,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — C. Sankaran Nair"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3619="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a6/SirChetturSankaranNair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "C. Sankaran Nair"
+  caption: "SirChetturSankaranNair"
+  credit: "Bassano studio · http://www.npg.org.uk/live/search/portrait.asp?name=&gender=&search=as&desc=judge&grp=&lDate=&LinkID=mp60514&occ=23%3BLaw&grpNoJs=&deceased=Y&rNo=0&role=sit"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:SirChetturSankaranNair.jpg"
 status: draft
 ---
 

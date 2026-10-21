@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/72/Madam_Bhikaiji_Cama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Bhikaji Cama"
+  caption: "Bhikaji Cama"
+  credit: "Unknown author Unknown author · Transferred from en.wikipedia to Commons by Sreejithk2000 using CommonsHelper ."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Madam_Bhikaiji_Cama.jpg"
 status: draft
 ---
 

@@ -29,6 +29,13 @@ sources:
   - title: "Prominent People in Rajahmundry — Gadicherla Harisarvottama Rao"
     url: "https://rmc.ap.gov.in/about/prominent_people_in_rajahmundry"
     publisher: "Rajahmundry Municipal Corporation, Government of Andhra Pradesh"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/29/Gadicharla_Hari_Sarvottama_Rao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Gadicherla Harisarvottama Rao"
+  caption: "Gadicharla Hari Sarvottama Rao"
+  credit: "రహ్మానుద్దీన్ · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gadicharla_Hari_Sarvottama_Rao.jpg"
 status: draft
 ---
 

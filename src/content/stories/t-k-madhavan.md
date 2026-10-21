@@ -21,6 +21,13 @@ sources:
   - title: "Vaikom Satyagraha — Dawn of a New Era"
     url: "https://prd.kerala.gov.in/sites/default/files/inline-files/VAIKKOM%20SATYAGRAHAM%20ENGLISH____________New.pdf"
     publisher: "Government of Kerala, I&PRD"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/d7/TK_Madhavan_Statue%2C_Vaikom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with T.K. Madhavan"
+  caption: "TK Madhavan Statue, Vaikom"
+  credit: "Georgekutty at ml.wikipedia . Later version(s) were uploaded by Vssun at ml.wikipedia . · Transferred from ml.wikipedia by User:Sreejithk2000 using CommonsHelper ."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:TK_Madhavan_Statue,_Vaikom.JPG"
 status: draft
 ---
 

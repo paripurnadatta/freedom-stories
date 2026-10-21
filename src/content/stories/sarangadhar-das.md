@@ -22,6 +22,13 @@ sources:
   - title: "Praja Mandal movement in Odisha princely states"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3063="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Portrait_drawing_of_Sarangadhar_Das.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Sarangadhar Das"
+  caption: "Portrait drawing of Sarangadhar Das"
+  credit: "Government of Odisha · From Twitter account of Naveen Patnaik"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_drawing_of_Sarangadhar_Das.jpg"
 status: draft
 ---
 

@@ -23,6 +23,13 @@ sources:
   - title: "Our Founder: Anugrah Narayan Sinha"
     url: "https://ancpatna.ac.in/founder"
     publisher: "Anugrah Narayan College, Patna"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/47/Stamp_of_India_-_1988_-_Colnect_165226_-_Sri_Krishna_Sinha.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Sri Krishna Sinha"
+  caption: "Stamp of India - 1988 - Colnect 165226 - Sri Krishna Sinha"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/165226-Sri_Krishna_Sinha-Indias_Struggle_for_Freedom_Series_6_-_1988-India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1988_-_Colnect_165226_-_Sri_Krishna_Sinha.jpeg"
 status: draft
 ---
 

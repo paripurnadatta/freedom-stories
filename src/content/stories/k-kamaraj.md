@@ -21,6 +21,13 @@ sources:
   - title: "Kumaraswami Kamaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23480="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Honourable_Chief_Minister_of_Tamilnadu_Thiru._K._Kamaraj_with_Thiru._M.M._Sivasamy_of_Raja_Transport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including K. Kamaraj"
+  caption: "Honourable Chief Minister of Tamilnadu Thiru. K. Kamaraj with Thiru. M.M. Sivasamy of Raja Transport and his Family at Aruppukottai. It was taken on Apr 09, 1955 at Thiru. M.M. Sivasamy's home."
+  credit: "Photograph belongs to my Mother's family. · Restored this photograph from my Mother's home (which was about to be sold). This is a digitalized version of a old photograph."
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Honourable_Chief_Minister_of_Tamilnadu_Thiru._K._Kamaraj_with_Thiru._M.M._Sivasamy_of_Raja_Transport.jpg"
 status: draft
 ---
 

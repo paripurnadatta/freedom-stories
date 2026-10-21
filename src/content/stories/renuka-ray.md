@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/68/Renuka_Ray_official_portrait.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Renuka Ray"
+  caption: "Renuka Ray official portrait"
+  credit: "Government of India · https://lssapi.nic.in/MemberProfile/biodata_1_12/1335.gif"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Renuka_Ray_official_portrait.gif"
 status: draft
 ---
 

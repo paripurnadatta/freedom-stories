@@ -16,6 +16,13 @@ sources:
   - title: "S. Srinivasa Iyengar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?8474="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/14/RMSayani.jpg"
+  alt: "Portrait of Rahimtulla M. Sayani"
+  caption: "Portrait of Rahimtulla M. Sayani reproduced in a 1909 volume on the Indian National Congress."
+  credit: "The Indian National Congress, G. A. Natesan, Madras, 1909"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:RMSayani.jpg"
 status: draft
 ---
 

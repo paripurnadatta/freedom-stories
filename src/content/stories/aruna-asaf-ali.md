@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Aruna_Asaf_Ali_in_the_1940s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Aruna Asaf Ali"
+  caption: "Aruna Asaf Ali"
+  credit: "Unknown author Unknown author · https://www.educationtimes.com/webstories/10-hidden-legends-of-the-indian-independence-movement"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Aruna_Asaf_Ali_in_the_1940s.png"
 status: draft
 ---
 

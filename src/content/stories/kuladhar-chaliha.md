@@ -22,6 +22,13 @@ sources:
   - title: "Formation of Assam Provincial Congress Committee, 1921"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?14698="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kuladhar_Chaliha_1988_stamp_of_India_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Kuladhar Chaliha"
+  caption: "Kuladhar Chaliha 1988 stamp of India (cropped)"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kuladhar_Chaliha_1988_stamp_of_India_(cropped).jpg"
 status: draft
 ---
 

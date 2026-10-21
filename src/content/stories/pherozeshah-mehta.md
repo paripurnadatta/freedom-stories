@@ -20,6 +20,13 @@ sources:
   - title: "Kumaraswami Kamaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23480="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Statue_of_Sir_Pherozeshah_Mehta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Pherozeshah Mehta"
+  caption: "Statue of Sir Pherozeshah Mehta"
+  credit: "Bernard Gagnon · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Sir_Pherozeshah_Mehta.jpg"
 status: draft
 ---
 

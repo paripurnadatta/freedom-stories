@@ -16,6 +16,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Bhai Parmanand"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12466="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bhai_Parmanand_1979_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Bhai Parmanand"
+  caption: "Bhai Parmanand 1979 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhai_Parmanand_1979_stamp_of_India.jpg"
 status: draft
 ---
 

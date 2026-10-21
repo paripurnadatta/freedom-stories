@@ -22,6 +22,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/80/Veer_Budhu_Bhagat.jpg"
+  alt: "Government of India commemorative depiction of Budhu Bhagat"
+  caption: "Government of India commemorative depiction of freedom fighter Budhu Bhagat."
+  credit: "Ministry of Information and Broadcasting, Government of India"
+  license: "Attribution"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Veer_Budhu_Bhagat.jpg"
 status: draft
 ---
 

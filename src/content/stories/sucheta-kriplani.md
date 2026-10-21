@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/55/Sucheta_Kripalani_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Sucheta Kriplani"
+  caption: "Sucheta Kriplani"
+  credit: "Photo Division, Ministry of Information & Broadcasting, Government of India · http://photodivision.gov.in/IntroPhotodetails.asp?thisPage=1483"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sucheta_Kripalani_(cropped).jpg"
 status: draft
 ---
 

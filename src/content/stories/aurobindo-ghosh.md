@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/71/Sri_aurobindo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Aurobindo Ghosh"
+  caption: "Aurobindo Ghosh"
+  credit: "Rudolf 1922 · http://www.aurobindo.ru/workings/other/peter_heehs-the_lives_of_sri_aurobindo_e.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sri_aurobindo.jpg"
 status: draft
 ---
 

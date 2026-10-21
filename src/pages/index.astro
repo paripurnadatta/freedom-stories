@@ -4,28 +4,43 @@ import Base from "../layouts/Base.astro";
 
 const all = await getCollection("stories");
 const published = all.filter((s) => s.data.status === "published").sort((a, b) => a.data.year - b.data.year);
+const people = all.filter((s) => s.data.kind === "person").length;
+const events = all.length - people;
 ---
-<Base title="Freedom Stories: India's struggle, 1757 to 1947">
-  <main class="wrap">
-    <header class="home-head">
-      <h1 class="home-title">Freedom Stories</h1>
-      <p class="home-lede">
-        The people and moments of India's long fight against colonial rule, from Plassey to Independence, told as stories.
-      </p>
-      <p class="progress">{published.length} of {all.length} stories written so far.</p>
-    </header>
-    <ol class="index">
+<Base title="The Struggle for Freedom: stories of India, 1757 to 1947">
+  <section class="home-hero">
+    <div class="page">
+      <div class="home-intro">
+        <span class="label">Stories of the freedom struggle</span>
+        <h1 class="home-title">The struggle <em>for freedom</em></h1>
+        <p class="home-lede">
+          The people and moments of India's long fight against colonial rule, from Plassey to Independence, told as stories.
+        </p>
+      </div>
+      <div class="home-stats">
+        <span class="label">1757–1947</span>
+        <strong>{people} people · {events} moments</strong>
+        <span class="label">{published.length} {published.length === 1 ? "story" : "stories"} told so far</span>
+      </div>
+    </div>
+  </section>
+
+  <main class="page">
+    <ul class="story-list">
       {published.map((s) => (
         <li>
-          <a href={`/stories/${s.id}/`}>
-            <span class="yr">{s.data.year}</span>
+          <a class="story-card" href={`/stories/${s.id}/`}>
+            <span class="thumb">
+              {s.data.image ? <img src={s.data.image.src} alt="" loading="lazy" /> : s.data.name.charAt(0)}
+            </span>
             <span>
-              <span class="t">{s.data.title}</span>
-              <span class="who">{s.data.name}</span>
+              <span class="label">{s.data.name}</span>
+              <h3>{s.data.title}</h3>
+              <p>{s.data.subtitle}</p>
             </span>
           </a>
         </li>
       ))}
-    </ol>
+    </ul>
   </main>
 </Base>

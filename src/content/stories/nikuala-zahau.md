@@ -31,6 +31,13 @@ sources:
   - title: "Dictionary of Martyrs: India's Freedom Struggle (1857–1947), Volume 4"
     url: "https://shaheedbhagatsingh.org/wp-content/uploads/2021/04/volume-4.pdf"
     publisher: "Indian Council of Historical Research"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/10/Lal_ropui_Nikuala.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Nikuala Zahau"
+  caption: "Lal ropui Nikuala"
+  credit: "Unknown author Unknown author · https://www.timesofmizoram.com/2018/09/lal-ropui-nikuala-lusei-lal-ropui-ber.html"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lal_ropui_Nikuala.png"
 status: draft
 ---
 

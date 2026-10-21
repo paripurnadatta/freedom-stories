@@ -20,6 +20,13 @@ sources:
   - title: "Tarun Ram Phukan"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?23994="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Tarun_Ram_Phukan_1977_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Tarun Ram Phukan"
+  caption: "Tarun Ram Phukan 1977 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tarun_Ram_Phukan_1977_stamp_of_India.jpg"
 status: draft
 ---
 

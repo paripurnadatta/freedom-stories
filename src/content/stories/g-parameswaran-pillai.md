@@ -22,6 +22,13 @@ sources:
   - title: "G. Parameswaran Pillai"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?18908="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7c/G_P_1903-Portrait.jpg"
+  alt: "G. Parameswaran Pillai"
+  caption: "1903 portrait of G. Parameswaran Pillai."
+  credit: "1903 publication; source recorded by Malayalam Wikisource"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:G_P_1903-Portrait.jpg"
 status: draft
 ---
 

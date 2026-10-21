@@ -18,6 +18,13 @@ sources:
   - title: "Kumaraswami Kamaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23480="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6b/DinshawWacha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Dinshaw Wacha"
+  caption: "DinshawWacha"
+  credit: "Unknown author Unknown author · The Indian National Congress, containing an account of its origin and growth, full text of all the presidential addresses, reprint of all the Congress resolutions, extracts from all the welcome addresses, notable utterances on the movement, portraits of all the Congress presidents. Published 1909 by G. A. Natesan in Madras."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:DinshawWacha.jpg"
 status: draft
 ---
 

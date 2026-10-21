@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/49/Jatindra_Nath_Das_c1929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Jatin Das"
+  caption: "Jatin Das"
+  credit: "Unknown author Unknown author , published by Krishna Printing House, Lahore · [1]"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Jatindra_Nath_Das_c1929.jpg"
 status: draft
 ---
 

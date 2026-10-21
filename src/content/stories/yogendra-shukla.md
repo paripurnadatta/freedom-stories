@@ -21,6 +21,13 @@ sources:
   - title: "Quit India Movement in Hazaribagh — underground leaders"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?16154="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yogendra_Shukla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Yogendra Shukla"
+  caption: "Yogendra Shukla"
+  credit: "Bihar state archives · Bihar state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Yogendra_Shukla.jpg"
 status: draft
 ---
 

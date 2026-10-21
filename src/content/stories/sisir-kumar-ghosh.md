@@ -19,6 +19,13 @@ sources:
   - title: "Sundaraiah Puchalapalli"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2883="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/65/Shishir_Kumar_Ghosh.jpg"
+  alt: "Portrait of Sisir Kumar Ghosh (Shishir Kumar Ghose)"
+  caption: "Portrait of Sisir Kumar Ghosh, also spelled Shishir Kumar Ghose, published in The Modern Review in April 1911."
+  credit: "The Modern Review, April 1911"
+  license: "Public domain (PD-India; 1911 publication)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Shishir_Kumar_Ghosh.jpg"
 status: draft
 ---
 

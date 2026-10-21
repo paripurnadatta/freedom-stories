@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/08/S._Srinivasa_Iyengar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "S. Srinivasa Iyengar"
+  caption: "S. Srinivasa Iyengar"
+  credit: "Anonymous Unknown author · https://www.flickr.com/photos/57684415@N03/5308504518/#/"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:S._Srinivasa_Iyengar.jpg"
 status: draft
 ---
 

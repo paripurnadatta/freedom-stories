@@ -19,6 +19,13 @@ sources:
   - title: "P. Sundarayya and the Peasant Movement in Andhra Pradesh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?13358="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ravi_Shankar_Shukla_11034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Ravi Shankar Shukla"
+  caption: "Ravi Shankar Shukla 11034"
+  credit: "Photo division, Government of India · http://photodivision.gov.in/writereaddata/webimages/thumbnails/11034.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ravi_Shankar_Shukla_11034.jpg"
 status: draft
 ---
 

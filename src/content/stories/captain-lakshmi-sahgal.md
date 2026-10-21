@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/81/Lakshmi_Sahgal.jpg"
+  alt: "Captain Lakshmi Sahgal in 2005"
+  caption: "Captain Lakshmi Sahgal at a 2005 press conference in Delhi."
+  credit: "Soman · Own work; cropped on Wikimedia Commons"
+  license: "CC BY 2.5"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lakshmi_Sahgal.jpg"
 status: draft
 ---
 

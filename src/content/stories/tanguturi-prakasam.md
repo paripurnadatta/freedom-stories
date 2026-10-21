@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tanguturi_prakasam_panthulu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Tanguturi Prakasam"
+  caption: "Tanguturi prakasam panthulu"
+  credit: "Pavan santhosh.s · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tanguturi_prakasam_panthulu.jpg"
 status: draft
 ---
 

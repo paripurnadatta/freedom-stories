@@ -22,6 +22,13 @@ sources:
   - title: "Dictionary of Martyrs: India's Freedom Struggle, Vol. I Part I-A"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_1_Part_I_06_03_2019.pdf"
     publisher: "Indian Council of Historical Research / Ministry of Culture"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tirupur_kumaran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Tiruppur Kumaran"
+  caption: "Tiruppur Kumaran"
+  credit: "Unknown author Unknown author · http://desinema.com/25-indian-freedom-fighters-probably-never-heard/"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tirupur_kumaran.jpg"
 status: draft
 ---
 

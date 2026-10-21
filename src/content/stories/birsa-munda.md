@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/71/Birsa_Munda%2C_photograph_in_Roy_%281912-72%29.JPG"
+  alt: "Birsa Munda"
+  caption: "Birsa Munda"
+  credit: "Unknown photographer · Taken from now-archived University of Sussex web page ."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Birsa_Munda,_photograph_in_Roy_(1912-72).JPG"
 status: draft
 ---
 

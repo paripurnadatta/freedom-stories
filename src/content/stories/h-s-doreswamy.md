@@ -28,6 +28,13 @@ sources:
   - title: "Freedom Fighters — Karnataka textbook extract"
     url: "https://winvinaya.com/static/ebook/pdf/6th_EM_SocialScience_Part_1Remediated.pdf"
     publisher: "Government of Karnataka educational material (mirrored PDF)"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/00/H._S._Doreswamy_DS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "H S Doreswamy"
+  caption: "H. S. Doreswamy DS"
+  credit: "Augustus Binu / facebook · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:H._S._Doreswamy_DS.jpg"
 status: draft
 ---
 

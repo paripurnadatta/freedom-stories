@@ -19,6 +19,13 @@ sources:
   - title: "Tarkeshwari Sinha"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?10785="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tarkeshwari_Sinha_portrait.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Tarkeshwari Sinha"
+  caption: "Tarkeshwari Sinha portrait"
+  credit: "Government of India · https://lssapi.nic.in/MemberProfile/biodata_1_12/1042.gif"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tarkeshwari_Sinha_portrait.gif"
 status: draft
 ---
 

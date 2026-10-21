@@ -13,6 +13,13 @@ places: []
 related:
   - "early-nationalist-press-activity"
 sources: []
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Potti_Sreeramulu_2000_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Potti Sreeramulu"
+  caption: "2000 India Post commemorative stamp depicting Potti Sreeramulu."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Potti_Sreeramulu_2000_stamp_of_India.jpg"
 status: draft
 ---
 

@@ -17,6 +17,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Full_photo_of_Anant_Kanhere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Anant Laxman Kanhere"
+  caption: "Full photo of Anant Kanhere"
+  credit: "Unknown author Unknown author · Pune State Archieves"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Full_photo_of_Anant_Kanhere.jpg"
 status: draft
 ---
 

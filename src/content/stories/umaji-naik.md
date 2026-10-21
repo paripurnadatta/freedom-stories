@@ -22,6 +22,13 @@ sources:
   - title: "Umaji Naik"
     url: "https://amritmahotsav.nic.in/event-detail.htm?114208="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Samadhi_of_Umaji_Naik_in_Pune_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Umaji Naik"
+  caption: "Samadhi of Umaji Naik in Pune (cropped)"
+  credit: "DesiBoy101 · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Samadhi_of_Umaji_Naik_in_Pune_(cropped).jpg"
 status: draft
 ---
 

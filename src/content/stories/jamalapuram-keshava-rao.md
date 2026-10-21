@@ -17,6 +17,13 @@ sources:
   - title: "Jamalapuram Keshava Rao"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?16416="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jamalapuram_Keshav_Rao_with_Nehru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Jamalapuram Keshava Rao"
+  caption: "Sardar Jamalapuram Keshav Rao (1908-1953), Indian freedom fighter and president of the Hyderabad State Congress, photographed with Prime Minister Jawaharlal Nehru. Photograph taken between 1948 and 1953."
+  credit: "Unknown photographer · Scanned from Sardar Jamalapuram Keshavrao by Hiralal Moriya (biography published in India)"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Jamalapuram_Keshav_Rao_with_Nehru.jpg"
 status: draft
 ---
 

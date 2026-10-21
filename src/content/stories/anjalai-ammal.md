@@ -19,6 +19,13 @@ sources:
   - title: "Anjalai Ammal — Cuddalore freedom fighter"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?23130="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Anjalai-Ammal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Anjalai Ammal"
+  caption: "Anjalai Ammal"
+  credit: "Santhoshshanmugam19 · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Anjalai-Ammal.jpg"
 status: draft
 ---
 

@@ -16,6 +16,13 @@ sources:
   - title: "Immanuvel Devendrar alias Immanuel Sekaran"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?8470="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Immanuel_Sekaranar_2010_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Immanuvel Devendrar"
+  caption: "Immanuel Sekaranar 2010 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Immanuel_Sekaranar_2010_stamp_of_India.jpg"
 status: draft
 ---
 

@@ -22,6 +22,13 @@ sources:
   - title: "Mrityu Bahini"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?5291="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Bronze_statues_of_Swahid_Kanaklata_and_Mukunda_Kakati_in_front_of_Gohpur_police_station_where_they_were_shot_dead.jpg"
+  alt: "Bronze statues of Kanaklata Barua and Mukunda Kakati"
+  caption: "Bronze statues of Kanaklata Barua and Mukunda Kakati at Gohpur police station."
+  credit: "Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bronze_statues_of_Swahid_Kanaklata_and_Mukunda_Kakati_in_front_of_Gohpur_police_station_where_they_were_shot_dead.jpg"
 status: draft
 ---
 

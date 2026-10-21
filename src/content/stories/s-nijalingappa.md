@@ -26,6 +26,13 @@ sources:
   - title: "S. Nijalingappa"
     url: "https://www.youtube.com/watch?v=kZe2Z6MQtUM"
     publisher: "Karnataka Information, Government of Karnataka"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/22/Stamp_of_India_-_2003_-_Colnect_158359_-_S_Nijalingappa.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of S Nijalingappa"
+  caption: "Stamp of India - 2003 - Colnect 158359 - S Nijalingappa"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/158359-S_Nijalingappa-Education_Teachers-India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_2003_-_Colnect_158359_-_S_Nijalingappa.jpeg"
 status: draft
 ---
 

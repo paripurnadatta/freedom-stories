@@ -27,6 +27,13 @@ sources:
   - title: "Annual A.I.C.C. Session at Kakinada, 1923"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12652="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/75/Bulusu_Sambamurti_2008_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Bulusu Sambamurti"
+  caption: "Bulusu Sambamurti 2008 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bulusu_Sambamurti_2008_stamp_of_India.jpg"
 status: draft
 ---
 

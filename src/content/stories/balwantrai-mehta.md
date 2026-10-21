@@ -17,6 +17,13 @@ sources:
     publisher: "New India Samachar / Press Information Bureau"
   - title: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_3_06_03_2019.pdf"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_3_06_03_2019.pdf"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/13/Balwantrai_Mehta_2000_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Balwantrai Mehta"
+  caption: "Balwantrai Mehta 2000 stamp of India"
+  credit: "India Post, Government of India · [1]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Balwantrai_Mehta_2000_stamp_of_India.jpg"
 status: draft
 ---
 

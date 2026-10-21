@@ -13,6 +13,13 @@ places: []
 related:
   - "early-nationalist-press-activity"
 sources: []
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Konda_Venkatappayya2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Konda Venkatappayya"
+  caption: "Konda Venkatappayya2"
+  credit: "surya patrika · surya patrika"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Konda_Venkatappayya2.jpg"
 status: draft
 ---
 

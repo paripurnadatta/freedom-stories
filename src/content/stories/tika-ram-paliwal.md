@@ -22,6 +22,13 @@ sources:
   - title: "Tika Ram Paliwal"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2575="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/86/Tika_Ram_Paliwal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Tika Ram Paliwal"
+  caption: "Tika Ram Paliwal"
+  credit: "Shalivahan2 · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tika_Ram_Paliwal.jpg"
 status: draft
 ---
 

@@ -23,6 +23,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Siraj_ud-Daulah.jpg"
+  alt: "Siraj ud-Daulah"
+  caption: "Siraj ud-Daulah"
+  credit: "Unknown author Unknown author · http://www.sscnet.ucla.edu/southasia/History/British/Siraj.html"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Siraj_ud-Daulah.jpg"
 status: draft
 ---
 

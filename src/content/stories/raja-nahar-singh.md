@@ -21,6 +21,13 @@ sources:
   - title: "Dictionary of Martyrs: India's Freedom Struggle, Vol. I Part I-A"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_1_Part_I_06_03_2019.pdf"
     publisher: "Indian Council of Historical Research / Ministry of Culture"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/36/Raja_Nahar_Singh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Raja Nahar Singh"
+  caption: "Raja Nahar Singh"
+  credit: "Aditya sehrawat · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Raja_Nahar_Singh.jpg"
 status: draft
 ---
 

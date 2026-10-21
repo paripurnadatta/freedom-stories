@@ -20,6 +20,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Stamp_of_India_-_2002_-_Colnect_158263_-_Social_Reformers_-_Chandraprabha_Saikiani.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Chandraprabha Saikiani"
+  caption: "Stamp of India - 2002 - Colnect 158263 - Social Reformers - Chandraprabha Saikiani"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/158263-Social_Reformers_-_Chandraprabha_Saikiani-Famous_people-India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_2002_-_Colnect_158263_-_Social_Reformers_-_Chandraprabha_Saikiani.jpeg"
 status: draft
 ---
 

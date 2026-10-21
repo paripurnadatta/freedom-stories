@@ -22,6 +22,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/37/Mir_Qasim.jpg"
+  alt: "Mir Qasim"
+  caption: "Mir Qasim — historical portrait artwork"
+  credit: "Victoria Memorial Hall and Museum Kolkata · public-domain reproduction of a two-dimensional work"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mir_Qasim.jpg"
 status: draft
 ---
 

@@ -16,6 +16,13 @@ sources:
   - title: "Freedom Fighters' Pension Scheme: recognised movements"
     url: "https://www.mha.gov.in/sites/default/files/MovementSSSPensionSch_170415.pdf"
     publisher: "Ministry of Home Affairs, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Monument_Comrade_Achhar_Singh_Chhina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Achhar Singh Chhina"
+  caption: "Monument Comrade Achhar Singh Chhina"
+  credit: "Achhina at English Wikipedia · Transferred from en.wikipedia to Commons."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Monument_Comrade_Achhar_Singh_Chhina.jpg"
 status: draft
 ---
 

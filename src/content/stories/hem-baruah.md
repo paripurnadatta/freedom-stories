@@ -21,6 +21,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Hem Baruah"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?11087="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Statue_of_hem_baruah_in_thb_college.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Hem Baruah"
+  caption: "Statue of hem baruah in thb college"
+  credit: "Voiceofassam · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_hem_baruah_in_thb_college.jpg"
 status: draft
 ---
 

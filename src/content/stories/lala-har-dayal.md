@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/af/Lala_Har_Dayal_Young.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Lala Har Dayal"
+  caption: "Lala Har Dayal Young"
+  credit: "Unknown author Unknown author · http://www.sikhpioneers.org/gadarphoto.html"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lala_Har_Dayal_Young.jpg"
 status: draft
 ---
 

@@ -24,6 +24,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ahmadullah_Shah.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Maulvi Ahmadullah Shah"
+  caption: "Ahmadullah Shah"
+  credit: "digital library of State Archives of Uttar Pradesh · digital library of State Archives of Uttar Pradesh"
+  license: "CC BY-SA 2.5"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ahmadullah_Shah.png"
 status: draft
 ---
 

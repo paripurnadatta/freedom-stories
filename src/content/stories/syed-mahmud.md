@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Syed_Mahmud%2C_Minister_of_Education%2C_Bihar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Syed Mahmud"
+  caption: "Syed Mahmud"
+  credit: "Haeritagetimes · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Syed_Mahmud,_Minister_of_Education,_Bihar.jpg"
 status: draft
 ---
 

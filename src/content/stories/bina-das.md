@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/41/Bina_Das_%281911_%E2%80%93_1986%29_%2C_Indian_revolutionary_and_nationalist%2C_Victorial_memorial%2C_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Bina Das"
+  caption: "Bina Das (1911 – 1986) , Indian revolutionary and nationalist, Victorial memorial, Kolkata"
+  credit: "K.Venkataramana · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bina_Das_(1911_%E2%80%93_1986)_,_Indian_revolutionary_and_nationalist,_Victorial_memorial,_Kolkata.jpg"
 status: draft
 ---
 

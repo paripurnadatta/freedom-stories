@@ -20,6 +20,13 @@ sources:
   - title: "The Quit India Movement in Andhra and Telangana"
     url: "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=169423"
     publisher: "Press Information Bureau, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Burgula_Ramakrishna_Rao%2C_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Burgula Ramakrishna Rao"
+  caption: "Burgula Ramakrishna Rao"
+  credit: "Photo Division, Government of India · http://photodivision.gov.in/writereaddata/webimages/thumbnails/26215.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Burgula_Ramakrishna_Rao,_1952.jpg"
 status: draft
 ---
 

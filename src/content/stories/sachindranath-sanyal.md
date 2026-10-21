@@ -29,6 +29,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Freedom_fighter_Sachindranath_Sanyal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Sachindranath Sanyal"
+  caption: "Freedom fighter Sachindranath Sanyal"
+  credit: "Calcutta mahajati sadan · Calcutta mahajati sadan"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Freedom_fighter_Sachindranath_Sanyal.jpg"
 status: draft
 ---
 

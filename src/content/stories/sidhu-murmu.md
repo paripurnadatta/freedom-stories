@@ -25,6 +25,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Seedhoo_Manghee%2C_chief_of_the_Santhal_rebels_-_ILN_1856.jpg"
+  alt: "Sidhu Murmu"
+  caption: "Sidhu Murmu — Illustrated London News illustration, 23 February 1856"
+  credit: "Illustrated London News · source copy via Columbia University · dated 23 February 1856"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Seedhoo_Manghee,_chief_of_the_Santhal_rebels_-_ILN_1856.jpg"
 status: draft
 ---
 

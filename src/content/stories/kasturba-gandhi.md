@@ -27,6 +27,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Kasturba.jpg"
+  alt: "Kasturba Gandhi"
+  caption: "Kasturba Gandhi"
+  credit: "Source credited to mkgandhi-sarvodaya.org"
+  license: "Public domain (PD-India / PD-1996 metadata)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3AKasturba.jpg"
 status: draft
 ---
 

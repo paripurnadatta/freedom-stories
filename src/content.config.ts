@@ -8,6 +8,15 @@ const source = z.object({
   publisher: z.string().optional(),
 });
 
+const image = z.object({
+  src: z.string().url(),
+  alt: z.string().default(""),
+  caption: z.string().optional(),
+  credit: z.string().optional(),
+  license: z.string().optional(),
+  sourceUrl: z.string().url().optional(),
+});
+
 // One file = one story. The facts block at the top of each file must match this.
 const stories = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/stories" }),
@@ -27,6 +36,8 @@ const stories = defineCollection({
     places: z.array(z.string()).default([]),
     related: z.array(z.string()).default([]),
     sources: z.array(source).default([]),
+    image: image.optional(),
+    quote: z.object({ text: z.string(), by: z.string() }).optional(),
     status: z.enum(["draft", "published"]),
   }),
 });

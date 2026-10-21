@@ -18,6 +18,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Syed_Mir_Nisar_Ali_%28Titumir%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Titu Mir"
+  caption: "Syed Mir Nisar Ali (Titumir)"
+  credit: "Unknown author Unknown author · Bangladeshi academic books"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Syed_Mir_Nisar_Ali_(Titumir).jpg"
 status: draft
 ---
 

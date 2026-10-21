@@ -24,6 +24,13 @@ sources:
   - title: "Travancore State Congress and struggle for responsible government"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2438="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tm_varghese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "T M Varghese"
+  caption: "Tm varghese"
+  credit: "Kahsiav · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tm_varghese.jpg"
 status: draft
 ---
 

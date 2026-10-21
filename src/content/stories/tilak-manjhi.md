@@ -18,6 +18,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tilka_Manjhi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Tilak Manjhi"
+  caption: "Tilka Manjhi (cropped)"
+  credit: "ᱤᱧ ᱢᱟᱛᱟᱞ · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tilka_Manjhi_(cropped).jpg"
 status: draft
 ---
 

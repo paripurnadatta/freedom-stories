@@ -19,6 +19,13 @@ sources:
   - title: "Pictorial book release on India’s Women Unsung Heroes of Freedom Struggle"
     url: "https://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?77="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6c/CHAKALI_ILAMMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Chityala Ilamma"
+  caption: "CHAKALI ILAMMA"
+  credit: "Bhargav Vajinepali · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:CHAKALI_ILAMMA.jpg"
 status: draft
 ---
 

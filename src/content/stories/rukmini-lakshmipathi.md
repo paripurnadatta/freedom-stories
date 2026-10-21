@@ -18,6 +18,13 @@ sources:
   - title: "Malagarh Fort — Walidad Khan"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?24691="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/de/Rukmini_Lakshmipathi_1997_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Rukmini Lakshmipathi"
+  caption: "Rukmini Lakshmipathi 1997 stamp of India"
+  credit: "India Post, Government of India · [1]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rukmini_Lakshmipathi_1997_stamp_of_India.jpg"
 status: draft
 ---
 

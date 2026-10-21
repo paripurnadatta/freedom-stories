@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Stamp_of_India_-_1960_-_Colnect_141772_-_1_-_Subramania_Bharati_Commemoration.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Subramania Bharati"
+  caption: "Stamp of India - 1960 - Colnect 141772 - 1 - Subramania Bharati Commemoration"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/141772-Subramania_Bharati_Commemoration-India"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1960_-_Colnect_141772_-_1_-_Subramania_Bharati_Commemoration.jpeg"
 status: draft
 ---
 

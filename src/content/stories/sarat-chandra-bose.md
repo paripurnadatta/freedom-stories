@@ -15,6 +15,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/37/Photograph_of_Sarat_Chandra_Bose_displayed_at_Netaji_Museum_and_Centre_for_Studies_in_Himalayan_Languages_Society_%26_Culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Sarat Chandra Bose"
+  caption: "Sarat Chandra Bose"
+  credit: "Unknown photographer · displayed at Netaji Museum and Centre for Studies in Himalayan Languages Society & Culture, Giddha Pahar, Darjeeling district, West Bengal"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Photograph_of_Sarat_Chandra_Bose_displayed_at_Netaji_Museum_and_Centre_for_Studies_in_Himalayan_Languages_Society_%26_Culture.jpg"
 status: draft
 ---
 

@@ -17,6 +17,13 @@ sources:
   - title: "Godavari Parulekar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2276="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Godavari_Parulekar_at_a_protest%2C_c._1940s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Godavari Parulekar"
+  caption: "Godavari Parulekar at a protest, c. 1940s"
+  credit: "Unknown author Unknown author · https://sabrangindia.in/godavari-parulekar-source-inspiration-warli-community/"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Godavari_Parulekar_at_a_protest,_c._1940s.jpg"
 status: draft
 ---
 

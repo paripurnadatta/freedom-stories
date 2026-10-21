@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1c/P._Krishna_Pillai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "P. Krishna Pillai"
+  caption: "P. Krishna Pillai"
+  credit: "Unknown author · https://twitter.com/fatyetti/status/1295804730547920897/photo/1"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:P._Krishna_Pillai.jpg"
 status: draft
 ---
 

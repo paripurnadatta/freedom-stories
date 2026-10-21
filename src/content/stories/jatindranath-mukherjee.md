@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/48/BaghaJatin12.jpg"
+  alt: "Jatindranath Mukherjee"
+  caption: "Jatindranath Mukherjee"
+  credit: "Dwaipayanc / private collection of Prithwindra Mukherjee"
+  license: "Public domain (PD-India)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ABaghaJatin12.jpg"
 status: draft
 ---
 

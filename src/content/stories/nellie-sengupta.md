@@ -25,6 +25,13 @@ sources:
   - title: "Nellie Sengupta"
     url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?133="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nellie_and_Jatindra_Mohan_Sengupta_1985_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Nellie Sengupta and Jatindra Mohan Sengupta"
+  caption: "1985 India Post commemorative stamp depicting Nellie Sengupta with Jatindra Mohan Sengupta."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Nellie_and_Jatindra_Mohan_Sengupta_1985_stamp_of_India.jpg"
 status: draft
 ---
 

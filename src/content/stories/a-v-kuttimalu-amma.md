@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/de/A-_v-_kuttimalu_amma_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "A.V. Kuttimalu Amma"
+  caption: "A- v- kuttimalu amma 300"
+  credit: "Arunviswanathan91 · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:A-_v-_kuttimalu_amma_300.jpg"
 status: draft
 ---
 

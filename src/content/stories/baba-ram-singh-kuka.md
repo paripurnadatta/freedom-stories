@@ -22,6 +22,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Baba Ram Singh Kuka"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?11005="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/69/Painting_of_Baba_Ram_Singh_Kuka%2C_Sikh_style%2C_Punjab_Plains%2C_ca.1845%E2%80%9350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of Baba Ram Singh Kuka"
+  caption: "Painting of Baba Ram Singh Kuka, Sikh style, Punjab Plains, ca.1845–50"
+  credit: "Style of Bishan Singh, possibly created by Kapur Singh of Amritsar · Central Museum, Lahore [Lahore Museum], personally provided to me with kindness by Instagram user Ranbir Singh (@ranbir5ingh) on 7 June 2026 via a personal message"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Painting_of_Baba_Ram_Singh_Kuka,_Sikh_style,_Punjab_Plains,_ca.1845%E2%80%9350.jpg"
 status: draft
 ---
 

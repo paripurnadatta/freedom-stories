@@ -19,6 +19,13 @@ sources:
   - title: "Lal Singh Sahabana — Ghadar return journey context"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3100="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/46/Gulab_Kaur%2CIndian_freedom_fighter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with Gulab Kaur"
+  caption: "Gulab Kaur,Indian freedom fighter"
+  credit: "Harvinder Chandigarh · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gulab_Kaur,Indian_freedom_fighter.jpg"
 status: draft
 ---
 

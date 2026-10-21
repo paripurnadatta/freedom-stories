@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/59/GomdharKonwar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Gomdhar Konwar"
+  caption: "Statue of India's first Freedom Fighter and Assam's last King of Ahom Dynasty, Gomdhar Konwar."
+  credit: "Historyfanatic678 · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:GomdharKonwar.jpg"
 status: draft
 ---
 

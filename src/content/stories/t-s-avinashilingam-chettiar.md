@@ -17,6 +17,13 @@ sources:
   - title: "T. S. Avinashilingam Chettiar"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?14241="
     publisher: "Azadi Ka Amrit Mahotsav / Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6e/TS_Avinashilingam.jpg"
+  alt: "T. S. Avinashilingam Chettiar"
+  caption: "T. S. Avinashilingam Chettiar"
+  credit: "Sakthi, Tamil Monthly Magazine, January 1947, Madras, British India"
+  license: "Public domain (PD-India / PD-1996 metadata)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ATS_Avinashilingam.jpg"
 status: draft
 ---
 

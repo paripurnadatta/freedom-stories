@@ -17,6 +17,13 @@ sources:
   - title: "Arutla Kamala Devi: The Pride of Telangana"
     url: "https://www.arutla.org/wp-content/uploads/2023/07/telangana-veernaari-ak.pdf"
     publisher: "Memorial essay by Dr. Raj Bahadur Gour, veteran freedom fighter and trade union leader"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/52/Portrait_of_Arutla_Kamala_Devi_from_%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%A3_%E0%B0%A4%E0%B1%87%E0%B0%9C%E0%B1%8B%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%B2%E0%B1%81_%28page_598_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Arutla Kamaladevi"
+  caption: "Portrait of Arutla Kamala Devi from తెలంగాణ తేజోమూర్తులు (page 598 crop)"
+  credit: "Scan from original book"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Arutla_Kamala_Devi_from_%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B0%82%E0%B0%97%E0%B0%BE%E0%B0%A3_%E0%B0%A4%E0%B1%87%E0%B0%9C%E0%B1%8B%E0%B0%AE%E0%B1%82%E0%B0%B0%E0%B1%8D%E0%B0%A4%E0%B1%81%E0%B0%B2%E0%B1%81_(page_598_crop).jpg"
 status: draft
 ---
 

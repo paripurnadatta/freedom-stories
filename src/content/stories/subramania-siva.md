@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/5a/SubramaniyaSiva.jpg"
+  alt: "Subramania Siva"
+  caption: "Subramania Siva"
+  credit: "Source credited to archives.aaraamthinai.com"
+  license: "Public domain (PD-India)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3ASubramaniyaSiva.jpg"
 status: draft
 ---
 

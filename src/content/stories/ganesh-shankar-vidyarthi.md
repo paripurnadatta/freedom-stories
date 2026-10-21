@@ -20,6 +20,13 @@ sources:
   - title: "Bhagat Singh's journalism and Ganesh Shankar Vidyarthi's Pratap"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?25100="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/51/Ganesh_Shankar_Vidyarthi_1962_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Ganesh Shankar Vidyarthi"
+  caption: "Ganesh Shankar Vidyarthi 1962 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ganesh_Shankar_Vidyarthi_1962_stamp_of_India.jpg"
 status: draft
 ---
 

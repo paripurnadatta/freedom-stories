@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/22/Vishnu_Ganesh_Pingle.jpg"
+  alt: "Vishnu Ganesh Pingle"
+  caption: "Vishnu Ganesh Pingle"
+  credit: "Ghadar Party; extracted from Ghadar Party Handbill - India's Martyrs"
+  license: "Public domain (US pre-1931)"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File%3AVishnu_Ganesh_Pingle.jpg"
 status: draft
 ---
 

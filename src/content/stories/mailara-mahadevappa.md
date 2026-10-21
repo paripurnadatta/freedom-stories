@@ -29,6 +29,13 @@ sources:
   - title: "History — Haveri District"
     url: "https://haveri.nic.in/en/history/"
     publisher: "District Haveri, Government of Karnataka"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/00/Mailara_Mahadevappa_2018_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Mailara Mahadevappa"
+  caption: "Mailara Mahadevappa 2018 stamp of India"
+  credit: "India Post, Government of India · http://postagestamps.gov.in/Stampofyear.aspx?uid=2018"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mailara_Mahadevappa_2018_stamp_of_India.jpg"
 status: draft
 ---
 

@@ -22,6 +22,13 @@ sources:
   - title: "P. Sundarayya and the Peasant Movement in Andhra Pradesh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?13358="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/76/Sundaraiah_park_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Puchalapalli Sundarayya"
+  caption: "Sundaraiah park 2"
+  credit: "Sivahari · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sundaraiah_park_2.JPG"
 status: draft
 ---
 

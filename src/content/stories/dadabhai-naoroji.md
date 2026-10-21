@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dadabhai_Naoroji%2C_1892.jpg"
+  alt: "Dadabhai Naoroji"
+  caption: "Dadabhai Naoroji"
+  credit: "R.M. Richardson & Co · one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof . This may be due to recognition of the \" sweat of the brow \" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions. As such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement . Please see Commons:When to use the PD-Art tag for more information."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Dadabhai_Naoroji,_1892.jpg"
 status: draft
 ---
 

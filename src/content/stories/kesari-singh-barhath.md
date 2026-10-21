@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b0/Portrait_of_Thakur_kesari_singh_barhath_sitting_in_chair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Kesari Singh Barhath"
+  caption: "Portrait of Thakur kesari singh barhath sitting in chair"
+  credit: "Himatdan78 · Own work"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Portrait_of_Thakur_kesari_singh_barhath_sitting_in_chair.jpg"
 status: draft
 ---
 

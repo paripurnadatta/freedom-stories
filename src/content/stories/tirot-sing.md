@@ -23,6 +23,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/06/Jitendra_Singh_paid_tributes_at_the_statue_of_the_legendary_freedom_fighter_Tirot_Sing%2C_at_Nangkhlaw%2C_West_Khasi_Hills%2C_Meghalaya.jpg"
+  alt: "Statue of Tirot Sing at Nangkhlaw, Meghalaya"
+  caption: "Statue of Tirot Sing at Nangkhlaw, West Khasi Hills, Meghalaya, photographed during a 2016 Government of India tribute."
+  credit: "Press Information Bureau on behalf of Ministry for Development of North-East Region, Government of India (PIB ID 87099, CNR 85744)"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Jitendra_Singh_paid_tributes_at_the_statue_of_the_legendary_freedom_fighter_Tirot_Sing,_at_Nangkhlaw,_West_Khasi_Hills,_Meghalaya.jpg"
 status: draft
 ---
 

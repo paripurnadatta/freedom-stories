@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Taraknath_Das_1937.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Taraknath Das"
+  caption: "Taraknath Das"
+  credit: "Unknown author Unknown author · The Modern Review. July 1937"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Taraknath_Das_1937.jpg"
 status: draft
 ---
 

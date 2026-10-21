@@ -27,6 +27,13 @@ sources:
   - title: "Unsung Heroes index — Basawon Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-tag.htm?137="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Basawon_Singh_2000_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Basawon Singh"
+  caption: "Basawon Singh 2000 stamp of India"
+  credit: "India Post, Government of India · [1]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Basawon_Singh_2000_stamp_of_India.jpg"
 status: draft
 ---
 

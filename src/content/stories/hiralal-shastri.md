@@ -26,6 +26,13 @@ sources:
   - title: "Hiralal Shastri"
     url: "https://assembly.rajasthan.gov.in/DigitalMuseum/HiralalShastri.html"
     publisher: "Rajasthan Legislative Assembly Museum"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hiralal_Shastri_1976_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Hiralal Shastri"
+  caption: "Hiralal Shastri 1976 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Hiralal_Shastri_1976_stamp_of_India.jpg"
 status: draft
 ---
 

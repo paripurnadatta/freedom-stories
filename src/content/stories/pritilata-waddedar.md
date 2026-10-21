@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Original_Archived_photo_of_Pritilata_Waddedar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Pritilata Waddedar"
+  caption: "Pritilata Waddedar"
+  credit: "Unknown author Unknown author · Directorate of State Archive , East Bengal, Kolkata. Commons uploader: Rahat Rahim"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Original_Archived_photo_of_Pritilata_Waddedar.jpg"
 status: draft
 ---
 

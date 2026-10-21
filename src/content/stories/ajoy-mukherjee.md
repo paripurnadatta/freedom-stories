@@ -16,6 +16,13 @@ sources:
   - title: "Unsung Heroes of India's Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ajoy_Mukherjee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Ajoy Mukherjee"
+  caption: "Ajoy Mukherjee"
+  credit: "Mainaksinghabarma · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ajoy_Mukherjee.jpg"
 status: draft
 ---
 

@@ -16,6 +16,13 @@ sources:
   - title: "Jaidev Kapoor"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2095="
     publisher: "Ministry of Culture, Government of India — Unsung Heroes"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/96/Jaidev_Kapoor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with Jaidev Kapoor"
+  caption: "Jaidev Kapoor"
+  credit: "Punjab state archives · Punjab state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Jaidev_Kapoor.jpg"
 status: draft
 ---
 

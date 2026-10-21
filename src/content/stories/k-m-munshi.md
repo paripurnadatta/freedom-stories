@@ -13,6 +13,13 @@ places: []
 related:
   - "early-nationalist-press-activity"
 sources: []
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/d/d8/K_M_Munshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "K. M. Munshi"
+  caption: "K M Munshi"
+  credit: "Photo Division, Govt. of India · http://photodivision.gov.in/writereaddata/webimages/thumbnails/14726.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:K_M_Munshi.jpg"
 status: draft
 ---
 

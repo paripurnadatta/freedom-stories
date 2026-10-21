@@ -24,6 +24,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kalpana_Dutt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Kalpana Dutta"
+  caption: "Kalpana Dutta"
+  credit: "Unknown author Unknown author · http://www.bethunex.org.in/disalumni.php"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalpana_Dutt.png"
 status: draft
 ---
 

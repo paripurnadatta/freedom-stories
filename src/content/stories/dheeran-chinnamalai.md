@@ -18,6 +18,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Dheeran_Chinnamalai1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Dheeran Chinnamalai"
+  caption: "Dheeran Chinnamalai1"
+  credit: "Invisiblemaniac · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Dheeran_Chinnamalai1.jpg"
 status: draft
 ---
 

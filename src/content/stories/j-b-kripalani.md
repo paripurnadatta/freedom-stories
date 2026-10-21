@@ -28,6 +28,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a6/17%29_J.B_KRIPALANI_AUTOGRAPHED_SKETCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical or artistic depiction of J.B. Kripalani"
+  caption: "17) J.B KRIPALANI AUTOGRAPHED SKETCH"
+  credit: "Artist Bhunath Mukherjee · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:17)_J.B_KRIPALANI_AUTOGRAPHED_SKETCH.jpg"
 status: draft
 ---
 

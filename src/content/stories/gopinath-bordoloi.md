@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Gopinath_Bordoloi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Gopinath Bordoloi"
+  caption: "Gopinath Bordoloi"
+  credit: "Unknown author Unknown author · http://www.assaminfo.com/files/famous-people/m_20.jpg"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gopinath_Bordoloi.jpg"
 status: draft
 ---
 

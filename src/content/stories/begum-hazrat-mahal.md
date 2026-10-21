@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/64/Begum_hazrat_mahal.jpg"
+  alt: "Begum Hazrat Mahal"
+  caption: "Begum Hazrat Mahal"
+  credit: "http://en.wikipedia.org/wiki/User:Faizhaider · http://www.kamat.com/kalranga/itihas/21875.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Begum_hazrat_mahal.jpg"
 status: draft
 ---
 

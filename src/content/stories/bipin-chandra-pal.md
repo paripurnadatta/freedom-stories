@@ -21,6 +21,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bipin_Chandra_Pal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Bipin Chandra Pal"
+  caption: "Bipin Chandra Pal"
+  credit: "Unknown · Calcutta state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bipin_Chandra_Pal.jpg"
 status: draft
 ---
 

@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kartar_Singh_Sarabha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Kartar Singh Sarabha"
+  caption: "Kartar Singh Sarabha"
+  credit: "Ghadar Party · http://www.lib.berkeley.edu/SSEAL/echoes/chapter7/chapter7_1.html It is from the Hindustan Ghadar , the primary publication of the US-based Ghadar Party ."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kartar_Singh_Sarabha.jpg"
 status: draft
 ---
 

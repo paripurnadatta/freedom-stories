@@ -17,6 +17,13 @@ sources:
   - title: "N. G. Ranga"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2850="
     publisher: "Ministry of Culture, Government of India"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/b/b8/S._Subramania_Iyer_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with S. Subramania Iyer"
+  caption: "S. Subramania Iyer statue"
+  credit: "Wiki San Roze †αLҝ · I ( Wiki San Roze †αLҝ ) created this work entirely by myself."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:S._Subramania_Iyer_statue.jpg"
 status: draft
 ---
 

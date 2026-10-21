@@ -26,6 +26,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/74/Maniram_Dewan.jpg"
+  alt: "Maniram Dewan"
+  caption: "Maniram Dewan — retouched portrait"
+  credit: "P Phukan · retouched portrait; underlying two-dimensional work is public domain"
+  license: "CC BY-SA 4.0 / underlying public-domain work"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Maniram_Dewan.jpg"
 status: draft
 ---
 

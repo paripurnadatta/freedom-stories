@@ -27,6 +27,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tatya_Tope_portrait.jpg"
+  alt: "Tantia Tope"
+  caption: "Tantia Tope"
+  credit: "Anonymous Unknown author · The Indian War Of Independence 1857 (1947 Ed.) by Vinayak Damodar Sawarkar https://archive.org/details/in.ernet.dli.2015.283257/"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tatya_Tope_portrait.jpg"
 status: draft
 ---
 

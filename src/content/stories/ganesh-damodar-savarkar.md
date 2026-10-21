@@ -27,6 +27,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ganesh_Damodar_Savarkar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Ganesh Damodar Savarkar"
+  caption: "Ganesh Damodar Savarkar"
+  credit: "Maharashtra state archives · Maharashtra state archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Ganesh_Damodar_Savarkar.jpg"
 status: draft
 ---
 

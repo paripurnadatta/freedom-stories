@@ -53,6 +53,15 @@ for (const file of files) {
   const words = body.replace(/<!--[\s\S]*?-->/g, "").split(/\s+/).filter(Boolean).length;
   if (words < 600) say(`is short for a story (${words} words; aim for 900+)`);
 
+  // Class 5 reading level: keep sentences short on average, and flag very long ones.
+  const prose = body.replace(/<!--[\s\S]*?-->/g, "").replace(/^#.*$/gm, "");
+  const sentences = prose.split(/(?<=[.!?])["”']?\s+/).map((x) => x.trim()).filter((x) => /[a-z]/i.test(x));
+  const lengths = sentences.map((x) => x.split(/\s+/).length);
+  const avg = lengths.reduce((a, b) => a + b, 0) / (lengths.length || 1);
+  if (avg > 15) say(`sentences average ${avg.toFixed(1)} words; keep it under 15 for Class 5 readers`);
+  const longOnes = sentences.filter((x) => x.split(/\s+/).length > 30);
+  for (const x of longOnes.slice(0, 3)) say(`very long sentence (${x.split(/\s+/).length} words): "${x.slice(0, 60)}..."`);
+
   const lower = body.toLowerCase();
   for (const b of BANNED) if (lower.includes(b)) say(`uses the phrase "${b}"`);
 }

@@ -24,6 +24,13 @@ sources:
   - title: "Vishwanathappa Ramappa Ekghare — association with Brijlal Biyani"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?26134="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/36/Brajlal_Biyani_2002_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Brijlal Biyani"
+  caption: "2002 India Post commemorative stamp depicting Brijlal (Brajlal) Biyani."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Brajlal_Biyani_2002_stamp_of_India.jpg"
 status: draft
 ---
 

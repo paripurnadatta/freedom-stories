@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Khudiram_Bose.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Khudiram Bose"
+  caption: "Khudiram Bose"
+  credit: "Unknown author Unknown author · http://banglapedia.search.com.bd/HT/B_0339.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Khudiram_Bose.jpg"
 status: draft
 ---
 

@@ -16,6 +16,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Shah_Nawaz_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Shah Nawaz Khan"
+  caption: "Shah Nawaz Khan"
+  credit: "Unknown author Unknown author · thebetterindia.com"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Shah_Nawaz_Khan.jpg"
 status: draft
 ---
 

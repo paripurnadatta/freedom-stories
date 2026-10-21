@@ -20,6 +20,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/38/Mir_Madan%27s_tomb_at_Faridpur%2C_Murshidabad_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Mir Madan"
+  caption: "Mir Madan's tomb at Faridpur, Murshidabad 03"
+  credit: "Pinakpani · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mir_Madan%27s_tomb_at_Faridpur,_Murshidabad_03.jpg"
 status: draft
 ---
 

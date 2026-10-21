@@ -17,6 +17,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Statue_of_Senapati_Bapat_-_panoramio_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Pandurang Mahadev Bapat"
+  caption: "Statue of Senapati Bapat - panoramio (cropped)"
+  credit: "Ganesh Dhamodkar · https://www.panoramio.com/photo/68869918"
+  license: "CC BY 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Senapati_Bapat_-_panoramio_(cropped).jpg"
 status: draft
 ---
 

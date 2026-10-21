@@ -17,6 +17,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — S. Varadarajan Nair"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?6940="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/66/S_Varadarajan_Nair.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical image associated with S. Varadarajan Nair"
+  caption: "S Varadarajan Nair"
+  credit: "Joyaljosephmarch1999 · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:S_Varadarajan_Nair.png"
 status: draft
 ---
 

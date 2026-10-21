@@ -23,6 +23,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Krantiveera_Sangolli_Rayanna_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Statue, bust, sculpture, or memorial of Sangolli Rayanna"
+  caption: "Krantiveera Sangolli Rayanna 1"
+  credit: "Veera.sj · Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Krantiveera_Sangolli_Rayanna_1.jpg"
 status: draft
 ---
 

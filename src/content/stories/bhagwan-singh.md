@@ -16,6 +16,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Bhagwan Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?12362="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bhagwan_Singh_Gyanee_in_1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Bhagwan Singh"
+  caption: "Bhagwan Singh Gyanee in 1919"
+  credit: "http://www.saadigitalarchive.org/item/20120229-637"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhagwan_Singh_Gyanee_in_1919.jpg"
 status: draft
 ---
 

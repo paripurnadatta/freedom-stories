@@ -22,6 +22,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/4/44/Komaram_Bheem.jpg"
+  alt: "Statue of Komaram Bheem"
+  caption: "Statue of Komaram Bheem at Tank Bund Road, Hyderabad."
+  credit: "Own work"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Komaram_Bheem.jpg"
 status: draft
 ---
 

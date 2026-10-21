@@ -19,6 +19,13 @@ sources:
   - title: "Congress Resolutions and the road to Poorna Swaraj"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?25158="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Badruddin_Tyabji_Portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Badruddin Tyabji"
+  caption: "Badruddin Tyabji Portrait"
+  credit: "Andywarhol1222 · Own work"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Badruddin_Tyabji_Portrait.jpg"
 status: draft
 ---
 

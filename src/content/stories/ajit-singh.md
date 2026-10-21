@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sardar_Ajit_Singh_1999_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Sardar Ajit Singh"
+  caption: "1999 India Post stamp commemorating Sardar Ajit Singh."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sardar_Ajit_Singh_1999_stamp_of_India.jpg"
 status: draft
 ---
 

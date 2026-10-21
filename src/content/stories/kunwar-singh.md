@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/0/01/Kunvar_singh.jpg"
+  alt: "Kunwar Singh"
+  caption: "Kunwar Singh — circa-1858 engraving"
+  credit: "Steel engraving from The Indian Empire, circa 1858 · public domain"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kunvar_singh.jpg"
 status: draft
 ---
 

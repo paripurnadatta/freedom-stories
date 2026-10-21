@@ -24,6 +24,13 @@ sources:
   - title: "Annual A.I.C.C. Session at Kakinada, 1923"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?12652="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/56/Duvvuri_subbamma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Duvvuri Subbamma"
+  caption: "Duvvuri subbamma"
+  credit: "Pavan santhosh.s · నేను రాజమండ్రి వెళ్ళినపుడు స్వయంగా ఫోటో తీశాను"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Duvvuri_subbamma.jpg"
 status: draft
 ---
 

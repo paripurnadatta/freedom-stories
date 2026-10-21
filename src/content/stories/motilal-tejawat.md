@@ -19,6 +19,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Motilal_Tejawat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Motilal Tejawat"
+  caption: "Motilal Tejawat"
+  credit: "Unknown author Unknown author · \"जलियांवाला कांड के केवल तीन वर्ष बाद हुए हत्याकांड में\" http://panchjanya.com/arch/2003/6/22/File26.htm"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Motilal_Tejawat.jpg"
 status: draft
 ---
 

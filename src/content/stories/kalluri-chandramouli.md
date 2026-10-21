@@ -13,6 +13,13 @@ places: []
 related:
   - "early-nationalist-press-activity"
 sources: []
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/1/15/Kalluri_chandramouli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Kalluri Chandramouli"
+  caption: "Kalluri chandramouli"
+  credit: "Photo Image of Sri K, Chandramouli taken by sri Sudarasan · book on Sri Kalluri Chandramouli"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Kalluri_chandramouli.jpg"
 status: draft
 ---
 

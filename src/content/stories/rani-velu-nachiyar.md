@@ -19,6 +19,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/34/Rani_Velu_Nachiyar_and_Marudhu_brothers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Historical group or commemorative image including Rani Velu Nachiyar"
+  caption: "The queen of Sivagangai who won over British with the help of two other kings known as Marudhu brothers"
+  credit: "Shakthi Thevar · Drawing"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rani_Velu_Nachiyar_and_Marudhu_brothers.jpg"
 status: draft
 ---
 

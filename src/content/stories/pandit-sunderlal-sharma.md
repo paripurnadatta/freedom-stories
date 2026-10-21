@@ -23,6 +23,13 @@ sources:
   - title: "Kandel Canal Satyagraha"
     url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?8210="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sundarlal_Sharma_1990_stamp_of_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Pandit Sunderlal Sharma"
+  caption: "Sundarlal Sharma 1990 stamp of India"
+  credit: "India Post, Government of India · [1] [2]"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sundarlal_Sharma_1990_stamp_of_India.jpg"
 status: draft
 ---
 

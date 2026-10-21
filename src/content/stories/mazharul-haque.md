@@ -33,6 +33,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Stamp_of_India_-_1981_-_Colnect_361614_-_Mazharul_Haque.jpeg"
+  alt: "India Post commemorative stamp depicting Mazharul Haque"
+  caption: "1981 India Post commemorative stamp depicting Mazharul Haque."
+  credit: "India Post / Post of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1981_-_Colnect_361614_-_Mazharul_Haque.jpeg"
 status: draft
 ---
 

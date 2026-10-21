@@ -27,6 +27,13 @@ sources:
   - title: "Suraj Narayan Singh"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?15110="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Surya_Narayan_Singh_2001_stamp_of_India.jpg"
+  alt: "India Post commemorative stamp depicting Suraj Narayan Singh"
+  caption: "2001 India Post commemorative stamp depicting Suraj Narayan (Suraj Narain) Singh."
+  credit: "India Post, Government of India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Surya_Narayan_Singh_2001_stamp_of_India.jpg"
 status: draft
 ---
 

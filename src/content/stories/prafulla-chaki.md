@@ -23,6 +23,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Prafulla_Chaki_-_Wikimedia_Photowalk_Kolkata_20111218_IMG_4572.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Prafulla Chaki"
+  caption: "Prafulla Chaki - Wikimedia Photowalk Kolkata 20111218 IMG 4572"
+  credit: "BengaliHindu · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Prafulla_Chaki_-_Wikimedia_Photowalk_Kolkata_20111218_IMG_4572.jpg"
 status: draft
 ---
 

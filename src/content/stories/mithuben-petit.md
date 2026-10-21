@@ -21,6 +21,13 @@ sources:
   - title: "Rao Kadam Singh: A Less Known Hero of Indian Revolution of 1857"
     url: "https://jndmeerut.org/wp-content/uploads/2022/07/Vol.-31-No.-2-2022.pdf"
     publisher: "Contemporary Social Sciences / Journal of National Development"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mithuben_Petit_5_April_1930_%28cropped%29.jpg"
+  alt: "Mithuben Petit at Dandi in 1930"
+  caption: "Mithuben Petit at Dandi, South Gujarat, at the end of the Salt March on 5 April 1930."
+  credit: "Historical photograph; cropped from the Dandi image documented on Wikimedia Commons"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mithuben_Petit_5_April_1930_(cropped).jpg"
 status: draft
 ---
 

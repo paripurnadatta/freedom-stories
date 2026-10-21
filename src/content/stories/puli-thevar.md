@@ -21,6 +21,13 @@ sources:
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/7/76/Puli_Thevar_Statue_in_his_Nerkattumseval_Palace_2013-08-12_06-35.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Puli Thevar"
+  caption: "Puli Thevar Statue in his Nerkattumseval Palace 2013-08-12 06-35"
+  credit: "User:Rajasubash · Own work"
+  license: "CC BY-SA 3.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Puli_Thevar_Statue_in_his_Nerkattumseval_Palace_2013-08-12_06-35.jpeg"
 status: draft
 ---
 

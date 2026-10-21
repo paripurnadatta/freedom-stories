@@ -24,6 +24,13 @@ sources:
   - title: "Travancore State Congress and struggle for responsible government"
     url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?2438="
     publisher: "Ministry of Culture, Government of India — Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Annie_Mascarene_statue_at_Vazhuthacaud%2C_Thiruvananthapuram_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Representative statue, bust, sculpture, or memorial associated with Annie Mascarene"
+  caption: "Annie Mascarene statue at Vazhuthacaud, Thiruvananthapuram 02"
+  credit: "Vis M · Own work"
+  license: "CC0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Annie_Mascarene_statue_at_Vazhuthacaud,_Thiruvananthapuram_02.jpg"
 status: draft
 ---
 

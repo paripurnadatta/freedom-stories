@@ -18,6 +18,13 @@ sources:
     publisher: "Bipan Chandra et al., India’s Struggle for Independence"
   - title: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_3_06_03_2019.pdf"
     url: "https://www.indiaculture.gov.in/sites/default/files/pdf/Martyrs_Vol_3_06_03_2019.pdf"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/a/a7/U._N._Dhebar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Image associated with U N Dhebar"
+  caption: "U. N. Dhebar"
+  credit: "Unknown author Unknown author · https://www.thehindubusinessline.com/migration_catalog/ik7y0w-U-N-Dhebar"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:U._N._Dhebar.png"
 status: draft
 ---
 

@@ -24,6 +24,13 @@ sources:
   - title: "Candidate-specific Ministry of Culture record — Bishnu Ram Medhi"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?466="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav / Digital District Repository"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Stamp_of_India_-_1989_-_Colnect_165299_-_Bishnu_Ram_Medhi_-_Politician_-_Birth_Centenary.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Official commemorative depiction of Bishnu Ram Medhi"
+  caption: "Stamp of India - 1989 - Colnect 165299 - Bishnu Ram Medhi - Politician - Birth Centenary"
+  credit: "Post of India · https://colnect.com/en/stamps/stamp/165299-Bishnu_Ram_Medhi_Politician_-_Birth_Centenary-Freedom_Fighters-India"
+  license: "GODL-India"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Stamp_of_India_-_1989_-_Colnect_165299_-_Bishnu_Ram_Medhi_-_Politician_-_Birth_Centenary.jpeg"
 status: draft
 ---
 

@@ -25,6 +25,13 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Surya_Sen_before_1934.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  alt: "Surya Sen"
+  caption: "Surya Sen"
+  credit: "Unknown photographer · Directorate of State Archive, East Bengal, Kolkata."
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Surya_Sen_before_1934.jpg"
 status: draft
 ---
 
