@@ -1,0 +1,25 @@
+ILLUSTRATIONS NEEDED: Kakori train action
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+No faces of the revolutionaries are needed for this one. The paper must show only
+scribbly, unreadable handwriting: no real letters or words.
+
+==============================================================================
+1. The police complaint written in Urdu  (short story)
+==============================================================================
+FILE NAME: the-police-complaint-written-in-urdu
+Save it as the-police-complaint-written-in-urdu.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The police complaint written in Urdu", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+August 1925, inside a small, plain police station in a north Indian village near Lucknow. Lamp light at evening. On a wooden desk lies a big old cloth-bound register, open, its yellowed pages filled with faint, flowing, unreadable ink handwriting. An inkpot and a dip pen beside it. A police clerk in a 1920s khaki uniform and turban sits writing, seen from behind and the side so his face is not shown. Through the open doorway, far away, a steam train passes under a dusky sky. Quiet, serious, mysterious mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

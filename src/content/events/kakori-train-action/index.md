@@ -16,7 +16,18 @@ related:
   - "roshan-singh"
   - "manmath-nath-gupta"
   - "kakori"
+angles:
+  - title: "The police complaint written in Urdu"
+    type: short
+    hook: "One faded page of the 1925 police report still hangs in a frame at Kakori police station."
+    story: "the-police-complaint-written-in-urdu"
 sources:
+  - title: "Kakori FIR copy: Priceless page from the past"
+    url: "https://www.hindustantimes.com/cities/lucknow-news/kakori-fir-copy-priceless-page-from-the-past-101723231512172.html"
+    publisher: "Hindustan Times"
+  - title: "Kakori conspiracy"
+    url: "https://en.wikipedia.org/wiki/Kakori_conspiracy"
+    publisher: "Wikipedia"
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
