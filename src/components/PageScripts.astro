@@ -45,8 +45,44 @@ import Icon from "./Icon.astro";
     dialog.querySelector("[data-lb-close]").addEventListener("click", function () { dialog.close(); });
     dialog.addEventListener("click", function (e) { if (e.target === dialog) dialog.close(); });
     dialog.addEventListener("keydown", function (e) {
-      if (e.key === "ArrowRight") show(Math.min(current + 1, items.length - 1));
-      if (e.key === "ArrowLeft") show(Math.max(current - 1, 0));
+      // Step to the next picture that is actually on show (skips filtered or not-yet-shown ones).
+      var step = function (d) { for (var i = current + d; i >= 0 && i < items.length; i += d) if (items[i].offsetParent !== null) return show(i); };
+      if (e.key === "ArrowRight") step(1);
+      if (e.key === "ArrowLeft") step(-1);
+    });
+
+    // Gallery: shelves (then / later), kind chips (pictures, papers...), and "Show more".
+    Array.prototype.forEach.call(document.querySelectorAll("[data-gallery]"), function (g) {
+      var tabs = g.querySelectorAll("[data-shelf-tab]");
+      Array.prototype.forEach.call(tabs, function (t) {
+        t.addEventListener("click", function () {
+          Array.prototype.forEach.call(tabs, function (x) { x.setAttribute("aria-selected", String(x === t)); });
+          Array.prototype.forEach.call(g.querySelectorAll("[data-shelf]"), function (s) { s.hidden = s.dataset.shelf !== t.dataset.shelfTab; });
+        });
+      });
+      Array.prototype.forEach.call(g.querySelectorAll("[data-shelf]"), function (shelf) {
+        var lis = Array.prototype.slice.call(shelf.querySelectorAll(".media-grid > li"));
+        var btn = shelf.querySelector(".show-more");
+        var page = btn ? Number(btn.dataset.more) : lis.length;
+        var kind = "all", shown = page;
+        function paint() {
+          var match = lis.filter(function (li) { return kind === "all" || li.dataset.type === kind; });
+          lis.forEach(function (li) { li.hidden = true; });
+          match.slice(0, shown).forEach(function (li) { li.hidden = false; });
+          if (btn) {
+            var left = Math.max(0, match.length - shown);
+            btn.parentNode.hidden = left === 0;
+            btn.querySelector("[data-left]").textContent = left;
+          }
+        }
+        if (btn) btn.addEventListener("click", function () { shown += page; paint(); });
+        Array.prototype.forEach.call(shelf.querySelectorAll("[data-kind]"), function (c, _, all) {
+          c.addEventListener("click", function () {
+            Array.prototype.forEach.call(shelf.querySelectorAll("[data-kind]"), function (x) { x.setAttribute("aria-pressed", String(x === c)); });
+            kind = c.dataset.kind; shown = page; paint();
+          });
+        });
+      });
     });
 
     // Section tabs: underline the section you are reading.

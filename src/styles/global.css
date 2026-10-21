@@ -265,6 +265,18 @@ details.more { margin-top: 1.5rem; }
 details.more summary { cursor: pointer; display: inline-flex; gap: 0.4rem; align-items: center; padding: 0.55rem 1rem; border: 1px solid var(--rule-strong); border-radius: 999px; font-weight: 600; color: var(--heading); list-style: none; }
 details.more summary::-webkit-details-marker { display: none; }
 details.more[open] summary { margin-bottom: 1.25rem; }
+/* Gallery: shelves (then / later), kind chips and "Show more" */
+.shelf-tabs { display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin: 0 0 1.25rem; border-bottom: 1px solid var(--rule-strong); }
+.shelf-tabs button { padding: 0.6rem 0; margin-bottom: -1px; border: 0; border-bottom: 3px solid transparent; background: none; font: inherit; font-weight: 600; color: var(--soft); cursor: pointer; }
+.shelf-tabs button[aria-selected="true"] { color: var(--heading); border-bottom-color: var(--saffron-fill); }
+.shelf-tabs .n, .kind-chips .n { font-weight: 400; color: var(--soft); }
+.kind-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1.25rem; }
+.kind-chips button { padding: 0.35rem 0.85rem; border: 1px solid var(--rule-strong); border-radius: 999px; background: var(--surface); color: var(--heading); font: inherit; font-size: 0.9rem; cursor: pointer; }
+.kind-chips button[aria-pressed="true"] { background: var(--saffron-fill); border-color: var(--saffron-fill); color: #fff; }
+.media-grid li[hidden], .shelf[hidden], .show-more-row[hidden] { display: none; }
+.show-more-row { margin: 1.5rem 0 0; text-align: center; }
+.show-more { padding: 0.6rem 1.4rem; border: 1px solid var(--rule-strong); border-radius: 999px; background: var(--surface); color: var(--heading); font: inherit; font-weight: 600; cursor: pointer; }
+.show-more:hover { border-color: var(--saffron-fill); color: var(--saffron); }
 .fine-print { margin-top: 1.25rem; font-size: 0.85rem; color: var(--soft); max-width: 44rem; }
 
 /* Lightbox */
