@@ -1,0 +1,58 @@
+ILLUSTRATIONS NEEDED: Ram Prasad Bismil
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Bismil's face may be shown: real photographs of him exist (short dark hair, moustache,
+round face). Never show a face for Bismil Azimabadi, Swami Somdev or Genda Lal Dixit.
+Any paper or book must show only unreadable squiggles, never real letters.
+
+
+==============================================================================
+1. Two poets called Bismil  (short story)
+==============================================================================
+FILE NAME: two-poets-called-bismil
+Save it as two-poets-called-bismil.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two poets called Bismil", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early 1920s, a quiet writing table by a window at dusk, in a north Indian house. On the table: an open notebook filled with flowing, unreadable ink handwriting, a reed pen, an inkpot, a small oil lamp, and a second notebook beside it. Two empty cane chairs face each other across the table, as if two poets have just left. A shawl over one chair. No people. Thoughtful, slightly mysterious mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The author who did not exist  (short story)
+==============================================================================
+FILE NAME: the-author-who-did-not-exist
+Save it as the-author-who-did-not-exist.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The author who did not exist", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+About 1916, a small, old-fashioned hand printing press in a dim back room in a north Indian town. A stack of freshly printed small Hindi books with plain covers (no readable letters) sits on a wooden table. A serious Indian teenage boy of about 18, short dark hair, in a white kurta, holds one of the books and looks at it closely. Behind him, a calm older holy man in saffron robes, seen from behind, with his face not visible. Lamp light, secretive mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The man the river swallowed  (short story)
+==============================================================================
+FILE NAME: the-man-the-river-swallowed
+Save it as the-man-the-river-swallowed.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man the river swallowed", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1918, the wide river Yamuna at dusk, flat sandy banks with tall grass. Out in the water, only ripples and a few bubbles where someone has just dived under the surface; nobody is visible in the water. Far away on the bank, small dark silhouettes of a few police constables in 1910s Indian police uniforms and turbans, standing and looking at the water, no weapons raised. Purple and amber sky reflected in the river. Mysterious, tense but calm mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

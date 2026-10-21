@@ -18,6 +18,9 @@ sources:
   - title: "Kakori conspiracy"
     url: "https://en.wikipedia.org/wiki/Kakori_conspiracy"
     publisher: "Wikipedia"
+  - title: "History of the Court in Avadh, by H. K. Ghose (Revolutionary Conspiracy Case)"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
   - title: "Indian anna"
     url: "https://en.wikipedia.org/wiki/Indian_anna"
     publisher: "Wikipedia"
@@ -65,7 +68,7 @@ And it gives the amount of money stolen, very exactly: 4,601 rupees, 15 annas an
 
 <aside class="note"><b>Annas and pies</b>: in those days a rupee was divided into 16 annas, and each anna into 12 pies. So 15 annas and 6 pies was nearly one more rupee.</aside>
 
-<aside class="note"><b>How much money?</b> The report says 4,601 rupees, 15 annas and 6 pies. Wikipedia gives a much bigger figure, about 8,000 rupees. The sources do not explain the difference.</aside>
+<aside class="note"><b>How much money?</b> The report says 4,601 rupees, 15 annas and 6 pies. The Allahabad High Court's history of the case gives 4,553 rupees, 3 annas and 6 pies. Wikipedia gives a much bigger figure, about 8,000 rupees. The sources do not explain the difference.</aside>
 
 ## Found in an old register
 

@@ -3,20 +3,32 @@ id: IF-0116
 kind: person
 name: "Ram Prasad Bismil"
 wikidata: "Q2724248"
-summary: "The revolutionary writer-organizer who helped build the HRA and led the Kakori action"
-born: "1897"
-died: "1927"
-year: 1922
+summary: "The poet and revolutionary from Shahjahanpur who wrote under the name Bismil, helped found the Hindustan Republican Association and led the Kakori train robbery. He was hanged in Gorakhpur jail in 1927."
+born: "11 June 1897"
+died: "19 December 1927"
+year: 1925
 region: "United Provinces"
 role: "Revolutionary / activist"
 places: []
 related:
+  - "hindustan-republican-association"
+  - "roshan-singh"
+  - "bhai-parmanand"
   - "kakori-train-action"
   - "ashfaqulla-khan"
   - "sachindranath-sanyal"
   - "chandrashekhar-azad"
   - "rajendra-lahiri"
 sources:
+  - title: "Ram Prasad Bismil"
+    url: "https://en.wikipedia.org/wiki/Ram_Prasad_Bismil"
+    publisher: "Wikipedia"
+  - title: "Hanged for Patriotism, by R. K. Tandon"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
+  - title: "History of the Court in Avadh, by H. K. Ghose"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
   - title: "Ram Prasad Bismil"
     url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?45="
     publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav"
@@ -28,11 +40,28 @@ sources:
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
 image:
   src: "/files/people/ram-prasad-bismil/portrait.webp"
-  alt: "Historical group or commemorative image including Ram Prasad Bismil"
-  caption: "Kakori conspiracy accused group; Ram Prasad Bismil is listed among those pictured."
-  credit: "The original uploader was Krantmlverma at Hindi Wikipedia . · Transferred from hi.wikipedia to Commons."
-  license: "CC BY-SA 3.0"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Accused_of_Cacori_Conspiracy1271.gif"
+  alt: "Ram Prasad Bismil, a young man with short hair and a moustache, in a white shirt"
+  caption: "Ram Prasad Bismil. The photograph is kept in the Uttar Pradesh State Archives."
+  credit: "Uttar Pradesh State Archives"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Pandit_Ram_Prasad_Bismil.jpg"
+angles:
+  - title: "The poet who signed himself Bismil"
+    type: flagship
+    hook: "Poet, translator, organiser of a secret party, leader at Kakori. In his last days in a death cell, he was still writing."
+    story: "the-poet-who-signed-himself-bismil"
+  - title: "Two poets called Bismil"
+    type: short
+    hook: "Almost everyone thinks he wrote Sarfaroshi ki Tamanna. Another poet with the same pen name did."
+    story: "two-poets-called-bismil"
+  - title: "The author who did not exist"
+    type: short
+    hook: "A banned Hindi book about America's freedom, by a writer who was never born."
+    story: "the-author-who-did-not-exist"
+  - title: "The man the river swallowed"
+    type: short
+    hook: "During a gunfight in 1918, he is said to have dived into the Yamuna. The police thought he had drowned."
+    story: "the-man-the-river-swallowed"
 ---
 
 <!--

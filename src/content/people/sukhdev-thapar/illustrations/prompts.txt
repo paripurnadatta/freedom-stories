@@ -1,0 +1,58 @@
+ILLUSTRATIONS NEEDED: Sukhdev Thapar
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Sukhdev's face may be shown: real photographs of him exist (thin face, thin moustache,
+white cap). Never show the faces of Gauran Devi or Lala Achint Ram: show them from
+behind or at a distance. Gandhi's face may be shown.
+
+
+==============================================================================
+1. Shirts for his friends  (short story)
+==============================================================================
+FILE NAME: shirts-for-his-friends
+Save it as shirts-for-his-friends.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Shirts for his friends", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late 1920s, the courtyard of a modest brick house in a Punjab town. A thin young Indian man of about 21, thin moustache, wearing a white cap and a worn, patched white kurta, smiles as he collects a neat pile of folded shirts and kurtas into a cloth bundle. An Indian woman in a salwar kameez and dupatta, seen from behind, hands him one more folded shirt. Warm afternoon light, gentle and affectionate mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A letter to Gandhi  (short story)
+==============================================================================
+FILE NAME: a-letter-to-gandhi
+Save it as a-letter-to-gandhi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A letter to Gandhi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+March 1931, the plain stone corridor of an old jail in Lahore. Through the iron bars of a cell, a thin young Indian man of 23 with a thin moustache, in simple white prison clothes, quietly passes a folded letter to an older Indian visitor in a turban and long coat, who is seen from behind. A guard stands far away at the end of the corridor, looking away. Soft evening light falling through a high barred window. Serious, quiet mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The house in Nine-House Lane  (short story)
+==============================================================================
+FILE NAME: the-house-in-nine-house-lane
+Save it as the-house-in-nine-house-lane.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The house in Nine-House Lane", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Today, a very narrow, crowded lane in the old city of Ludhiana, Punjab. At the end of the lane, partly hidden behind other buildings, stands an old three-storey brick house with small wooden balconies, carved doors and faded paint, carefully repaired. Electric wires overhead, a few shopfronts with plain blank signboards, an elderly man and a child walking towards the house. Warm late-afternoon sunlight, hopeful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

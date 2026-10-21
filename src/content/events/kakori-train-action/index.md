@@ -21,6 +21,10 @@ angles:
     type: short
     hook: "One faded page of the 1925 police report still hangs in a frame at Kakori police station."
     story: "the-police-complaint-written-in-urdu"
+  - title: "The safe in the brake van"
+    type: short
+    hook: "What the judges found: the train, the alarm cord, the safe, the man who died, and three different amounts of money."
+    story: "the-safe-in-the-brake-van"
 sources:
   - title: "Kakori FIR copy: Priceless page from the past"
     url: "https://www.hindustantimes.com/cities/lucknow-news/kakori-fir-copy-priceless-page-from-the-past-101723231512172.html"
@@ -28,6 +32,9 @@ sources:
   - title: "Kakori conspiracy"
     url: "https://en.wikipedia.org/wiki/Kakori_conspiracy"
     publisher: "Wikipedia"
+  - title: "History of the Court in Avadh, by H. K. Ghose"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
