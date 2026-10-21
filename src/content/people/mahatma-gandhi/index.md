@@ -2,14 +2,22 @@
 id: IF-0085
 kind: person
 name: "Mahatma Gandhi"
-summary: "The strategist who turned mass civil resistance into the central language of India’s freedom struggle"
-born: "1869"
-died: "1948"
+summary: "The shy boy from Porbandar who learned to fight without weapons, and led millions of Indians to freedom with salt, spinning wheels and truth."
+born: "2 October 1869"
+died: "30 January 1948"
 year: 1915
 region: "Gujarat / all-India"
 role: "Mass movement leader"
-places: []
+places:
+  - "champaran"
+  - "poona"
 related:
+  - "jawaharlal-nehru"
+  - "dandi-march-salt-satyagraha"
+  - "chauri-chaura-incident"
+  - "poona-pact"
+  - "independence-of-india"
+  - "subhas-chandra-bose"
   - "champaran-satyagraha"
   - "kheda-satyagraha"
   - "non-cooperation-and-khilafat-movement"
@@ -43,6 +51,12 @@ related:
   - "anugrah-narayan-sinha"
   - "brij-kishore-prasad"
 sources:
+  - title: "Mahatma Gandhi"
+    url: "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+    publisher: "Wikipedia"
+  - title: "An Autobiography or The Story of My Experiments with Truth"
+    url: "https://www.mkgandhi.org/autobio/autobio.php"
+    publisher: "M. K. Gandhi, via mkgandhi.org"
   - title: "Chronology of Mahatma Gandhi"
     url: "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi"
     publisher: "Gandhi Smriti and Darshan Samiti, Government of India"
@@ -55,11 +69,79 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+image:
+  src: "/files/people/mahatma-gandhi/portrait.webp"
+  alt: "Studio portrait of Mahatma Gandhi"
+  caption: "Gandhi in London, 1931."
+  credit: "Elliott & Fry"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg"
+angles:
+  - title: "A handful of salt"
+    type: flagship
+    hook: "Salt is the cheapest thing in any kitchen. Why did an old man walk 240 miles to pick some up?"
+    story: "a-handful-of-salt"
+  - title: "The coldest night in Pietermaritzburg"
+    type: flagship
+    hook: "He had a first-class ticket. So why did a young Indian lawyer spend the night shivering on a dark station?"
+    story: "the-coldest-night-in-pietermaritzburg"
+  - title: "The word he could not spell"
+    type: short
+    hook: "The teacher nudged him with his boot to copy. He did not understand, and got it wrong."
+    story: "the-word-he-could-not-spell"
+  - title: "The bonfire at the mosque"
+    type: short
+    hook: "More than two thousand passes, a giant cooking pot and a can of paraffin."
+    story: "the-bonfire-at-the-mosque"
+  - title: "Kasturba goes to prison"
+    type: short
+    hook: "A judge said her marriage did not count. So she walked across a border and into jail."
+    story: "kasturba-goes-to-prison"
+  - title: "A book written at sea"
+    type: short
+    hook: "Ten days, one ship, and a book written partly with the wrong hand."
+    story: "a-book-written-at-sea"
+  - title: "The family that changed the ashram"
+    type: short
+    hook: "One Dalit family joined Gandhi's ashram. Then all the money stopped."
+    story: "the-family-that-changed-the-ashram"
+  - title: "The farmer who would not give up"
+    type: short
+    hook: "Gandhi had never heard of Champaran. One farmer followed him from city to city until he came."
+    story: "the-farmer-who-would-not-give-up"
+  - title: "The search for a spinning wheel"
+    type: short
+    hook: "He told India to spin, but he had never seen a spinning wheel. A brave widow went looking."
+    story: "the-search-for-a-spinning-wheel"
+  - title: "Why Gandhi stopped the movement"
+    type: short
+    hook: "Freedom felt close. Then came the news from Chauri Chaura."
+    story: "why-gandhi-stopped-the-movement"
+  - title: "Who first called him Mahatma?"
+    type: short
+    hook: "Tagore? A letter from 1909? A paper from Jetpur? The answer is not simple."
+    story: "who-first-called-him-mahatma"
+  - title: "The fast in Yerwada jail"
+    type: short
+    hook: "Gandhi and Ambedkar both wanted justice for Dalits, and disagreed about how."
+    story: "the-fast-in-yerwada-jail"
+  - title: "Barefoot through Noakhali"
+    type: short
+    hook: "At 77, he took off his sandals and walked through 47 villages to bring peace."
+    story: "barefoot-through-noakhali"
+  - title: "Where was Gandhi on the day India became free?"
+    type: short
+    hook: "Not in Delhi. In a broken house in Calcutta, fasting."
+    story: "the-day-india-became-free"
+  - title: "The last walk to prayer"
+    type: short
+    hook: "He was ten minutes late for prayers. He never reached the prayer ground."
+    story: "the-last-walk-to-prayer"
 ---
 
 <!--
   Research carried over from the old project. It never appears on the site.
-  Stories about this subject go in src/content/stories/.
+  Stories about this subject go in this folder's stories/ folder.
 -->
 
 ## Research notes
