@@ -1,18 +1,18 @@
 ILLUSTRATIONS NEEDED: Shivaram Hari Rajguru
-Only scenes without a suitable verified and locally stored archival picture are listed.
-Real original documents are preferred for the other stories. These prompts are NOT images and are NOT claims that these exact photographed scenes exist.
+Only stories without a suitable free archival picture are listed here.
+These prompts describe symbolic scenes. They are not claims that these exact photographed scenes exist.
 
 ==============================================================================
-1. A servant on the train (short)
+1. Nine paise and a long walk (short)
 ==============================================================================
-FILE NAME: a-servant-on-the-train
-Save as a-servant-on-the-train.png in this folder.
+FILE NAME: nine-paise-and-a-long-walk
+Save as nine-paise-and-a-long-walk.png in this folder.
 Shape: extra wide 16:6, 2400 x 900.
-Where it goes: story top and card for "A servant on the train"
+Where it goes: story top and card for "Nine paise and a long walk"
 
 PROMPT:
 ------------------------------------------------------------------------------
-Late December 1928, historically plausible Lahore railway platform from a wide, distant perspective. A modest family group is walking towards an old railway carriage: a young Indian man wearing a 1920s European-style hat and suit, a young Indian woman in a period sari walking with a small boy, and behind them a slim young Indian man in modest servant's clothes carrying luggage. Show the people mostly from behind and at a distance; no invented exact face or facial likeness. Period luggage and train architecture, quiet sense of movement, no made-up readable signs or railway logos. This is an artistic reconstruction, not a photographic record. Extra-wide composition.
+A young teenage boy seen from far behind, walking alone on a long dusty country road towards a distant river town in the 1920s. He wears a simple dhoti and a plain shirt, with nothing in his hands. Dry fields on both sides, a few trees, a faint line of temple spires and stone riverside steps on the horizon. No face shown, no invented portrait. Small and alone in a wide landscape, hopeful mood. Wide 16:6 composition.
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
 
@@ -30,7 +30,6 @@ An interpretive, non-literal scene evoking a 1930s colonial Indian courthouse: e
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
 
-The other three stories use / need actual historical documents or a real room photograph:
-- the-second-name-at-the-gate: existing Commons-derived HSRA pamphlet locally copied for this story
-- the-headline-after-the-execution: existing Commons-derived 1931 Tribune front page locally copied
-- the-room-the-town-kept: genuine CC BY-SA photo is on Commons (Birth room of rajguru.JPG) but needs a local WebP import and credit before it is used. Do NOT substitute an AI image for a genuine available photo.
+The other two stories use real pictures:
+- the-headline-after-the-execution: the 1931 Tribune front page (public domain, already in archive/)
+- the-house-by-the-river: no picture yet. A CC BY-SA photograph, "Birth room of rajguru.JPG", is on Wikimedia Commons and still needs a local copy.

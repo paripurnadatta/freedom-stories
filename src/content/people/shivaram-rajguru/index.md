@@ -3,7 +3,7 @@ id: IF-0123
 kind: person
 name: "Shivaram Rajguru"
 wikidata: "Q2721886"
-summary: "Revolutionary in the HSRA, involved in the 1928 Saunders shooting and Lahore escape, later executed with Bhagat Singh and Sukhdev. His life also survives in court records, newspapers and a protected birth room."
+summary: "Born in 1908, he left home as a boy and walked to Kashi. He joined the revolutionary movement, took part in the 1928 Saunders shooting and was executed with Bhagat Singh and Sukhdev in 1931. His story survives in court records, newspapers and a protected house in Maharashtra."
 born: "24 August 1908"
 died: "23 March 1931"
 year: 1928
@@ -37,9 +37,9 @@ sources:
   - title: "Protection of Rajguru Birth Room and Thorla Wada"
     url: "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202403131141395723.pdf"
     publisher: "Government of Maharashtra"
-  - title: "Rajguru birth room conservation"
-    url: "https://timesofindia.indiatimes.com/city/pune/restored-birth-room-of-freedom-fighter-rajguru-to-reopen-for-public-on-shaheed-diwas/amp_articleshow/129639760.cms"
-    publisher: "The Times of India"
+  - title: "Shivaram Rajguru"
+    url: "https://en.wikipedia.org/wiki/Shivaram_Rajguru"
+    publisher: "Wikipedia"
 image:
   src: "/files/people/shivaram-rajguru/portrait.webp"
   alt: "Official commemorative depiction of Shivaram Rajguru"
@@ -48,26 +48,22 @@ image:
   license: "GODL-India"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Shivaram_Rajguru_2013_stamp_of_India.jpg"
 angles:
-  - title: "The second name at the gate"
+  - title: "Nine paise and a long walk"
     type: short
-    hook: "The group sought Scott, but Saunders died, along with an Indian constable during the escape."
-    story: "the-second-name-at-the-gate"
-  - title: "A servant on the train"
-    type: short
-    hook: "Rajguru pretended to be a servant as Durga Devi helped Bhagat Singh escape Lahore."
-    story: "a-servant-on-the-train"
+    hook: "A boy left home in 1924 with nine paise and walked towards Kashi."
+    story: "nine-paise-and-a-long-walk"
   - title: "A court with fewer doors"
     type: short
-    hook: "A special Lahore tribunal closed the usual route of appeal, but a special request went to London."
+    hook: "A special court with no appeal sometimes sat without the accused."
     story: "a-court-with-fewer-doors"
-  - title: "The headline after the execution"
+  - title: "The front page of 25 March 1931"
     type: short
-    hook: "The Tribune's 25 March front page reported three deaths on 23 March 1931."
+    hook: "What a Lahore newspaper told its readers, and what the families could not find out."
     story: "the-headline-after-the-execution"
-  - title: "The room the town kept"
+  - title: "The house by the river"
     type: short
-    hook: "Maharashtra protected Rajguru's birth room, which later needed careful repairs."
-    story: "the-room-the-town-kept"
+    hook: "A protected house in Rajgurunagar, and a 2024 notice about the land around it."
+    story: "the-house-by-the-river"
 ---
 
 <!--

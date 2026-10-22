@@ -1,8 +1,8 @@
 ---
 title: "The road from protest to the HRA"
-subtitle: "Roshan Singh's earlier work belonged to a movement that Gandhi wanted to keep nonviolent."
+subtitle: "Before Kakori, Roshan Singh was a primary schoolteacher who joined Gandhi's movement. Then the movement stopped."
 type: short
-when: "1921–1925"
+when: "1920–1925"
 where: "Shahjahanpur and Bareilly"
 year: 1922
 published: 2026-10-22
@@ -16,74 +16,63 @@ sources:
   - title: "Roshan Singh"
     url: "https://en.wikipedia.org/wiki/Roshan_Singh"
     publisher: "Wikipedia"
-  - title: "Ashfaqullah and Bismil hanged: Kakori history"
-    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-robbery-action-9074349/"
-    publisher: "The Indian Express"
 status: published
 ---
 
-Could one person take part in a nonviolent protest and later join a group that used weapons?
+Can a person take part in a peaceful protest, and a few years later join a secret group that used weapons?
 
-Roshan Singh's life brings these two parts of India's freedom struggle together.
+Roshan Singh did both. To understand why, we have to go back to the early 1920s.
 
-He lived in the Shahjahanpur district of what is now Uttar Pradesh. Much of his public life happened before the Kakori train robbery.
+## A teacher from Shahjahanpur
 
-Yet many short accounts remember only the case in which he was sentenced.
+Roshan Singh was born in a village near Shahjahanpur, in what is now Uttar Pradesh. Wikipedia says the village was called Nabada. It says he was born on 22 January 1892 into a Rajput family.
 
-## A movement that asked people to refuse
+<aside class="note"><b>Two versions</b>: The National Book Trust book says he was born in 1894. Wikipedia says 1892. We have not seen a birth record.</aside>
 
-Mahatma Gandhi began the Non-Cooperation Movement in 1920.
+The book says he studied up to the middle level. Even so, he became a teacher in a primary school.
 
-He asked Indians to withdraw support from British rule. People could refuse some government services and institutions.
+## Gandhi's call
 
-Gandhi wanted this struggle to remain nonviolent.
+In 1920, Mahatma Gandhi began the Non-Cooperation Movement. He asked Indians to stop helping British rule, and to do it without violence.
 
-<aside class="note"><b>Nonviolent</b>: refusing to use physical harm to achieve a political aim.</aside>
+The book says Roshan Singh worked hard for the movement in Shahjahanpur and Bareilly.
 
-The Indian Express explains why the movement ended. In 1922, violence at Chauri Chaura led Gandhi to stop it.
+He did not escape trouble. The book says there was some firing in Bareilly. Roshan Singh was arrested and given two years in prison. Wikipedia says he was sentenced in what it calls the Bareilly shooting case, and was held in Bareilly Central Jail.
 
-The decision angered some people who wanted a different path.
+We have not found the court papers. So we do not know exactly what happened in Bareilly that day.
 
-## Roshan Singh during these years
+## The movement stops
 
-A National Book Trust biography says Roshan Singh worked for Non-Cooperation around Shahjahanpur and Bareilly.
+In 1922, something happened at a place called Chauri Chaura, near Gorakhpur. The National Book Trust book says a crowd locked policemen inside a police station and set it on fire. Twenty-two policemen died.
 
-It also says he was arrested after a firing incident in Bareilly. He received a prison sentence of two years.
+Gandhi was deeply hurt. He believed in non-violence. In February 1922 he called off the whole movement.
 
-Wikipedia gives a similar outline. But the original Bareilly court document was not found in this research.
+The book says many young people were sad and disappointed. Some were upset that a whole movement had stopped.
 
-So we should not invent the crowd, the officer or the exact words spoken there.
+<aside class="note"><b>Non-violence</b>: trying to win a cause without hurting anyone.</aside>
 
-The printed sources tell us about his involvement. They do not allow us to recreate every moment.
+## A different path
 
-## A change of organisation
+Wikipedia says that after he came out of Bareilly jail, Roshan Singh joined the Hindustan Republican Association, the HRA, in 1924. The National Book Trust book says he joined the Kakori conspiracy after his release.
 
-After leaving prison, Roshan Singh joined the Hindustan Republican Association, according to the later accounts.
+The HRA was a secret group. Its members were willing to use force against the British government. Gandhi disagreed with this and wanted to keep the fight peaceful.
 
-The HRA was a secret revolutionary group. It wanted to end British rule and establish a republic.
+Both Gandhi and the HRA wanted India to be free. They disagreed about the way.
 
-<aside class="note"><b>Republic</b>: a country whose government is not ruled by a hereditary king or queen.</aside>
+The book says Roshan Singh was the physically strongest of the men arrested in the Kakori case.
 
-The group's methods were different from Gandhi's. Some members robbed government funds or used weapons.
+## What we do not know
 
-That difference should be explained fairly. Both opposed colonial rule, but they disagreed about methods.
+We do not know what Roshan Singh was thinking when he joined the HRA. We have no letter or diary that tells us. We have only later writing about him.
 
-We do not know every thought that led Roshan Singh to join the HRA. Later books cannot read his mind.
+## After his death
 
-## The case that followed
+Wikipedia says that after his death his family faced hardship. It says that his sisters had trouble finding marriages.
 
-The court investigated HRA robberies carried out in 1924 and 1925.
-
-Roshan was later convicted in the Kakori conspiracy proceedings, which covered more than the train.
-
-He was executed in Allahabad in December 1927.
-
-That is how the name of a man active earlier became linked to Kakori.
+He was hanged in Allahabad on 19 December 1927. Behind a famous name in a famous case stood a family that had to carry on.
 
 ## Why it matters
 
-A person's life can include more than one kind of political action.
+Roshan Singh's life shows that these movements were not always separate. Some people moved from one to the other.
 
-Roshan Singh first appears in accounts of public protest. Later, he joined an underground organisation.
-
-By telling both parts, we learn about the choices and disagreements within India's freedom movement.
+When the peaceful movement stopped, young people had to choose what to do next. He made a choice that cost him his life.

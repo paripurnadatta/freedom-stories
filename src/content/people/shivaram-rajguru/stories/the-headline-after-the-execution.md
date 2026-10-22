@@ -1,87 +1,79 @@
 ---
-title: "The headline after the execution"
-subtitle: "A newspaper printed the news two days later. Its date is part of the story."
+title: "The front page of 25 March 1931"
+subtitle: "A newspaper in Lahore told the city what had happened in its jail. It also told readers what nobody could find out."
 type: short
 when: "23–25 March 1931"
 where: "Lahore"
+year: 1931
 published: 2026-10-22
 about:
   - "shivaram-rajguru"
   - "bhagat-singh"
   - "sukhdev-thapar"
-year: 1931
 image:
   src: "/files/people/shivaram-rajguru/archive/tribune-front-page-1931.webp"
-  alt: "The Tribune front page dated 25 March 1931 reporting the executions"
-  caption: "The Tribune front page, 25 March 1931, reporting the execution of Rajguru, Bhagat Singh and Sukhdev."
+  alt: "The Tribune front page dated 25 March 1931 with the headline Bhagat Singh, Rajguru and Sukhdev executed"
+  caption: "The Tribune, Lahore, front page of 25 March 1931."
   credit: "The Tribune; original author unknown"
   license: "Public domain"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Bhagat_Singh%27s_execution_Lahore_Tribune_Front_page.jpg"
 sources:
-  - title: "The Tribune archive of its 25 March 1931 front page"
+  - title: "From the Tribune archives: Bhagat Singh, Rajguru and Sukhdev executed"
     url: "https://www.tribuneindia.com/news/archive/nation/from-the-tribune-archives-bhagat-singh-rajguru-and-sukhdev-executed-381127"
     publisher: "The Tribune"
-  - title: "Shahid Bhagat Singh"
-    url: "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=26383"
-    publisher: "Ministry of Home Affairs, Government of India"
-  - title: "Historic Tribune front page"
+  - title: "Legal proceedings in the Lahore case"
+    url: "https://www.livelaw.in/amp/articles/legal-proceedings-martyrdom-bhagat-singh-sukhdev-rajguru-526902"
+    publisher: "LiveLaw"
+  - title: "Front page of The Tribune, 25 March 1931 (Wikimedia Commons)"
     url: "https://commons.wikimedia.org/wiki/File:Bhagat_Singh%27s_execution_Lahore_Tribune_Front_page.jpg"
     publisher: "Wikimedia Commons"
 status: published
 ---
 
-Can a newspaper carry a date that comes after the event it reports?
+Look at the front page of The Tribune, printed in Lahore on Wednesday, 25 March 1931. The price at the top is one anna.
 
-Look at the old front page of The Tribune. Its date is 25 March 1931. Its main report names Bhagat Singh, Rajguru and Sukhdev.
+<aside class="note"><b>Anna</b>: an old coin of British India. It is no longer used.</aside>
 
-But the three men were executed on 23 March. The two dates tell different parts of the story.
+In big black letters is a headline. It names three men: Bhagat Singh, Rajguru and Sukhdev. The word after their names is "executed".
 
-## Two dates to remember
+## What the page says
 
-Shivaram Rajguru was one of three men sentenced in the Lahore Conspiracy Case. The other two were Bhagat Singh and Sukhdev Thapar.
+The page in our picture is a scan, and the small print is too blurred to read. But the headlines are clear.
 
-The British authorities executed them in Lahore Central Jail on 23 March 1931. The Ministry of Home Affairs records that date.
+Under the big headline, a smaller one says there was no "last interview" with relations. That means the families were not allowed a last meeting.
 
-The Tribune later shared its old front page online. The newspaper says the issue carrying the news was dated 25 March.
+Another says that shouts were heard coming out of the jail.
 
-That is the date printed on the paper, not a different date for their deaths.
+A third says the bodies were "secretly disposed of" and "removed to a distant place".
 
-<aside class="note"><b>Archive</b>: a place where old records are preserved so people can study them.</aside>
+Lower down is a headline about a "thick veil of secrecy". It adds that relations searched in vain for the bodies.
 
-## Why an old front page matters
+The page also has a photograph of a man in a hat. The name under it appears to be Bhagat Singh.
 
-Imagine trying to learn about a past event without a newspaper. You might find later books and memorial speeches.
+## The date
 
-Those are useful sources. But they were written after the event. Writers can forget details or copy mistakes.
+The Tribune's own archive says the three men were executed in Central Jail, Lahore, on 23 March 1931.
 
-A newspaper produced close to the event gives another kind of evidence. It shows what news reached readers at that time.
+LiveLaw says the hanging took place in the evening of that day. It adds that this was not the usual time. Hangings were normally done in the morning.
 
-Still, newspapers can contain errors too. An old page is evidence, not a magic answer to every question.
+So the newspaper carries a date two days later than the event. We cannot tell from this page alone why. We have not opened the Tribune issues of 24 March.
 
-The Commons file page identifies this scan as a March 1931 front page. It records the original writer or photographer as unknown.
+## An old page as evidence
 
-That matters when giving credit. We should not invent the name of the person who made it.
+Why is a page like this useful?
 
-## A report and a picture
+Later books and speeches tell us what people remembered. A newspaper from the week itself shows what readers were told at the time.
 
-The surviving page is small. Some printed words are difficult to make out.
+But even a newspaper can make mistakes. It also tells only what its editors knew, or were allowed to print. That is why historians like to check several papers and records.
 
-The heading identifies the three men. We can read that much without inventing the rest.
+The Commons page for this scan does not name the person who made it. So we cannot give a name for credit. We give only the newspaper, which is in the public domain.
 
-The online Tribune archive also explains its own history. The newspaper began in Lahore in 1881.
+## What the page leaves out
 
-That means the March 1931 issue came from a newspaper already serving the region for many years.
-
-## What remains uncertain
-
-The old front page contains reports about events after the execution. But a scan alone cannot confirm every small claim.
-
-For example, accounts of the final words of the prisoners were repeated later. We did not find a verified record of Rajguru's last words.
-
-We should leave invented conversations outside a children's history story.
+It does not tell us the three men's last words. Later books give some, but we have not found a record from that night that we could check. So we leave them out.
 
 ## Why it matters
 
-Dates on documents need careful reading. One marks the event. Another marks the report.
+A front page is a kind of time capsule. It shows how a city first heard the news.
 
-The page reminds us that Rajguru was not remembered only in later statues. Newspapers were already recording his death while British rule continued.
+It also shows how much was hidden from the families that day. They went looking for answers, and the headlines say they did not find them.

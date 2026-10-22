@@ -1,95 +1,80 @@
 ---
-title: "The date that came early"
-subtitle: "Rajendra Lahiri died two days before three other men sentenced in the Kakori case. Why?"
+title: "Two days early"
+subtitle: "Four men were sentenced to death in the Kakori case. Three were hanged on 19 December 1927. Rajendranath Lahiri was hanged on the 17th."
 type: short
-when: "April to December 1927"
+when: "1925–1927"
 where: "Lucknow and Gonda"
+year: 1927
 published: 2026-10-22
 about:
   - "rajendra-lahiri"
   - "ram-prasad-bismil"
   - "roshan-singh"
   - "ashfaqulla-khan"
-year: 1927
 sources:
-  - title: "History of the Court in Avadh"
-    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
-    publisher: "Allahabad High Court / H. K. Ghose"
   - title: "Hanged for Patriotism"
     url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
     publisher: "National Book Trust, India"
   - title: "Remembering Rajendranath Lahiri"
     url: "https://m.thewire.in/article/history/rajendranath-lahiri-indian-revolutionary/amp"
     publisher: "The Wire"
+  - title: "History of the Court in Avadh, 1856 onwards (H. K. Ghose)"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
+  - title: "Rajendra Lahiri"
+    url: "https://en.wikipedia.org/wiki/Rajendra_Lahiri"
+    publisher: "Wikipedia"
 status: published
 ---
 
-Why does Rajendra Lahiri's date of death differ from those of three men in the same case?
+Four men were sentenced to die for Kakori. On the same day, 19 December 1927, three of them were hanged in different jails.
 
-The four men were sentenced after the Kakori train robbery.
+The fourth was Rajendranath Lahiri. He was hanged two days before. Why?
 
-But Lahiri was executed on 17 December 1927. The other three were executed on 19 December.
+## Four jails
 
-Those two days matter to anyone trying to understand what happened.
+On 6 April 1927, the judge, Mr. Hamilton, sentenced Ram Prasad Bismil, Rajendranath Lahiri and Roshan Singh to death. The Allahabad High Court's history says so. It says Ashfaqulla Khan was sentenced to death in a separate trial.
 
-## The court's decision
+Appeals followed. The National Book Trust book says an appeal to the Privy Council was also made and rejected.
 
-The Kakori robbery took place in August 1925. The HRA had stopped a train and taken government money.
+The four men were then held in different places. The book says Bismil was hanged in Gorakhpur, Roshan Singh in Allahabad and Ashfaqulla Khan in Faizabad. Lahiri was in Gonda jail.
 
-The robbery also caused the death of Ahmad Ali, a passenger.
+## The lonely months
 
-The police investigated a wider revolutionary network. The court case went on for many months.
+The Wire says Lahiri spent the last six months of his life in the jails of Gonda and Barabanki. It says he was very lonely there.
 
-A history published by the Allahabad High Court records the decision.
+The book prints two letters from him. It says that in the first, on 6 October, he thanked everyone who had pleaded for him. In the second, on 14 December, he wrote that his friends had done everything to save his life.
 
-On 6 April 1927, the judge sentenced Rajendra Lahiri, Ram Prasad Bismil and Roshan Singh to death.
+We have not seen the original letters. We use the words that the book prints.
 
-Ashfaqulla Khan was tried in a separate case. He also received the death sentence.
+## The date moved
 
-<aside class="note"><b>Sentence</b>: the punishment a court orders after a person is convicted.</aside>
+The book says all four hangings were planned for 19 December. But Lahiri was hanged two days earlier, on 17 December, in Gonda.
 
-There were appeals, but the death sentences remained.
+The Wire gives the same dates.
 
-## Different jails
+Both accounts also say why. They say the authorities feared that revolutionaries would try to free Lahiri from the jail.
 
-The four men were held in different places.
+The book gives more. It says Chandrashekhar Azad and Manmath Nath Gupta had come to Gonda. A meeting about the rescue was held at the house of a man named Lal Behari Tandon. The book says a traitor passed on the plan, and so Lahiri was hanged earlier.
 
-The National Book Trust book names Gorakhpur for Bismil. It names Allahabad for Roshan Singh and Faizabad for Ashfaqulla Khan.
+The Wire says the likeliest reason was a plan to break him out, led by Manmath Nath Gupta's group.
 
-Rajendra Lahiri was held in Gonda jail.
+<aside class="note"><b>Not confirmed</b>: Two accounts agree on the reason. But neither shows an official order from the jail or the government. The Wikipedia page on Lahiri gives no reason at all. We know the dates. We cannot prove the reason.</aside>
 
-The book says the first plan was to execute the four men on 19 December.
+## Words we cannot check
 
-Instead, Lahiri's execution took place on 17 December.
+The book also tells a story about Lahiri's last night, with a conversation between him and a jail officer. It then gives a set of last words.
 
-The Wire's later historical article confirms the two-day difference.
+We have no record that we could check against what was said at the time. So we leave them out. Nobody should put words in a person's mouth in a history for children.
 
-## Why was his date moved?
+## A note about his age
 
-One later book gives an explanation.
+The Wire says he was hanged at the age of 24. But by its own birth year of 1901, he would have been 26. Wikipedia also says he was 26.
 
-It says a plan to rescue Lahiri from Gonda jail had been discussed. It suggests that the authorities learned of it.
-
-But the book does not provide an original prison order proving that explanation.
-
-<aside class="note"><b>Not confirmed</b>: the early-execution explanation comes from a later book. The original prison records have not been checked. We know the dates, but cannot confidently state why they differed.</aside>
-
-We should not turn an unproved plan into a scene. We do not know exactly who met, what was said or what prison officials knew.
-
-## Words we cannot be sure of
-
-Books written later also give Lahiri's supposed last conversations.
-
-Some accounts describe what he told a jail officer.
-
-These are not words we can verify against a recording or a firsthand transcript.
-
-We can say that he was executed. We cannot invent his final conversation.
+If the National Book Trust's year of 1892 is right, he was about 35. So even his age at the end is not settled.
 
 ## Why it matters
 
-Many histories remember four names together. Yet Rajendra Lahiri's last day was not the same as theirs.
+Many people remember the four men's names together. But their last days were not the same.
 
-Checking a date helps us find the question hidden inside a familiar event.
-
-Sometimes a careful answer is simple: we know what happened, but not exactly why.
+Checking one small date shows a gap in what we know. A good historian says what is certain, and also says what is not.

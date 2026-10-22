@@ -3,7 +3,7 @@ id: IF-0127
 kind: person
 name: "Durga Bhabhi"
 wikidata: "Q5316432"
-summary: "Durga Devi Vohra helped Bhagat Singh escape Lahore, worked in the revolutionary movement and later supported children's education in Lucknow."
+summary: "Durga Devi Vohra (1907–1999) helped Bhagat Singh escape from Lahore in December 1928 by travelling with him as his 'wife'. She worked in the revolutionary movement and, after independence, ran a school in Lucknow."
 born: "1907"
 died: "1999"
 year: 1928
@@ -21,6 +21,9 @@ sources:
   - title: "Hanged for Patriotism"
     url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
     publisher: "National Book Trust, India"
+  - title: "Durgawati Devi"
+    url: "https://en.wikipedia.org/wiki/Durgawati_Devi"
+    publisher: "Wikipedia"
 image:
   src: "/files/people/durga-bhabhi/portrait.webp"
   alt: "Statue, bust, sculpture, or memorial of Durga Bhabhi"
@@ -31,7 +34,7 @@ image:
 angles:
   - title: "The woman who became the wife"
     type: short
-    hook: "A young mother joined the dangerous escape from Lahore."
+    hook: "A young mother with a three-year-old son agreed to travel beside a wanted man."
     story: "the-woman-who-became-the-wife"
   - title: "The school after the secrets"
     type: short

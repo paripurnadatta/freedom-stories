@@ -18,9 +18,9 @@ sources:
   - title: "History of the Court in Avadh"
     url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
     publisher: "Allahabad High Court / H. K. Ghose"
-  - title: "The Kakori Train Action"
-    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-action-full-story-british-raj-10825020/lite/"
-    publisher: "The Indian Express"
+  - title: "Rajendra Lahiri"
+    url: "https://en.wikipedia.org/wiki/Rajendra_Lahiri"
+    publisher: "Wikipedia"
   - title: "Hanged for Patriotism"
     url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
     publisher: "National Book Trust, India"
@@ -30,9 +30,9 @@ sources:
 angles:
   - title: "The chain at Kakori"
     type: short
-    hook: "One pull stopped a train, but a passenger lost his life during the robbery."
+    hook: "A history student pulled the chain on a train, and a passenger lost his life that night."
     story: "the-chain-at-kakori"
-  - title: "The date that came early"
+  - title: "Two days early"
     type: short
     hook: "Why was Rajendra Lahiri executed two days before the three others?"
     story: "the-date-that-came-early"

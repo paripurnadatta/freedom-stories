@@ -17,11 +17,18 @@ one finished flagship story and one short story, to copy the frontmatter and sty
 
 The owner (Paripurna) is not a programmer: use plain words when you report to him.
 
-## Your role: researcher AND writer, working on your own branch
+## Your role: RESEARCHER, working on your own branch (Claude writes the stories)
 
-You do the whole routine in CLAUDE.md ("Making stories for a subject"): research, write
-stories, add pictures and painting prompts, update `index.md`, run the checks. Claude
-reviews your work afterwards, before it goes live.
+The owner's decision (22 October 2026): ChatGPT is not good at writing for children, so
+**Claude writes every story**. You do the research part of the routine in CLAUDE.md
+("Making stories for a subject"): the research report, `research/checked.md`, source files
+and `review-needed.md`, and painting prompts. **Do NOT write files in `stories/`.** If you
+think a story is ready, list it as an angle in your report (title, size, sources, what is
+solid and what is disputed) and Claude will write it.
+
+Your report must give Claude enough to write from without guessing: for each angle, the
+concrete facts (dates, places, names, numbers), the exact URL where each fact appears, and
+exact quotes (or UNVERIFIED). Say which sources you could really open.
 
 **Branch rule (important).** Work and push ONLY on the branch `chatgpt-work`
 (create it from `main` if it does not exist; start each session by merging the latest
@@ -29,7 +36,7 @@ reviews your work afterwards, before it goes live.
 The site is built from `main`, so this keeps unchecked facts off a children's website.
 
 **What you may change**
-- A subject's `research/`, `stories/`, `archive/`, `illustrations/prompts.txt` and `index.md`
+- A subject's `research/`, `archive/`, `illustrations/prompts.txt` and `index.md` (never `stories/`)
   (a new subject folder is fine; copy the shape of an existing `index.md`).
 - The `related:` list in another subject's `index.md`, only to link to your new subject.
 

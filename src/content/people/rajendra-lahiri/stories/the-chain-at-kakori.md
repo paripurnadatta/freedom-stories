@@ -1,93 +1,80 @@
 ---
 title: "The chain at Kakori"
-subtitle: "One pull stopped a train, but the plan to take government money also cost a passenger his life."
+subtitle: "A student of history sat in a second-class carriage on 9 August 1925. At Kakori, someone pulled the chain."
 type: short
 when: "9 August 1925"
 where: "Near Kakori, outside Lucknow"
+year: 1925
 published: 2026-10-22
 about:
   - "rajendra-lahiri"
   - "ram-prasad-bismil"
   - "ashfaqulla-khan"
   - "kakori-train-action"
-year: 1925
 sources:
-  - title: "History of the Court in Avadh"
-    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
-    publisher: "Allahabad High Court / H. K. Ghose"
-  - title: "The Kakori Train Action: Full story"
-    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-action-full-story-british-raj-10825020/lite/"
-    publisher: "The Indian Express"
+  - title: "Hanged for Patriotism"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
   - title: "Remembering Rajendranath Lahiri"
     url: "https://m.thewire.in/article/history/rajendranath-lahiri-indian-revolutionary/amp"
     publisher: "The Wire"
+  - title: "History of the Court in Avadh, 1856 onwards (H. K. Ghose)"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
+  - title: "Rajendra Lahiri"
+    url: "https://en.wikipedia.org/wiki/Rajendra_Lahiri"
+    publisher: "Wikipedia"
 status: published
 ---
 
-What happens when somebody pulls a train's emergency chain?
+What happens when someone pulls the emergency chain on a train?
 
-The train stops. Passengers may wonder what has happened. But on 9 August 1925, the stopping was planned.
+The train slows and stops. Passengers wonder why. On the evening of 9 August 1925, near the small station of Kakori, the stop was planned.
 
-Rajendra Nath Lahiri was among a group waiting to take government money from a train near Kakori.
+The National Book Trust book says the train was the Number Eight Down, going from Shahjahanpur to Lucknow. The Allahabad High Court says it was after seven in the evening. The place was about eight miles from Lucknow.
 
-The group belonged to the Hindustan Republican Association, or HRA. It wanted India to be free from British rule.
+## The man in the carriage
 
-## The reason for the plan
+Rajendranath Lahiri was a student. The Wire says he was working towards an M.A. in history at Banaras Hindu University. He was also honorary secretary of a Bengali literary society, and he wrote for Bengali magazines.
 
-The HRA needed money for its work. Its members wanted to buy supplies and print their ideas.
+He belonged to the Hindustan Republican Association, or HRA. This secret group wanted to end British rule. It needed money.
 
-They decided to take money being carried for the colonial government. It was not an ordinary visit to a railway station.
+The plan was to take the government's cash from the train. The book says Lahiri, Ashfaqulla Khan and Sachindranath Bakshi got down from a second-class compartment when the train stopped. The Wire says Lahiri is said to have pulled the chain.
 
-The group's choice involved robbery. Not everyone in India's freedom struggle supported such methods.
+<aside class="note"><b>Two versions</b>: The Wire and Wikipedia say Lahiri was born in 1901. The National Book Trust book says 1892. The Wire also says Kakori was in 1927, but its own dates show that 1925 is right. We have not seen a birth record.</aside>
 
-Gandhi had argued that people should fight British rule without using violence.
+## What the book says happened
 
-## A chain is pulled
+The guard had climbed down to find out who pulled the chain. According to the book, two men took hold of him and made him lie on his face. Two others pushed the driver down from the engine.
 
-The Indian Express describes Lahiri already sitting inside the train. It says he pulled the chain.
+Two more men stood at the two ends of the train and fired shots. The book says they shouted a message to the passengers: "Travellers! Do not be afraid."
 
-The train was going towards Lucknow. It stopped shortly after Kakori station.
+The High Court's history says they told passengers to stay inside. It adds that their property would not be touched, because the men wanted only the government's money.
 
-The HRA members then got down. They overpowered the railway guard and took the government treasury bags.
+Then some of them climbed into the guard's van. They broke open a strong metal box with a hammer. In a few minutes they had the cash.
 
-<aside class="note"><b>Treasury</b>: money kept by a government.</aside>
+## The man who left his carriage
 
-The later history published by the Allahabad High Court also records this train robbery.
+One passenger did not stay inside. His name was Ahmad Ali, and he was a lawyer.
 
-It explains that the group told passengers their personal belongings were not the target.
+The High Court's history says he got out of his carriage even though he had been warned. He was shot and died.
 
-That did not mean the journey was safe.
+The men had told the passengers that they would be safe. But a man was killed that night.
 
-## The person who did not return home
+## The trial
 
-A passenger named Ahmad Ali died during the robbery.
+Police arrested many people across the country. The hearing began in January 1926, in a building in Lucknow called the Ring Theatre.
 
-The High Court's history identifies him as a lawyer. The Indian Express also names him.
+The judge was Mr. Hamilton, a Special Judge. He gave his judgment on 6 April 1927.
 
-We should remember him when we tell this story. He was travelling on the train, not planning the robbery.
+The National Book Trust book prints words that it says Hamilton spoke about Lahiri. He called him "one of the leaders of this conspiracy". He said that, as a leader, Lahiri was also responsible for the death of Ahmad Ali. Lahiri was sentenced to death.
 
-The money was taken, but an ordinary person lost his life.
+<aside class="note"><b>Conspiracy</b>: a secret plan, made by a group of people, to do something against the law.</aside>
 
-The HRA wanted to challenge British power. Yet the way it acted brought harm to somebody else.
-
-## What happened next
-
-The government investigated the train robbery and other HRA actions. Many people were arrested.
-
-A long trial followed. Rajendra Lahiri was among the people accused.
-
-In April 1927, a court sentenced him to death with Ram Prasad Bismil and Roshan Singh.
-
-Ashfaqulla Khan was tried separately and also received a death sentence.
-
-<aside class="note"><b>Conspiracy</b>: a secret agreement by people to carry out an unlawful plan.</aside>
-
-<aside class="note"><b>Two versions</b>: a later Wire article accidentally says the Kakori action was on 9 August 1927. The court history and Indian Express give 9 August 1925. That is the year used here.</aside>
+We have not read the original judgment. We are using the words that the book prints.
 
 ## Why it matters
 
-The name Kakori is remembered because the HRA challenged colonial power.
+There were people in India who did not agree with the HRA's way. Gandhi wanted freedom to be won without violence.
 
-Rajendra Lahiri's role is part of that history. So is Ahmad Ali's death.
-
-Good history does not hide the person who died. It asks what people intended and what actually happened.
+The story of the chain at Kakori is about courage and risk. It is also about a lawyer who was travelling on that train. Both parts belong in the telling.

@@ -46,6 +46,13 @@ when he has to run something on his own computer (Windows, PowerShell).
    "delve", "rich tapestry"...). Write like a good children's author.
 8. Lengths: flagship 900+ words, short 350+ (figures and notes don't count).
 
+## Who writes what
+
+**Claude writes every story.** Other AI tools (ChatGPT etc.) may only research (see AGENTS.md).
+Owner's rule, 22 October 2026: their stories read like research notes, so any story that
+comes from their research must be written fresh by Claude, from sources Claude opens itself.
+Do not just edit their drafts.
+
 ## Making stories for a subject (the routine)
 
 1. **Research.** Read the subject's folder: `src/content/<people|events|places|organisations>/<slug>/`
@@ -131,7 +138,7 @@ which ones should be redone and why.
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
 | B. R. Ambedkar | 2 | done |
-| Shivaram Rajguru | 5 (short) | 2 prompts waiting |
+| Shivaram Rajguru | 4 (short) | 2 prompts waiting |
 | Durga Bhabhi | 1 (school story held back: sources blocked) | 1 prompt waiting |
 | Rajendra Lahiri | 2 (short) | 2 prompts waiting |
 | Roshan Singh | 2 (short) | 2 prompts waiting |

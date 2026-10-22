@@ -3,7 +3,7 @@ id: IF-0119
 kind: person
 name: "Roshan Singh"
 wikidata: "Q7368818"
-summary: "Former Non-Cooperation activist who joined the Hindustan Republican Association; convicted in the wider Kakori conspiracy case and executed at Allahabad on 19 December 1927."
+summary: "A primary schoolteacher who worked for the Non-Cooperation Movement, then joined the Hindustan Republican Association. He was sentenced to death in the Kakori case for what the judge said happened at Bamrauli, and was hanged at Allahabad on 19 December 1927."
 born: "1892 or 1894 (sources disagree)"
 died: "19 December 1927"
 year: 1925
@@ -24,12 +24,9 @@ sources:
   - title: "History of the Court in Avadh"
     url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
     publisher: "Allahabad High Court / H. K. Ghose"
-  - title: "Ashfaqullah and Bismil hanged: Kakori history"
-    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-robbery-action-9074349/"
-    publisher: "The Indian Express"
   - title: "Roshan Singh"
     url: "https://en.wikipedia.org/wiki/Roshan_Singh"
-    publisher: "Wikipedia (weakly sourced; conflict only)"
+    publisher: "Wikipedia"
 image:
   src: "/files/people/roshan-singh/portrait.webp"
   alt: "Roshan Singh"
@@ -40,11 +37,11 @@ image:
 angles:
   - title: "In the case, but not on the train?"
     type: short
-    hook: "A famous train robbery gave its name to a much larger trial."
+    hook: "He was sentenced in the Kakori case for a different night, at Bamrauli."
     story: "the-man-in-the-case-not-on-the-train"
   - title: "The road from protest to the HRA"
     type: short
-    hook: "Before the Kakori sentence, Roshan had worked in a nonviolent protest movement."
+    hook: "A teacher joined Gandhi's movement, was jailed, and later joined a secret group."
     story: "the-road-from-protest-to-hra"
 ---
 
