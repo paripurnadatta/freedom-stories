@@ -21,40 +21,38 @@ sources:
 status: published
 ---
 
-Dhalghat is a village in Patiya, near the port city of Chittagong. Pritilata Waddedar was born there on 5 May 1911.
+Dhalghat is a village in Patiya, near the port of Chittagong. On 5 May 1911, a girl was born there. Her father, Jagabandhu Waddedar, was a clerk in the municipality. Her mother was Pratibhamayi Devi.
 
-Her father, Jagabandhu Waddedar, worked as a clerk in the municipality. Her mother was Pratibhamayi Devi. Pritilata was the second of six children.
-
-At home the family called her Rani. The name means queen. Wikipedia gives this nickname, and so does a report in the Bangladeshi newspaper The Business Standard.
+They named the girl Pritilata. She was the second of six children. At home everybody called her Rani. The name means queen. Years later, a writer in the Dhaka Tribune called her "the maid of Patiya", after the area where she was born. The Business Standard adds that she had a second name in the movement, Fultar. It took that from a later newspaper account, so we cannot say who used it first.
 
 <aside class="note"><b>Municipality</b>: the office that looks after a town, such as its roads, water and markets.</aside>
 
-## School days
+## School
 
-She studied at the Khastagir Girls' School in Chittagong. The Business Standard says she began there in 1918, in class three. It also says she won a merit scholarship in 1926.
+In 1918, she started at the Khastagir Girls' School in Chittagong. She joined in class three. By 1926 she had won a merit scholarship.
 
-Wikipedia tells us something about one of her teachers. The teacher used to tell the girls the story of Rani Lakshmibai, the queen of Jhansi who fought the British in 1857. We have not found out the teacher's name. Wikipedia does not say how much this mattered to Pritilata, and we should not guess.
+One of her teachers used to tell the girls about Rani Lakshmibai, the queen of Jhansi who fought the British in 1857. We do not know the teacher's name. Nor does anyone say how much those stories meant to her.
 
-She did well in her exams. Banglapedia says she passed the matriculation, the school-leaving exam, in the first division in 1927.
+Then came the school-leaving exam, the matriculation. She passed in the first division.
 
-<aside class="note"><b>Two versions</b>: Banglapedia and The Business Standard say she passed matriculation in 1927. Wikipedia says she left school in 1928. We cannot tell which is exact. It may be a difference between the year she sat the exam and the year she left.</aside>
+<aside class="note"><b>Two versions</b>: Banglapedia and The Business Standard say she passed matriculation in 1927. Wikipedia says she left school in 1928. It may be the difference between the year she sat the exam and the year she left.</aside>
 
-## College in Dhaka
+## College
 
-After school she went to Eden College in Dhaka. Wikipedia says she joined in 1929.
+After school, Pritilata went to Eden College in Dhaka. That was in 1929. Two years of college ended with a big exam called the Intermediate.
 
-She sat the Intermediate exam, which students took after two years of college. Her result was remarkable, but our sources describe it in two ways.
+She did very well in it. The reports of her result tell it in two ways, but both are praise.
 
-<aside class="note"><b>Two versions</b>: Wikipedia and Banglapedia say she was first among all the students of the Dhaka Board. The Business Standard says she was fifth in the combined merit list, and first among the girls. Both are praise. The first is the grander claim, so it should be checked in an old newspaper before anyone repeats it as certain.</aside>
+<aside class="note"><b>Two versions</b>: Wikipedia and Banglapedia say she was first among all the students of the Dhaka Board. The Business Standard says she was fifth in the combined merit list, and first among the girls. The first claim is the grander one, so it should be checked in an old newspaper before anyone repeats it as certain.</aside>
 
-Banglapedia says that she went on to take her degree two years later. That is a story for another day.
+After that she went on to study for a degree. That part of her life has its own story on this site.
 
-## What we do not know
+## The girl behind the statue
 
-We do not know what she was like as a child. We have no letters from those years in our sources. Some websites tell little scenes of her childhood. We could not find them in any book or record that we opened. So we leave them out.
+Today there is a statue of her at Pahartali. It shows a grown woman, a famous one.
 
-What we do know is plain. Her father was a municipal clerk. She went to school and then to college. And at the exams her name was near the top of the list.
+But before that she was a schoolgirl in a village, with a nickname at home and a place on a merit list. Many websites tell small scenes from her childhood. We could not find them in any book or record that we opened, so we leave them out.
 
 ## Why it matters
 
-The statue at Pahartali shows her as a famous woman. But before she was famous she was a schoolgirl in a village, with a nickname at home and a place on a merit list. Everyone in history starts as someone small.
+Everyone in history starts as someone small. Pritilata was a clerk's daughter from Dhalghat, who was called Rani at home and who did well in her exams. What she did later grew from that.

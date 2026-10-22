@@ -30,6 +30,24 @@ when he has to run something on his own computer (Windows, PowerShell).
 - Tell him plainly what could not be checked and what was left out.
 - After pushing, remind him: `git pull` then `npm run dev` to see it at http://localhost:4321.
 
+## Tell it as a story, not as research notes (owner's rule, 22 October 2026)
+
+Stories must read like a story, not like a report on sources. The owner said so after seeing
+pages that went "Britannica says... Wikipedia says... Encyclopedia.com says...".
+
+- Tell events in order, with people doing things in places. Use the sourced details as the scenes.
+- Do **not** begin paragraphs with a source's name. Name a source in the text only when it is a
+  person's own account ("Kalpana Dutt remembered...", "The court record says...") or a legend
+  that must be labelled. Everything else is credited in the Sources tab.
+- Disagreements go in **margin notes placed between paragraphs**
+  (`<aside class="note"><b>Two versions</b>: ...</aside>`), right after the scene they touch.
+  The main text follows one clear line and the note shows the other version. Sources may be named inside notes.
+- Avoid "our sources do not say", "we cannot tell", "we have not seen". Say what happened. Put what is unknown
+  in one short note or one quiet closing paragraph.
+- A subject whose sources only give disputed facts can have one short "mystery" story that opens with the question.
+  It is the exception, not the pattern.
+- The check script cannot tell a story from a report. Read your draft once as a ten-year-old: is someone doing something?
+
 ## The rules for every story
 
 1. **Every fact must come from a source you opened in this session.** Never from memory

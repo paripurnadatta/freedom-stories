@@ -34,84 +34,90 @@ sources:
 status: published
 ---
 
-Most people leave nothing behind but memories. Pritilata Waddedar left a piece of paper.
+In September 1932, a railway club stood at Pahartali, near the port of Chittagong. Europeans and Anglo-Indians went there. On one night in that month, about forty people were inside.
 
-It was found on her body in September 1932. A year later, a court in Calcutta marked it as "Ex. 56". "Ex." is short for exhibit. It means a document that a court keeps and studies as evidence.
+Outside, a group of young people were getting ready. Their leader was twenty-one years old. She was a headmistress called Pritilata Waddedar.
 
-This story is about that paper. It is also about what we can know, and what we cannot, when a person's last words come to us through a courtroom.
+She had not planned to lead. A week earlier, her friend Kalpana Dutt had been arrested at Pahartali. Kalpana had been dressed as a boy. With Kalpana gone, the work fell to someone else. In her book, Kalpana wrote four words about it: "Preeti led it."
 
-<aside class="note"><b>Exhibit</b>: a paper or object shown to a court as part of a case. Each one gets a number so the judges can refer to it.</aside>
+<aside class="note"><b>Preeti and Priti</b>: Pritilata's name was spelled in many ways in old papers. Kalpana Dutt wrote "Preeti". The court wrote "Priti" and "Pritilata Waddadar". They are the same person.</aside>
 
-## The case
+## Who she was
 
-The court was the High Court at Calcutta. Its judgment is dated 14 November 1933. The case was against Surya Sen and another man. They had been tried for their part in the Chittagong revolt and the events that followed it.
+Pritilata was born on 5 May 1911 in Dhalghat, a village in Patiya near Chittagong. Her father was a clerk in the municipality. At home she was called Rani, which means queen.
 
-The judges had to decide many things. One was how Pritilata fitted into the story. So they read everything that had been found with her, or written by her, or written about her.
+She was clever at school and at college. She studied philosophy in Calcutta. Then she came back to Chittagong and became the headmistress of the Nandankanan Aparnacharan School.
 
-On the paragraph about Ex. 56, the judgment says: "On Pritilata's dead body was found a document Ex. 56". The court treated it as her own statement. In another place it says that her statement was a relevant fact, and that it had been proved.
+Another story on this site tells how a headmistress came to join Surya Sen's group. This story begins near the end.
 
-## What the paper says
+## What she wrote
 
-We have not seen the whole paper. We have only the parts that the judges chose to repeat. So we say only what the court's record says.
+Before that night, she wrote down what she wanted people to understand. The paper was found on her body afterwards.
 
-First, it says that Surya Sen sent for her. Her friends called him Masterda. It means "teacher-brother". He wanted her to join a raid.
+A court in Calcutta later gave it a number. It was called "Ex. 56". "Ex." is short for exhibit, a paper that a court keeps as evidence. The judges wrote: "On Pritilata's dead body was found a document Ex. 56". They accepted it as her own statement.
 
-Second, it shows that she doubted herself. She was a woman, and she felt unsure about leading men. The record has her saying that Masterda soon convinced her. She took, in her own words, her "leader's command".
+<aside class="note"><b>Exhibit</b>: a paper or object shown to a court as part of a case. Each one gets a number so that the judges can refer to it.</aside>
 
-Third, the paper explains why she and her friends had decided on this path. The court quotes her as saying that the group had been "compelled to take up arms". That was how she saw it.
+What did she write? The court repeated only parts of it. Here is what the record shows.
 
-The paper also said something personal. In it she wrote that she had visited a prisoner called Ram Krishna Biswas forty times while he waited in jail to be hanged. Another story on this site is about those visits.
+Surya Sen had sent for her. Her friends called him Masterda, which means "teacher-brother". He wanted her to join the raid.
 
-## The raid at Pahartali
+She was not sure at first. She was a woman, and she doubted whether she should lead. Then Masterda talked with her, and he soon convinced her. She wrote that she took her "leader's command".
 
-Pahartali is a railway town near Chittagong. It had a club, the Railway Institute. Europeans and Anglo-Indians went there. The judges wrote that the building was attacked for that reason. They said it was chosen because the people who used it were Europeans and Anglo-Indians.
+She also wrote why she and her friends had chosen this road. They felt, she said, "compelled to take up arms". That was how she saw it.
 
-Wikipedia says about forty people were inside. Kalpana Dutt, who was Pritilata's friend, tells the story in her own book. She had been arrested at Pahartali a week earlier, on 17 September 1932, dressed as a boy. So she could not go. Kalpana writes: "Preeti led it."
+The paper told one more thing about her. She had visited a prisoner, Ram Krishna Biswas, forty times while he waited in jail to be hanged. Another story on this site is about those visits.
 
-Then came the night. Several people were hurt. A woman called Mrs Sullivan, who was sixty years old, died. The judgment says she was murdered, and that her body was found near the Institute.
+## The night
 
-We write this plainly, and without praise. A real person lost her life that night. She was sixty. Nothing in our sources says that she did anything to deserve it.
+The group went to the club. Wikipedia says she wore the clothes of a young Punjabi man. We do not give more of the plan here. This story is not about how it was done.
 
-<aside class="note"><b>Two versions</b>: Banglapedia give the date as 23 September, and so do the Daily Star and TBS News. The court record, Kalpana Dutt and Wikipedia say 24 September. Many articles were written long after, so we cannot say which is exact. We use 24 September and mention the other.</aside>
+The attack was short. Several people were hurt. A woman named Mrs Sullivan, who was sixty years old, died. The court called it murder. Her body was found near the club.
 
-<aside class="note"><b>Two versions</b>: how many people were hurt? Wikipedia says police counted eleven: four men and seven women. Kalpana Dutt writes that thirteen were "severely wounded according to official announcement". Our sources do not explain the difference.</aside>
+We say this plainly. A real person lost her life that night. Nothing we read says she had done anything to deserve it.
 
-## How she died
+<aside class="note"><b>Two versions</b>: what was the date? The court record, Kalpana Dutt and Wikipedia say 24 September 1932. Banglapedia, the Daily Star and The Business Standard say 23 September. We use 24 September.</aside>
 
-The court's account of her death is short. A post-mortem showed that she died of cyanide of potassium. Cyanide is a deadly poison. The judges wrote that it was "presumably self administered".
+<aside class="note"><b>Two versions</b>: what time was it? Wikipedia and the Daily Star say they reached the club at about 10.45 at night. The Business Standard says the attack began at 10. The Dhaka Tribune says it happened around midnight. We only say it was late at night.</aside>
 
-Kalpana Dutt writes that Preeti took it "on the way back". Wikipedia adds that a gunshot wound she had was not what killed her. The poison did. It also says that the group had been given poison in case they were caught.
+<aside class="note"><b>Two versions</b>: how many were hurt? Wikipedia says police counted eleven: four men and seven women. Kalpana Dutt wrote that "thirteen were severely wounded according to official announcement".</aside>
 
-She was twenty-one. Wikipedia gives her birth date as 5 May 1911.
+One report, in The Business Standard, says that she whistled to tell her group to leave, and that she stayed behind. Other sources do not say this. If it is true, she chose to let the others go first.
 
-Kalpana says that a statement written by Pritilata was found in her pocket, with a leaflet issued that day. The leaflet said that the fight against British rule would go on as long as Indians were in bondage.
+Pritilata did not come back. A post-mortem later showed that she died of poison, cyanide of potassium. The judges wrote that it was "presumably self administered". Wikipedia says she also had a gunshot wound, but that it was not what killed her.
 
-## What happened to others
+Kalpana Dutt wrote that she took the poison on the way back, so that she would not be caught. Wikipedia says the members of the group had each been given poison before they set out.
 
-Kalpana writes that eighty-four people were arrested after the night. All of them were let go for lack of evidence.
+Kalpana also remembered what was found in her pocket. There was a statement she had written, and a leaflet issued that day. The leaflet said that the war against British rule would go on as long as Indians were in bondage.
 
-The paper in her pocket told the court more than those arrests did. It says that Masterda asked her to join, and that she led.
+## After the night
 
-One more document belongs here. A notice of the Bengal police, dated 22 July 1932, offered a reward of fifty rupees to anyone who could trace her. She had been wanted for two months before that night.
+The police arrested eighty-four people. Kalpana wrote that all of them were let go for lack of evidence.
 
-## Different views
+The case came to court in 1933. The judges read the paper from Pritilata's pocket. They wrote that the club had been chosen because the people who used it were Europeans and Anglo-Indians.
 
-People judge this event in different ways.
+The police had been looking for her before that night. A police notice of 22 July 1932 offered fifty rupees to anyone who could trace "Miss Prithi Waddadar".
 
-Some see a young woman who gave her life for her country's freedom. Bangladesh honours her. There is a bronze statue at Pahartali, and halls at Chittagong University and Jahangirnagar University carry her name.
+## How people see it
 
-Others, then and now, believe that India's freedom should be won without hurting people. Gandhi's way was non-violence. And a sixty-year-old woman had died, who had nothing to do with any government.
+People judge this night in different ways.
 
-Both of these are views that thoughtful people hold. A history for young readers should not hide either.
+Some see a young woman who gave her life for her country. In Bangladesh there is a bronze statue of her at Pahartali. Two university halls, at Chittagong and Jahangirnagar, carry her name.
 
-## What we cannot know
+Others believe that freedom should be won without hurting anyone. That was Gandhi's way. And Mrs Sullivan had nothing to do with any government.
 
-We have not seen the original paper. We cannot say what she felt on the way to Pahartali. No source we opened tells us.
+The writer Selina Hossain, in the Daily Star, calls Pritilata an ideal for every woman. Others, like the judges of 1933, saw only the attack on a club. Thoughtful people hold both views. A story for young readers should not hide either.
 
-We also leave out a famous sentence that is sometimes printed online as her last message. We could not find it in any court record or any book that we opened. So we do not use it.
+<aside class="note"><b>A last message?</b>: some websites print a famous sentence as her last note. We could not find it in the court record or in any book we opened, so we do not use it.</aside>
+
+## Remembered
+
+Years later, her name came back. Calcutta University gave her the degree it had not handed over in 1932. A sculpture called "Birkanya Pritilata" was opened at Pahartali on 2 October 2012. Films have been made about her too.
+
+"Birkanya" means a brave girl. The name tells us how many people in Bangladesh and India now think of her.
 
 ## Why it matters
 
-A court read her words so that it could convict others. She did not write them for that. She wrote them to explain herself.
+The court read her words so that it could judge other people. She had written them to explain herself.
 
-When we read the past through such papers, we should ask who kept them, and why. And we should remember all the people in them: the girl who led, and the woman who died.
+When we read the past through a single paper, we should ask who kept it and why. And we should remember everyone who is in it: the young woman who led, and the woman who died.

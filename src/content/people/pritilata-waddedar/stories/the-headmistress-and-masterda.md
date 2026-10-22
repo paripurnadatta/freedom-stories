@@ -32,38 +32,46 @@ sources:
 status: published
 ---
 
-In 1932 Pritilata Waddedar was a headmistress. She ran the Nandankanan Aparnacharan School in Chittagong, according to Wikipedia and Banglapedia.
+In 1932, Pritilata Waddedar ran a school. She was the headmistress of the Nandankanan Aparnacharan School in Chittagong.
 
-Surya Sen was a different kind of teacher. He was in hiding, and the police wanted him. His friends called him Masterda.
+Not far away, a different kind of teacher was hiding from the police. His name was Surya Sen. His friends called him Masterda.
 
-How did a headmistress come to join him?
+How did the headmistress come to join him?
 
-## Who told her about Masterda
+## A friend tells her about Masterda
 
-Kalpana Dutt wrote a book about the Chittagong raiders. In it she says that she herself spoke to Preeti about Masterda. Preeti had never met him. After hearing about him, Kalpana says, Preeti agreed that he was a great man.
+Kalpana Dutt was a friend of Pritilata's. She was also one of Masterda's group. In her book, Kalpana remembers that she herself told Preeti about him.
 
-The court record has a related paper. It is called Exhibit 257. The judges described it as a copy of a note that Priti had written about her introduction to Nirmal Sen. Nirmal Sen was with Surya Sen at Dhalghat. We do not have the full note.
+Preeti had never met Masterda. Kalpana says that after hearing about him, Preeti agreed that he was a great man.
+
+Then came a paper that the court later studied. It was called Exhibit 257. The judges described it as a copy of a note Priti had written about her introduction to Nirmal Sen. Nirmal Sen was one of the men with Surya Sen at Dhalghat.
 
 ## At Dhalghat
 
-Wikipedia says she met Surya Sen and Nirmal Sen at the camp at Dhalghat on 13 June 1932. That was the day Captain Cameron was killed there.
+The meeting took place at a camp in the village of Dhalghat. Wikipedia says that on 13 June 1932, Pritilata met Surya Sen and Nirmal Sen there. That was the day Captain Cameron was killed in Dhalghat.
 
-A man named Binod Bihari Chowdhury did not agree that she should join. Wikipedia says he objected. She was accepted in the end. The reason Wikipedia gives is that women who carried weapons would draw less suspicion than men.
+<aside class="note"><b>Two versions</b>: when did they meet? Wikipedia gives 13 June 1932. The Business Standard says Pritilata met Surya Sen in May 1932. The court record shows she was at Dhalghat, but does not say when she first met him.</aside>
 
-<aside class="note"><b>Two versions</b>: when did she join? Wikipedia gives 13 June 1932 for her meeting at Dhalghat. The Business Standard says she met Surya Sen in May 1932. The court record shows she was at Dhalghat, but our sources do not say when she first met him.</aside>
+Not everyone in the group welcomed her. A man named Binod Bihari Chowdhury objected. Wikipedia says that in the end she was accepted. The reason it gives is that women who carried weapons would draw less suspicion than men.
 
-Kalpana Dutt describes that day differently. She says Preeti was "unknown to the police" and was not an absconder. She "had merely come to see Masterda". The police did not yet know her.
+Kalpana Dutt remembers the same day. Preeti, she says, was "unknown to the police". She was not an absconder, a person hiding from the law. She "had merely come to see Masterda".
 
-That changed. After Dhalghat she went into hiding, Kalpana says. She was now a person the police wanted.
+That did not last. After Dhalghat, Preeti went into hiding.
 
-## What she had been doing before
+## What she had done before
 
-Wikipedia lists some earlier activities. It says she took part in attacks on telephone and telegraph offices and on the reserve police line, and that she supplied explosives. These claims come from only one source, so we state them with care.
+Wikipedia lists some earlier activities. It says she took part in attacks on telephone and telegraph offices and on the reserve police line, and that she supplied explosives. We found these claims in only one source.
+
+<aside class="note"><b>One source only</b>: these earlier activities are in Wikipedia but not in the court record, Kalpana Dutt's book or Banglapedia. Treat them as unproven.</aside>
 
 The Dhaka Tribune tells a quieter story. It says her brother was already in an anti-British group, and she began by carrying messages.
 
+## Two ways to say yes
+
+Later, a paper was found on her body. In it, Pritilata wrote that Masterda had convinced her to lead. She had doubted herself.
+
+In June at Dhalghat, it was the group that had doubts about her. So the yes had to go both ways. She had to be convinced, and so did they.
+
 ## Why it matters
 
-The group Pritilata joined was not sure at first. One of its own members said no. So she had to win their trust. In the paper found on her body, she wrote that Masterda convinced her to lead. Here we see the other side: someone in the group had to be convinced about her.
-
-We do not know all her reasons. What we know is that she left a school office for a hiding place.
+We do not know all her reasons. What we know is that a headmistress left a school office for a hiding place, and that people on both sides had to be won over first.
