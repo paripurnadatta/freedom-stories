@@ -31,6 +31,15 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Hanged at 27, Ashfaqulla Khan was a revolutionary with fire in his belly"
+    url: "https://theprint.in/theprint-profile/hanged-at-27-ashfaqulla-khan-revolutionary-with-fire-in-his-belly/308954/"
+    publisher: "ThePrint"
+  - title: "Martyred freedom fighters: Ashfaqullah"
+    url: "https://www.counterview.in/2023/11/martyred-freedom-fighters-ashfaqullah.html"
+    publisher: "Counterview"
+  - title: "Freedom struggle and the role of revolutionary poetry"
+    url: "https://tribuneindia.com/news/freedom-struggle-and-the-role-of-revolutionary-poetry-533666"
+    publisher: "The Tribune"
 image:
   src: "/files/people/ashfaqulla-khan/portrait.webp"
   alt: "Ashfaqulla Khan"
@@ -56,6 +65,14 @@ angles:
     hook: "He walked to the gallows carrying a Quran, on the same day his best friend died."
     story: "the-last-morning-in-faizabad"
 ---
+  - title: "The grave, the statue and the film"
+    type: flagship
+    hook: "What happened after the hanging: a family, a grave in Shahjahanpur, a statue in the jail, and a film."
+    story: "the-grave-the-statue-and-the-film"
+  - title: "The words he left"
+    type: short
+    hook: "A verse at the gallows, a poem from his cell, and the question of who wrote what."
+    story: "the-words-he-left"
 
 <!--
   Research carried over from the old project. It never appears on the site.

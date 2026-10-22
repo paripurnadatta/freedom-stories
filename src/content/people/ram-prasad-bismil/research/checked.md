@@ -37,3 +37,9 @@ in this session.
 - Mission School detail; the 1916 Congress procession is kept but labelled as a later account.
 - Founder list of the HRA from PIB (it wrongly names Bhagat Singh and Azad, who joined later).
 - First meeting with Ashfaq (already a "Two versions" note in Ashfaqulla's story).
+
+## Second round (22 October 2026): "From the Rapti to a postage stamp"
+Opened: English Wikipedia (memorials, stamp, Kakori memorial 19 Dec 1983, Shahjahanpur statue 18 Dec 1994, Bismil Park, railway station, Rapti cremation at Rajghat), NBT (last morning, body carried through Gorakhpur), The Better India (Rapti cremation, "Jai Hind" last words, hundreds of mourners).
+- Last words: NBT says "Vande Mataram", "Bharat Mata ki Jai", "I want the destruction of British Empire"; Better India says "Jai Hind". Shown as two versions.
+- Better India also says he was in "Barrack 11 of Lucknow Central Jail" for the autobiography and gives his birth year as 1887; both are wrong or unchecked (other sources: Gorakhpur, 1897). Not used.
+- Mother's visit is NBT only (and not mentioned by Wikipedia). Not repeated here (already in an earlier story, labelled).

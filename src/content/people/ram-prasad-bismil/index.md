@@ -38,6 +38,9 @@ sources:
   - title: "Unsung Heroes of India’s Freedom Struggle"
     url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Ram Prasad Bismil (profile)"
+    url: "https://www.thebetterindia.com/145582/ram-prasad-bismil-freedom-fighter-india/amp/"
+    publisher: "The Better India"
 image:
   src: "/files/people/ram-prasad-bismil/portrait.webp"
   alt: "Ram Prasad Bismil, a young man with short hair and a moustache, in a white shirt"
@@ -67,6 +70,10 @@ angles:
     hook: "During a gunfight in 1918, he is said to have dived into the Yamuna. The police thought he had drowned."
     story: "the-man-the-river-swallowed"
 ---
+  - title: "From the Rapti to a postage stamp"
+    type: short
+    hook: "After the hanging: a river, a statue, a station, a park, a memorial and a stamp."
+    story: "from-the-rapti-to-a-postage-stamp"
 
 <!--
   Research carried over from the old project. It never appears on the site.

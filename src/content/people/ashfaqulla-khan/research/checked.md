@@ -18,3 +18,15 @@ Report: research/report-2026-10-21.pdf. Very careful report: it already labelled
 ## Not used
 - Temple revolver confrontation (unverified).
 - Diary lines: used one line, clearly marked as attributed.
+
+## Second round (22 October 2026): two new stories ("The grave, the statue and the film", "The words he left")
+Opened this session: NBT "Hanged for Patriotism" (full text), English Wikipedia, ThePrint profile, Counterview piece, The Tribune on revolutionary poetry, Shaheed Ashfaqullah Khan memorial website, Rana Safvi page (poem in Roman script only, no author given: not used).
+- Statue and platform at Faizabad jail: NBT only. Said so.
+- Grave in Shahjahanpur: memorial website and ThePrint agree. Burial details: no source.
+- Family details (property confiscated, remembered twice a year, father a kotwal): attributed to his grandson, via ThePrint only.
+- Pen names: NBT gives Varsi and Hazrat, Wikipedia and the memorial site give Hasrat, ThePrint gives Varasi/Warsi and Hazarat. Shown.
+- Gallows couplet: NBT says Ashfaq recited it; The Tribune credits a near-identical couplet to Jagdamba Prasad Hitaishi. Shown as two versions; not settled.
+- "Three days before" an open letter (ThePrint, citing S. Irfan Habib) and a poem (memorial website): neither seen in the original.
+- Quote "My religion is India. My God is freedom" (memorial website): NOT used (no other source).
+- Lahiri page on Wikipedia and other sources conflict on who was hanged where; the stories use NBT/Wikipedia agreement.
+- NBT prints Ashfaq's hanging year as 1929: typo, used 1927.
