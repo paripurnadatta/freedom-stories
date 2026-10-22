@@ -12,6 +12,12 @@ many stories: long **flagship** stories and **short** ones. There is no limit on
 If a subject has five big stories worth 900+ sourced words each, write five flagships.
 The only limit is the sources: never stretch thin material to reach flagship length.
 
+**Minimum standard for every subject (owner's rule, 22 October 2026):** at least **6 stories,
+2 of them flagships**, from the very beginning. One story per subject is not enough. We deepen
+later, but we do not start thinner than this. If the sources cannot support 6 stories with
+2 flagships, do not publish thin ones: leave the subject unpublished and list it for the owner
+with what is missing.
+
 The owner (Paripurna) generates the paintings and sometimes sends research from other
 AIs. He is not a programmer: explain things in plain words, and give exact commands
 when he has to run something on his own computer (Windows, PowerShell).
