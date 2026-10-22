@@ -42,7 +42,7 @@ Thakur Roshan Singh was in a jail in Allahabad. He was waiting for 19 December. 
 
 Where was he held? The answer depends on whom you ask.
 
-English Wikipedia says Allahabad Jail. The National Book Trust book says the same. A Lucknow newspaper calls it Malaka Prison, in Allahabad. Webdunia, a Hindi website, calls it Naini Jail, and also Malaka Jail. Garima Times says Naini Jail in Prayagraj.
+English Wikipedia and the National Book Trust book say Allahabad Jail. A Lucknow newspaper calls it Malaka Prison, in Allahabad. Webdunia, a Hindi website, calls it Naini Jail, and also Malaka Jail. Garima Times says Naini Jail in Prayagraj.
 
 Allahabad is now called Prayagraj. Naini and Malaka are names tied to the jails of that city. These look like names for one place or for two jails near each other. We cannot tell which.
 
@@ -50,11 +50,11 @@ Allahabad is now called Prayagraj. Naini and Malaka are names tied to the jails 
 
 The National Book Trust book gives a few small scenes from the waiting months.
 
-It says Roshan Singh learned Bengali in jail. When Bismil asked him what use that was, if he was going to be hanged, he answered that it would help him in his next life. He also read a Marathi newspaper, and enjoyed it.
+Roshan Singh learned Bengali in jail. When Bismil asked him what use that was, if he was going to be hanged, he answered that it would help him in his next life. He also read a Marathi newspaper, and enjoyed it.
 
-The book says a lawyer came one day and told him a mercy appeal had been filed. Roshan Singh answered calmly, "It is O.K." Later the jail superintendent told him the appeal had been turned down. Again he said, "It is O.K."
+One day a lawyer came and told him a mercy appeal had been filed. Roshan Singh answered calmly, "It is O.K." Later the jail superintendent told him the appeal had been turned down. Again he said, "It is O.K."
 
-These scenes come from a book written in 2009. We could not find them in any older record. We pass them on as the book tells them.
+<aside class="note"><b>A word of care</b>: these scenes come from a book written in 2009. We could not find them in any older record. We pass them on as the book tells them.</aside>
 
 ## The letter
 
@@ -62,35 +62,35 @@ A letter is said to have survived. But there are two versions of it, with two di
 
 The National Book Trust book says Roshan Singh wrote to a friend on 13 December 1927. It gives these words, which it says are his. "I will be hanged during this week. It is my prayer to God that he should reward you for the affection shown towards me. You need not feel sorry for me. My death is a symbol of happiness. One who is born has to die. This is a fact of life."
 
-Webdunia says he wrote from his cell on 6 December. It gives a fuller letter. In it he says the hanging will be within a week. He asks his friend not to grieve, and says that his death should be a reason for happiness. He says that everyone who is born must die. He says a person should not bring shame on himself by doing wicked things, and should remember God at the time of death. He says he has been apart from his children for two years, and that this time gave him plenty of chances to pray. He says his wish for worldly things is gone.
+Webdunia says he wrote from his cell on 6 December, and gives a fuller letter. In it he says the hanging will be within a week. He asks his friend not to grieve, and says that his death should be a reason for happiness. He says that everyone who is born must die. A person should not bring shame on himself by doing wicked things, he writes, and should remember God at the time of death. He has been apart from his children for two years, and this time gave him plenty of chances to pray. His wish for worldly things is gone.
 
-Webdunia says the letter ends with a couplet of his own. It says the line means: live your life with spirit, Roshan, or many people here die every day anyway.
+The letter ends with a couplet of his own, Webdunia says. The line means: live your life with spirit, Roshan, or many people here die every day anyway.
 
-<aside class="note"><b>Two versions</b>: Was the letter written on 13 December or on 6 December? The two letters are alike in what they say. Both ask the friend not to grieve. Both say that death comes to everyone. But Webdunia's own letter says "within a week", and 6 December is almost two weeks before 19 December. The 13 December date fits better. Neither source shows the original. We cannot say which date is right, or whether there were two letters.</aside>
+was the letter written on 13 December or on 6 December? The two letters are alike in what they say. Both ask the friend not to grieve. Both say that death comes to everyone. But Webdunia's own letter says "within a week", and 6 December is almost two weeks before 19 December. The 13 December date fits better. Neither source shows the original. We cannot say which date is right, or whether there were two letters.
 
 ## The morning
 
 The date was 19 December 1927. Bismil was to be hanged in Gorakhpur and Ashfaqulla Khan in Faizabad on the same morning. Lahiri had already been hanged at Gonda, two days earlier.
 
-The National Book Trust book says Roshan Singh went to the gallows holding the Bhagavad Gita, with a smile on his face, reciting "Vande Mataram" and "Om".
+Roshan Singh went to the gallows holding the Bhagavad Gita, with a smile on his face, reciting "Vande Mataram" and "Om", says the National Book Trust book.
 
-Webdunia adds more. It says he slept a few hours the night before, and then spent the night in prayer. It says that in the morning he bathed, said his prayers and read a little from the Gita. Then he told the guard to take him. It says the guard wondered whether he was a man or a god. It says he bowed to his cell, walked to the gallows with the Gita in his hand, and shouted "Vande Mataram" three times.
+Webdunia adds more. He slept a few hours the night before, and then spent the night in prayer. In the morning he bathed, said his prayers and read a little from the Gita. Then he told the guard to take him. The guard wondered whether he was a man or a god. He bowed to his cell, walked to the gallows with the Gita in his hand, and shouted "Vande Mataram" three times.
 
 Garima Times says that he recited the Gita, and that he shouted "Vande Mataram" as he faced the end.
 
-Three sources agree on two things: the Gita and the cry of "Vande Mataram". Beyond that, the details come from one source each.
+three sources agree on two things, the Gita and the cry of "Vande Mataram". Beyond that, the details come from one source each.
 
 ## The funeral
 
-Webdunia says that thousands of men, women, young people and old people gathered at the jail gate. It says the crowd shouted slogans as the body was brought out. It says there was a large procession to the Sangam, where the Ganga and Yamuna meet, and that the body was cremated there in the Vedic way.
+Thousands of men, women, young people and old people gathered at the jail gate, Webdunia says. The crowd shouted slogans as the body was brought out. There was a large procession to the Sangam, where the Ganga and Yamuna meet, and the body was cremated there in the Vedic way.
 
 We found this in only one source. We do not know how many came, or what they did.
 
 ## What is left
 
-Webdunia says there was a statue of Roshan Singh at the spot where the gallows once stood in Naini. It says that a medical college stands on that site today. It says the statue carries the couplet from the letter.
+There was a statue of Roshan Singh at the spot where the gallows once stood in Naini, says Webdunia. A medical college stands on that site today. The statue carries the couplet from the letter.
 
-Garima Times and a second paper, Panchjanya, say there is another statue of him in his own village, Nawada. We have not seen either statue.
+Another statue of him stands in his own village, Nawada, say Garima Times and a second paper, Panchjanya. We have not seen either statue.
 
 ## Why it matters
 
