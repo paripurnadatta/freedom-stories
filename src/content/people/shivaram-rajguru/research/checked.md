@@ -40,3 +40,18 @@ Original Urdu FIR and case witness statements; complete tribunal judgment and le
 Excluded famous last words, train-station cigar and costumes, inner thoughts, invented crowd details, claimed direct participation by Rajguru in the Assembly bombing, 1925 Kakori action, unfounded innocence claims from the initial FIR, and disputed precise birth/recruitment details. They are not needed for the five carefully bounded stories.
 
 **Editorial decision:** 5 SHORT candidates only: angles 06, 08, 11, 13, 14. No flagship. The substantive text awaits Claude's editorial check and the complete site's `npm` quality gates.
+
+## Claude's own check, 22 October 2026 (two new flagships)
+Opened this session: English Wikipedia (Rajguru; John P. Saunders), shivaramrajguru.com, PIB Home Affairs page, PIB Information and Broadcasting page (Khed, "now named as Rajguru Nagar"), LiveLaw, NBT book, Kakori Wikipedia, Allahabad High Court history.
+"The shot meant for someone else":
+- Shooting date: every opened source gives 17 Dec 1928; the HSRA notice "Beware, Ye Bureaucracy" is dated 18 Dec (Wikipedia). The 18 Dec date from Maclean's paper was NOT opened by Claude, so it is not in the story.
+- Rajguru fired first, then Bhagat Singh (Wikipedia, shivaramrajguru.com; NBT: "Jaigopal signalled and Rajguru fired"). Who shot Chanan Singh: no source says.
+- Saunders: born 24 July 1907, joined Indian Police 8 April 1927, on probation, killed aged 21 (Wikipedia).
+- Case figures (607 witnesses, 457 examined by 26 Aug 1930, five approvers): LiveLaw. "No direct evidence" is LiveLaw's view, labelled so.
+- Left out: gun models, route details, any thoughts of Rajguru, the Durga Bhabhi escape (belongs in her stories).
+"Seven puzzles about Rajguru":
+- Birthplace: Khed (Wikipedia, shivaramrajguru.com, PIB I&B) vs Varanasi (NBT). Parents: NBT says both died when he was 6; Wikipedia and the website say his father did.
+- Kakori: Wikipedia says he took part (no citation); the website calls it disputed; he is not in the participant list on Wikipedia's Kakori page or in the High Court history. Said "probably wrong".
+- Arrest: NBT prints 30 Sept 1928 (impossible, after the Dec 1928 shooting); the website gives 30 Sept 1929 with pistol and 14 cartridges. Betrayal by Sharat Keskar: NBT only.
+- Baton charge officer: PIB Home Affairs and Wikipedia say Scott; NBT says Saunders.
+- Bodies: PIB says secretly cremated at Hussainiwala, ashes reportedly into the Sutlej, yet remains collected next day; the website says near Ganda Singh Wala. Shown as unclear.

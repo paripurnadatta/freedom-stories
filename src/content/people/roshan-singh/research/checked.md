@@ -24,3 +24,17 @@ This is a **ChatGPT researcher check only**, NOT checked by Claude. Exact quotes
 **Blocked/unopened:** https://culture.gov.in/files/publications_documents/Martyrs_Vol_2_Part_II_06_03_2019_4.pdf (502); original trial transcript, Bareilly police case, alleged prisoner correspondence. None used to establish facts. The scanned memoir chapters opened at https://library.bjp.org/jspui/bitstream/123456789/117/13/Chapter6_368-429p.pdf but do not prove who rode the train.
 
 **Not used:** uncorroborated court dialogue, last words, private thoughts, precise circumstances in Bareilly, religious practices, unverified family claims. No flagship.
+
+## Round two (22 October 2026): bringing Roshan Singh to 6 stories
+
+Four new stories were written fresh from sources opened in this session: the NBT book, the Allahabad High Court history, English Wikipedia, Webdunia, Satyarth Prakash Nyas, Garima Times and The Lucknow Observer.
+
+**Held up (two or more sources):** Gita and "Vande Mataram" at the gallows; sentence of death for Bamrauli; two-year Bareilly sentence; link with Bismil and the HRA.
+
+**Conflicts shown in the stories:** birth date (22 Jan 1892, 19 Dec 1892, 1894, 1890); the Bareilly rifle (year and what happened); mistaken identity with Keshav Chakravarti (Webdunia, Satyarth only); jail name (Allahabad, Naini, Malaka); jail letter date (13 Dec in NBT, 6 Dec in Webdunia); courtroom words (NBT: question to Dublish and thanks to the judge; Garima: asks for Bismil's sentence).
+
+**Single source, labelled in the stories:** the "revolutionary tax" idea; funeral procession to the Sangam; statue at the Naini jail site; Bengali and Marathi scenes in jail (NBT, 2009); Bamrauli leadership quoted from Judge Hamilton (via NBT only).
+
+**Could not check:** the Khannaut bridge dates and visit (Garima Times is a promotional piece, no second source); the statue in Nawada; any original of the jail letter; the sentencing day (6 April 1927 from the old index, not seen in a judgment).
+
+**Left out:** Wikipedia's claims about the family's later hardship (no second source); anything from the ChatGPT report not confirmed above.

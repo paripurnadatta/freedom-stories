@@ -18,3 +18,16 @@ NOT checked by Claude. The source report includes the full source disagreement r
 **Blocked or failed:** Dictionary of Martyrs PDF https://culture.gov.in/files/publications_documents/Martyrs_Vol_2_Part_II_06_03_2019_4.pdf returned 502; National Virtual Library book https://ocrdigitalfile.nvli.in/dlirepository/1437/History-Of-The-Indian-Revolutionary-Movement-ocr.pdf disabled; old Amrit Mahotsav biography redirects to generic site. Excluded all as evidence.
 
 **Left out:** religious beliefs and sacred-thread anecdote not confirmed from a second independently opened account; theatrical jail dialogues; exact reason for execution change; sensational robbery details; unsupported precise birth year; no flagship.
+
+## Claude's own check, 22 October 2026 (four new stories)
+Opened this session: The Wire article (amp page, and a full-text repost), Hindi Wikipedia, English Wikipedia, New India Samachar (Government of India magazine, 16-31 Dec 2022, p. 58), Lucknow Observer, Sadashree newsletter (no sources cited, used only for cross-checks), NBT book, High Court history.
+Disagreements shown in the stories:
+- Birth: 1901 (Wire, Hindi Wikipedia, English Wikipedia, NBT's rival year is 1892, New India Samachar 1901, Lucknow Observer "June 1901"); day: 29 June (Hindi Wikipedia, New India Samachar, Sadashree) vs 23 June (English Wikipedia). Village: Mohanpur / Madiyan / Bharga.
+- At his birth his father and elder brother were in jail (Hindi Wikipedia) vs father and uncle (Sadashree).
+- Dakshineswar: why he was in Calcutta (sent to learn bomb-making, Hindi Wikipedia, vs to spread the HRA, Wire); number arrested (nine with him, Wire; ten with him, Hindi Wikipedia); sentence ten years in the Andamans (Wire, New India Samachar) vs ten reduced to five on appeal (Hindi Wikipedia only). Arrest date 10 Nov 1925: Wire only.
+- Robberies before Kakori: NBT says Bamrauli, Shivpuri, Dwarikapuri; the High Court history says Bamrauli, Bichpuri, Dwarkapur. Possible slip noted in the story.
+- Was he a doubter or a believer: Gupta's view (through the Wire) vs the NBT account of the Gita and rebirth. Both shown.
+- Last words: Hindi Wikipedia ("I am not dying but will be reborn in a free India") vs NBT ("Bharat Mata ki Jai, Long Live Hindustan Republican Army, Vande Mataram"). Both labelled.
+- "First hanging carried out before its scheduled date": New India Samachar only. Labelled as a claim.
+- The Wire has two slips (Kakori "9 August 1927"; "hanged at 24"). Not used.
+Left out: the jailer's question and the exercise answer as a quoted dialogue is mentioned only inside the "believer" account and labelled; Bhagat Singh naming a nephew after Lahiri (Wire only); the claim that officials used false witnesses (Hindi Wikipedia and Sadashree, opinion).

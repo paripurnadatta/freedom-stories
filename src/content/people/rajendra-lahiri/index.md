@@ -27,6 +27,18 @@ sources:
   - title: "Remembering Rajendranath Lahiri"
     url: "https://m.thewire.in/article/history/rajendranath-lahiri-indian-revolutionary/amp"
     publisher: "The Wire"
+  - title: "Rajendranath Lahiri (Hindi Wikipedia)"
+    url: "https://hi.wikipedia.org/wiki/राजेन्द्रनाथ_लाहिड़ी"
+    publisher: "Wikipedia (Hindi)"
+  - title: "New India Samachar, 16-31 December 2022, page 58"
+    url: "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2022/Dec/2nd/English/files/basic-html/page58.html"
+    publisher: "Ministry of Information and Broadcasting, Government of India"
+  - title: "Bismil ka sandes hai"
+    url: "https://lucknowobserver.com/bismil-ka-sandes-hai/"
+    publisher: "The Lucknow Observer"
+  - title: "Rajendranath Lahiri (Sadashree newsletter)"
+    url: "https://sadashree.substack.com/p/rajendranath-lahiri"
+    publisher: "Sadashree (Substack)"
 angles:
   - title: "The chain at Kakori"
     type: short
@@ -37,6 +49,22 @@ angles:
     hook: "Why was Rajendra Lahiri executed two days before the three others?"
     story: "the-date-that-came-early"
 ---
+  - title: "The man who threw away the thread"
+    type: flagship
+    hook: "A Brahmin who gave up the sacred thread, argued about God with Bismil, and in his last days is said to have turned to prayer."
+    story: "the-man-who-threw-away-the-thread"
+  - title: "A boy from Pabna in Banaras"
+    type: flagship
+    hook: "A childhood in Bengal, a move to Banaras at about nine, and a teacher called Sanyal. Even the year of his birth is disputed."
+    story: "a-boy-from-pabna-in-banaras"
+  - title: "The bomb factory at Dakshineswar"
+    type: short
+    hook: "His arrest in Calcutta in November 1925: nine men or ten, ten years or five?"
+    story: "the-bomb-factory-at-dakshineswar"
+  - title: "Lahiri Day in Gonda"
+    type: short
+    hook: "What happens every 17 December in the jail where he died, and what his last words are said to have been."
+    story: "lahiri-day-in-gonda"
 
 <!--
   Research carried over from the old project. It never appears on the site.

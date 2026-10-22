@@ -27,6 +27,18 @@ sources:
   - title: "Roshan Singh"
     url: "https://en.wikipedia.org/wiki/Roshan_Singh"
     publisher: "Wikipedia"
+  - title: "Thakur Roshan Singh"
+    url: "https://hindi.webdunia.com/inspiring-personality/roshan-singh-117121900043_1.html"
+    publisher: "Webdunia (Hindi)"
+  - title: "Thakur Roshan Singh"
+    url: "https://satyarthprakashnyas.org/thakur-roshan-singh/"
+    publisher: "Satyarth Prakash Nyas"
+  - title: "Kakori Train Action Day special: land of martyr Thakur Roshan Singh"
+    url: "https://garimatimes.in/kakori-train-action-day-special-land-of-martyr-thakur-roshan-singh-remained-helpless-for-70-years/"
+    publisher: "Garima Times (Hindi)"
+  - title: "Bismil ka sandes hai"
+    url: "https://lucknowobserver.com/bismil-ka-sandes-hai/"
+    publisher: "The Lucknow Observer"
 image:
   src: "/files/people/roshan-singh/portrait.webp"
   alt: "Roshan Singh"
@@ -44,6 +56,22 @@ angles:
     hook: "A teacher joined Gandhi's movement, was jailed, and later joined a secret group."
     story: "the-road-from-protest-to-hra"
 ---
+  - title: "The wrestler from Nawada"
+    type: flagship
+    hook: "A village teacher, a rifle taken from the police, and four different birthdays."
+    story: "the-wrestler-from-nawada"
+  - title: "Two weeks in December"
+    type: flagship
+    hook: "His last letter has two dates, and his jail has two names."
+    story: "two-weeks-in-december"
+  - title: "What Roshan Singh said to the judge"
+    type: short
+    hook: "Did he ask for the sentence, or thank the judge for it?"
+    story: "what-roshan-said-to-the-judge"
+  - title: "The village, the river and the bridge"
+    type: short
+    hook: "Nawada was cut off by a river for months each year, until 2018."
+    story: "the-village-the-river-and-the-bridge"
 
 <!--
   Research carried over from the old project. It never appears on the site.

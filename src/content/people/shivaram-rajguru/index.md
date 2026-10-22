@@ -40,6 +40,18 @@ sources:
   - title: "Shivaram Rajguru"
     url: "https://en.wikipedia.org/wiki/Shivaram_Rajguru"
     publisher: "Wikipedia"
+  - title: "John P. Saunders"
+    url: "https://en.wikipedia.org/wiki/John_P._Saunders"
+    publisher: "Wikipedia"
+  - title: "Learn and explore: Rajguru"
+    url: "https://www.shivaramrajguru.com/learn/index.html"
+    publisher: "shivaramrajguru.com"
+  - title: "Kakori train robbery"
+    url: "https://en.wikipedia.org/wiki/Kakori_train_robbery"
+    publisher: "Wikipedia"
+  - title: "History of the Court in Avadh, by H. K. Ghose"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court"
 image:
   src: "/files/people/shivaram-rajguru/portrait.webp"
   alt: "Official commemorative depiction of Shivaram Rajguru"
@@ -65,6 +77,14 @@ angles:
     hook: "A protected house in Rajgurunagar, and a 2024 notice about the land around it."
     story: "the-house-by-the-river"
 ---
+  - title: "The shot meant for someone else"
+    type: flagship
+    hook: "Lahore, 17 December 1928: a young police officer was shot by mistake, and a head constable died too. What the sources say."
+    story: "the-shot-meant-for-someone-else"
+  - title: "Seven puzzles about Rajguru"
+    type: flagship
+    hook: "Birthplace, parents, Kakori, the arrest date, the betrayer, the officer, the bodies: where the sources disagree."
+    story: "seven-puzzles-about-rajguru"
 
 <!--
   Research carried over from the old project. It never appears on the site.
