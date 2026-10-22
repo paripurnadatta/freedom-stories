@@ -1,0 +1,62 @@
+ILLUSTRATIONS NEEDED: Sardar Vallabhbhai Patel. Four paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The year the crops failed  (short story)
+==============================================================================
+FILE NAME: the-year-the-crops-failed
+Save it as the-year-the-crops-failed.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The year the crops failed", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A dry farm in Kheda, Gujarat, in 1918, late afternoon. A wide field of thin, yellowed, half-grown crop under a pale hot sky, cracked earth between the rows, a few neem and mango trees, a dry well with a wooden bucket. In the middle distance a farmer in a dhoti and turban and his wife in a plain cotton sari stand at the edge of the field looking at the crop, seen from behind so no faces show, a bullock and a small cart beside them. A tiny group of villagers sits under a tree far away, talking. Quiet, anxious, dignified mood. No officials, no seizures, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The lawyer with a broom  (short story)
+==============================================================================
+FILE NAME: the-lawyer-with-a-broom
+Save it as the-lawyer-with-a-broom.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The lawyer with a broom", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A busy lane in old Ahmedabad in the 1920s, early morning, with carved wooden balconies and tall pol houses. A group of volunteers in plain white khadi clothes and caps sweep the street with long brooms and push a small handcart, all seen from behind or the side so no faces show. Among them a man in a white cap, seen from behind, holds a broom too. Neighbours watch from balconies and doorways. Soft morning light, a few pigeons, clean swept stones in the foreground. Cheerful, hardworking mood. No flag, no readable writing, no hint of any disease.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Jailed before the salt march  (short story)
+==============================================================================
+FILE NAME: jailed-before-the-salt-march
+Save it as jailed-before-the-salt-march.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Jailed before the salt march", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small Gujarat village in March 1930 at dawn. A dusty road lined with mango and neem trees, mud-brick houses with tiled roofs, a well with villagers drawing water. Far down the road, a small group of people in white clothes walk together, so far away that no faces or details show. A large pile of white salt crystals glitters in the sunrise beside a shallow pan in the foreground. Hopeful, quiet, expectant mood. No police, no soldiers, no weapons, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Twelve leaders and a garden  (short story)
+==============================================================================
+FILE NAME: twelve-leaders-and-a-garden
+Save it as twelve-leaders-and-a-garden.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Twelve leaders and a garden", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The courtyard of an old stone fort in India in 1942, mid-morning. Tall stone walls with large windows on one side filled in with plain brick. In the courtyard a small garden bed of marigolds and vegetables. A man in white khadi and a cap, seen from behind and kneeling, tends the plants. Several other men in white clothes sit and talk on a bench far in the background, so small that no faces show. Warm sun, long shadows, blue sky above the walls. Calm, quiet, patient mood. No guards, no weapons, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
