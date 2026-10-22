@@ -23,3 +23,17 @@
 
 ## Omitted
 Do not invent station dialogue, precise financial sums from retold memories, a fabricated classroom scene, a dated arrest account, or an account of the Lamington Road attack as revenge *after* the 1931 executions without reconciling its 1930 dating. Reuse no images from Maclean's article unless rights are cleared.
+
+## Round two (22 October 2026): bringing Durga Bhabhi to 6 stories (Claude)
+
+Five stories written fresh by Claude from sources opened in this session: Scroll.in excerpt of Kama Maclean's book, Maclean's 2013 article (ResearchGate, read through p. 13), English Wikipedia, The Quint (Vivek Shukla, an opinion piece), and the NBT book.
+
+**Held up (two or more sources):** the Lahore escape with Durga Devi as "wife" and a servant; husband's death on 28 May 1930 near the Ravi (Maclean, Quint, NBT, in 1930); she lived to 1999 aged 92 (Wikipedia, Quint); a Lucknow school for poor children (Wikipedia, Maclean, Quint).
+
+**Conflicts shown in the stories:** birthplace (Allahabad vs Shahjadpur); Sachi's age; escape night 18 vs 19 Dec; servant Rajguru (three sources) vs Sukhdev (Quint); Saunders year (Quint says 1927); Azad's disguise (sadhu in NBT, panda in Maclean); Lamington Road 8 Oct 1930 in Bombay (Maclean) vs 1 Oct 1931 (NBT) vs Hailey attempt and 3-year sentence (Wikipedia) vs surrender 14 Sept 1932 and two months' detention (Maclean 2013); the Delhi factory (Qutub Road, Wikipedia; Kashmir House, Maclean); school date 1940 (Quint) vs after independence (Maclean).
+
+**Single source, labelled:** "Lamba Chacha!" and Sahni's report of pistols (Maclean); the Qutub Road factory and the sale of ornaments (Wikipedia); the Viceroy's-train note (NBT); 400 policemen (Quint); the family's move to Canada (Quint, quoting one social worker); the films and TV episodes (Wikipedia).
+
+**Could not check:** the two Times of India articles that give 1940 (blocked); the Tribune 1999 obituary (page not reachable this time, so not used); any court or police record of Lamington Road; Wikipedia's reference to Lord Hailey.
+
+**Left out:** the "gendered agenda" argument of Maclean's article (interpretation, not a story); the Soha Ali Khan role beyond one line; any dialogue not labelled as a later memory.
