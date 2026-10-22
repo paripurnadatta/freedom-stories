@@ -34,33 +34,35 @@ sources:
 status: published
 ---
 
-In September 1908, Tilak left Bombay for Mandalay. The Tribune gives the date as 14 September. Mandalay was a city in Burma, far from his home in Poona. He would spend nearly six years there.
+In September 1908, Tilak left Bombay for Mandalay. The date was 14 September. Mandalay was a city in Burma, far from his home in Poona. He would spend nearly six years there.
 
 ## The room
 
-A page from the Sankalp India Foundation describes his room. It was made of wooden planks. It held a cot, a table, a chair and a bookshelf. It gave no shelter from wind and cold. He lived apart from other people.
+His room was made of wooden planks. It held a cot, a table, a chair and a bookshelf. It gave no shelter from wind and cold. He lived apart from other people.
 
-At first his sentence was "rigorous," which meant hard labour. Later it was changed to "simple" imprisonment. That allowed him to read and write. Sankalp says he collected about 400 books and used "Teach Yourself" guides to learn German and French. It says his day began with prayer.
+At first his sentence was "rigorous," which meant hard labour. Later it was changed to "simple" imprisonment. That allowed him to read and write. He collected about 400 books and used "Teach Yourself" guides to learn German and French. His day began with prayer.
 
-Sankalp also says the government offered him release after a year, on certain conditions. He refused. He said that accepting them would make him "as good dead."
+The government offered him release after a year, on certain conditions. He refused. He said that accepting them would make him "as good dead."
 
 ## The book
 
-In Mandalay, Tilak wrote a book in Marathi about the Bhagavad Gita. It is called the *Gita Rahasya*. Wikipedia says he wrote it by hand, in pencil. It says the book has more than 400 pages and was written in less than four months. That claim comes from a writer named Datta, in a book from 1988.
+In Mandalay, Tilak wrote a book in Marathi about the Bhagavad Gita. It is called the *Gita Rahasya*. He wrote it by hand, in pencil. It has more than 400 pages and was written in less than four months. That claim comes from a writer named Datta, in a book from 1988.
 
-The book's main idea is about action. Many people read the Gita as a call to give up the world. Tilak said its real message was to act, without hope of reward. This is called *nishkam karma yoga*. The book says that other paths, like knowledge and devotion, come second to it. Wikipedia says this was Tilak's own reading, not a view that all scholars shared.
+The book's main idea is about action. Many people read the Gita as a call to give up the world. Tilak said its real message was to act, without hope of reward. This is called *nishkam karma yoga*. Other paths, like knowledge and devotion, come second to it. This was Tilak's own reading, not a view that all scholars shared.
 
-The book was published in 1915, says Wikipedia, after he came back to Poona. Wikipedia's article on Tilak says copies sold well and the money was given to the freedom movement.
+The book was published in 1915, after he came back to Poona. Copies sold well, and the money was given to the freedom movement.
 
 ## What he lost
 
-His wife died while he was in Mandalay. The Tribune says he learned of her death on 7 July 1912. We did not find the date of her death in the sources we opened.
+His wife died while he was in Mandalay. He learned of her death on 7 July 1912.
 
-<aside class="note"><b>Two versions</b>: Did prison hurt his health? Wikipedia says he developed diabetes in Mandalay. The Sankalp page says he already had diabetes when he was sentenced, at the age of 52. We could not check either claim against a medical record.</aside>
+<aside class="note"><b>Two versions</b>: did prison hurt his health? Wikipedia says he developed diabetes in Mandalay. A page from the Sankalp India Foundation says he already had diabetes when he was sentenced, at the age of 52. Neither claim was checked against a medical record.</aside>
 
 ## Coming home
 
-The date of his release is given in two ways. Wikipedia says 16 June 1914. A note in the Nehru Archive says 17 June 1914. The Tribune and Maps of India say only "1914."
+He was released in June 1914.
+
+<aside class="note"><b>Two versions</b>: Wikipedia says 16 June 1914. A note in the Nehru Archive says 17 June 1914. The Tribune and Maps of India say only "1914."</aside>
 
 ## The tablet
 
@@ -68,4 +70,4 @@ In 1954, Prime Minister Jawaharlal Nehru wrote a note about Tilak's prison. He s
 
 ## Why it matters
 
-Our sources for the prison years are a few web pages and a Wikipedia article, and some details differ. What every account agrees on is the book. Tilak went in as a newspaper editor and came out with a work of thought that people still read.
+Tilak went into Mandalay as a newspaper editor and came out with a work of thought that people still read. Some of the details of his years there differ from page to page. The book is the part on which every account agrees.
