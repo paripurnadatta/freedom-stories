@@ -1,0 +1,48 @@
+ILLUSTRATIONS NEEDED: Pritilata Waddedar. Three paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (the other stories use real photographs and documents). This is a hard subject: please keep every picture calm, with no weapons and nothing violent.
+------------------------------------------------------------------------------
+
+==============================================================================
+1. Rani of Dhalghat  (short story)
+==============================================================================
+FILE NAME: rani-of-dhalghat
+Save it as rani-of-dhalghat.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Rani of Dhalghat", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A village schoolyard near Chittagong in about 1920, morning. Under a big tree, a teacher in a plain white sari sits on a mat telling a story to a circle of small girls in simple cotton frocks and saris, seen from behind and the side. Banana plants, a pond and a thatched school hut in the background. Warm, curious mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Bengali (early 1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The degree that came eighty years late  (short story)
+==============================================================================
+FILE NAME: the-degree-that-came-eighty-years-late
+Save it as the-degree-that-came-eighty-years-late.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The degree that came eighty years late", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A young woman in a plain white sari with a dark border sits at a wooden desk in a high-windowed college library in Calcutta in 1931, seen from behind, a stack of books beside her and one open book in front of her. Late afternoon amber light falls across the desk and shelves. Quiet, studious mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Bengali (early 1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The headmistress and Masterda  (short story)
+==============================================================================
+FILE NAME: the-headmistress-and-masterda
+Save it as the-headmistress-and-masterda.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The headmistress and Masterda", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small village school building near Chittagong in 1932 at dusk, with a thatched roof, a verandah and a path leading away between banana trees and bamboo. A woman in a plain white sari stands at the edge of the path, seen from far behind, looking toward the dark trees, with a school bell hanging on the verandah. Hushed, waiting mood. No weapons, no violence, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Bengali (early 1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
