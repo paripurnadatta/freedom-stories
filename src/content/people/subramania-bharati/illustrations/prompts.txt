@@ -1,0 +1,77 @@
+ILLUSTRATIONS NEEDED: Subramania Bharati. Five paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses; the other stories use real photographs).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The petition from Cuddalore  (flagship story)
+==============================================================================
+FILE NAME: the-petition-from-cuddalore
+Save it as the-petition-from-cuddalore.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The petition from Cuddalore", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small whitewashed prison cell in Cuddalore in 1918, early morning. A thin man in a white cloth and a white turban sits on the stone floor at a low wooden writing desk, seen from behind and the side, writing a long letter on a sheet of paper. Pale gold light falls through a barred window onto the page. A tin cup and a rolled mat lie in the corner. Quiet, tired, thoughtful mood. No guards, no violence, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The boy called Bharati  (short story)
+==============================================================================
+FILE NAME: the-boy-called-bharati
+Save it as the-boy-called-bharati.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The boy called Bharati", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The columned hall of a small royal court in a Tamil village in 1893, afternoon. A boy of about eleven in a simple white cloth stands in the middle of the carpet, seen from behind, facing a row of older scholars in turbans who sit cross-legged and listen. At the far end a king sits on a low carved seat, tiny in the distance. Oil lamps and garlands of flowers, wooden pillars. Hushed, expectant mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. A teacher called Nivedita  (short story)
+==============================================================================
+FILE NAME: a-teacher-called-nivedita
+Save it as a-teacher-called-nivedita.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A teacher called Nivedita", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The grounds of a large Congress meeting in Calcutta in December 1906, evening, with a high cloth tent and many people far away. In the foreground a tall woman in a plain long white dress and veil stands talking to a young Tamil man in a turban and a dark coat, both seen from behind and the side so that no face is clear. A tea table and a lantern stand beside them. Warm lamplight, thoughtful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The last months  (short story)
+==============================================================================
+FILE NAME: the-last-months
+Save it as the-last-months.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The last months", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A temple courtyard in Triplicane, Madras, at dawn in 1921, with a tall carved temple tower and a stone tank. In the far distance a large temple elephant stands chained under a tree, calm. In the foreground a thin man in a white turban and a white shirt sits on the temple steps holding a small basket of fruit, seen from behind and far away. Soft amber light, a few pigeons. Gentle, quiet, a little sad. No one hurt, no injury shown, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The wife who kept the poems  (short story)
+==============================================================================
+FILE NAME: the-wife-who-kept-the-poems
+Save it as the-wife-who-kept-the-poems.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The wife who kept the poems", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A modest room in Madras in the early 1920s, night, with a single brass oil lamp on the floor. A woman in a plain cotton sari sits on a mat with stacks of old papers and little books tied in cloth bundles around her, seen from behind. Beside her a young woman sits with a pen and a notebook, writing as the older woman speaks, also seen from behind. Warm lamplight on indigo shadows. Patient, loving mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
