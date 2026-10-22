@@ -25,21 +25,19 @@ Jawaharlal Nehru did this in 1944. The book was called *The Discovery of India*.
 
 ## Arrested again
 
-On 7 August 1942, Nehru moved the "Quit India" resolution. Two days later, on 9 August, he was arrested. The Nehru Memorial Fund's chronology gives both dates.
-
-The same chronology says he was released on 15 June 1945. So he was in prison for almost three years.
+On 7 August 1942, Nehru moved the "Quit India" resolution. Two days later, on 9 August, he was arrested. He was released on 15 June 1945. So he was in prison for almost three years.
 
 ## Five months
 
 In the book's own preface, Nehru says where and when he wrote it. He wrote it "in Ahmadnagar Fort prison during the five months, April to September, 1944."
 
-That is how he describes it. He does not say he spent the whole three years writing.
+So the writing was only a part of his time in prison.
 
-<aside class="note"><b>Preface</b>: a short note at the start of a book, where the author explains how it was written.</aside>
+a short note at the start of a book, where the author explains how it was written.
 
 ## Not alone
 
-He was not alone in the fort. Other prisoners were there. He thanks his "fellow-prisoners in Ahmadnagar Fort" for "innumerable talks and discussions". He says these helped him "clear" his own mind about Indian history and culture.
+He was not alone in the fort. Twelve Congress leaders were held there in all, Nehru wrote in his diary of 10 September 1942. He thanks his "fellow-prisoners in Ahmadnagar Fort" for "innumerable talks and discussions". These helped him "clear" his own mind about Indian history and culture.
 
 Some of his colleagues read the manuscript. They made what he calls "valuable suggestions". He revised the book in prison, and added some material.
 
@@ -47,17 +45,13 @@ He is careful to say who is not responsible. In his words, "No one, I need hardl
 
 ## Prison life
 
-Nehru does not pretend that prison was nice. He says it was "not a pleasant place to live in". But he also calls it "a privilege" to have lived near "men of outstanding ability and culture".
+Nehru does not pretend that prison was nice. It was "not a pleasant place to live in". But he also calls it "a privilege" to have lived near "men of outstanding ability and culture".
 
-We do not know what the cell looked like, or what time of day he wrote. The preface does not say, so neither do we.
-
-## Dates to keep straight
-
-He was arrested in August 1942 and released in June 1945. The book was written in five months of 1944. So the writing was only a part of his time in prison. We have not read when it was first printed, so we do not give a date for that.
+His preface does not describe the cell, or the hour of day when he wrote.
 
 ## Whose history?
 
-The book is Nehru's own view of India's past. It is not the only one. Other writers saw the same history differently. We read only the preface, not the whole book, so this story does not describe what is inside it.
+The book is Nehru's own view of India's past. It is not the only one. Other writers saw the same history differently. This story draws only on the preface, so it does not describe what is inside the book.
 
 ## Why it matters
 
