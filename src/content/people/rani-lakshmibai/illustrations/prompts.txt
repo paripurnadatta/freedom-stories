@@ -1,7 +1,23 @@
 ILLUSTRATIONS NEEDED: rani-lakshmibai
-SHORT story scene. Symbolic: no real person's face is shown.
+Two SHORT story scenes. Symbolic: no real person's face is shown.
 
+=======================================================================
+1. Jhalkaribai, the soldier her people remember  (short story)
 ==============================================================================
+FILE NAME: jhalkaribai-the-soldier-her-people-remember
+Save it as jhalkaribai-the-soldier-her-people-remember.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Jhalkaribai, the soldier her people remember", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in a Bundelkhand village in the retelling of an old village tale: a courtyard of mud-plastered houses with a neem tree, a small oil lamp glowing on the ground, and a circle of women and children in simple cotton saris and kurtas sitting close together, seen from behind and from the side, listening to an old woman who is telling a story and gesturing with one raised hand. On a distant hill, the dark silhouette of a fort in the last orange light. A spindle and a brass pot beside the lamp. No faces in detail, no portrait of any real person, no weapons, no flag, no readable text. A warm, storytelling mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+
+=======================================================================
 2. What the Rani knew about Jokhan Bagh  (short story)
 ==============================================================================
 FILE NAME: what-the-rani-knew-about-jokhan-bagh
@@ -15,3 +31,4 @@ June 1857, a quiet room in a small-town palace in Jhansi at dusk. A low wooden w
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
