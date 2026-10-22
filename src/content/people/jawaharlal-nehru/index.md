@@ -111,12 +111,13 @@ angles:
     type: short
     hook: "A sad speech in June and a hopeful one in August 1947."
     story: "a-promise-at-midnight"
+  - title: "Nine years behind bars"
+    type: flagship
+    hook: "We added up the dates of his ten spells in prison, and looked at what he wrote inside."
+    story: "nine-years-behind-bars"
   - title: "Two homes, two meanings"
     type: flagship
     hook: "How did a family house become a base for the freedom movement?"
-  - title: "Kamala was not a footnote"
-    type: short
-    hook: "What did Kamala Nehru do, and how did illness shape the family?"
   - title: "The journey beyond India's borders"
     type: short
     hook: "Why did Nehru go to Brussels and Moscow in 1927?"

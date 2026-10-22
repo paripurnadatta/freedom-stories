@@ -3,27 +3,35 @@ id: IF-0197
 kind: person
 name: "Kamala Nehru"
 wikidata: "Q3633365"
-summary: "Staged historical profile"
-born: "1899"
-died: "1936"
+summary: "Kamala Nehru was the wife of Jawaharlal Nehru and a Congress worker in her own right. She picketed shops, ran a dispensary, led work in Allahabad in 1930 and was jailed in 1931. She died of illness in Switzerland in 1936."
+born: "1 August 1899"
+died: "28 February 1936"
 year: 1920
 region: "United Provinces"
-role: "Revolutionary / activist"
+role: "Congress worker / activist"
 places: []
 related:
   - "non-cooperation-and-khilafat-movement"
   - "civil-disobedience-movement"
   - "jawaharlal-nehru"
 sources:
-  - title: "Mahadevappa Mailar commemorative stamp summary"
-    url: "https://istampgallery.com/mahadevappa-mailar/"
-    publisher: "iStampGallery (summarising India Post 2018 brochure)"
-  - title: "K. P. Keshava Menon"
-    url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?3266="
-    publisher: "Ministry of Culture, Government of India"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Kamala Nehru"
+    url: "https://en.wikipedia.org/wiki/Kamala_Nehru"
+    publisher: "Wikipedia"
+  - title: "Kamala Nehru"
+    url: "https://nehruarchive.in/people/kamala-nehru"
+    publisher: "The Nehru Archive"
+  - title: "Kamala Nehru (stamp page, summarising India Post's brochure)"
+    url: "https://istampgallery.com/kamala-nehru/"
+    publisher: "iStampGallery"
+  - title: "Jawaharlal Nehru: Chronology"
+    url: "https://www.jnmf.in/chrono.html"
+    publisher: "Jawaharlal Nehru Memorial Fund"
+angles:
+  - title: "Kamala was not a footnote"
+    type: flagship
+    hook: "She read her husband's speech to a crowd, ran a dispensary and was jailed in 1931."
+    story: "kamala-not-a-footnote"
 image:
   src: "/files/people/kamala-nehru/portrait.webp"
   alt: "Kamala Nehru"

@@ -139,8 +139,9 @@ which ones should be redone and why.
 | Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
+| Kamala Nehru | 1 (flagship) | uses her portrait |
 | B. R. Ambedkar | 6 (2 flagship, 4 short) | 4 prompts waiting |
-| Jawaharlal Nehru | 8 (short) | 7 prompts waiting |
+| Jawaharlal Nehru | 9 (1 flagship, 8 short) | 7 prompts waiting |
 | Shivaram Rajguru | 4 (short) | done |
 | Durga Bhabhi | 1 (school story held back: sources blocked) | done |
 | Rajendra Lahiri | 2 (short) | done |
