@@ -1,0 +1,362 @@
+ILLUSTRATIONS NEEDED: 24 paintings for six subjects (Birsa Munda, Khan Abdul Ghaffar Khan, Rani Velu Nachiyar, Dadabhai Naoroji, Subramania Bharati, Udham Singh). Only owner-generated, automatically labelled illustrations. Nobody's face is shown. Name each file exactly as its FILE NAME; the subject in square brackets tells you which folder it belongs to.
+------------------------------------------------------------------------------
+
+==============================================================================
+1. [Birsa Munda] The hill at Dumari  (flagship story)
+==============================================================================
+FILE NAME: the-hill-at-dumari
+Save it as the-hill-at-dumari.png (or .jpg / .webp) in the folder for Birsa Munda.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The hill at Dumari", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A forested hill in the Chotanagpur plateau, India, at first light in January 1900. Low fences of wooden stakes, made by villagers, run across the hillside between tall sal trees. Behind the stakes, Munda families sit and stand close together: men with bows and long cloth turbans, women in white saris with red borders carrying cooking pots and bundles, small children. All are seen from a distance or from behind so no faces show. Far below on the road, a small line of soldiers is just visible in the mist. Thin smoke rises from cooking fires. Tense, quiet, sorrowful mood. No fighting, no one hurt, no guns pointed, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. [Birsa Munda] Dharti Aba  (flagship story)
+==============================================================================
+FILE NAME: dharti-aba
+Save it as dharti-aba.png (or .jpg / .webp) in the folder for Birsa Munda.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Dharti Aba", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A village in a jungle tract of Jharkhand in the heavy monsoon of 1895. Mud-walled houses with tiled roofs and small paths of red earth. Crowds of Munda villagers, men, women and children, sit and stand under trees and under large umbrellas made of bamboo and leaves that are stuck in the ground, sheltering from the rain. A young man in a simple white cloth and turban sits on a low platform in the middle distance, seen from far away or from behind so no face is clear, with people gathered quietly around him. Wet leaves, grey-green light with warm lamp glow in the doorways. Calm, hopeful, crowded mood. No fire in the sky, no miracles shown, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. [Birsa Munda] The petitions that came first  (short story)
+==============================================================================
+FILE NAME: the-petitions-that-came-first
+Save it as the-petitions-that-came-first.png (or .jpg / .webp) in the folder for Birsa Munda.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The petitions that came first", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small verandah of an old colonial court office in Ranchi in the 1880s, late morning. A group of Munda and Oraon farmers in cloth turbans and plain white dhotis stand and sit patiently on the steps with folded papers in their hands. A clerk in a long coat and cap writes at a low table, seen from the side. Beyond the verandah, tall sal trees and a dusty road. Slow, patient, hopeful but tired mood. All faces turned away or in shadow. No British officials with weapons, no flag, no readable writing on any paper.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. [Birsa Munda] The priest who explained the Mundas  (short story)
+==============================================================================
+FILE NAME: the-priest-who-explained-the-mundas
+Save it as the-priest-who-explained-the-mundas.png (or .jpg / .webp) in the folder for Birsa Munda.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The priest who explained the Mundas", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The shaded verandah of a village police station in Khunti in early 1900. A tall European priest in a long dark robe with a beard, seen mostly from the side and behind, sits on a bench and speaks quietly to an official in a pith helmet. In front of them, a small group of Munda villagers stand with bowed heads and hands folded, in white cloth and turbans. Soft afternoon light, sal trees behind. Calm, serious, fair-minded mood. No weapons, no arrests shown, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. [Birsa Munda] The jail in Ranchi  (short story)
+==============================================================================
+FILE NAME: the-jail-in-ranchi
+Save it as the-jail-in-ranchi.png (or .jpg / .webp) in the folder for Birsa Munda.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The jail in Ranchi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The outside of a whitewashed jail wall in Ranchi at dusk in 1900. A long high white wall with a heavy wooden gate, a few tiny barred windows, and a small watchtower. In front, a red dust road runs away toward dark sal forest on the horizon. A single small group of Munda women in white saris sit together on the ground far from the gate, seen from behind so no faces show, waiting quietly. The sky glows saffron and fades to indigo. Quiet, sorrowful, still mood. No guards pointing weapons, no one hurt, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. [Khan Abdul Ghaffar Khan] The red shirts  (flagship story)
+==============================================================================
+FILE NAME: the-red-shirts
+Save it as the-red-shirts.png (or .jpg / .webp) in the folder for Khan Abdul Ghaffar Khan.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The red shirts", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A farm field in the Peshawar valley in 1929-30, late afternoon, with distant snowy hills behind. A long line of Pakhtun volunteers marches along a dirt path between wheat fields, all in shirts, loose trousers and turbans dyed the same deep brownish red. They carry no weapons and no sticks. A few men at the front play bagpipes and drums. In the near fields, farmers have stopped ploughing, with oxen standing beside them, and turn to watch. Everyone is seen from behind or far away, so no faces are clear. Orderly, calm, curious mood. No flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. [Khan Abdul Ghaffar Khan] The day in Qissa Khwani Bazaar  (flagship story)
+==============================================================================
+FILE NAME: the-day-in-qissa-khwani-bazaar
+Save it as the-day-in-qissa-khwani-bazaar.png (or .jpg / .webp) in the folder for Khan Abdul Ghaffar Khan.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The day in Qissa Khwani Bazaar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A narrow old bazaar street in Peshawar, April 1930, tall wooden balconies on both sides, shop shutters closed. A crowd of men in white and grey turbans and shawls sits and stands quietly in the middle of the street, seen from behind, facing the far end of the street where one dark boxy armoured car stands small in the distance. Nobody carries a weapon. A few men kneel helping a friend with a cloth, shown gently and without any blood. Dusty golden light, heavy stillness. No guns pointed, no one falling, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+8. [Khan Abdul Ghaffar Khan] The officer's remark  (short story)
+==============================================================================
+FILE NAME: the-officers-remark
+Save it as the-officers-remark.png (or .jpg / .webp) in the folder for Khan Abdul Ghaffar Khan.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The officer's remark", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A street in Peshawar around 1906. Two young Indian men in neat army-style tunics stand talking at the edge of the road, seen from behind. A little way off, a British young officer in a khaki uniform and cap walks away, seen from the side at a distance, with his chin raised. Old brick shops and a tonga with a horse in the background. Warm afternoon light. Quiet, tense, thoughtful mood. No weapons drawn, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+9. [Khan Abdul Ghaffar Khan] The prisoner who ground the corn  (short story)
+==============================================================================
+FILE NAME: the-prisoner-who-ground-the-corn
+Save it as the-prisoner-who-ground-the-corn.png (or .jpg / .webp) in the folder for Khan Abdul Ghaffar Khan.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The prisoner who ground the corn", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The inside of a small stone jail cell in the Punjab in 1922, with a tiny barred window high in the wall letting in a single beam of light. A very tall man in short, tight, coarse white jail clothes sits on the floor, seen from behind, turning the handle of a stone hand-mill, with a little pile of flour beside it. In the open doorway, an elderly jailor with a white beard and a turban stands quietly, seen from the side at a distance, with his hands open as if pleading. Warm light on the stone, deep blue shadows. Calm, steady, respectful mood. No chains shown on anyone's neck, no beating, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+10. [Rani Velu Nachiyar] The fall of Kalaiyar Kovil  (flagship story)
+==============================================================================
+FILE NAME: the-fall-of-kalaiyar-kovil
+Save it as the-fall-of-kalaiyar-kovil.png (or .jpg / .webp) in the folder for Rani Velu Nachiyar.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The fall of Kalaiyar Kovil", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dawn at an old stone palace gateway in the Tamil country in June 1772, with a carved entrance tower and a wide dusty road. Thin smoke rises far away over the trees. A woman in a deep red silk sari with a long dark plait walks away along the road, seen from behind, holding the hand of a small girl. Beside them walks an elderly man in a white cloth and turban, also seen from behind. In the far distance, tiny soldiers in dark coats stand in rows by a gun, too far away to see clearly. Sorrowful, quiet mood. No fighting, no one hurt, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+11. [Rani Velu Nachiyar] Eight years at Virupachi  (flagship story)
+==============================================================================
+FILE NAME: eight-years-at-virupachi
+Save it as eight-years-at-virupachi.png (or .jpg / .webp) in the folder for Rani Velu Nachiyar.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Eight years at Virupachi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small fort courtyard on a rocky hill near Dindigul in the 1770s, hot golden afternoon, palm trees and a distant rock fortress. A woman in a dark green sari sits on the floor at a low wooden desk, seen from behind and the side, while an elderly minister in a white turban beside her writes a letter on a long palm leaf with a pointed stylus. Behind them, a few horsemen in turbans water their horses at a stone trough, seen from far away. Patient, waiting mood. No weapons pointed, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+12. [Rani Velu Nachiyar] The return of 1780  (flagship story)
+==============================================================================
+FILE NAME: the-return-of-1780
+Save it as the-return-of-1780.png (or .jpg / .webp) in the folder for Rani Velu Nachiyar.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The return of 1780", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A road in Tamil Nadu in 1780 leading to a town gate with a tall carved tower, early morning gold light. A woman on a white horse, seen from behind, wearing a red silk sari with a gold border, rides at the front. Two men in turbans ride on either side of her, also seen from behind. Behind them a long, calm line of foot soldiers and horsemen with spears held upright and pointing at the sky, and villagers standing along the road with folded hands. Hopeful, dignified mood. No battle, no fighting, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+13. [Rani Velu Nachiyar] Kuyili: a song and a doubt  (short story)
+==============================================================================
+FILE NAME: kuyili-a-song-and-a-doubt
+Save it as kuyili-a-song-and-a-doubt.png (or .jpg / .webp) in the folder for Rani Velu Nachiyar.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kuyili: a song and a doubt", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A Tamil village at night, in the present day, under a huge banyan tree. A group of elderly village women in cotton saris sit in a circle on the ground around a single brass oil lamp, singing, seen from behind and the side so that no face is clear. A small stone shrine with a lit lamp stands behind them. A young man with a notebook sits a little apart, listening. Warm lamplight against deep indigo night, fireflies. Gentle, respectful, thoughtful mood. No fire apart from the small lamps, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+14. [Rani Velu Nachiyar] Two dates and one title  (short story)
+==============================================================================
+FILE NAME: two-dates-and-one-title
+Save it as two-dates-and-one-title.png (or .jpg / .webp) in the folder for Rani Velu Nachiyar.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two dates and one title", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet old record room in a palace in Sivaganga, afternoon light falling through a carved window. Bundles of palm-leaf manuscripts are tied with string on wooden shelves. On a low table lie two palm leaves side by side with blank, unmarked surfaces, and a brass lamp. A single empty carved wooden chair stands in the soft light. No people. Calm, searching mood. No flag, no readable writing, no marks that look like letters.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+15. [Dadabhai Naoroji] The oil lamp and the girls' schools  (short story)
+==============================================================================
+FILE NAME: the-oil-lamp-and-the-girls-schools
+Save it as the-oil-lamp-and-the-girls-schools.png (or .jpg / .webp) in the folder for Dadabhai Naoroji.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The oil lamp and the girls' schools", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A Bombay sitting room in the 1840s in the evening, with a carved wooden ceiling and a brass oil lamp burning on a low table. An older Parsi gentleman in a long white coat and tall dark hat sits on a cushioned chair, seen from the side and behind. A young man in a white coat leans forward as he talks, also with his face turned away. Through an open window, the lamps of the town glow in the dusk, and a little girl's school slate lies on a nearby shelf. Quiet, thoughtful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate nineteenth-century western Indian (Bombay and Gujarat) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+16. [Dadabhai Naoroji] A year in Baroda  (short story)
+==============================================================================
+FILE NAME: a-year-in-baroda
+Save it as a-year-in-baroda.png (or .jpg / .webp) in the folder for Dadabhai Naoroji.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A year in Baroda", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The courtyard of a large palace in a princely state in western India in 1874, early morning, with arched stone galleries and a fountain. A tall man in a white coat and a dark Parsi cap walks along a gallery holding a roll of papers, seen from behind. Court officials in turbans stand in small groups in the courtyard, far away, talking quietly. Soft light, a grave, uncertain mood. No weapons, no poison, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate nineteenth-century western Indian (Bombay and Gujarat) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+17. [Subramania Bharati] The petition from Cuddalore  (flagship story)
+==============================================================================
+FILE NAME: the-petition-from-cuddalore
+Save it as the-petition-from-cuddalore.png (or .jpg / .webp) in the folder for Subramania Bharati.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The petition from Cuddalore", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small whitewashed prison cell in Cuddalore in 1918, early morning. A thin man in a white cloth and a white turban sits on the stone floor at a low wooden writing desk, seen from behind and the side, writing a long letter on a sheet of paper. Pale gold light falls through a barred window onto the page. A tin cup and a rolled mat lie in the corner. Quiet, tired, thoughtful mood. No guards, no violence, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+18. [Subramania Bharati] The boy called Bharati  (short story)
+==============================================================================
+FILE NAME: the-boy-called-bharati
+Save it as the-boy-called-bharati.png (or .jpg / .webp) in the folder for Subramania Bharati.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The boy called Bharati", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The columned hall of a small royal court in a Tamil village in 1893, afternoon. A boy of about eleven in a simple white cloth stands in the middle of the carpet, seen from behind, facing a row of older scholars in turbans who sit cross-legged and listen. At the far end a king sits on a low carved seat, tiny in the distance. Oil lamps and garlands of flowers, wooden pillars. Hushed, expectant mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+19. [Subramania Bharati] A teacher called Nivedita  (short story)
+==============================================================================
+FILE NAME: a-teacher-called-nivedita
+Save it as a-teacher-called-nivedita.png (or .jpg / .webp) in the folder for Subramania Bharati.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A teacher called Nivedita", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The grounds of a large Congress meeting in Calcutta in December 1906, evening, with a high cloth tent and many people far away. In the foreground a tall woman in a plain long white dress and veil stands talking to a young Tamil man in a turban and a dark coat, both seen from behind and the side so that no face is clear. A tea table and a lantern stand beside them. Warm lamplight, thoughtful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+20. [Subramania Bharati] The last months  (short story)
+==============================================================================
+FILE NAME: the-last-months
+Save it as the-last-months.png (or .jpg / .webp) in the folder for Subramania Bharati.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The last months", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A temple courtyard in Triplicane, Madras, at dawn in 1921, with a tall carved temple tower and a stone tank. In the far distance a large temple elephant stands chained under a tree, calm. In the foreground a thin man in a white turban and a white shirt sits on the temple steps holding a small basket of fruit, seen from behind and far away. Soft amber light, a few pigeons. Gentle, quiet, a little sad. No one hurt, no injury shown, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+21. [Subramania Bharati] The wife who kept the poems  (short story)
+==============================================================================
+FILE NAME: the-wife-who-kept-the-poems
+Save it as the-wife-who-kept-the-poems.png (or .jpg / .webp) in the folder for Subramania Bharati.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The wife who kept the poems", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A modest room in Madras in the early 1920s, night, with a single brass oil lamp on the floor. A woman in a plain cotton sari sits on a mat with stacks of old papers and little books tied in cloth bundles around her, seen from behind. Beside her a young woman sits with a pen and a notebook, writing as the older woman speaks, also seen from behind. Warm lamplight on indigo shadows. Patient, loving mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early twentieth-century Tamil Nadu clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+22. [Udham Singh] Sher Singh becomes Udham Singh  (short story)
+==============================================================================
+FILE NAME: sher-singh-becomes-udham-singh
+Save it as sher-singh-becomes-udham-singh.png (or .jpg / .webp) in the folder for Udham Singh.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Sher Singh becomes Udham Singh", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The courtyard of a plain brick orphanage in Amritsar in 1907, early evening, with a well, a neem tree and a verandah. Two small boys in simple cotton clothes, one a little taller than the other, stand close together at the edge of the courtyard, seen from behind, looking at a row of boys in blue turbans sitting on mats and listening to a teacher. A single oil lamp glows on the verandah. Quiet, uncertain, hopeful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+23. [Udham Singh] Caxton Hall, 13 March 1940  (flagship story)
+==============================================================================
+FILE NAME: caxton-hall-13-march-1940
+Save it as caxton-hall-13-march-1940.png (or .jpg / .webp) in the folder for Udham Singh.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Caxton Hall, 13 March 1940", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The outside of a grey London meeting hall in the late afternoon of March 1940, with tall windows, a stone porch and wet pavements, and a few black cars and bicycles parked along the kerb. A small group of people in overcoats and hats are walking up the steps, seen from behind and far away. Low cloud, pale amber light from the windows. Still, grave mood, nothing happening yet. No violence, no weapons, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+24. [Udham Singh] Seven letters from Brixton  (short story)
+==============================================================================
+FILE NAME: seven-letters-from-brixton
+Save it as seven-letters-from-brixton.png (or .jpg / .webp) in the folder for Udham Singh.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seven letters from Brixton", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small stone prison cell in London in 1940, early evening. A man in plain dark clothes and a plain turban sits on a narrow bed, seen from behind and the side, writing on a sheet of paper on his knee with a stack of three books beside him. A single barred window lets in a thin band of amber light. Quiet, thoughtful mood. No guards, no violence, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
