@@ -52,11 +52,11 @@ The page also has a photograph of a man in a hat. The name under it appears to b
 
 ## The date
 
-The Tribune's own archive says the three men were executed in Central Jail, Lahore, on 23 March 1931.
+The three men were executed in Central Jail, Lahore, on 23 March 1931, says the Tribune's own archive. The hanging took place in the evening of that day, says LiveLaw. That was not the usual time. Hangings were normally done in the morning.
 
-LiveLaw says the hanging took place in the evening of that day. It adds that this was not the usual time. Hangings were normally done in the morning.
+So the newspaper carries a date two days later than the event.
 
-So the newspaper carries a date two days later than the event. We cannot tell from this page alone why. We have not opened the Tribune issues of 24 March.
+<aside class="note"><b>A gap in our reading</b>: we cannot tell from this page alone why the paper is dated the 25th. We have not opened the Tribune issues of 24 March.</aside>
 
 ## An old page as evidence
 
@@ -66,7 +66,7 @@ Later books and speeches tell us what people remembered. A newspaper from the we
 
 But even a newspaper can make mistakes. It also tells only what its editors knew, or were allowed to print. That is why historians like to check several papers and records.
 
-The Commons page for this scan does not name the person who made it. So we cannot give a name for credit. We give only the newspaper, which is in the public domain.
+The Commons page for this scan does not name the person who made it, so we cannot give a name for credit. We give only the newspaper, which is in the public domain.
 
 ## What the page leaves out
 

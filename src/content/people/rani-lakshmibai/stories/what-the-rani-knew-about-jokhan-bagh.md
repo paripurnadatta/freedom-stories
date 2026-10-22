@@ -30,13 +30,11 @@ This is a sad and hard part of the story. It needs to be told honestly, and with
 
 ## What happened
 
-In early June 1857, the Indian soldiers at Jhansi rose against their British officers. Wikipedia says that on 5 June a company of infantry took the ammunition store. The next day they shot their British commander.
+In early June 1857, the Indian soldiers at Jhansi rose against their British officers. On 5 June a company of infantry took the ammunition store. The next day they shot their British commander.
 
-About sixty British people, including women and children, took shelter in the fort. On 8 June, the Wikipedia article says, they gave up after being promised safe passage. They were led to a garden called Jokhan Bagh, and nearly all of them were killed.
+About sixty British people, including women and children, took shelter in the fort. They gave up after being promised safe passage. They were led to a garden called Jokhan Bagh, and nearly all of them were killed. One woman, a Mrs Mutlow, lived through it.
 
-<aside class="note"><b>Two versions</b>: The article on the Rani says the surrender was on 8 June. The article on the siege says 7 June. National Geographic says "more than 60" people died, mostly women and children. The sources agree on the horror and differ on the details.</aside>
-
-Wikipedia says one woman, a Mrs Mutlow, lived through it.
+<aside class="note"><b>Two versions</b>: Wikipedia's article on the Rani says the surrender was on 8 June. Its article on the siege says 7 June. National Geographic says "more than 60" people died, mostly women and children. The sources agree on the horror and differ on the details.</aside>
 
 ## Who gave the promise?
 
@@ -44,33 +42,35 @@ This is the question. Wikipedia says "an unknown person" agreed to let the Briti
 
 ## The charges against the Rani
 
-Some British writers blamed the Rani. Wikipedia names a tax collector, S. Thornton, who wrote that she had stirred up the revolt. It says two other witnesses, whom it calls questionable, said that she killed three British messengers and gave false promises of safety.
+Some British writers blamed the Rani. A tax collector, S. Thornton, wrote that she had stirred up the revolt. Two other witnesses, whom Wikipedia calls questionable, said that she killed three British messengers and gave false promises of safety.
 
-Wikipedia adds that things belonging to the dead were later found in her palace. It also says her father, Moropant, took an active part.
+Things belonging to the dead were later found in her palace, Wikipedia adds. Her father, Moropant, also took an active part.
 
 ## What she wrote
 
-In mid-June, the Rani wrote two letters to a British officer, Major Erskine. Wikipedia says she told him the soldiers had surrounded her palace. They had threatened to burn it, and even to kill her, if she did not help them. She said she had given them men and guns because she had no choice.
+In mid-June, the Rani wrote two letters to a British officer, Major Erskine. She told him the soldiers had surrounded her palace. They had threatened to burn it, and even to kill her, if she did not help them. She said she had given them men and guns because she had no choice.
 
-National Geographic says she wrote that she hoped the soldiers would "go straight to hell for their deeds." It says the Company did not believe her.
+National Geographic says she wrote that she hoped the soldiers would "go straight to hell for their deeds." The Company did not believe her.
 
-Wikipedia says Erskine believed her. His bosses in Calcutta did not.
+Erskine believed her. His bosses in Calcutta did not.
 
-An official inquiry was held. Wikipedia says its author, F. W. Pinkney, "came to no clear conclusion."
+An official inquiry was held. Its author, F. W. Pinkney, "came to no clear conclusion."
 
 ## The priest's silence
 
-Vishnubhat Godse was a priest who was in Jhansi that month. His book says the soldiers rioted and killed the few British people in the cantonment. It says they then went to the Rani's house, told her they served her, and said she paid them. Godse does not describe the events at Jokhan Bagh in the part we could read.
+Vishnubhat Godse was a priest who was in Jhansi that month. His book says the soldiers rioted and killed the few British people in the cantonment. They then went to the Rani's house, told her they served her, and said she paid them. In the part we could read, Godse does not describe the events at Jokhan Bagh.
 
 He disapproved of the killing of the British families. He wrote that the rebels' conduct went "beyond the cause of freeing the land."
 
 ## A problem for storytellers
 
-Wikipedia states the difficulty in a plain way. If the Rani took part from the start, her reputation suffers. If she was forced, the story of her bravery becomes smaller. Writers on both sides have struggled with this.
+Wikipedia states the difficulty plainly. If the Rani took part from the start, her reputation suffers. If she was forced, the story of her bravery becomes smaller. Writers on both sides have struggled with this.
 
 ## What we can say
 
-We can say that the killings happened. We can say that British officers disagreed among themselves about her part. We can say she wrote that she was forced. We cannot say what she knew, or what she wanted, because no one who was in the room wrote it down.
+The killings happened. British officers disagreed among themselves about her part. She wrote that she was forced.
+
+What she knew, or what she wanted, is not clear. Nobody who was in the room wrote it down.
 
 ## Why it matters
 
