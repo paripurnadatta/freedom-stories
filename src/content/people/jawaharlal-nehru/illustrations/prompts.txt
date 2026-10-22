@@ -1,0 +1,119 @@
+ILLUSTRATIONS NEEDED: Jawaharlal Nehru
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude, who places and reviews the art before publication.
+     After an owner-provided image is checked, run: node scripts/place-illustrations.mjs
+
+Only proposed stories without a suitable exact archival scene are listed.
+The other angles have real free-use photographs or can use an honest date card.
+No prompt is a claim that the pictured detail is documented. Paintings on the
+site receive an AI-generated label automatically; NEVER remove that label.
+Use the file NAME EXACTLY, matching each proposed story slug. All are 16:6.
+
+==============================================================================
+1. The boy surrounded by books  (short proposal; Claude writes the story)
+==============================================================================
+FILE NAME: the-boy-surrounded-by-books
+Save it as the-boy-surrounded-by-books.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "The boy surrounded by books" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+About 1901, an educated household in Allahabad: a long low wooden table with closed books, a simple brass globe, and a young Indian boy of about eleven seen in three-quarter rear view turning pages, without legible print. Modest period furnishings inside an affluent house; no invented portrait likeness, no labels on globe, no parents or named tutors. Quiet morning light with layered book shadows. Artistic interpretation, NOT an exact reconstruction of Nehru's room.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A lawyer meets Gandhi and the farmers  (flagship proposal; Claude writes the story)
+==============================================================================
+FILE NAME: a-lawyer-meets-the-farmers
+Save it as a-lawyer-meets-the-farmers.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "A lawyer meets Gandhi and the farmers" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Pratapgarh district in the early 1920s, a rural path near fields with a small group of farmers wearing plausible 1920s North Indian cotton clothing, seen from a respectful distance, standing in conversation with a young Indian visitor in simple khadi attire, turned away from the viewer. No identifiable exact faces or assertion that this scene is a documented particular meeting. No banners, crowd slogans, speeches or fake period notices. Extra-wide reflective countryside scene.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Letters that carried the whole world  (flagship proposal; Claude writes the story)
+==============================================================================
+FILE NAME: letters-that-carried-the-world
+Save it as letters-that-carried-the-world.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "Letters that carried the whole world" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Around 1928, an Allahabad writing desk seen slightly from above. A man's hand next to an inkpot, pencils, closed books about geography, a small accurate unlabelled globe and a folded plain sheet with no readable ink. The middle-aged Indian father is only faintly visible as a far-off silhouette near a window; a second empty chair is a visual symbol of the absent daughter, NOT an invented documented exchange. No maps with legible city labels, no fake facsimile of a real letter. Extra-wide 16:6 composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The word independence, argued twice  (flagship proposal; Claude writes the story)
+==============================================================================
+FILE NAME: the-word-independence-argued-twice
+Save it as the-word-independence-argued-twice.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "The word independence, argued twice" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Interpretive 1928 Indian Congress meeting room after a meeting, two empty cane chairs facing one another across a sturdy table, two blank parchment sheets, inkpots, an old ceiling fan and soft daylight through tall wooden shutters. No portraits or supposed reconstructed Gandhi–Nehru confrontation. All papers blank or unreadable, no banners, emblems, political logos or readable lettering. Focus on two paths of political thought; extra-wide composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. A promise beside the Ravi  (flagship proposal; Claude writes the story)
+==============================================================================
+FILE NAME: a-promise-beside-the-ravi
+Save it as a-promise-beside-the-ravi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "A promise beside the Ravi" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Winter 1929 Lahore near the Ravi river, an interpretive empty edge of a temporary open-air meeting space: period wooden dais viewed from the side, rows of simple empty cane chairs, winter shawls folded on one bench, riverbank beyond, a few plain poles with NO flags or banners. Do NOT invent a specific flag ceremony, number of attendees, decorations or people saying words. Atmospheric but restrained period scene, 16:6 extra-wide.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The book written between prison doors  (short proposal; Claude writes the story)
+==============================================================================
+FILE NAME: the-book-written-between-prison-doors
+Save it as the-book-written-between-prison-doors.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "The book written between prison doors" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A generic British-era Indian prison writing room during the mid-1930s: a plain wooden table holding an inkpot, a stack of unmarked paper with no words, a simple stool and a folded white cotton garment. Light enters through a high barred window; no inmate, no guard and no claim this exactly recreates Nehru's actual cell. Do not show made-up original prison letters. Wide thoughtful composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. Discovering India behind the fort walls  (flagship proposal; Claude writes the story)
+==============================================================================
+FILE NAME: discovering-india-behind-the-fort-walls
+Save it as discovering-india-behind-the-fort-walls.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels.
+Where it goes: top of future story "Discovering India behind the fort walls" and its card; this story has NOT been written.
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Inside an interpretive 1944 stone chamber of Ahmednagar Fort: old stone masonry, high barred window, a simple writing table and unmarked notebooks, a cup of water, a few closed books with blank spines. A distant middle-aged Indian writer seen from behind, recognisable only as a generic slight figure in simple white clothes, not a claimed facial reconstruction. This is an illustration of research/writing, not a photograph of the exact room. No legible text or original document facsimiles. Extra-wide composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
