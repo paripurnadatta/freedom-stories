@@ -53,3 +53,33 @@ PROMPT (copy everything between the lines):
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+4. The grave, the statue and the film  (flagship story)
+==============================================================================
+FILE NAME: the-grave-the-statue-and-the-film
+Save it as the-grave-the-statue-and-the-film.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The grave, the statue and the film", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late afternoon in a quiet graveyard in Shahjahanpur, Uttar Pradesh. A simple whitewashed grave with a low rim, strewn with marigold petals and a small clay lamp, lies under an old neem tree. A few visitors, a grandmother, a man in a cap and two schoolchildren, stand a little way back, all seen from behind. In the far distance a small town skyline with a plain brick wall. Soft, respectful, remembering mood. No readable inscription, no faces, no flag. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The words he left  (short story)
+==============================================================================
+FILE NAME: the-words-he-left
+Save it as the-words-he-left.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The words he left", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A bare stone jail cell in Faizabad at dawn in December 1927. A narrow shaft of pale golden light falls from a high barred window onto a plain wooden stool, a tin cup and a folded cotton blanket. Beside them lies a small closed notebook with a plain cover and nothing written on it that can be read. No person shown. Quiet, calm, thoughtful mood. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

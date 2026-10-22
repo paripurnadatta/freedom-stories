@@ -12,3 +12,63 @@ PROMPT:
 A small primary school in a village of the United Provinces in the early 1920s, seen from the doorway: a young teacher in a plain dhoti and kurta stands at a blackboard with his back to us, children sit cross-legged on a mud floor with slates, sunlight falls through a low door. Beyond the open door, a dusty lane leads away towards the town. No faces shown clearly, no police, no flag or banners, no readable writing on the board. Quiet, hopeful mood, as if a path is about to open. Wide 16:6 composition.
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+3. The village, the river and the bridge  (short story)
+==============================================================================
+FILE NAME: the-village-the-river-and-the-bridge
+Save it as the-village-the-river-and-the-bridge.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The village, the river and the bridge", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Monsoon afternoon at the village of Nawada in Uttar Pradesh. A wide, swollen brown river has covered the dirt lane that leads to the main road, cutting the village off. On the village bank, a small group of villagers wait with bundles and a cart, seen from behind: a woman with a child, an old man with a stick, a boy with a goat. Mud-brick houses and mango trees rise behind them, and heavy grey clouds fill the sky. Patient, hard, waiting mood. No bridge shown, no faces, no flag. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The wrestler from Nawada  (flagship story)
+==============================================================================
+FILE NAME: the-wrestler-from-nawada
+Save it as the-wrestler-from-nawada.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The wrestler from Nawada", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dawn in a village akhara, an earthen wrestling pit, in Uttar Pradesh in the 1910s. A strong young man in a loincloth stands in the soft red earth, seen from behind, his broad shoulders dusted with soil, a wooden club resting nearby. Banyan roots, a small shrine and a mud wall surround the pit, and a few villagers sit on the edge. Golden light cuts through morning mist. Strong, calm, disciplined mood. No face, no weapons pointed at anyone. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Two weeks in December  (flagship story)
+==============================================================================
+FILE NAME: two-weeks-in-december
+Save it as two-weeks-in-december.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two weeks in December", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A bare stone jail cell in Allahabad at night in December 1927. On a plain cloth on the floor lie a small closed book with a plain cover and a folded letter whose surface shows only faint unreadable marks, beside a single small oil lamp. The first grey light of dawn begins to show through a high barred window. No person shown, no faces. Quiet, prayerful, solemn mood. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. What Roshan Singh said to the judge  (short story)
+==============================================================================
+FILE NAME: what-roshan-said-to-the-judge
+Save it as what-roshan-said-to-the-judge.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "What Roshan Singh said to the judge", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A large colonial courtroom in Lucknow on a spring morning in 1927. In the middle, four men in plain kurtas and caps stand together in the dock, seen only from behind, standing straight and calm. Facing them, a high carved judge's bench in shadow, with a clerk bent over papers that show only unreadable marks. Spectators on the benches are small and blurred. Dust floats in a shaft of light from a high window. Serious, still mood. No faces, no weapons, no text. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

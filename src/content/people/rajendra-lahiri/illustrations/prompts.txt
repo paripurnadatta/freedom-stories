@@ -14,3 +14,63 @@ Where: story top and card.
 PROMPT:
 Symbolic, empty 1920s colonial Indian prison corridor: thick masonry walls, a small barred high window, two sturdy wooden cell doors, pale daylight across a stone floor. No prison inmate, no execution, no gallows, no guards, no text, no date on walls or papers, no historically unverified actions. Respectful, quiet historical scene, extra wide.
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+
+==============================================================================
+3. A boy from Pabna in Banaras  (flagship story)
+==============================================================================
+FILE NAME: a-boy-from-pabna-in-banaras
+Save it as a-boy-from-pabna-in-banaras.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "A boy from Pabna in Banaras", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dawn at a Banaras ghat around 1910. A boy of about nine in a simple dhoti and shirt sits on the broad stone steps with a small cloth bundle beside him, seen from behind, looking out over the wide Ganga. Moored boats, a priest's umbrella and temple spires glow in the first golden light. The mood is both lonely and full of wonder. No readable writing, no faces. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Lahiri Day in Gonda  (short story)
+==============================================================================
+FILE NAME: lahiri-day-in-gonda
+Save it as lahiri-day-in-gonda.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Lahiri Day in Gonda", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Present-day morning in the yard of the district jail at Gonda, Uttar Pradesh. A small stone statue of a standing young man, seen from behind, stands on a plinth heaped with marigold garlands. In front, a small brass fire pot burns for a ritual, and rows of schoolchildren in uniform stand quietly, seen from behind. Old brick walls and a neem tree frame the scene. Soft, respectful morning light. No flag, no readable plaque or writing, no faces. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Present-day Indian clothing and buildings. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The bomb factory at Dakshineswar  (short story)
+==============================================================================
+FILE NAME: the-bomb-factory-at-dakshineswar
+Save it as the-bomb-factory-at-dakshineswar.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The bomb factory at Dakshineswar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dusk on the Hooghly river near Dakshineswar, 1925. The temple spires stand pale in the distance. On the near bank, a plain two-storey house with shuttered windows sits behind a mango tree and a small garden, a single lamp lit behind one shutter. A fishing boat rests at the water's edge. Quiet, secretive mood with a sense of watching. No people, no explosions, no weapons, no smoke. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The man who threw away the thread  (flagship story)
+==============================================================================
+FILE NAME: the-man-who-threw-away-the-thread
+Save it as the-man-who-threw-away-the-thread.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man who threw away the thread", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+First light on a stone step beside the Ganga at Banaras, 1924. A single cut white cotton sacred thread lies coiled on the weathered stone beside a small brass lamp, a closed book and a few marigold petals. The river glows pale gold behind them, and a distant pilgrim in white stands knee-deep, tiny, seen from behind. Thoughtful, quiet mood about doubt and faith. No faces, no readable writing. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

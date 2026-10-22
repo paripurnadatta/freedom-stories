@@ -71,3 +71,18 @@ December 1927, a small bare stone prison cell in Gorakhpur jail at night. An Ind
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+5. From the Rapti to a postage stamp  (short story)
+==============================================================================
+FILE NAME: from-the-rapti-to-a-postage-stamp
+Save it as from-the-rapti-to-a-postage-stamp.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "From the Rapti to a postage stamp", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Quiet dawn on the sandy bank of the Rapti river near Gorakhpur. Tall reeds, a calm silver river and a low mist. On the bank stands a simple stone memorial plinth with fresh marigold garlands and a few clay lamps, and far away across the fields a small railway station with a single train waiting. A woman and a boy stand near the plinth, seen from behind. Respectful, remembering mood. No readable inscription, no flag, no stamp shown. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

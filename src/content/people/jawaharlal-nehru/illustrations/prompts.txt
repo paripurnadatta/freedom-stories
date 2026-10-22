@@ -168,3 +168,18 @@ May 1938, a narrow mountain bridle-path in the Garhwal Himalayas above the place
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+12. Nine years behind bars  (flagship story)
+==============================================================================
+FILE NAME: nine-years-behind-bars
+Save it as nine-years-behind-bars.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Nine years behind bars", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A bare prison cell in the hills of Almora in the 1930s, seen from the doorway: a rope cot with a folded blanket, a plain wooden table holding a tall stack of books, an inkpot and a pen, and an unlit oil lamp. Through a high barred window, soft morning light falls on distant blue mountains. No person shown, no faces. Mood of patience, long waiting and thinking. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

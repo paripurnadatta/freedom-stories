@@ -1,0 +1,76 @@
+
+
+==============================================================================
+1. Kamala in the year of the lathi  (short story)
+==============================================================================
+FILE NAME: kamala-in-the-year-of-the-lathi
+Save it as kamala-in-the-year-of-the-lathi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kamala in the year of the lathi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A wide street in Allahabad in 1930. A procession of women in white khadi saris and some in Gandhi caps walks calmly together, seen from behind, in a long line along the road. Far ahead at the end of the street, a line of policemen in khaki stands with long wooden sticks held lowered at their sides. Heat haze and dust, bright hard sunlight and deep shadows. Quiet, determined mood in the moment before anything happens. No violence, no flags, no banners, no readable writing. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Kamala was not a footnote  (flagship story)
+==============================================================================
+FILE NAME: kamala-not-a-footnote
+Save it as kamala-not-a-footnote.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kamala was not a footnote", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Allahabad, 1921. A young woman in a plain white khadi sari stands on a low wooden platform under a large banyan tree, seen from behind, holding up a paper and reading aloud to a crowd of townspeople who sit and stand on the grass before her. The crowd faces are small, calm and attentive: women, men in caps, children. Warm afternoon light through the leaves. The paper shows only unreadable marks. No flags, no banners, no police. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Kamala, the last winter  (flagship story)
+==============================================================================
+FILE NAME: kamala-the-last-winter
+Save it as kamala-the-last-winter.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kamala, the last winter", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Winter in a mountain sanatorium in the Black Forest, 1936. On a wide wooden balcony, an empty reclining chair with a folded woollen blanket and a small table with a glass of water face a snow-covered pine forest in soft grey-blue light. A man in a long overcoat stands some distance away at the balcony rail, seen from behind, looking at the trees. Hushed, tender, sorrowful mood. No faces, no readable writing. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The jewels and the sanatorium  (short story)
+==============================================================================
+FILE NAME: the-jewels-and-the-sanatorium
+Save it as the-jewels-and-the-sanatorium.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The jewels and the sanatorium", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dusk on the deck of a 1926 ocean liner crossing the Mediterranean. A woman in a shawl rests in a deck chair, seen from behind, with a small girl of eight sitting at her feet and a man in a dark coat standing beside them, all faces turned to the sunset sea. In the foreground corner, on a small table, an open wooden jewellery box holds a few gold bangles and a necklace catching the last light. Peaceful but anxious mood. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The wedding on Vasant Panchami  (short story)
+==============================================================================
+FILE NAME: the-wedding-on-vasant-panchami
+Save it as the-wedding-on-vasant-panchami.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The wedding on Vasant Panchami", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A courtyard in Delhi in February 1916 on the day of a spring festival. Marigold garlands and yellow mustard flowers hang from the arches, yellow cloths cover the seats, and a small sacred fire burns in the middle. A bride in a red and gold sari with her veil down and a groom in a cream sherwani sit side by side before the fire, both seen from behind. Elders and guests, small and blurred, watch from the sides. Warm, festive, hopeful mood. No faces shown clearly. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

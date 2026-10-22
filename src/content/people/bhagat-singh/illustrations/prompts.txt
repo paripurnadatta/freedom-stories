@@ -158,3 +158,18 @@ A busy modern-day road crossing in Lahore at golden hour: rickshaws, motorbikes,
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+11. More than a hundred days without food  (short story)
+==============================================================================
+FILE NAME: more-than-a-hundred-days-without-food
+Save it as more-than-a-hundred-days-without-food.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "More than a hundred days without food", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Morning in a 1929 colonial prison cell in Lahore. A tin plate of food and a tin cup of water sit untouched on the stone floor, with a fly-less quiet around them. An empty iron cot with a folded blanket stands beside iron bars through which a cold blue-gold light falls across the floor. No person shown, no faces. Still, determined, gentle mood: the emptiness is the point. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

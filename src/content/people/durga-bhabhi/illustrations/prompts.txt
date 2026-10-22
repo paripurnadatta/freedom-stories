@@ -6,3 +6,78 @@ PROMPT:
 December 1928, a railway platform in Lahore seen from far behind: a young Indian woman in a historically plausible sari holds the hand of a small boy. Beside her walks a young Indian man dressed as a well-to-do civilian, and a second young man carries luggage as a pretend servant. All faces turned away, no invented facial likenesses. Steam locomotive at a distance, historically plausible train and travel cases. Calm, wide 16:6 composition. This is an artistic reconstruction, not a real photo.
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+2. Before the night in Lahore  (flagship story)
+==============================================================================
+FILE NAME: a-wife-at-eleven-a-teacher-at-twenty
+Save it as a-wife-at-eleven-a-teacher-at-twenty.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Before the night in Lahore", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in a modest Lahore home in 1928. A young woman in a plain cotton sari sits at a low table by an oil lamp, correcting a pile of schoolgirls' exercise books whose pages show only unreadable marks, seen from behind and the side so her face is hidden. A small boy of about three sleeps on a mat nearby. On the veranda outside, three young men in kurtas sit talking quietly in silhouette, faces turned away. Warm lamp light, a sense of ordinary life and secret company. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The Montessori school in Lucknow  (short story)
+==============================================================================
+FILE NAME: the-montessori-school-in-lucknow
+Save it as the-montessori-school-in-lucknow.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The Montessori school in Lucknow", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A bright classroom in a small school in Lucknow around 1940. Small children of about four and five sit on mats and at low wooden tables, playing with wooden blocks, bead frames and colourful shapes. A teacher in a simple cotton sari kneels beside a child, seen from the side with her face softly turned away. Sunlight pours through open windows onto a clean floor. Warm, gentle, busy mood. No readable writing on the walls. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The quiet house in Ghaziabad  (short story)
+==============================================================================
+FILE NAME: the-quiet-house-in-ghaziabad
+Save it as the-quiet-house-in-ghaziabad.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The quiet house in Ghaziabad", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late afternoon at an ordinary small house in a Ghaziabad lane in the 1990s. An elderly woman in a plain white cotton sari sits on a cane chair on the veranda with a cup of tea, seen from behind and slightly to the side so her face is hidden. A potted tulsi plant, a bicycle leaning on the wall, and a neighbour's child playing far down the lane. Soft golden light. Quiet, peaceful, unnoticed mood. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1990s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The years with no fixed address  (flagship story)
+==============================================================================
+FILE NAME: the-years-with-no-fixed-address
+Save it as the-years-with-no-fixed-address.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The years with no fixed address", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Night on a railway platform in 1930. A woman in a long dark burqa walks away from us towards a waiting train with a single small suitcase, seen only from behind. Platform lamps cast long pools of light, a few porters and passengers are blurred shapes far away, and steam drifts across the rails. Mood of lonely courage and hiding. No faces, no weapons. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Who carried the bags?  (short story)
+==============================================================================
+FILE NAME: who-carried-the-bags
+Save it as who-carried-the-bags.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Who carried the bags?", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A 1928 view from inside a first-class railway compartment looking out of the window at a busy Lahore platform. In the foreground, a well-dressed family seen from behind takes their seats: a man in a hat and suit, a woman in a sari holding a small boy. Out on the platform, a servant in a plain coat carries two leather suitcases and a rolled bedding strap, faces turned away. Far down the platform, a few policemen in khaki stand about, small and unaware. Tense, quiet mood. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

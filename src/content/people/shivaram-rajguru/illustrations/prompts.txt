@@ -33,3 +33,33 @@ Painterly storybook illustration for a children's history book about India's fre
 The other two stories use real pictures:
 - the-headline-after-the-execution: the 1931 Tribune front page (public domain, already in archive/)
 - the-house-by-the-river: no picture yet. A CC BY-SA photograph, "Birth room of rajguru.JPG", is on Wikimedia Commons and still needs a local copy.
+
+==============================================================================
+3. Seven puzzles about Rajguru  (flagship story)
+==============================================================================
+FILE NAME: seven-puzzles-about-rajguru
+Save it as seven-puzzles-about-rajguru.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seven puzzles about Rajguru", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A detective's desk in lamplight: an old wooden table with a magnifying glass resting on seven loose paper slips, each covered only with unreadable marks, laid out in a circle. Beside them an old open atlas with no readable names, a brass inkpot and a pair of round spectacles. A window behind shows an evening street of a small Indian town in the 1930s. No people, no readable writing. Curious, playful, thoughtful mood. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The shot meant for someone else  (flagship story)
+==============================================================================
+FILE NAME: the-shot-meant-for-someone-else
+Save it as the-shot-meant-for-someone-else.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The shot meant for someone else", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dusk on 17 December 1928 outside a red-brick colonial police headquarters in Lahore. A bicycle leans against the gate post, the gate lamp is just lit, and the long road before the building is empty and quiet in the cold blue-orange light. A few leafless trees stand by the wall. No people, no police, no weapons, no violence: only the stillness of the moment before. Tense, hushed mood. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

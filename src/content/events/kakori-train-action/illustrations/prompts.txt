@@ -38,3 +38,63 @@ Evening of 9 August 1925, a 1920s steam train stopped on the tracks among green 
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+3. Before the train: three robberies that went wrong  (short story)
+==============================================================================
+FILE NAME: before-the-train-three-robberies
+Save it as before-the-train-three-robberies.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Before the train: three robberies that went wrong", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A village lane in north India at night in the winter of 1924, seen from the end of the lane. A tall, shuttered two-storey house of a rich moneylender stands behind a courtyard wall, its heavy wooden gate closed. One oil lantern glows on a hook beside the gate. The lane is empty and quiet, with a dog asleep by the wall and the dark outline of sugarcane fields behind the roof. No people shown, no robbers, no weapons, no violence: only the stillness before something goes wrong. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Seventy-eight names for the Viceroy  (flagship story)
+==============================================================================
+FILE NAME: seventy-eight-names-for-the-viceroy
+Save it as seventy-eight-names-for-the-viceroy.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seventy-eight names for the Viceroy", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A long polished wooden table in a high-ceilinged 1927 council hall, lit by tall windows. On the table lies a thick bundle of petition sheets tied with a ribbon, covered in rows of tiny, flowing, completely unreadable signatures, with an inkpot and dip pens scattered beside them. Around the table are many empty carved chairs. At the far end, a clerk in a turban stands seen only from behind, holding a sealed envelope. Evening sun streams across the table. Hopeful, serious mood. No readable writing, no faces. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The long trial in Lucknow  (flagship story)
+==============================================================================
+FILE NAME: the-long-trial-in-lucknow
+Save it as the-long-trial-in-lucknow.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The long trial in Lucknow", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The inside of a grand old Lucknow hall that was turned into a courtroom in 1925–26, empty at evening: tall pillars, rows of long wooden benches, a high judge's platform with a carved chair, ceiling fans hanging from long rods, and arched windows with late golden light. On a long table stand tidy piles of paper whose surfaces show only unreadable marks. No people, no judge, no accused, no police. Quiet, patient mood, as if a very long case is still going on. Wide composition, 16:7.5.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The passenger who stepped off the train  (short story)
+==============================================================================
+FILE NAME: the-passenger-who-stepped-off-the-train
+Save it as the-passenger-who-stepped-off-the-train.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The passenger who stepped off the train", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Night, 9 August 1925. Inside a plain wooden third-class railway carriage of the 1920s, empty and lit by one swinging oil lamp. On the bench lie a folded dark coat, a round felt cap and a small leather case, as if a traveller has just stepped out. The carriage door stands open onto a dark field and a faint lantern far away. No people, no violence, no weapons. Hushed, uneasy, sorrowful mood. Wide composition, 16:6.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
