@@ -1,0 +1,47 @@
+ILLUSTRATIONS NEEDED: Maulana Abul Kalam Azad. Three paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The argument over dividing India  (flagship story)
+==============================================================================
+FILE NAME: the-argument-over-dividing-india
+Save it as the-argument-over-dividing-india.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The argument over dividing India", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late evening in a large, plain room in a Delhi house in 1947. Three men in white kurtas and caps sit around a low table at a window, seen from behind and from the side so that no faces are visible. Papers and a map lie on the table, and a single brass lamp is lit. One man leans forward, hands open, as if pleading; another sits with arms folded. Through the window, a deep blue dusk sky over the rooftops of an old city. Serious, quiet, heavy mood. No weapons, no flag, no readable writing on the map or papers.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The newspaper the government could not quieten  (short story)
+==============================================================================
+FILE NAME: the-newspaper-the-government-could-not-quieten
+Save it as the-newspaper-the-government-could-not-quieten.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The newspaper the government could not quieten", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A busy hand-press printing room in Calcutta in 1912, early evening. Wooden cases of metal type, a big iron printing press, and long sheets of freshly printed paper hanging on lines to dry, all with blurred, unreadable marks instead of letters. Two workers in plain kurtas, seen from behind, stack bundles of papers tied with string. Warm lamplight, ink-stained wooden tables, a crescent moon visible through a high window. Hardworking, hopeful mood. No police, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. A young Muslim among the revolutionaries  (short story)
+==============================================================================
+FILE NAME: a-young-muslim-among-the-revolutionaries
+Save it as a-young-muslim-among-the-revolutionaries.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A young Muslim among the revolutionaries", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A narrow lane in old Calcutta in about 1906, at dusk. Tall brick houses with wooden shutters and iron balconies, a gas street lamp just lit, a tea stall closing for the night. In the foreground, two young men, one in a dhoti and shawl and one in a long kurta and a round cap, walk side by side and talk, seen from behind so no faces show. One gestures with an open hand as if explaining something. Quiet, thoughtful, secret mood. No weapons, no police, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
