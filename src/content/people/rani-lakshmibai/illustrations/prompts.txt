@@ -1,0 +1,17 @@
+ILLUSTRATIONS NEEDED: rani-lakshmibai
+SHORT story scene. Symbolic: no real person's face is shown.
+
+==============================================================================
+2. What the Rani knew about Jokhan Bagh  (short story)
+==============================================================================
+FILE NAME: what-the-rani-knew-about-jokhan-bagh
+Save it as what-the-rani-knew-about-jokhan-bagh.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "What the Rani knew about Jokhan Bagh", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+June 1857, a quiet room in a small-town palace in Jhansi at dusk. A low wooden writing desk with two folded letters, one of them sealed with red wax, a brass inkpot, a reed pen and a lit oil lamp. A tall arched window looks out on a stone fort wall and a still garden, with no one in it. A heavy silence, a feeling of fear and of hard choices. No people, no faces, no soldiers, no weapons, no violence, no readable writing on the letters, no flag. Serious, respectful, sad mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

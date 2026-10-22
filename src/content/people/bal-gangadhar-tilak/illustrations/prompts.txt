@@ -1,0 +1,17 @@
+ILLUSTRATIONS NEEDED: bal-gangadhar-tilak
+SHORT story scene. Symbolic: no real person's face is shown.
+
+==============================================================================
+3. The funeral at Chowpatty  (short story)
+==============================================================================
+FILE NAME: the-funeral-at-chowpatty
+Save it as the-funeral-at-chowpatty.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The funeral at Chowpatty", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening of 1 August 1920 on the wide sand of Chowpatty beach in Bombay. A vast, silent crowd of men and women in white cotton clothes and turbans, seen from behind, standing and sitting quietly on the sand and facing the calm sea. Garlands of orange marigolds lie along the water's edge. In the distance, the curve of the shoreline with low Bombay buildings and a few moored boats under a soft grey-gold sky. No faces, no portrait of any real person, no flames, no body, no coffin, no flag, no readable text. A heavy, respectful mood of mourning. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

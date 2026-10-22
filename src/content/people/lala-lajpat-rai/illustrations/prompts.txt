@@ -1,0 +1,17 @@
+ILLUSTRATIONS NEEDED: lala-lajpat-rai
+SHORT story scene. Symbolic: no real person's face is shown.
+
+==============================================================================
+4. A bank for Indians  (short story)
+==============================================================================
+FILE NAME: a-bank-for-indians
+Save it as a-bank-for-indians.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A bank for Indians", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Lahore in 1894, early morning, in a modest first-floor office of a new Indian-owned bank. Polished wooden counters, large cloth-bound ledgers, brass scales, an inkwell and a stack of printed circular letters tied with a ribbon on a table. A tall open window looks down on a busy old Lahore bazaar where shopkeepers are lifting their shutters, with carved wooden balconies and a Mughal-style gateway in the distance. A single clerk in a turban, seen from behind, arranges papers. Hopeful, fresh mood. No faces, no readable signs or writing, no flag. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+ILLUSTRATIONS NEEDED: sarojini-naidu
+SHORT story scene. Symbolic: no real person's face is shown.
+
+==============================================================================
+5. Women at the Secretary of State's door  (short story)
+==============================================================================
+FILE NAME: women-at-the-viceroys-door
+Save it as women-at-the-viceroys-door.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Women at the Secretary of State's door", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+December 1917, the wide stone steps and shaded veranda of a grand colonial government building in Madras, in bright morning light. A group of about a dozen women in simple cotton and silk saris, Indian and European, seen from behind and from the side, climb the steps together; one carries a folded paper. A uniformed doorman in a turban stands at the arched door. Palm trees and a clear sky behind. Quiet determination, no anger. No clear faces, no portrait of any real person, no flag, no readable text. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

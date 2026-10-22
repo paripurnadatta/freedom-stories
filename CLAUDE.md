@@ -160,10 +160,10 @@ which ones should be redone and why.
 | Kamala Nehru | 6 (2 flagship) | done |
 | B. R. Ambedkar | 14 (4 flagship, 10 short) | done |
 | Jawaharlal Nehru | 13 (5 flagship, 8 short) | done |
-| Rani Lakshmibai | 7 (2 flagship) | no prompts yet |
-| Bal Gangadhar Tilak | 9 (2 flagship) | no prompts yet |
-| Lala Lajpat Rai | 7 (2 flagship) | no prompts yet |
-| Sarojini Naidu | 7 (2 flagship) | no prompts yet |
+| Rani Lakshmibai | 7 (2 flagship) | 2 prompts waiting |
+| Bal Gangadhar Tilak | 9 (2 flagship) | 1 prompt waiting |
+| Lala Lajpat Rai | 7 (2 flagship) | 1 prompt waiting |
+| Sarojini Naidu | 7 (2 flagship) | 1 prompt waiting |
 | Shivaram Rajguru | 6 (2 flagship) | done |
 | Durga Bhabhi | 6 (2 flagship) | done |
 | Rajendra Lahiri | 6 (2 flagship) | done |
