@@ -2,6 +2,9 @@
 // Every published story must pass. Subject files are checked for broken links,
 // and every picture a story points to must exist.
 import { existsSync, readFileSync, readdirSync } from "node:fs";
+
+// Windows can check files out with CRLF line endings; read everything as LF.
+const readText = (p) => readFileSync(p, "utf8").replace(/\r\n/g, "\n");
 import { join } from "node:path";
 
 const CONTENT = "src/content";
@@ -46,7 +49,7 @@ for (const f of folders) {
   const where = `${f.kind}/${f.slug}`;
   const index = join(f.dir, "index.md");
   if (!existsSync(index)) { say(where, "has no index.md"); continue; }
-  const parts = split(readFileSync(index, "utf8"));
+  const parts = split(readText(index));
   if (!parts) { say(where, "index.md is missing the facts block at the top"); continue; }
   for (const id of list(parts.front, "related")) {
     if (!subjectIds.has(id)) say(where, `related link to a subject that doesn't exist: ${id}`);
@@ -64,7 +67,7 @@ const missingFile = (raw) =>
 let published = 0;
 for (const story of storyFiles) {
   const where = `${story.folder.kind}/${story.folder.slug}/stories/${story.name}`;
-  const raw = readFileSync(story.path, "utf8");
+  const raw = readText(story.path);
   const parts = split(raw);
   if (!parts) { say(where, "missing the facts block at the top"); continue; }
   const { front, body } = parts;
@@ -124,10 +127,10 @@ for (const f of folders) {
   const prompts = join(f.dir, "illustrations", "prompts.txt");
   if (!existsSync(prompts)) continue;
   const have = readdirSync(join(f.dir, "illustrations")).filter((n) => IMAGE.test(n)).map((n) => n.replace(IMAGE, ""));
-  for (const m of readFileSync(prompts, "utf8").matchAll(/^FILE NAME:\s*(\S+)/gm)) if (!have.includes(m[1])) waiting++;
+  for (const m of readText(prompts).matchAll(/^FILE NAME:\s*(\S+)/gm)) if (!have.includes(m[1])) waiting++;
 }
 
 const planned = folders
-  .map((f) => (existsSync(join(f.dir, "index.md")) ? readFileSync(join(f.dir, "index.md"), "utf8") : ""))
+  .map((f) => (existsSync(join(f.dir, "index.md")) ? readText(join(f.dir, "index.md")) : ""))
   .reduce((n, raw) => n + (raw.match(/^\s+hook:/gm)?.length ?? 0) - (raw.match(/^\s+story:/gm)?.length ?? 0), 0);
 console.log(`All ${published} published stories pass. ${subjectIds.size} subjects, ${planned} planned stories waiting, ${waiting} illustrations waiting.`);
