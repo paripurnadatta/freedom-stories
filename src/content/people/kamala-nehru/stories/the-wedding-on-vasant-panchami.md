@@ -34,32 +34,30 @@ Jawaharlal Nehru's autobiography has a chapter called "My Wedding and an Adventu
 
 <aside class="note"><b>Vasant Panchami</b>: a spring festival in India. People often wear yellow, and it marks the start of the spring season.</aside>
 
-The part of the book we could open does not describe the ceremony. The part we could read does not name her. Then it moves on. "That summer," he says, "we spent some months in Kashmir." He left his family there and spent several weeks in the mountains with a cousin, going up the Ladakh road.
+He does not describe the ceremony in the pages that are open to read. He does not name her. Then he moves on. "That summer," he says, "we spent some months in Kashmir." He left his family there and spent several weeks in the mountains with a cousin, going up the Ladakh road.
 
 ## The date and the ages
 
-Wikipedia gives the date as 8 February 1916. It says the marriage was arranged. It says Kamala was sixteen, and that Nehru was ten years older. The Wire and the National Herald, both written by Praveen Davar, say the same date. They give his age as twenty-six.
-
-The Herald says the wedding was a grand one, arranged at the wish of his father, Motilal Nehru. It says the first three years were a time of adjustment for Kamala in a rich household.
+The wedding was on 8 February 1916. It was an arranged marriage. Kamala was sixteen, and Nehru was ten years older. Two writings by Praveen Davar, in The Wire and the National Herald, give the same date. They give his age as twenty-six.
 
 <aside class="note"><b>Arranged marriage</b>: a marriage that the families plan, with the help of elders.</aside>
 
+It was a grand wedding, arranged at the wish of his father, Motilal Nehru. The first three years were a time of adjustment for Kamala in a rich household.
+
 ## The remark that "he almost overlooked her"
 
-Wikipedia says Nehru went on a trip to the Himalayas soon after the wedding. It says he later remarked that he had "almost overlooked" her. Wikipedia cites a Canadian newspaper from 1964 for this.
+Soon after the wedding, Nehru went on a trip to the Himalayas. He later remarked that he had "almost overlooked" her.
 
-That is a second-hand report of a remark, printed long after. We could not find the words in the part of the autobiography we read.
-
-<aside class="note"><b>Handle with care</b>: a short remark, repeated by a newspaper decades later, can change in the telling. We pass it on as a report and nothing more.</aside>
+this remark comes from a Canadian newspaper of 1964, printed long after. The words are not in the part of the autobiography that was read. A short remark repeated decades later can change in the telling, so it is passed on as a report and nothing more.
 
 ## A new home
 
-After the wedding Kamala lived in the Nehru family's home in Allahabad. The Herald says the family gave up silks and suits for khadi once Motilal Nehru joined Gandhi's movement, and that Kamala welcomed this. It describes her as growing serious and mature in those years.
+After the wedding Kamala lived in the Nehru family's home in Allahabad. When Motilal Nehru joined Gandhi's movement, the family gave up silks and suits for khadi, and Kamala welcomed this. She grew serious and mature in those years.
 
-Their daughter, Indira, was born in November 1917, Wikipedia says.
+Their daughter, Indira, was born in November 1917.
 
 ## Why it matters
 
-We should not judge a wedding of 1916 only by what we expect today. But we should notice how little these sources tell us about her. The wedding is mostly seen through other people's eyes.
+We should not judge a wedding of 1916 only by what we expect today. But we should notice how little these pages tell us about her. The wedding is mostly seen through other people's eyes.
 
 What came later, in the 1920s and 1930s, is what shows who she was.

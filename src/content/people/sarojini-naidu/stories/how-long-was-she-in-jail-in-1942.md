@@ -42,44 +42,34 @@ status: published
 
 On 8 August 1942, the Congress began the Quit India movement. Early the next morning, Gandhi was arrested at Birla House. Many other leaders were arrested too. One of them was Sarojini Naidu.
 
-How long did she stay in prison? That depends on whom you ask.
+She was taken to the Aga Khan Palace in Poona, where Gandhi, his wife Kasturba and Mahadev Desai were held. Naidu and Manu Gandhi joined the group there later.
+
+How long did she stay? That depends on whom you ask.
 
 ## Twenty-one months
 
-Four sources say 21 months.
-
-- Wikipedia says she was jailed for her part in Quit India for 21 months. It does not say where.
-- The Congress's article says she spent over 21 months, "1 year 9 months", in jail. That is a total for all her arrests, not only the one in 1942.
-- New World Encyclopedia says she spent 21 months in jail with Gandhi.
-- Banglapedia says she was arrested on 2 October 1942 and held for 21 months.
+Four pages say 21 months. Wikipedia says she was jailed for her part in Quit India for 21 months. New World Encyclopedia says she spent 21 months in jail with Gandhi. Banglapedia says she was arrested on 2 October 1942 and held for 21 months. The Congress's article says she spent over 21 months, "1 year 9 months", in jail. That is a total for all her arrests, not only the one in 1942.
 
 Count forward from 2 October 1942 and 21 months takes us into mid-1944.
 
 ## March 1943
 
-The Gandhi museum website mkgandhi.org tells another story. It lists the people held at the Aga Khan Palace in Poona: Gandhi, his wife Kasturba, Mahadev Desai and a few others. It says Sarojini Naidu was released on 21 March 1943, because she was ill. The rest stayed until 6 May 1944.
+The Gandhi museum website, mkgandhi.org, tells another story. It lists the people held at the Aga Khan Palace: Gandhi, Kasturba, Mahadev Desai and a few others. Sarojini Naidu, it says, was released on 21 March 1943, because she was ill. The rest stayed until 6 May 1944.
 
-The Gandhi Heritage Portal agrees that Naidu was held at the Aga Khan Palace. It says she and Manu Gandhi joined the group later, but it gives no date.
+By this count she was freed about seven and a half months after the Quit India arrests began. That is about five and a half months after the date Banglapedia gives for her arrest.
 
-By mkgandhi.org's count, then, she was freed about seven and a half months after the Quit India arrests began. That is about five and a half months after the date Banglapedia gives for her arrest.
+<aside class="note"><b>Different versions</b>: Wikipedia, New World Encyclopedia and Banglapedia say 21 months for 1942. The Congress says 21 months in all. mkgandhi.org says she was released on 21 March 1943. The Gandhi Heritage Portal says only that she joined the others at the palace later.</aside>
 
 ## What happened at the palace
 
-The Gandhi Heritage Portal gives dates for events at the palace, though it does not say whether Naidu was present for each.
-
-- Mahadev Desai died there on 15 August 1942, aged 50.
-- Gandhi fasted from 10 February to 2 March 1943.
-- Kasturba died there on 22 February 1944, aged 74.
-- Gandhi was released on 6 May 1944.
+Mahadev Desai died there on 15 August 1942, aged 50. Gandhi fasted from 10 February to 2 March 1943. Kasturba died there on 22 February 1944, aged 74. Gandhi was released on 6 May 1944.
 
 Naidu's release date of 21 March 1943 falls after Gandhi's fast ended, and before Kasturba's death.
 
-## So which is right?
+## Two ways the numbers may fit
 
-We cannot tell. The sources do not explain their numbers. Two ideas might explain the gap, but neither is stated by any source. The "21 months" figure may be a total of all her time in jail. Or it may be repeated from one page to another. We note both as possibilities, not facts.
-
-<aside class="note"><b>Different versions</b>: Wikipedia, New World Encyclopedia and Banglapedia say 21 months for 1942. The Congress says 21 months in all. mkgandhi.org says she was released on 21 March 1943. Banglapedia dates her arrest to 2 October 1942, while the Gandhi Heritage Portal says only that she joined the others at the palace later.</aside>
+The "21 months" may be a total of all her time in jail across the years. Or it may be a figure copied from one page to another. Neither idea is stated in any source, so each is only a guess.
 
 ## Why it matters
 
-A number repeated on many websites is not always checked. A museum page that names a day and a reason, here her ill health, is worth testing against other records. We did not find those records.
+A number repeated on many websites is not always checked. A museum page that names a day and a reason, here her ill health, is worth testing against other records. This story did not find those records, so it gives both dates and leaves the question open.

@@ -27,47 +27,43 @@ Not all heroes are found in official papers. Some live in stories that families 
 
 ## The story people tell
 
-Wikipedia says Jhalkaribai is remembered as a woman soldier of 1857. According to folk stories, she was the daughter of a farmer, Sadova Singh, and his wife Jamunadevi. She was born in Bhojla, a village near Jhansi. Her husband, Puran Singh, is said to have been a gunner in the Rani's army.
+Jhalkaribai is remembered as a woman soldier of 1857. According to folk stories, she was the daughter of a farmer, Sadova Singh, and his wife Jamunadevi. She was born in Bhojla, a village near Jhansi. Her husband, Puran Singh, is said to have been a gunner in the Rani's army.
 
-The folk stories say that as a girl she once killed a tiger with an axe. They say she drove off a leopard with the stick she used for herding cows.
+As a girl, the stories say, she once killed a tiger with an axe. She drove off a leopard with the stick she used for herding cows.
 
-They say that she looked very much like the Rani. Because of this, she was taken into the Rani's women's regiment. She rose in rank, led her own group, and became a trusted adviser.
+She looked very much like the Rani. Because of this, she was taken into the Rani's women's regiment. She rose in rank, led her own group, and became a trusted adviser.
 
 ## The decoy
 
-When the British broke into Jhansi in April 1858, the stories say, a man named Dulhaji opened a gate for them. He was a gatekeeper. Wikipedia names him in the folk account.
+When the British broke into Jhansi in April 1858, a man named Dulhaji, a gatekeeper, opened a gate for them. So the folk stories tell it.
 
-The Rani left through another gate. Then Jhalkaribai dressed as the queen and went to General Hugh Rose's camp. She declared herself the queen. The stories say this confused the British for a whole day, and gave the real Rani time to get away.
+The Rani left through another gate. Then Jhalkaribai dressed as the queen and went to General Hugh Rose's camp. She declared herself the queen. This confused the British for a whole day, and gave the real Rani time to get away.
 
 ## What the records say
 
-Here we must be careful. Wikipedia says she is "not mentioned in most contemporary records." The earliest written mention is in a Marathi book from 1907, *Majha Pravas* by Vishnubhat Godse. It names her only as the Rani's maid.
+The records of the time are silent. Jhalkaribai is "not mentioned in most contemporary records." The earliest written mention is in a Marathi book from 1907, *Majha Pravas* by Vishnubhat Godse. It names her only as the Rani's maid.
 
-The first full story of her comes later. Wikipedia says the writer Vrindavan Lal Verma included her in a novel in 1951. A Bundeli novel, *Maati*, also from 1951, portrayed her as a brave martyr. A first biography appeared in 1964. The biography was written by Bhawani Shankar Visharad, from Verma's novel and from stories told by people of the Kori community near Jhansi.
+The first full story of her comes much later. The writer Vrindavan Lal Verma included her in a novel in 1951. A Bundeli novel, *Maati*, also from 1951, portrayed her as a brave martyr. A first biography appeared in 1964. It was written by Bhawani Shankar Visharad, from Verma's novel and from stories told by people of the Kori community near Jhansi.
 
 <aside class="note"><b>Kori</b>: a community in north India, often grouped among the Dalit castes. Dalit communities were treated as "low" by others for centuries. Jhalkaribai was a Kori, according to the folk stories.</aside>
 
 ## Did she die in 1858?
 
-The sources disagree.
+The accounts of her death disagree. Nareshchandra Koli gave 4 April 1858, which would put her death in the siege. Srikrishna Sarala says she died in 1881. A third source says she died "as a very old woman", with no date.
 
-- Wikipedia quotes Nareshchandra Koli, who gave 4 April 1858.
-- Another writer, Srikrishna Sarala, says she died in 1881.
-- A third source says she died "as a very old woman", with no date.
-
-<aside class="note"><b>Two versions</b>: The date 4 April 1858 would make her die in the siege. The other two would make her live long after. We cannot say which, if any, is right.</aside>
+<aside class="note"><b>Three versions</b>: one date puts her death in the siege of Jhansi. The other two would make her live long after. None can be checked against a record of the time.</aside>
 
 ## Why her story is told
 
-Wikipedia reports what scholars think. A scholar, Badri Narayan, says that Kori and other Dalit communities use her story to show their own pride and to raise their standing. Since the 1990s, the article says, she has been shaped into a model of brave womanhood.
+Scholars have noticed who tells it. Badri Narayan says that Kori and other Dalit communities use her story to show their own pride and to raise their standing. Since the 1990s, she has been shaped into a model of brave womanhood.
 
-The Wikipedia article on the Rani adds that some Dalit writers say the Rani fled and lived to old age. They say Jhalkaribai took her place. It says there are festivals for both women, and that they are mostly separate.
+Some Dalit writers say the Rani fled and lived to old age, and that Jhalkaribai took her place. There are festivals for both women, and they are mostly separate.
 
-Today, she is honoured by many people. Wikipedia lists a postage stamp and a statue unveiled in Bhopal on 10 November 2017. The Archaeological Survey of India planned a museum for her inside Jhansi Fort. Her story has also been used by people who want a state of Bundelkhand.
+Today, she is honoured by many people. There is a postage stamp, and a statue was unveiled in Bhopal on 10 November 2017. The Archaeological Survey of India planned a museum for her inside Jhansi Fort. Her story has also been used by people who want a state of Bundelkhand.
 
-## What we can say
+## What can be said
 
-We cannot prove that Jhalkaribai fought in the siege. We cannot prove she did not. The records of 1858 are silent. The Rani's own escape story has many versions, as we show in "Twelve days at the fort".
+Nobody can prove that Jhalkaribai fought in the siege, and nobody can prove she did not. The records of 1858 are silent. The Rani's own escape story has many versions, as we show in "Twelve days at the fort".
 
 Whether or not every detail is true, many people remember her. That is a fact about today, and it tells us who feels left out of the old stories.
 
