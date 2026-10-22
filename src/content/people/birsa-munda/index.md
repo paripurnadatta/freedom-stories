@@ -3,25 +3,35 @@ id: IF-0021
 kind: person
 name: "Birsa Munda"
 wikidata: "Q2721975"
-summary: "The Munda leader who fused religious renewal, land rights and resistance to colonial rule"
-born: "1875"
-died: "1900"
+summary: "A Munda leader from Chotanagpur whom thousands called Dharti Aba. He led a religious and land-rights movement, was jailed in 1895, and led the Ulgulan rising of 1899-1900. He was arrested in February 1900 and died in Ranchi jail on 9 June 1900. His birth date is disputed: 15 November 1875 is the official one, and church records are said to give 22 July 1872."
+born: "15 November 1875 (disputed)"
+died: "9 June 1900"
 year: 1895
 region: "Jharkhand"
 role: "Tribal leader"
-places: []
+places:
+  - "Ulihatu"
+  - "Chalkad"
+  - "Chaibasa"
+  - "Khunti"
+  - "Ranchi"
 related:
   - "munda-ulgulan"
+  - "mahatma-gandhi"
+  - "tana-bhagat"
 sources:
+  - title: "Birsa Munda and the Nation, by Joseph Bara (2022)"
+    url: "https://joais.in/Journal/2.%20Birsa%20Munda%20and%20the%20Nation%20-%20Edited-Aug22.pdf"
+    publisher: "Journal of Adivasi and Indigenous Studies"
+  - title: "Capturing Birsa Munda: The Virtuality of a Colonial-era Photograph, by Daniel J. Rycroft (2004)"
+    url: "https://indianfolklore.org/index.php/ifrj/issue/download/67/67"
+    publisher: "Indian Folklore Research Journal"
+  - title: "The Mundas and Their Country, by Sarat Chandra Roy (1912)"
+    url: "https://archive.org/details/dli.csl.5314"
+    publisher: "Internet Archive"
   - title: "Birsa Munda"
-    url: "https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?309="
-    publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav"
-  - title: "Birsa Munda — A Legacy, A Revered Tribal Hero"
-    url: "https://mib.gov.in/sites/default/files/2024-08/mann_ki_baat_october_english-2.pdf"
-    publisher: "Ministry of Information and Broadcasting, Government of India"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+    url: "https://en.wikipedia.org/wiki/Birsa_Munda"
+    publisher: "Wikipedia"
 image:
   src: "/files/people/birsa-munda/portrait.webp"
   alt: "Birsa Munda"
@@ -29,6 +39,41 @@ image:
   credit: "Unknown photographer · Taken from now-archived University of Sussex web page ."
   license: "Public domain"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Birsa_Munda,_photograph_in_Roy_(1912-72).JPG"
+angles:
+  - title: "The hill at Dumari"
+    type: flagship
+    hook: "9 January 1900: stockades on a hill, soldiers with guns, and no agreed number of dead."
+    story: "the-hill-at-dumari"
+  - title: "A photograph and a pair of handcuffs"
+    type: flagship
+    hook: "One old photograph, two possible dates, and a later copy that left out the handcuffs."
+    story: "a-photograph-and-a-pair-of-handcuffs"
+  - title: "Dharti Aba"
+    type: flagship
+    hook: "A poor boy, a mission school, a legend of lightning, and three birth dates."
+    story: "dharti-aba"
+  - title: "The petitions that came first"
+    type: short
+    hook: "Forty years of letters and court cases before anyone took up a bow."
+    story: "the-petitions-that-came-first"
+  - title: "The priest who explained the Mundas"
+    type: short
+    hook: "An enemy in Birsa's eyes, who twice helped Munda prisoners and helped write the 1908 land law."
+    story: "the-priest-who-explained-the-mundas"
+  - title: "Songs for Birsa"
+    type: short
+    hook: "The villagers sang first. The nation caught up a century later."
+    story: "songs-for-birsa"
+  - title: "The jail in Ranchi"
+    type: short
+    hook: "February to June 1900: the trials, and two explanations of his death."
+    story: "the-jail-in-ranchi"
+  - title: "Birsa and the Gandhian years"
+    type: short
+    hook: "Not yet researched: how Birsaites joined non-cooperation after 1920."
+  - title: "The Chotanagpur Tenancy Act of 1908"
+    type: short
+    hook: "Not yet researched: the survey, the clauses and what happened to the land."
 ---
 
 <!--

@@ -171,5 +171,6 @@ which ones should be redone and why.
 | Surya Sen | 7 (2 flagship) | done |
 | Maulana Abul Kalam Azad | 7 (3 flagship) | done |
 | Sardar Vallabhbhai Patel | 7 (2 flagship) | done |
+| Birsa Munda | 7 (3 flagship) | 5 prompts waiting |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); more flagships for the four new subjects if sources allow.

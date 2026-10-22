@@ -1,0 +1,77 @@
+ILLUSTRATIONS NEEDED: Birsa Munda. Five paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The hill at Dumari  (flagship story)
+==============================================================================
+FILE NAME: the-hill-at-dumari
+Save it as the-hill-at-dumari.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The hill at Dumari", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A forested hill in the Chotanagpur plateau, India, at first light in January 1900. Low fences of wooden stakes, made by villagers, run across the hillside between tall sal trees. Behind the stakes, Munda families sit and stand close together: men with bows and long cloth turbans, women in white saris with red borders carrying cooking pots and bundles, small children. All are seen from a distance or from behind so no faces show. Far below on the road, a small line of soldiers is just visible in the mist. Thin smoke rises from cooking fires. Tense, quiet, sorrowful mood. No fighting, no one hurt, no guns pointed, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Dharti Aba  (flagship story)
+==============================================================================
+FILE NAME: dharti-aba
+Save it as dharti-aba.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Dharti Aba", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A village in a jungle tract of Jharkhand in the heavy monsoon of 1895. Mud-walled houses with tiled roofs and small paths of red earth. Crowds of Munda villagers, men, women and children, sit and stand under trees and under large umbrellas made of bamboo and leaves that are stuck in the ground, sheltering from the rain. A young man in a simple white cloth and turban sits on a low platform in the middle distance, seen from far away or from behind so no face is clear, with people gathered quietly around him. Wet leaves, grey-green light with warm lamp glow in the doorways. Calm, hopeful, crowded mood. No fire in the sky, no miracles shown, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The petitions that came first  (short story)
+==============================================================================
+FILE NAME: the-petitions-that-came-first
+Save it as the-petitions-that-came-first.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The petitions that came first", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small verandah of an old colonial court office in Ranchi in the 1880s, late morning. A group of Munda and Oraon farmers in cloth turbans and plain white dhotis stand and sit patiently on the steps with folded papers in their hands. A clerk in a long coat and cap writes at a low table, seen from the side. Beyond the verandah, tall sal trees and a dusty road. Slow, patient, hopeful but tired mood. All faces turned away or in shadow. No British officials with weapons, no flag, no readable writing on any paper.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The priest who explained the Mundas  (short story)
+==============================================================================
+FILE NAME: the-priest-who-explained-the-mundas
+Save it as the-priest-who-explained-the-mundas.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The priest who explained the Mundas", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The shaded verandah of a village police station in Khunti in early 1900. A tall European priest in a long dark robe with a beard, seen mostly from the side and behind, sits on a bench and speaks quietly to an official in a pith helmet. In front of them, a small group of Munda villagers stand with bowed heads and hands folded, in white cloth and turbans. Soft afternoon light, sal trees behind. Calm, serious, fair-minded mood. No weapons, no arrests shown, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The jail in Ranchi  (short story)
+==============================================================================
+FILE NAME: the-jail-in-ranchi
+Save it as the-jail-in-ranchi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The jail in Ranchi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The outside of a whitewashed jail wall in Ranchi at dusk in 1900. A long high white wall with a heavy wooden gate, a few tiny barred windows, and a small watchtower. In front, a red dust road runs away toward dark sal forest on the horizon. A single small group of Munda women in white saris sit together on the ground far from the gate, seen from behind so no faces show, waiting quietly. The sky glows saffron and fades to indigo. Quiet, sorrowful, still mood. No guards pointing weapons, no one hurt, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1890s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
