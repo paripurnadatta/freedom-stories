@@ -68,3 +68,123 @@ PROMPT (copy everything between the lines):
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+
+==============================================================================
+5. The cart to Koregaon  (flagship story)
+==============================================================================
+FILE NAME: the-cart-to-koregaon
+Save it as the-cart-to-koregaon.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The cart to Koregaon", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Night on an empty country road in 1901 India, under a huge sky full of stars. A wooden bullock cart with two white bullocks stands by the roadside, unyoked and resting, seen from a little distance. On its planks lie three small cloth bundles, a round tiffin basket and a few small bright caps with jewels. Far ahead, at the foot of a dark hill, a single small lantern glows in a roadside hut with other carts resting beside it. Nobody is visible, no faces. A quiet, lonely, hushed mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Eleven days in Baroda  (flagship story)
+==============================================================================
+FILE NAME: eleven-days-in-baroda
+Save it as eleven-days-in-baroda.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Eleven days in Baroda", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early evening in 1917, inside a long, dark upstairs hall of an old inn in a western Indian city. The floor is cluttered with broken planks, old benches and chairs. On a bench stands one small hurricane lantern, giving a tiny circle of light, and beside it a leather suitcase and a few books. Small bats hang from the wooden roof beams. At the far end, an open doorway shows a little fading daylight and a staircase. No people, no faces. A lonely, quiet mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. The tonga at Chalisgaon  (short story)
+==============================================================================
+FILE NAME: the-tonga-at-chalisgaon
+Save it as the-tonga-at-chalisgaon.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The tonga at Chalisgaon", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late afternoon in 1929 at the edge of a dry riverbed in a small Indian town. A low stone culvert crosses the river, with only a row of waist-high stones along its edge instead of walls. Beside the road stands an empty one-horse carriage (tonga) with a few marigold garlands lying across its seat. In the far distance, across the river, a small group of people stand together outside a row of simple village houses, seen from behind and very small. No faces. A calm, slightly uneasy mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+8. Lost at sea, written twice  (short story)
+==============================================================================
+FILE NAME: lost-at-sea-written-twice
+Save it as lost-at-sea-written-twice.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Lost at sea, written twice", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dawn in 1917 on a grey, heaving sea. In the far distance, a small old steamship with a tall funnel sails away. In the foreground a battered wooden travelling trunk floats on the waves, tied with rope, with a few books resting on top. Gulls fly overhead. A quiet, lonely mood. No people, no faces, no explosions, no fire, no wreckage of people. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+9. Free for a while  (short story)
+==============================================================================
+FILE NAME: free-for-a-while
+Save it as free-for-a-while.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Free for a while", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Autumn afternoon in 1914 inside a grand university library reading room in New York, with a high domed ceiling and tall arched windows. Long polished wooden desks with green-shaded lamps. On one desk near a window a tall stack of books and loose papers, a pen and an inkpot, with warm light falling across it. The room is otherwise empty. No people, no faces. A studious, peaceful mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+10. A newspaper for the voiceless  (short story)
+==============================================================================
+FILE NAME: a-newspaper-for-the-voiceless
+Save it as a-newspaper-for-the-voiceless.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A newspaper for the voiceless", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early morning in 1920 in a small crowded printer's room in Bombay. A hand-operated printing press with an iron lever stands by a window. Freshly printed sheets of newspaper (with unreadable squiggles, never real letters) hang on a string to dry across the room, and a bundle of folded copies tied with string waits on a stool. Warm sunlight comes through the window. No people, no faces. A hopeful, busy-but-quiet mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+11. Educate, agitate, organise  (short story)
+==============================================================================
+FILE NAME: educate-agitate-organise
+Save it as educate-agitate-organise.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Educate, agitate, organise", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Morning in 1924 in a simple one-room school in a Bombay lane. Rows of low wooden benches, each with a slate and a piece of chalk. A blackboard at the front shows only unreadable chalk squiggles. The wide door is open to a sunny courtyard with a neem tree. No people, no faces. A hopeful, determined mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+12. A wish for Pandharpur  (short story)
+==============================================================================
+FILE NAME: a-wish-for-pandharpur
+Save it as a-wish-for-pandharpur.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A wish for Pandharpur", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in 1935 on a quiet stone path winding across dry farmland towards a distant hilltop temple with a tall stone tower, glowing softly in the last light. On the stone step in the foreground lies a small string of orange marigold flowers, left behind. Nobody walks on the path; no faces. A gentle, wistful mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
