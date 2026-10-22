@@ -9,6 +9,13 @@ about:
   - "lala-lajpat-rai"
   - "lahore"
 year: 1865
+image:
+  src: "/files/people/lala-lajpat-rai/archive/statue-at-dhudike.webp"
+  alt: "A bronze statue of Lala Lajpat Rai with one arm raised, in a garden with palm trees"
+  caption: "The statue of Lajpat Rai at Dhudike, the village where he was born."
+  credit: "Sarbjit Bahga"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Statue_of_Lala_Lajpat_Rai_at_Dhudike.jpg"
 sources:
   - title: "Lala Lajpat Rai"
     url: "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"
@@ -32,6 +39,11 @@ Lajpat Rai was born on 28 January 1865 in a village called Dhudike, in Punjab. B
 His father was Munshi Radha Krishan. He taught Urdu and Persian in a government school, say the Congress paper and AllAboutSikhs. His mother was Gulab Devi. Wikipedia says Lajpat was the eldest of six children. It says he spent much of his youth in Jagraon, where his house is now a library and a museum.
 
 <aside class="note"><b>Two versions</b>: Wikipedia says the family was Agrawal Jain. The Congress paper says only "a Punjabi Hindu family." Wikipedia places Dhudike in Moga district today. AllAboutSikhs places it in Ferozepur district.</aside>
+
+<figure class="plate">
+  <img src="/files/people/lala-lajpat-rai/archive/ancestral-house-jagraon.webp" alt="A narrow old house with a pink front and carved windows, with scaffolding and a sign in front" loading="lazy" />
+  <figcaption>The ancestral house in Jagraon, built in 1845, where Lajpat Rai spent his early childhood. Some of the family’s things are still kept inside.<span class="credit">Arjungoyal21, CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Ancestral_House_of_Lala_Lajpat_Rai.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## School and the Arya Samaj
 

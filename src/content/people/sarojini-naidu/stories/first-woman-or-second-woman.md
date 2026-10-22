@@ -10,6 +10,13 @@ about:
   - "annie-besant"
   - "indian-national-congress"
 year: 1925
+image:
+  src: "/files/people/sarojini-naidu/archive/naidu-1928.webp"
+  alt: "A black-and-white portrait of Sarojini Naidu with a hand raised to her cheek, in a dark silk sari and long beads"
+  caption: "Sarojini Naidu in 1928, three years after she became president of the Congress."
+  credit: "Bibliothèque nationale de France"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_in_1928.jpg"
 sources:
   - title: "The Women Presidents of INC"
     url: "https://inc.in/congress-sandesh/others/the-women-presidents-of-inc"

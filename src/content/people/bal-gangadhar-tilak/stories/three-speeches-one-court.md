@@ -12,6 +12,13 @@ about:
   - "poona"
   - "bombay"
 year: 1916
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/tilak-madras-1917.webp"
+  alt: "A big crowd of people with umbrellas gathered in front of a station building in Madras"
+  caption: "A crowd at Madras Central Station in 1917, waiting for Tilak. The photo’s record says boy scouts were among them."
+  credit: "Press Agency photographer"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bal_Gangadhar_Tilak_in_Madras_1917.jpg"
 sources:
   - title: "Bal Gangadhar Tilak vs Emperor, Bombay High Court, 9 November 1916"
     url: "https://indiankanoon.org/doc/890587/"

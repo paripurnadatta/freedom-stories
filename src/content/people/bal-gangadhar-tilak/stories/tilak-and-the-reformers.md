@@ -10,6 +10,13 @@ about:
   - "gopal-ganesh-agarkar"
   - "poona"
 year: 1891
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/tilak-in-his-study-kesari-wada.webp"
+  alt: "An old photograph of Tilak sitting in a chair in his study, with a map on the wall behind him"
+  caption: "Tilak in his study at Kesari Wada. The photograph is undated, but was probably taken between 1900 and 1905."
+  credit: "Maharashtra Digital Archives"
+  license: "CC BY-SA 2.5"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lokmanya_Tilak_in_his_study_at_Kesari_Wada._Photograph_undated,_but_most_probably_was_clicked_between_1900-1905.jpg"
 sources:
   - title: "Lokmanya Bal Gangadhar Tilak, by N. G. Jog"
     url: "https://archive.org/stream/lokmanyabalganga00jogn/lokmanyabalganga00jogn_djvu.txt"

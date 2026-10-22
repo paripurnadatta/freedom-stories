@@ -11,6 +11,13 @@ about:
   - "nana-sahib"
   - "revolt-of-1857"
 year: 1858
+image:
+  src: "/files/people/rani-lakshmibai/archive/miniature-on-ivory-1857.webp"
+  alt: "A small oval painting of a woman with a red and gold veil and pearl necklaces"
+  caption: "A small portrait of the Rani, painted on ivory about 1857. It was found when the Nawab of Farrukhabad’s palace was captured in 1857."
+  credit: "Unknown artist"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rani_of_Jhansi,_watercolour_on_ivory,_c._1857.png"
 sources:
   - title: "Rani of Jhansi"
     url: "https://en.wikipedia.org/wiki/Rani_of_Jhansi"

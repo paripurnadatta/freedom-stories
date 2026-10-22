@@ -9,6 +9,13 @@ about:
   - "lala-lajpat-rai"
   - "home-rule-league"
 year: 1917
+image:
+  src: "/files/people/lala-lajpat-rai/archive/banquet-for-lajpat-rai-1916.webp"
+  alt: "A black-and-white photograph of a large dinner in a hall with arched windows, with people seated at long tables"
+  caption: "A dinner in Lajpat Rai’s honour at Hotel Shattuck in California, on 12 February 1916. It was printed in The Hindusthanee Student."
+  credit: "The Hindusthanee Student"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Banquet_in_honor_of_Lala_Lajpat_Rai_in_California_in_1916.jpg"
 sources:
   - title: "Lajpat Rai in USA 1914-1919: Life and Work of a Political Exile, by Harish K. Puri"
     url: "https://theprg.co.uk/wp-content/uploads/2009/07/puri-lala-lajpat-rai.pdf"

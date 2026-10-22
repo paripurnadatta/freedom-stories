@@ -9,6 +9,13 @@ about:
   - "bal-gangadhar-tilak"
   - "poona"
 year: 1893
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/tilak-wada-ganpati-2025.webp"
+  alt: "A decorated room with a Ganesh idol on a table and a seated statue on the left wall"
+  caption: "Ganesh Chaturthi in 2025 at Tilak Wada in Pune."
+  credit: "DesiBoy101"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Tilak_Wada_Ganpati_during_2025_Ganesh_Chaturthi.jpg"
 sources:
   - title: "Ganesh Chaturthi"
     url: "https://en.wikipedia.org/wiki/Ganesh_Chaturthi"
@@ -46,6 +53,11 @@ Both pieces say that in 1893 Tilak wrote in favour of the public festival. Brut 
 Brut India says his greatest work was to spread and grow the movement, not to begin it. By 1905, it reports, public festivals were held in 72 towns outside Pune. This comes from research that Brut cites from *The Indian Express*.
 
 <aside class="note"><b>Two versions</b>: Was Tilak the founder, or the man who made the festival big? The Deccan Herald published a story in 2017 with the title "A challenge to Tilak's claim," but we could only read its summary and not its text. Wikipedia and Brut India give Rangari the first public idol and Tilak the wider push.</aside>
+
+<figure class="plate">
+  <img src="/files/people/bal-gangadhar-tilak/archive/kesari-wada-pune.webp" alt="The front of Kesari Wada in Pune, with a white dome over the entrance and the word Kesari on the wall" loading="lazy" />
+  <figcaption>Kesari Wada in Pune, where Tilak ran his two newspapers, Kesari and The Mahratta.<span class="credit">Rohanpawar1812, CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Kesari_Wada.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## Why Tilak wanted it
 

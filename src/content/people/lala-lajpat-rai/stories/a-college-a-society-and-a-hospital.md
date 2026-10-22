@@ -10,6 +10,13 @@ about:
   - "lahore"
   - "mahatma-gandhi"
 year: 1921
+image:
+  src: "/files/people/lala-lajpat-rai/archive/lajpat-rai-young-india-1920.webp"
+  alt: "An old photograph of Lala Lajpat Rai in profile, in a turban and a suit and tie"
+  caption: "A photograph of Lajpat Rai printed in Young India in February 1920."
+  credit: "Young India"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lala_Lajpat_Rai_photo_in_Young_India.jpg"
 sources:
   - title: "Lala Lajpat Rai"
     url: "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"

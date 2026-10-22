@@ -11,6 +11,13 @@ about:
   - "kasturba-gandhi"
   - "quit-india-movement"
 year: 1942
+image:
+  src: "/files/people/sarojini-naidu/archive/aga-khan-palace-pune.webp"
+  alt: "The Aga Khan Palace in Pune seen from a corner, with arched windows and a tree in front"
+  caption: "The Aga Khan Palace in Pune. It was used as a prison for Gandhi, Kasturba Gandhi and others."
+  credit: "Abhishek chatterjee92"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Aga_Khan_Palace,_Pune,_India.png"
 sources:
   - title: "Aga Khan Palace"
     url: "https://www.mkgandhi.org/gandhiyatra/agakhan-palace.php"

@@ -122,6 +122,18 @@ which ones should be redone and why.
   sentences into stories.
 - Use "HRA" for the group before September 1928 and "HSRA" after.
 - Large WebFetch pages sometimes return only metadata; try another source.
+- From the cloud workspace the Wikimedia **API** is often refused (HTTP 429), so `fetch-media.mjs`
+  can fail. The ordinary web pages still open: a category page (`/wiki/Category:...`) lists files and
+  subcategories, and each `File:` page shows licence, author, date and size. Read those instead,
+  slowly (one page every 2 seconds or more).
+- `thumb.wikimedia.org` only serves its standard widths (250, 330, 500, 960, 1280). A new width gets
+  HTTP 429 or 400. Ask for 960 first, then 500. Small originals (under about 800 px) end up at 500 px.
+- `fetch-media.mjs` once matched Tilak by name search and missed his whole category. Check
+  `matchedBy` and `commonsCategory` in `media.json` after a run; fix the category if it is wrong.
+- A gallery can hold the same file twice, once with underscores and once with spaces. Compare names
+  with underscores turned into spaces.
+- Commons dates many old photos by their upload day. After a fetch, look for `original` items with a
+  modern date (campus photos, statues) and move them to `later`; add old photos to `originals`.
 - `scripts/check-stories.mjs` is the one quality gate. If it complains about length,
   add **sourced** detail, never filler.
 
@@ -149,7 +161,7 @@ which ones should be redone and why.
 | B. R. Ambedkar | 14 (4 flagship, 10 short) | 12 prompts waiting |
 | Jawaharlal Nehru | 13 (5 flagship, 8 short) | 12 prompts waiting |
 | Rani Lakshmibai | 7 (2 flagship) | no prompts yet |
-| Bal Gangadhar Tilak | 9 (2 flagship) | no prompts yet; no portrait |
+| Bal Gangadhar Tilak | 9 (2 flagship) | no prompts yet |
 | Lala Lajpat Rai | 7 (2 flagship) | no prompts yet |
 | Sarojini Naidu | 7 (2 flagship) | no prompts yet |
 | Shivaram Rajguru | 6 (2 flagship) | 2 prompts waiting |

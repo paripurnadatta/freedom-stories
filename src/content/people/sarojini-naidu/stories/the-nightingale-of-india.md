@@ -9,6 +9,13 @@ about:
   - "sarojini-naidu"
   - "mahatma-gandhi"
 year: 1905
+image:
+  src: "/files/people/sarojini-naidu/archive/naidu-1912.webp"
+  alt: "A black-and-white portrait of Sarojini Naidu in profile, with a shawl over her head and a brooch"
+  caption: "Sarojini Naidu in 1912, the year her second book of poems, The Bird of Time, came out."
+  credit: "Unknown photographer"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarojini_Naidu.jpg"
 sources:
   - title: "Sarojini Naidu"
     url: "https://en.wikipedia.org/wiki/Sarojini_Naidu"
@@ -50,6 +57,11 @@ Wikipedia lists her main books of poems. *The Golden Threshold* came out in Lond
 The Congress's tribute says that her 1912 poem "In the Bazaars of Hyderabad" is one of her most popular. Wikipedia places that poem in *The Bird of Time*. Another source, Brewminate, names two of her poems with a political message: "Awake!", which closed a speech she gave to the Congress in 1915, and "The Gift of India," which criticised the British for taking advantage of Indian mothers.
 
 We do not copy her poems here. They can be read in the books themselves.
+
+<figure class="plate">
+  <img src="/files/people/sarojini-naidu/archive/golden-threshold-hyderabad.webp" alt="A white house with a row of arches at the front, in Hyderabad" loading="lazy" />
+  <figcaption>The Golden Threshold, the house in Hyderabad where Sarojini Naidu lived. Her first book of poems has the same name.<span class="credit">రహ్మానుద్దీన్, CC BY-SA 3.0. <a href="https://commons.wikimedia.org/wiki/File:Golden_threshold_01.JPG" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## What critics said
 

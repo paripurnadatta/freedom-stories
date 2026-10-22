@@ -10,6 +10,13 @@ about:
   - "khudiram-bose"
   - "bombay"
 year: 1908
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/tilak-postcard-1905.webp"
+  alt: "An old photograph of Tilak standing in white clothes beside a table with a cloth, with the words Mr. Bal Gangadhar Tilak below"
+  caption: "Tilak, on a postcard printed in Bombay around 1905."
+  credit: "The Phototype Co., Bombay (scan by Paper Jewels)"
+  license: "CC BY 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bal-tilak.jpg"
 sources:
   - title: "The sedition trials of Lokmanya Tilak"
     url: "https://www.barandbench.com/amp/story/columns/legal-notes-by-arvind-datar-the-sedition-trials-of-lokmanya-tilak"

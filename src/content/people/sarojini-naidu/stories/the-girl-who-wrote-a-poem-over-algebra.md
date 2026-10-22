@@ -8,6 +8,13 @@ published: 2026-10-22
 about:
   - "sarojini-naidu"
 year: 1879
+image:
+  src: "/files/people/sarojini-naidu/archive/naidu-by-jb-yeats-1896.webp"
+  alt: "A pencil drawing of a young woman sitting with her head tilted, in a loose pale dress"
+  caption: "A pencil drawing of Sarojini Naidu made in 1896, when she was a student in England. The artist was John Butler Yeats."
+  credit: "John Butler Yeats"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_by_JB_Yeats.jpg"
 sources:
   - title: "The Golden Threshold, with an introduction by Arthur Symons (1905)"
     url: "https://www.gutenberg.org/ebooks/680.html.noimages"

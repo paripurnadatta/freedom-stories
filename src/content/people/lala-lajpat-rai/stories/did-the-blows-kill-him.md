@@ -12,6 +12,13 @@ about:
   - "bhagat-singh"
   - "shivaram-rajguru"
 year: 1928
+image:
+  src: "/files/people/lala-lajpat-rai/archive/lajpat-rai-before-1928.webp"
+  alt: "A black-and-white portrait of Lala Lajpat Rai in a white turban and white shirt"
+  caption: "Lala Lajpat Rai, in a photograph taken before 1928."
+  credit: "Devendra Swaroop"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lala_lajpat_Rai.jpg"
 sources:
   - title: "Lala Lajpat Rai"
     url: "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"

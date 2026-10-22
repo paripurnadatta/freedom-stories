@@ -11,6 +11,13 @@ about:
   - "mahatma-gandhi"
   - "kasturba-gandhi"
 year: 1930
+image:
+  src: "/files/people/sarojini-naidu/archive/tigress-of-india-print.webp"
+  alt: "A drawn print of a woman in a sari standing in front of a line of police outside a salt factory, with flags in the background"
+  caption: "A popular print from the 1940s, titled “The attack of the tigress of India on Dharasana’s salt factory”. It is an artist’s picture, not a record of what happened."
+  credit: "Unknown artist"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:The_attack_of_the_tigress_of_India_on_Dharsana's_salt_factory.jpg"
 sources:
   - title: "Dharasana Satyagraha"
     url: "https://en.wikipedia.org/wiki/Dharasana_Satyagraha"
@@ -48,6 +55,11 @@ A reporter named Webb Miller watched. His story was printed in newspapers around
 The government taxed salt. On 2 March 1930, says Wikipedia, Gandhi wrote to the Viceroy, Lord Irwin. He offered to stop the Salt March if Irwin met eleven demands, including an end to the salt tax. Irwin ignored the letter. Gandhi's words, as Wikipedia gives them, were: "On bended knees, I asked for bread and I have received stone instead."
 
 Gandhi made salt at the seashore at Dandi on 6 April 1930.
+
+<figure class="plate">
+  <img src="/files/people/sarojini-naidu/archive/naidu-and-gandhi-dandi-1930.webp" alt="A black-and-white photograph of Gandhi walking with a stick, with Sarojini Naidu and other people beside him" loading="lazy" />
+  <figcaption>Gandhi and Sarojini Naidu at Dandi in 1930. The Commons record calls the picture “Sarojini Naidu receives Gandhi on the Salt March”.<span class="credit">Unknown photographer, Public domain. <a href="https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_receives_Gandhi_on_the_Salt_March.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## Gandhi is arrested
 

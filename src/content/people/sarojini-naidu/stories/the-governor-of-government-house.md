@@ -8,6 +8,13 @@ published: 2026-10-22
 about:
   - "sarojini-naidu"
 year: 1947
+image:
+  src: "/files/people/sarojini-naidu/archive/naidu-plants-a-tree-1947.webp"
+  alt: "A black-and-white photograph of Sarojini Naidu bending to plant a tree, with young scouts crowded around her"
+  caption: "Sarojini Naidu planting a tree at Mehrauli, Delhi, on 23 July 1947, during Plantation Week."
+  credit: "Photo Division, Government of India"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Sarojini_Naidu_plants_a_tree_in_Mehrauli,_Delhi.jpg"
 sources:
   - title: "Sarojini Naidu"
     url: "https://en.wikipedia.org/wiki/Sarojini_Naidu"
@@ -40,6 +47,11 @@ When India became independent on 15 August 1947, Sarojini Naidu was sixty-eight 
 Wikipedia says she was appointed Governor of the United Provinces on 15 August 1947. The United Provinces is today the state of Uttar Pradesh. Britannica says she was the first woman in India to be appointed the governor of a state.
 
 EBSCO calls the United Provinces the most politically active state in India. None of the sources we opened describes her work as governor. ETV Bharat, an Indian news site, says only that she became the first woman governor, and gives no dates.
+
+<figure class="plate">
+  <img src="/files/people/sarojini-naidu/archive/nehru-science-congress-lucknow-1949.webp" alt="A black-and-white photograph of Jawaharlal Nehru speaking at a microphone, with people seated to the left" loading="lazy" />
+  <figcaption>Jawaharlal Nehru speaking at the Indian Science Congress in Lucknow, 3 January 1949. Sarojini Naidu and the scientist K. S. Krishnan sit at the left.<span class="credit">Unknown photographer, Public domain. <a href="https://commons.wikimedia.org/wiki/File:Jawaharlal_Nehru_addressing_the_Indian_Science_Congress,_Lucknow,_3_January_1949.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## Before that
 

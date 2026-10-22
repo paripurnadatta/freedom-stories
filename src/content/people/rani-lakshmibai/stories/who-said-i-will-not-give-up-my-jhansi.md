@@ -9,6 +9,13 @@ about:
   - "rani-lakshmibai"
   - "jhansi-resistance-in-1857"
 year: 1946
+image:
+  src: "/files/people/rani-lakshmibai/archive/rani-lakshmibai-saheb-print.webp"
+  alt: "A black-and-white printed drawing of a woman on a galloping horse, holding a sword above her head"
+  caption: "A printed drawing of the Rani on horseback, titled “Rani Lakshmibai Saheb”. Commons dates it to 1897."
+  credit: "Unknown artist"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rani_Lakshmibai_Saheb.jpg"
 sources:
   - title: "Rani of Jhansi"
     url: "https://en.wikipedia.org/wiki/Rani_of_Jhansi"

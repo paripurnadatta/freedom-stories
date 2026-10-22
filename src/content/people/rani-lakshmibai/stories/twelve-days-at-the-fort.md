@@ -11,6 +11,13 @@ about:
   - "tantia-tope"
   - "revolt-of-1857"
 year: 1858
+image:
+  src: "/files/people/rani-lakshmibai/archive/jhansi-fort-1882.webp"
+  alt: "An old brown photograph of the walls of Jhansi Fort on a rocky hill, with a bare tree and a camel in front"
+  caption: "Jhansi Fort, photographed in 1882 by Lala Deen Dayal, twenty-four years after the siege."
+  credit: "Lala Deen Dayal"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:1882_jhansi_fort.jpg"
 sources:
   - title: "Rani of Jhansi"
     url: "https://en.wikipedia.org/wiki/Rani_of_Jhansi"
@@ -65,6 +72,11 @@ On 1 April, an army led by Tatya Tope came to help Jhansi. Wikipedia says it had
 The British lost fewer than a hundred men, says Wikipedia. It says the relief army lost over fifteen hundred. It broke and withdrew. Fires set in the forest to slow the British also hurt Tatya Tope's own men.
 
 Jhansi was alone.
+
+<figure class="plate">
+  <img src="/files/people/rani-lakshmibai/archive/defeat-of-the-peshwas-army-1858.webp" alt="An old black-and-white print of a battle in a dusty field, with soldiers, horses and an elephant" loading="lazy" />
+  <figcaption>A print called “Defeat of the Peshwa’s army before Jhansi”, dated 1858. The artist is not named.<span class="credit">Unknown artist, Public domain. <a href="https://commons.wikimedia.org/wiki/File:Defeat_of_the_Peshwa's_army_before_Jhansi.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## The night of 2 and 3 April
 

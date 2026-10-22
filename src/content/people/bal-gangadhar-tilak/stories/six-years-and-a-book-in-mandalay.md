@@ -8,6 +8,13 @@ published: 2026-10-22
 about:
   - "bal-gangadhar-tilak"
 year: 1908
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/gita-rahasya-1915-cover.webp"
+  alt: "The dark cloth spine of an old book with gold Marathi lettering"
+  caption: "The cover of the 1915 edition of the Gita Rahasya, the book Tilak wrote in Mandalay."
+  credit: "Photograph from Wikimedia Commons"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:GitaRahasy1915CoverSideView.png"
 sources:
   - title: "Tilak: The stints in prison"
     url: "https://www.sankalpindia.net/book/tilak-stints-prison"

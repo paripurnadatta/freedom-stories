@@ -10,6 +10,13 @@ about:
   - "jhansi-resistance-in-1857"
   - "tantia-tope"
 year: 1858
+image:
+  src: "/files/people/rani-lakshmibai/archive/equestrian-painting-1860.webp"
+  alt: "A bright painting of a woman in a gold crown riding a white horse and holding a spear"
+  caption: "A painting of the Rani on horseback, made in central India about 1860, perhaps at Jhansi."
+  credit: "Unknown artist"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Equestrian_painting_of_Lakshmibai,_the_Rani_of_Jhansi,_Central_India,_perhaps_Jhansi,_ca.1860.jpg"
 sources:
   - title: "The Forgotten Story of Rani Lakshmibai's Adopted Son Damodar Rao"
     url: "https://www.livehistoryindia.com/story/people/jhansis-forgotten-child"

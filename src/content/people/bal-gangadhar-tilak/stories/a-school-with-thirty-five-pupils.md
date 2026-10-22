@@ -10,6 +10,13 @@ about:
   - "gopal-ganesh-agarkar"
   - "poona"
 year: 1880
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/new-english-school-pune.webp"
+  alt: "A shady garden with a low fence, in front of the buildings of the New English School in Pune"
+  caption: "The New English School on Tilak Road in Pune, as it looks today."
+  credit: "Dagaddhonda"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:New_English_School,_Tilak_Road,_Pune.jpg"
 sources:
   - title: "Lokamanya Tilak, by G. P. Pradhan"
     url: "https://www.arvindguptatoys.com/arvindgupta/lokmanyatilak.pdf"
@@ -41,6 +48,11 @@ He studied mathematics at Deccan College. Wikipedia and the Tribune both say he 
 Wikipedia says the school was started by four men: Tilak, Gopal Ganesh Agarkar, Mahadev Ballal Namjoshi and Vishnushastri Chiplunkar. Wikipedia says they wanted to teach nationalist ideas through Indian culture.
 
 The school did so well that the friends formed a larger group. The Deccan Education Society was founded on 24 October 1884. It opened Fergusson College on 2 January 1885, and Tilak taught mathematics there.
+
+<figure class="plate">
+  <img src="/files/people/bal-gangadhar-tilak/archive/fergusson-college-main-building.webp" alt="A tall old college building made of dark stone, with pointed windows and green creepers" loading="lazy" />
+  <figcaption>The main building of Fergusson College in Pune, which the Deccan Education Society opened in 1885.<span class="credit">Himanshu Rane, CC BY-SA 4.0. <a href="https://commons.wikimedia.org/wiki/File:Fergusson_College_,_Main_Building.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## Two newspapers
 

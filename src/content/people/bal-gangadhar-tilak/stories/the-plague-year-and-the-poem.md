@@ -9,6 +9,13 @@ about:
   - "bal-gangadhar-tilak"
   - "poona"
 year: 1897
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/tilak-the-graphic-1897.webp"
+  alt: "A pencil-style drawing of Tilak in a turban and shawl"
+  caption: "Tilak, drawn for The Graphic, an English magazine, on 11 September 1897."
+  credit: "The Graphic"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:B._G._Tilak.gif"
 sources:
   - title: "Queen-Empress vs Bal Gangadhar Tilak: an autopsy"
     url: "https://indianhistorycollective.com/queen-empress-vs-bal-gangadhar-tilak-an-autopsy/"
@@ -80,6 +87,11 @@ The judge had given the jury a strict view of the law. He told them that to exci
 Asked if he had anything to say, Tilak said: "Whatever be the verdict of the jury, I think, I am not guilty."
 
 The sentence was eighteen months of hard labour. Tilak asked the Privy Council in London for permission to appeal. A column in Bar & Bench says it refused.
+
+<figure class="plate">
+  <img src="/files/people/bal-gangadhar-tilak/archive/tilak-trial-bombay-high-court-1897.webp" alt="An old print of a crowded courtroom with a high chandelier, judges and lawyers at long tables" loading="lazy" />
+  <figcaption>Tilak’s trial for sedition in the Bombay High Court, 1897, as drawn for the Illustrated London News.<span class="credit">Illustrated London News, Public domain. <a href="https://commons.wikimedia.org/wiki/File:Tilak's_trial_for_sedition,_in_the_Bombay_High_Court.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## In prison
 

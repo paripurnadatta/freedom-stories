@@ -9,6 +9,13 @@ about:
   - "rani-lakshmibai"
   - "jhansi-resistance-in-1857"
 year: 1854
+image:
+  src: "/files/people/rani-lakshmibai/archive/rani-mahal-jhansi.webp"
+  alt: "A two-storey palace courtyard in Jhansi with arched windows and a garden in the middle"
+  caption: "The Rani Mahal in Jhansi, the town palace she was allowed to keep. It is now a museum."
+  credit: "Pinakpani"
+  license: "CC BY-SA 4.0"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Rani_Mahal,_a_royal_palace_in_the_city_of_Jhansi,_Uttar_Pradesh_23.jpg"
 sources:
   - title: "Rani of Jhansi"
     url: "https://en.wikipedia.org/wiki/Rani_of_Jhansi"
@@ -62,6 +69,11 @@ Lang says he saw her only for a moment, when a child drew aside a curtain. He sa
 Live History India warns that Lang probably made some of his story bigger. He liked to boast to his British readers. It says he claimed that she gave him gifts, including an elephant, a camel and a horse, and a portrait of herself. No portrait has ever been found.
 
 <aside class="note"><b>Two versions</b>: If she was twenty-six or twenty-seven in 1854, she was born around 1827. Wikipedia says British sources used 1827, Indian sources 1835, and some historians 1828 to 1830. Lang's guess agrees with the British date. But it is only a guess from one quick look.</aside>
+
+<figure class="plate">
+  <img src="/files/people/rani-lakshmibai/archive/the-ranee-of-jhansi-chambers-1859.webp" alt="An old engraving of a woman in a veil and jewels, sitting on cushions beside a water pipe" loading="lazy" />
+  <figcaption>A picture called “The Ranee of Jhansi”, filed as “Chambers, 1859”. We do not know the artist, or whether it is a true likeness.<span class="credit">Unknown artist, Public domain. <a href="https://commons.wikimedia.org/wiki/File:The_Ranee_of_Jhansi-Chambers-1859.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 ## What she is said to have said
 

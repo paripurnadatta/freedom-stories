@@ -9,6 +9,13 @@ about:
   - "lala-lajpat-rai"
   - "lahore"
 year: 1907
+image:
+  src: "/files/people/lala-lajpat-rai/archive/lajpat-rai-andhra-patrika-1911.webp"
+  alt: "An old printed oval portrait of Lala Lajpat Rai in a turban and dark coat"
+  caption: "Lajpat Rai, as printed in the Andhra Patrika’s annual issue of April 1911."
+  credit: "Andhra Patrika editors"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lala_Lajpat_Rai_from_Andhrapatrika_samvatsaradi_sanchika_1911_(page_199_crop).jpg"
 sources:
   - title: "1907 Punjab unrest"
     url: "https://en.wikipedia.org/wiki/1907_Punjab_unrest"

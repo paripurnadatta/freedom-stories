@@ -9,6 +9,13 @@ about:
   - "bal-gangadhar-tilak"
   - "home-rule-league"
 year: 1917
+image:
+  src: "/files/people/bal-gangadhar-tilak/archive/lal-bal-pal-1910.webp"
+  alt: "An old photograph of three men in turbans sitting in a row outside a wooden doorway"
+  caption: "Lala Lajpat Rai, Bal Gangadhar Tilak and Bipin Chandra Pal, in a photograph dated 1910."
+  credit: "Unknown photographer"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Lal_Bal_Pal.jpg"
 sources:
   - title: "Bal Gangadhar Tilak"
     url: "https://en.wikipedia.org/wiki/Bal_Gangadhar_Tilak"

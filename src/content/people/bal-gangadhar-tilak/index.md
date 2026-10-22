@@ -59,6 +59,13 @@ sources:
   - title: "A memorial to Bal Gangadhar Tilak (30 July 1954)"
     url: "https://nehruarchive.in/documents/a-memorial-to-bal-gangadhar-tilak-30-july-1954-znqy9o"
     publisher: "The Nehru Archive"
+image:
+  src: "/files/people/bal-gangadhar-tilak/portrait.webp"
+  alt: "Bal Gangadhar Tilak"
+  caption: "Bal Gangadhar Tilak"
+  credit: "Unknown author · Bal Gangadhar Tilak (crop)"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Bal_Gangadhar_Tilak_crop.jpg"
 angles:
   - title: "Three speeches, one court"
     type: flagship
