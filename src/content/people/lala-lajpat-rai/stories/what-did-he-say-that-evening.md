@@ -26,32 +26,34 @@ sources:
 status: published
 ---
 
-On 30 October 1928, Lajpat Rai was struck by police at a protest in Lahore. The same evening he spoke to a crowd. People still repeat what he said.
+On 30 October 1928, Lajpat Rai was struck by police at a protest in Lahore. That same evening he stood before a crowd at Mochi Gate and spoke.
 
-But what did he say? When we look, we find three versions.
+People still repeat what he said. But when we look for his words, we find three versions.
 
-## Version one: Wikipedia
+## One picture, three sets of words
 
-Wikipedia says the evening speech was given at Mochi Gate in Lahore. It gives the words as: "the blows struck at me today will be the last nails in the coffin of British rule in India."
+All three versions share one picture. It is a coffin, and it is British rule that is lying in it.
 
-## Version two: The Tribune
+Wikipedia gives his words as: "the blows struck at me today will be the last nails in the coffin of British rule in India."
 
-The Tribune printed an article in 2011. It says that on the evening of the protest, Rai declared: "Every blow on my body will prove to be the last kneel in the coffin of British rule in India."
+The Tribune printed an article in 2011. It says that Rai declared: "Every blow on my body will prove to be the last kneel in the coffin of British rule in India." The word "kneel" is odd. It may be a slip for "knell", the sound of a funeral bell. That is only a guess. The article does not say.
 
-The word "kneel" is odd. It may be a slip for "knell", the sound of a funeral bell. That is our guess. The article does not say.
+Swarajya, a magazine, has an article by an admirer of Rai. It says he declared that each blow "drove one more nail into the coffin of the Empire."
 
-## Version three: Swarajya
+<aside class="note"><b>Three versions</b>: Wikipedia has "last nails in the coffin of British rule in India". The Tribune has "last kneel in the coffin of British rule in India". Swarajya has "one more nail into the coffin of the Empire". None of the three names a newspaper report or a recording, so we cannot say which is closest to what he said.</aside>
 
-Swarajya is a magazine. Its article is written by an admirer of Rai. It says that he declared each blow "drove one more nail into the coffin of the Empire." This is the sentence as we found it. The article does not say where the words come from.
-
-<aside class="note"><b>Three versions</b>: Wikipedia has "last nails in the coffin of British rule in India". The Tribune has "last kneel in the coffin of British rule in India". Swarajya has "one more nail into the coffin of the Empire". They share one picture: a coffin, and British rule or the Empire. None of the three names a newspaper report or a recording. We cannot say which is closest to what he said.</aside>
+In all three, the blows he received become the last nails or the last bell for British rule. That is a promise about the future, not a description of the day.
 
 ## What happened next
 
-The Tribune says a memorial meeting was held in Calcutta on 29 November 1928. Basanti Devi, widow of C. R. Das, asked the young people of India: "Do the youth and manhood of the country still exist?"
+A memorial meeting was held in Calcutta on 29 November 1928, the Tribune says. Basanti Devi, widow of C. R. Das, stood up. She asked the young people of India: "Do the youth and manhood of the country still exist?"
 
-A writer for Dawn says that Bhagat Singh's group planned their attack for "exactly a month after Rai had died." That attack took place on 17 December 1928. The Dawn writer is sympathetic to Bhagat Singh, and gives no sources. According to Wikipedia, the target was Scott, but another officer, Saunders, was shot by mistake. The story of Bhagat Singh is told elsewhere on this site, with the death of Saunders, which we do not repeat here.
+A writer for Dawn says that Bhagat Singh's group planned their attack for "exactly a month after Rai had died." That attack took place on 17 December 1928.
+
+<aside class="note"><b>A friendly writer</b>: the Dawn writer is sympathetic to Bhagat Singh and gives no sources. According to Wikipedia, the target was Scott, but another officer, Saunders, was shot by mistake. That story is told elsewhere on this site.</aside>
 
 ## Why it matters
 
-When a speech is quoted for nearly a hundred years, the words can change. Here the picture stays the same, and the exact wording does not. If you want the true words, you need a record from the day: a newspaper report, a police note, or a recording. We did not find one in the sources we opened.
+When a speech is quoted for nearly a hundred years, the words can change. Here the picture stays the same and the exact wording does not.
+
+If you want the true words, you need a record from the day: a newspaper report, a police note, or a recording. We did not find one in the sources we opened. Until someone does, we can say what Lajpat Rai meant, but not exactly how he said it.

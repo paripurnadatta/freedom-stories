@@ -28,51 +28,54 @@ sources:
 status: published
 ---
 
-A story told many times starts to change. The escape from Lahore is one of those stories. A young man with a shaved face, a lady and a small boy get on a train. The police do not see who they are.
+A story told many times starts to change. The escape from Lahore is one of those stories.
 
-We have already told that story on this site, in "The woman who became the wife". Here we look at something else: how the four sources differ.
+A young man with a shaved face, a lady and a small boy get on a train. The police do not see who they are.
 
-## What all four agree on
+The main story is told in "The woman who became the wife". Here we follow the same journey and see where the tellers differ.
 
-All four say that Durga Devi pretended to be Bhagat Singh's wife. All four say that they travelled in first class. They say that a servant went with them. And all four say that the plan worked.
+## The plan
 
-## The servant
+Durga Devi pretended to be Bhagat Singh's wife. They travelled in first class. A servant went with them. And the plan worked. All four of our sources agree on this much.
 
-Who played the servant?
+## The night before
 
-- Maclean, Wikipedia and the National Book Trust book say Rajguru.
-- The Quint says Sukhdev.
+Bhagat Singh and Sukhdev came to Durga Devi at night, in the days after the shooting of Saunders.
 
-<aside class="note"><b>Two versions</b>: Three sources name Rajguru. One names Sukhdev. Most of the evidence points to Rajguru. We could not find a record from the time that settles it.</aside>
+<aside class="note"><b>Two versions</b>: Maclean says it was the night of 18 December. Wikipedia says Sukhdev asked for her help on 19 December. We do not know which is right.</aside>
 
-## The year of the shooting
-
-The Quint says that Saunders was shot in December 1927. Then it puts the escape in 1928. These two cannot both be right, since the escape came days after the shooting. The other three sources place both events in December 1928.
-
-## The night
-
-Maclean says that Bhagat Singh and Sukhdev came to Durga Devi on the night of 18 December. Wikipedia says Sukhdev asked for her help on 19 December. We do not know which is right.
+<aside class="note"><b>The year</b>: The Quint says Saunders was shot in December 1927, and puts the escape in 1928. These cannot both be right, since the escape came days after the shooting. The other three sources place both events in December 1928.</aside>
 
 ## The disguise
 
-Wikipedia says Bhagat Singh shaved and cut his hair, so much that she did not know him at first. The Quint says he wore a suit and a felt hat and was dressed as an Anglo-Indian. The National Book Trust book says he looked like an American, and that his coat was "handsome".
+Bhagat Singh cut his hair and shaved. Wikipedia says he did it so well that she did not know him at first.
+
+<aside class="note"><b>Three pictures</b>: The Quint says he wore a suit and a felt hat and was dressed as an Anglo-Indian. The National Book Trust book says he looked like an American, and that his coat was "handsome".</aside>
 
 <aside class="note"><b>Anglo-Indian</b>: a person with both Indian and British family roots. In the 1920s the word was used for such families in India.</aside>
 
+## The servant
+
+Who carried the bags? Maclean, Wikipedia and the National Book Trust book say it was Rajguru, in the role of the servant.
+
+<aside class="note"><b>Two versions</b>: three sources name Rajguru. The Quint names Sukhdev. Most of the evidence points to Rajguru. We could not find a record from the time that settles it.</aside>
+
 ## The platform
 
-The National Book Trust book says a sadhu, a holy man, was seen on the platform. It says this was Chandrashekhar Azad in disguise.
+On the platform there was more going on. The National Book Trust book says a sadhu, a holy man, was seen there. It says this was Chandrashekhar Azad in disguise.
 
-Maclean says that Azad escaped in a different way. She says he went as a pilgrim's guide, called a *panda*, travelling with Sukhdev's mother and sister.
+Maclean tells it differently. She says Azad escaped as a pilgrim's guide, called a *panda*, travelling with Sukhdev's mother and sister.
 
 The Quint says that more than four hundred policemen were watching the platform. No other source gives this number.
 
 ## The road
 
-Wikipedia says the group took tickets to Cawnpore, now Kanpur. They went on to Lucknow, to avoid the police at Howrah. At Lucknow, Rajguru left for Benares. Bhagat Singh, Durga Devi and the baby went on to Howrah, near Calcutta. Maclean says they went on to Calcutta. The Quint says they got past police questions on the train.
+The group took tickets to Cawnpore, now Kanpur, says Wikipedia. They went on to Lucknow, to avoid the police at Howrah. At Lucknow, Rajguru left for Benares. Bhagat Singh, Durga Devi and the baby went on to Howrah, near Calcutta.
+
+Maclean says they went on to Calcutta. The Quint says they got past the police questions on the train.
 
 ## Why it matters
 
-Escape stories are always told by the people who were there, or by people who heard it from them. Each teller keeps the part that matters to him.
+Escape stories are told by the people who were there, or by people who heard it from them. Each teller keeps the part that matters to him.
 
-Here the safest thing to say is the least exciting. A woman, a child and two men in disguise got out of Lahore by train. The plan worked. Beyond that, the details vary, and we say so.
+The safest thing to say is also the simplest. A woman, a child and two men in disguise got out of Lahore by train. The plan worked. Beyond that the details vary, and we say so.

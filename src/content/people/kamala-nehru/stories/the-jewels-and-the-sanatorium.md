@@ -28,42 +28,38 @@ status: published
 
 A long illness changes a family. For the Nehrus, the illness was Kamala's tuberculosis. It cast a shadow over the family for the rest of her life.
 
-## When did it begin?
+It began in the mid-1920s. She had been unwell with a tubercular infection "for some time", The Quint says. She was treated in a hospital in Lucknow, and she did not get better.
 
-The sources give two answers.
-
-The Wire says she was diagnosed at the end of 1924. The Quint says she had been unwell with a tubercular infection "for some time" by about 1925. It says she was treated in a hospital in Lucknow, and did not get better.
-
-<aside class="note"><b>Two versions</b>: End of 1924, or about 1925? The two dates are close, and neither source gives a doctor's record. We say "the mid-1920s".</aside>
+<aside class="note"><b>Two versions</b>: The Wire says she was diagnosed at the end of 1924. The Quint places her illness at about 1925. The two dates are close and neither source gives a doctor's record, so we say "the mid-1920s".</aside>
 
 ## The cost of care
 
-The Wire says treatment in Switzerland was very costly. It says that Jawaharlal Nehru sold Kamala's jewellery to pay for it. It also says the couple depended on his father, Motilal Nehru, in those years. The Wire quotes the autobiography: "My wife and I did not spend much."
+Treatment in Switzerland was very costly. The Wire says Jawaharlal Nehru sold Kamala's jewellery to pay for it. In those years, it says, the couple also depended on his father, Motilal Nehru. The Wire quotes Nehru's autobiography: "My wife and I did not spend much."
 
-The Wire gives these as facts. It does not name a page or a letter. We found no second source for the sale of the jewellery.
+<aside class="note"><b>One source only</b>: The Wire gives the sale of the jewellery as a fact, but names no page or letter. We found no second source for it.</aside>
 
 ## The voyage
 
-The Quint says, quoting the biographer Frank Moraes, that in March 1926 Kamala was taken to Europe by ship. Nehru and their eight-year-old daughter, Indira, went with her. They sailed to Venice.
+In March 1926, Kamala was taken to Europe by ship. This comes from the biographer Frank Moraes, quoted in The Quint. Nehru and their eight-year-old daughter, Indira, went with her. They sailed to Venice.
 
-The family lived in Switzerland, says the Quint, and Kamala was in a sanatorium in Montana.
+The family lived in Switzerland, and Kamala stayed in a sanatorium in Montana.
 
 <aside class="note"><b>Sanatorium</b>: a hospital for people with long illnesses, often in the mountains.</aside>
 
-## One year or two?
+## Over a year in Europe
 
-The Wikipedia page on Nehru says that in 1926 he went to Europe with his wife and daughter for her treatment. Another source, the Nehru Memorial Fund chronology, places a congress in Brussels in February 1927. That does not conflict with a March 1926 departure. The family could have stayed in Europe through 1926 and into 1927, as the Wikipedia account suggests.
+The family did not come back quickly. Indira, who was eight when they sailed, spent more than a year away from home. Wikipedia's page on Nehru says that in 1926 he went to Europe with his wife and daughter for her treatment. On 16 November 1926, the Nehru Archive lists a letter he wrote to his father from Berlin. And in February 1927 a congress was held in Brussels, according to the Nehru Memorial Fund chronology.
 
-The Nehru Archive lists a letter Nehru wrote to his father from Berlin on 16 November 1926. We have not opened it, but its date shows he was still in Europe in November.
+All these dates fit one picture. The family stayed in Europe through 1926 and into 1927.
 
-## Back to India, and a return of the illness
+## Back to India
 
-Wikipedia says that when she recovered, Kamala returned to India. The Quint says she was ill again by December 1928.
+When Kamala recovered, according to Wikipedia, she returned to India. But the illness had not gone. The Quint says she was ill again by December 1928.
 
-So her illness did not go away. It came and went, for about ten years.
+So her illness came and went for about ten years.
 
 ## Why it matters
 
 Kamala Nehru did a great deal in her years of good health. She picketed shops, led women, and ran a dispensary. All of that was done by a woman who knew her lungs might fail.
 
-It is easy to read this part of her life as only sad. It is better to read it as the background to the rest. Everything she did, she did while ill.
+It is easy to read this part of her life as only sad. It is better to read it as the background to the rest. Everything she did, she did while she was ill, and she did it for years.

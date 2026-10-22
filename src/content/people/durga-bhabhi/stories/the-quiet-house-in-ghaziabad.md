@@ -22,40 +22,40 @@ sources:
 status: published
 ---
 
-Not every freedom fighter is remembered with statues and songs. Some of them grew old in quiet places. Durga Devi was one.
+Not every freedom fighter is remembered with statues and songs. Some of them grew old in quiet places. Durga Devi, who was called Durga Bhabhi, was one.
 
-## Ghaziabad
+After independence she lived as an ordinary citizen, away from public view. She made her home in Ghaziabad, near Delhi.
 
-Wikipedia says that after independence she lived as an ordinary citizen, away from public view. It says she lived in Ghaziabad. It says she died there on 15 October 1999, at the age of 92.
+## The house in Raj Nagar
 
-The Quint gives the same year and age. Its writer, Vivek Shukla, says that she lived in Raj Nagar in Ghaziabad with her son Sachi. He says he went to see her in 1996. By then, he writes, her memory was already fading.
+A writer for The Quint, Vivek Shukla, went to see her in 1996. She was living in Raj Nagar in Ghaziabad with her son Sachi. By then, he wrote, her memory was already fading.
+
+She was in her eighties then, and she lived with her son in that house. Her name was easy to miss in a list of famous ones.
 
 ## Her last day
 
-Maclean writes that she died in 1999 and was cremated on the banks of the river Hindon "with full state honours". She gives no more detail.
+Durga Devi died in Ghaziabad on 15 October 1999. She was ninety-two. Another writer, Maclean, says she was cremated on the banks of the river Hindon "with full state honours". Maclean gives no more detail.
+
+<aside class="note"><b>Two years, one story</b>: The Quint says she died in 1999 and that her son Sachi died in 2000. But the same article places the shooting of Saunders in 1927, while other sources say 1928. So the article has at least one slip, and its dates should be checked.</aside>
 
 ## After her death
 
-The Quint says a social worker in Ghaziabad, Ravi Arora, told the writer that Sachi died in 2000. After that, the family sold the house and moved to Canada.
+According to The Quint, a social worker in Ghaziabad named Ravi Arora said that Sachi died in 2000. After that, the family sold the house and moved to Canada.
 
-This comes from one person's words in one article. We could not check it.
+<aside class="note"><b>One person's words</b>: this comes from one person in one article. We could not check it.</aside>
 
-The article also says that no road in Ghaziabad, Lucknow or anywhere else in India is named after her. We did not search for roads ourselves. It is a claim in an opinion piece, and a reader should remember that it may be out of date.
+The same article says that no road in Ghaziabad, Lucknow or anywhere else in India carries her name.
 
-<aside class="note"><b>Opinion piece</b>: an article where the writer gives his own views. It can be useful, but it is not a record of facts.</aside>
+<aside class="note"><b>Opinion piece</b>: an article where the writer gives his own views. It can be useful, but it is not a record of facts. We did not search for roads ourselves, and the claim may be out of date.</aside>
 
 ## On screen
 
-Wikipedia lists three works about her. In the film *Rang De Basanti* (2006), the actress Soha Ali Khan plays a small role based on her. An episode of the TV series *Adrishya* (2014) tells her story. A 2022 episode of the series *Swaraj* on DD National covers her and her husband.
+She has appeared in a few films and programmes. In the film *Rang De Basanti* (2006), the actress Soha Ali Khan plays a small role based on her. An episode of the TV series *Adrishya* (2014) tells her story. A 2022 episode of the series *Swaraj* on DD National covers her and her husband.
 
-We have not watched these. We pass on only what Wikipedia says.
-
-## A date that does not fit
-
-The Quint says she died in 1999 and Sachi in 2000. But the same article puts the shooting of Saunders in 1927. The other sources say 1928. So the article has at least one slip, and its dates should be checked.
+We have not watched these. We pass on only what Wikipedia lists. Three screen appearances is a short list for a woman who lived ninety-two years and who had helped the struggle. Her death in 1999 came more than fifty years after independence. The cremation by the river Hindon was the last public event of her life.
 
 ## Why it matters
 
-Many people helped the freedom struggle without becoming famous. After the struggle was won, some of them were forgotten.
+Many people helped the freedom struggle without becoming famous. When the struggle was won, some of them were forgotten.
 
-When we remember them, we have to be honest about how little is written down. We know that she lived long and quietly. A story site can at least try to give her a place.
+We know that Durga Bhabhi lived to ninety-two, and that she lived quietly. Very little is written about those years. A story site can at least try to give her a place.

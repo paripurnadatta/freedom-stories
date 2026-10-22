@@ -33,48 +33,42 @@ There he was arrested. And that arrest changed the rest of his life.
 
 ## Why Calcutta?
 
-The Hindi Wikipedia gives one reason. It says Ram Prasad Bismil sent Lahiri to Bengal to learn how to make bombs. Lahiri went to Calcutta, and gathered what was needed at a place called Dakshineswar, a short way from the city.
+Ram Prasad Bismil, the leader of the group, sent Lahiri to Bengal, according to the Hindi Wikipedia. He was to learn how to make bombs. Lahiri went to Calcutta and gathered what was needed at a place called Dakshineswar, a short way from the city.
 
-The Wire gives another reason. It says Lahiri was in Calcutta to spread the HRA's network there.
+<aside class="note"><b>Two versions</b>: The Wire gives another reason. It says Lahiri was in Calcutta to spread the HRA's network there. Neither source explains how it knows. Both may be partly true.</aside>
 
-<aside class="note"><b>Two versions</b>: Was Lahiri sent to learn bomb-making, or sent to build the group in Bengal? The two sources do not say the same, and neither explains how it knows. Both may be partly true.</aside>
+## The blast
 
-## What went wrong
+Lahiri's training was not finished when a bomb exploded. The Hindi Wikipedia says the blast was caused by the carelessness of one of his companions. The sound brought the police.
 
-The Hindi Wikipedia says that Lahiri had not finished his training when a bomb exploded. It says the blast was caused by the carelessness of one of his companions. It says the sound brought the police.
-
-We found no second source for this account. The Wire says only that Manmathnath Gupta later called the whole affair a "misadventure". It does not describe what went wrong.
+<aside class="note"><b>One source only</b>: we found no second account of the blast. The Wire says only that Manmathnath Gupta later called the whole affair a "misadventure". It does not say what went wrong.</aside>
 
 ## The arrest
 
-The Wire gives the date as 10 November 1925. It says he was arrested in Calcutta, with eight other revolutionaries, at a bomb factory in Dakshineswar. That makes nine men in all.
+The date was 10 November 1925. In Calcutta the police found nine men at a bomb factory in Dakshineswar, according to The Wire. Lahiri was one of them. He was arrested together with eight other revolutionaries.
 
-The Hindi Wikipedia says the police arrested Lahiri "and nine companions". That makes ten.
+A government magazine, New India Samachar, later called him the main accused in what it calls the Dakshineswar bombing conspiracy.
 
-A government magazine, New India Samachar, calls him the main accused in what it calls the Dakshineswar bombing conspiracy.
-
-<aside class="note"><b>Two versions</b>: Nine arrested, or ten? The sources differ by one person. We do not know the exact number.</aside>
+<aside class="note"><b>Two versions</b>: nine arrested, or ten? The Wire says eight others were arrested with Lahiri. The Hindi Wikipedia says the police arrested Lahiri "and nine companions". The sources differ by one person.</aside>
 
 ## The sentence
 
-All our sources say that Lahiri was sentenced to ten years in prison for the Dakshineswar case. The Wire and New India Samachar both say he was sent to the Andaman Islands.
-
-The Hindi Wikipedia adds something different. It says the ten-year sentence was cut to five years on appeal. It does not give a court or a date.
+Lahiri was sentenced to ten years in prison for the Dakshineswar case. The Wire and New India Samachar both say he was sent to the Andaman Islands.
 
 <aside class="note"><b>Andaman Islands</b>: a chain of islands in the sea off India's east coast. The British built a large prison there, called the Cellular Jail, for people they wished to send far away.</aside>
 
-<aside class="note"><b>Two versions</b>: Ten years, or five? The Hindi Wikipedia says it was reduced. Three other sources do not mention any reduction. We cannot say which is right.</aside>
+<aside class="note"><b>Two versions</b>: ten years, or five? The Hindi Wikipedia says the ten years were cut to five on appeal. It gives no court or date. Three other sources mention no reduction.</aside>
 
 ## Found out
 
-While Lahiri was in prison, the police worked out that he was also wanted in the Kakori case. The Wire says they found out he was an "absconder", a man who was being hunted and had not been caught. He was then moved to the Lucknow Central Jail.
+While Lahiri was in prison, the police worked out something more. He was also wanted in the Kakori case. The Wire says they found out he was an "absconder", a man who was being hunted and had not been caught.
 
-The Hindi Wikipedia says he was brought from Bengal to Lucknow, so that he could be tried with the others.
+He was then moved to the Lucknow Central Jail. The Hindi Wikipedia says he was brought from Bengal so that he could be tried with the others.
 
 That is how a man who was arrested at one bomb factory in Bengal ended up on trial for a train robbery in Uttar Pradesh.
 
 ## Why it matters
 
-A secret life leaves few records. The few that survive tell different stories. In this case, we can say for sure only that Lahiri was arrested in Calcutta in 1925, and that he was later tried at Lucknow for Kakori.
+A secret life leaves few records, and the few that survive tell different stories. We can say for sure only that Lahiri was arrested in Calcutta in 1925, and that he was later tried at Lucknow for Kakori.
 
-The rest is a good example of how history works. We lay out what each source says, and we keep the gaps in view.
+The rest shows how hard it is to follow a person who was hiding. Even the number of friends arrested with him is told two ways.
