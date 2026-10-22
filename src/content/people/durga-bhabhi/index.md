@@ -21,12 +21,6 @@ sources:
   - title: "Hanged for Patriotism"
     url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
     publisher: "National Book Trust, India"
-  - title: "Smart chapter for Durga Bhabhi's school"
-    url: "https://timesofindia.indiatimes.com/city/lucknow/smart-chapter-for-durga-bhabhis-school/articleshow/68769661.cms"
-    publisher: "The Times of India"
-  - title: "Like Durga Bhabhi, her school fades into oblivion"
-    url: "https://timesofindia.indiatimes.com/city/lucknow/like-durga-bhabhi-her-school-fades-into-oblivion/articleshow/48407951.cms"
-    publisher: "The Times of India"
 image:
   src: "/files/people/durga-bhabhi/portrait.webp"
   alt: "Statue, bust, sculpture, or memorial of Durga Bhabhi"
@@ -42,7 +36,6 @@ angles:
   - title: "The school after the secrets"
     type: short
     hook: "Durga Devi helped build a school for children in Lucknow."
-    story: "the-school-after-the-secrets"
 ---
 
 <!--
