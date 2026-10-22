@@ -39,13 +39,13 @@ By the next year it had 336. That number comes from G. P. Pradhan's biography of
 
 ## A young man
 
-Bal Gangadhar Tilak was born on 23 July 1856 at Ratnagiri. When he was about eleven, the family moved to Poona. Wikipedia says he married in 1871, and that his father, a teacher of Sanskrit, died a few months later.
+Bal Gangadhar Tilak was born on 23 July 1856 at Ratnagiri. When he was about eleven, the family moved to Poona. He married in 1871, and his father, a teacher of Sanskrit, died a few months later.
 
-He studied mathematics at Deccan College. Wikipedia and the Tribune both say he earned his B.A. in 1877. He then studied law and got his degree in 1879. Wikipedia says he first taught mathematics at a private school in Pune. He left it after disagreements with his colleagues, and then turned to journalism.
+He studied mathematics at Deccan College. He earned his B.A. in 1877. He then studied law and got his degree in 1879. He first taught mathematics at a private school in Pune. He left it after disagreements with his colleagues, and then turned to journalism.
 
 ## The four friends
 
-Wikipedia says the school was started by four men: Tilak, Gopal Ganesh Agarkar, Mahadev Ballal Namjoshi and Vishnushastri Chiplunkar. Wikipedia says they wanted to teach nationalist ideas through Indian culture.
+The school was started by four men: Tilak, Gopal Ganesh Agarkar, Mahadev Ballal Namjoshi and Vishnushastri Chiplunkar. They wanted to teach nationalist ideas through Indian culture.
 
 The school did so well that the friends formed a larger group. The Deccan Education Society was founded on 24 October 1884. It opened Fergusson College on 2 January 1885, and Tilak taught mathematics there.
 
@@ -58,15 +58,15 @@ The school did so well that the friends formed a larger group. The Deccan Educat
 
 Tilak and Agarkar also began two weekly papers. One was *Maratha*, in English. The other was *Kesari*, in Marathi. Pradhan says the first copy of *Maratha* came out on 2 January 1881, and *Kesari* came two days later.
 
-<aside class="note"><b>Two versions</b>: The Tribune gives 1881 for the start of the two papers. Wikipedia says 1880 or 1881. Pradhan names exact days in January 1881.</aside>
+The Tribune gives 1881 for the start of the two papers. Wikipedia says 1880 or 1881. Pradhan names exact days in January 1881.
 
 ## Four months in jail
 
-Pradhan describes a case over forged letters about the Diwan, or chief minister, of Kolhapur. The two editors had printed them. Tilak and Agarkar were sent to jail for four months, at Dongri in Bombay. Pradhan says Tilak lost 24 pounds.
+The two editors printed some letters about the Diwan, or chief minister, of Kolhapur. The letters turned out to be forged. Tilak and Agarkar were sent to jail for four months, at Dongri in Bombay. Tilak lost 24 pounds, says Pradhan.
 
 ## The friends part
 
-Then the two friends fell out. Pradhan says they quarrelled over a law about child marriage, and about a grant that Agarkar had taken from the ruler of Indore. Tilak left teaching and the Society. Wikipedia dates his leaving to 1890.
+Then the two friends fell out. They quarrelled over a law about child marriage, and about a grant that Agarkar had taken from the ruler of Indore, says Pradhan. Tilak left teaching and the Society in 1890.
 
 Agarkar died in 1895, at the age of 39.
 

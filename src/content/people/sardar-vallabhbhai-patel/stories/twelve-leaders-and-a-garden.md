@@ -29,7 +29,7 @@ status: published
 
 At 5.15 on the morning of 9 August 1942, Jawaharlal Nehru's daughter Indu woke him. "The police have come," they said.
 
-Nehru writes this in a diary he kept in prison. The order was for detention, not for a trial. It was made "under the Defence of India Rules." Many of the Congress leaders were arrested that morning, after they had passed the "Quit India" resolution in Bombay. Wikipedia says Vallabhbhai Patel was arrested on 9 August 1942.
+Nehru wrote this in a diary he kept in prison. The order was for detention, not for a trial. It was made "under the Defence of India Rules." Many of the Congress leaders were arrested that morning, after they had passed the "Quit India" resolution in Bombay. Vallabhbhai Patel was one of them.
 
 <aside class="note"><b>Detention</b>: being held by the government without a trial. The person is not told how long it will last.</aside>
 
@@ -39,13 +39,13 @@ A special train left Bombay at 7 a.m. It took the leaders to Ahmednagar Fort. Ne
 
 "Maulana" means Maulana Azad. "Vallabhbhai" is Vallabhbhai Patel.
 
-<aside class="note"><b>Two versions</b>: Maulana Azad's book names ten Working Committee members taken to the fort: himself, Nehru, Patel, Asaf Ali, Shankar Rao Deo, Pant, Pattabhi Sitaramayya, Syed Mahmud, Kripalani and Profulla Ghosh. Nehru's list has twelve. It also includes Narendra Deva and Harekrushna Mahtab. Nehru writes "we ten reached Ahmadnagar", and a footnote in the Archive explains that Pant and Mahtab were driven to the fort separately the next day. The two men may simply have been counting different groups. Azad's list is of Working Committee members.</aside>
+<aside class="note"><b>Two versions</b>: Maulana Azad's book names ten Working Committee members taken to the fort: himself, Nehru, Patel, Asaf Ali, Shankar Rao Deo, Pant, Pattabhi Sitaramayya, Syed Mahmud, Kripalani and Profulla Ghosh. Nehru's list has twelve, adding Narendra Deva and Harekrushna Mahtab. Nehru writes "we ten reached Ahmadnagar", and a footnote in the Archive explains that Pant and Mahtab were driven to the fort separately the next day. The two men may simply have been counting different groups. Azad's list is of Working Committee members.</aside>
 
 ## Cut off from the world
 
-The diary tells how it felt. They were told, Nehru writes, "there were going to be no newspapers, no letters, no interviews." The back windows were blocked: "All the large windows at the back of the rooms bricked up to prevent us looking out of our little world."
+The leaders were told, Nehru writes, "there were going to be no newspapers, no letters, no interviews." The back windows were blocked: "All the large windows at the back of the rooms bricked up to prevent us looking out of our little world."
 
-For nearly three weeks, Nehru says, they had no news of what was happening elsewhere. Later, rules were eased a little. Newspapers came from an approved list. They could write home, but only to relatives, and only through the government. He found the food and the drains "highly unsatisfactory."
+For nearly three weeks, they had no news of what was happening elsewhere. Later, rules were eased a little. Newspapers came from an approved list. They could write home, but only to relatives, and only through the government. Nehru found the food and the drains "highly unsatisfactory."
 
 Azad tells the same story from his side. His book says that the skylights were blocked up before they arrived, that the plaster was still damp, and that the leaders hardly ever saw an Indian from outside. Another story on this site tells those years from Azad's side.
 
@@ -53,13 +53,13 @@ Azad tells the same story from his side. His book says that the skylights were b
 
 On Christmas Day 1942, Nehru wrote something small about Patel. "Vallabhbhai takes a great deal of interest in the garden and knows something about it."
 
-That is nearly all that this diary says about Patel's days in the fort. It is a gentle picture. A man who had led a tax campaign and a political party now spent time with plants.
+It is a gentle picture. A man who had led a tax campaign and a political party now spent time with plants.
 
-A few days before that, on 21 December, Nehru had written a letter to Madame Chiang Kai-shek, the wife of China's leader. He showed it to Maulana, Vallabhbhai and Pant. "They all approved of the idea," he wrote.
+A few days before, on 21 December, Nehru had written a letter to Madame Chiang Kai-shek, the wife of China's leader. He showed it to Maulana, Vallabhbhai and Pant. "They all approved of the idea," he wrote.
 
 ## How long?
 
-Wikipedia says Patel was held until 15 June 1945, mostly at Ahmednagar. Azad's book says the government later moved the leaders to jails in their own provinces. It names Patel and Shankar Rao Deo as the first to be moved, to Poona. So we do not know exactly how long Patel stayed in the fort itself.
+Patel was held until 15 June 1945, mostly at Ahmednagar. Azad's book says the government later moved the leaders to jails in their own provinces. Patel and Shankar Rao Deo were the first to be moved, to Poona. So the exact time Patel spent in the fort itself is not clear.
 
 <figure class="plate">
   <img src="/files/people/sardar-vallabhbhai-patel/archive/nehru-gandhi-patel-aicc-1946.webp" alt="Nehru, Gandhi and Patel sit close together on a low platform and talk, in front of a large poster" loading="lazy" />
@@ -70,4 +70,4 @@ Wikipedia says Patel was held until 15 June 1945, mostly at Ahmednagar. Azad's b
 
 When we read about the freedom struggle, it is easy to think of marches and speeches. This story is about the long quiet part. Leaders sat in a fort with bricked-up windows, with no newspapers, for months. They wrote diaries and letters. One of them looked after the garden.
 
-Nehru's diary is a first-hand account. Everything above is his own words, or Azad's. The diary is long. There may be more about Patel in entries that we did not read closely.
+Nehru's diary is long, and Patel appears in it only in passing. A fuller picture of his days in the fort waits for more of the diary to be read.

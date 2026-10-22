@@ -32,21 +32,25 @@ This was Dr Ambedkar's choice in September 1932.
 
 The Round Table Conferences in London had ended without agreement. So the British government made its own decision. It is called the Communal Award, and it came in August 1932.
 
-The award gave the Depressed Classes, then called the Untouchables, separate electorates. Wikipedia says this meant 71 reserved seats in the provincial councils.
+The award gave the Depressed Classes, then called the Untouchables, separate electorates. This meant 71 reserved seats in the provincial councils.
 
 <aside class="note"><b>Electorate</b>: the group of people who are allowed to vote for a seat. Under a separate electorate, only members of one group vote for their own candidate.</aside>
 
+<aside class="note"><b>Seat count</b>: some writers say the award gave 80 seats, not 71.</aside>
+
 ## Gandhi's answer
 
-Gandhi was in Yerwada jail, in Poona. He was against the award. Wikipedia quotes his written view that separate electorates would "vivisect and disrupt" Hinduism. He also saw the award as a British attempt to divide the Hindus.
+Gandhi was in Yerwada jail, in Poona. He was against the award. He wrote that separate electorates would "vivisect and disrupt" Hinduism. He also saw the award as a British attempt to divide the Hindus.
 
-Pritchett says he began a fast to the death against the award.
+He began a fast to the death against the award.
 
 ## The days of talks
 
 A way out was found in Poona. Madan Mohan Malaviya signed the Pact for the Hindus. Dr Ambedkar was one of the leaders of the Depressed Classes who took part.
 
-The Pact was signed at 5 pm on 24 September 1932, at Yerwada jail. There were 23 signatories. Wikipedia says Gandhi did not sign, but his son Devdas did. One line in the same page says otherwise, so we cannot be sure.
+The Pact was signed at 5 pm on 24 September 1932, at Yerwada jail. There were 23 signatories. Gandhi's son Devdas signed.
+
+<aside class="note"><b>Two versions</b>: one page says Gandhi did not sign, but another line in the same page says otherwise.</aside>
 
 ## What the Pact said
 
@@ -62,13 +66,11 @@ The panel system was to end after ten years, unless both sides agreed to end it 
 
 ## Two views
 
-Frances Pritchett writes that, by 23 September, Ambedkar "was obliged by the pressure of this moral blackmail" to accept joint electorates. That is her wording, not his.
+By 23 September, Ambedkar "was obliged by the pressure of this moral blackmail" to accept joint electorates. Those are the words of the scholar Frances Pritchett, not his.
 
-Wikipedia says scholars disagree. Perry Anderson and Arundhati Roy have questioned the way the talks went. Gitanjali Surendran says Ambedkar was content, and that reserved seats were a big step for Dalit politics.
+Others see it differently. Gitanjali Surendran says Ambedkar was content, and that reserved seats were a big step for Dalit politics. Perry Anderson and Arundhati Roy have questioned the way the talks went.
 
-Even the number of seats is disputed. Some writers say the award gave 80, not 71.
-
-<aside class="note"><b>Two versions</b>: Some say Ambedkar was forced to sign. Others say he gained from the deal. We have not found a way to settle it. Readers should know both.</aside>
+Some say Ambedkar was forced to sign. Others say he gained from the deal. Readers should know both.
 
 ## Why it matters
 
