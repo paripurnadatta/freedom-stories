@@ -40,15 +40,15 @@ When Lajpat Rai came back from the United States, Gandhi's non-cooperation movem
 
 ## President of the Congress
 
-In 1920 he was elected president of a special meeting of the Indian National Congress, held in Calcutta. Wikipedia says this was the session that launched the non-cooperation movement.
+In 1920 he was elected president of a special meeting of the Indian National Congress, held in Calcutta. This was the session that launched the non-cooperation movement, says Wikipedia.
 
 ## The National College
 
-Wikipedia says Rai founded the National College in Lahore. Dawn writes that it was part of Gandhi's non-cooperation movement, begun in 1920. The college had its home in a building called Bradlaugh Hall. Wikipedia says Bhagat Singh was one of its students. Dawn says the building is now locked and in poor repair.
+Rai founded the National College in Lahore. It was part of Gandhi's non-cooperation movement, begun in 1920, Dawn writes. The college had its home in a building called Bradlaugh Hall. Bhagat Singh was one of its students. Today, says Dawn, the building is locked and in poor repair.
 
 ## The Servants of the People Society
 
-Wikipedia says that Lajpat Rai founded the Servants of the People Society in Lahore in November 1921, and that Gandhi opened it. Its aim, in its own words, is "to enlist and train national missionaries for the service of the motherland."
+In November 1921, Lajpat Rai founded the Servants of the People Society in Lahore, and Gandhi opened it. Its aim, in its own words, is "to enlist and train national missionaries for the service of the motherland."
 
 Rai gave his bungalow in Lahore to the Society, with a library of more than 5,000 books. He was its first president until his death in 1928. The Society began with the Tilak School of Politics in 1921. Later presidents included Purushottam Das Tandon, Balwantrai Mehta and Lal Bahadur Shastri.
 
@@ -58,17 +58,17 @@ After the Partition in 1947, the Society moved to Delhi. In 1960 it moved to Laj
 
 Rai was jailed in the years after. The sources do not agree on how long.
 
-<aside class="note"><b>Two versions</b>: One part of the Wikipedia article says he was arrested on 3 December 1921 and jailed for "a year and a half." Another part says 1921 to 1923. Both put him in prison, but we cannot give the exact dates. Wikipedia adds that he was elected to the legislative assembly afterwards.</aside>
+<aside class="note"><b>Two versions</b>: one part of the Wikipedia article says he was arrested on 3 December 1921 and jailed for "a year and a half." Another part says 1921 to 1923. Both put him in prison, but we cannot give the exact dates. Wikipedia adds that he was elected to the legislative assembly afterwards.</aside>
 
 ## What he thought of caste
 
-The Congress paper says that Rai believed Hindu society had to deal with caste, with the place of women, and with untouchability. It says he believed everyone, whatever their caste or sex, should be able to read the Vedas.
+Rai believed Hindu society had to deal with caste, with the place of women, and with untouchability, says a Congress paper. He believed everyone, whatever their caste or sex, should be able to read the Vedas.
 
-The Swarajya article says he called the end of untouchability a "preparation for Swaraj." It also says he saw it as a part of democracy, not as charity.
+He called the end of untouchability a "preparation for Swaraj", says the Swarajya article. He saw it as a part of democracy, not as charity.
 
 ## The hospital
 
-His mother, Gulab Devi, died of tuberculosis in Lahore, says Dawn. In 1927 Rai set up a trust in her memory, to build a hospital for women with the illness. It opened as the Gulab Devi Chest Hospital in 1934, six years after he died, says Wikipedia. Dawn says Gandhi opened it, and that it covers 40 acres. It says the hospital kept its name after Partition because the trust did not allow it to be changed.
+His mother, Gulab Devi, died of tuberculosis in Lahore, Dawn says. In 1927 Rai set up a trust in her memory, to build a hospital for women with the illness. It opened as the Gulab Devi Chest Hospital in 1934, six years after he died. Gandhi opened it, and it covers 40 acres, Dawn says. The hospital kept its name after Partition because the trust did not allow it to be changed.
 
 ## Why it matters
 

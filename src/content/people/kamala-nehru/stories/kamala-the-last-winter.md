@@ -39,61 +39,57 @@ This is the story of her last year. It is a sad story. We tell it plainly, and w
 
 ## Spring in the hills
 
-A news report from Dehradun, quoted by The Quint, says Kamala stayed for about two months, in March, April and May 1935, at a sanatorium in Bhowali. The Quint says the same report states that Nehru visited her six times, and that she improved enough to travel.
-
-The Wire says that doctors advised treatment in Europe. It says she went to Almora first, then to Europe.
+Kamala stayed for about two months, in March, April and May 1935, at a sanatorium in Bhowali. A news report from Dehradun, quoted by The Quint, says Nehru visited her six times, and that she improved enough to travel.
 
 <aside class="note"><b>Sanatorium</b>: a hospital for people with long illnesses, often in the mountains, where they rest in clean air.</aside>
 
-The Quint says Nehru wrote in his autobiography, in an entry dated 25 October 1935, that she left for Europe in May 1935 while he was in Almora jail.
+The doctors advised treatment in Europe. She went to Almora first, then to Europe, says The Wire.
+
+Nehru wrote in his autobiography, in an entry dated 25 October 1935, that she left for Europe in May 1935 while he was in Almora jail. The Quint quotes this.
 
 ## Who took her?
 
 Here the sources part.
 
-Wikipedia says that in early 1935 Subhas Chandra Bose took her to a sanatorium in Badenweiler, Germany, while Nehru was in prison.
+In early 1935 Subhas Chandra Bose took her to a sanatorium in Badenweiler, Germany, while Nehru was in prison. So says Wikipedia.
 
 The Quint does not mention Bose. It says she left in May 1935, and it names no one who went with her.
 
-<aside class="note"><b>Two versions</b>: Did Bose take her, or did she go in some other way? Wikipedia says Bose took her. The Quint gives only the month and no travelling companion. We have not found a letter or record that settles who took her.</aside>
+<aside class="note"><b>Two versions</b>: Wikipedia says Bose took her. The Quint gives only the month and names no travelling companion.</aside>
 
-The Wire says that Bose was in Europe and "rushed" to Lausanne when she was dying. It quotes a letter in which he told Nehru, "If I could be of any service in your present trouble, I hope you will not hesitate to send for me." The Wire names Bose's letter as its source, but we have not seen the letter.
+No letter or record we opened settles who went with her. What the sources do agree on is the place she was going to: a sanatorium in the German Black Forest, far from the hills of home.
+
+Bose was in Europe, and he "rushed" to Lausanne when she was dying, says The Wire. It quotes a letter in which he told Nehru, "If I could be of any service in your present trouble, I hope you will not hesitate to send for me." We have not seen the letter.
 
 ## A shortened sentence
 
-Nehru was released from prison before his term was over. The Wikipedia article on his autobiography gives the date as 4 September 1935 and says this was about five and a half months early. It says the reason was Kamala's worsening health. 
+Nehru was released from prison before his term was over. He was freed on 4 September 1935, about five and a half months early. The reason was Kamala's worsening health. This is from the Wikipedia article on his autobiography.
 
-The Wikipedia article on Kamala gives October 1935 as the month. The Quint says "September 1935", quoting the biographer Frank Moraes.
+<aside class="note"><b>Two versions</b>: the Wikipedia article on Kamala gives October 1935 as the month. The Quint says "September 1935", quoting the biographer Frank Moraes. September has more support, but we have not seen the jail order.</aside>
 
-<aside class="note"><b>Two versions</b>: Was Nehru freed in September or October 1935? Two Wikipedia pages and the Quint do not agree. September has more support, but we have not seen the jail order.</aside>
-
-Nehru then went to Badenweiler, a spa town in Germany's Black Forest. The Quint says that, according to Moraes, she was "critically ill again" when he got there. Wikipedia says her health improved at first and then declined again in 1936.
+Nehru then went to Badenweiler, a spa town in Germany's Black Forest. According to Moraes, she was "critically ill again" when he got there, the Quint says. Wikipedia says her health improved at first and then declined again in 1936.
 
 ## A letter to his mother
 
-The Nehru Archive prints a letter that Nehru wrote to his mother from Badenweiler on 20 January 1936. It is a short family note.
+On 20 January 1936, Nehru wrote to his mother from Badenweiler. The Nehru Archive prints the letter. It is a short family note.
 
 He tells her that Kamala's condition had got very bad before his last letter. Since then she had improved a little, but not much. Her fever rose and fell. She had grown very weak. He was glad that she ate well and did not make a fuss about food. He called her condition critical.
 
-He wrote that the family planned to move her to Switzerland in a few days. The distance was short, but the journey would be hard because she was so weak. He planned a two or three days' trip to London, and then two or three weeks with Kamala before going back to India.
+The family planned to move her to Switzerland in a few days. The distance was short, but the journey would be hard because she was so weak. He planned a two or three days' trip to London, and then two or three weeks with Kamala before going back to India.
 
 The letter ends as a family letter does. It mentions that his daughter, Indu, was in school.
 
-The Quint, quoting Moraes, says she was taken to Lausanne after she said she wished to leave Badenweiler. The letter we read does not give her reason.
+She was taken to Lausanne after she said she wished to leave Badenweiler, says the Quint, quoting Moraes. The letter we read does not give her reason.
 
 ## 28 February 1936
 
-All the sources give the same date and place. Kamala Nehru died in Lausanne, Switzerland, on 28 February 1936. Wikipedia says she was 36.
+All the sources give the same date and place. Kamala Nehru died in Lausanne, Switzerland, on 28 February 1936. She was 36.
 
-Who was with her? Again the answers differ.
+Who was with her? Again the answers differ. Wikipedia says her daughter and her mother-in-law were with her. The Quint, quoting Moraes, says Nehru, Indira and a doctor were present. The Quint also quotes Nehru's autobiography. In it he wrote, "I was with my wife when she died in Lausanne on February 28, 1936."
 
-- Wikipedia says her daughter and her mother-in-law were with her.
-- The Quint, quoting Moraes, says Nehru, Indira and a doctor were present.
-- The Quint also quotes Nehru's autobiography. In it he wrote, "I was with my wife when she died in Lausanne on February 28, 1936."
+The two accounts name different people, but Nehru's own words say that he was there. A family can be gathered in one room and still be remembered differently. One account names the mother-in-law and the other does not, and neither says who stood where.
 
-<aside class="note"><b>Two versions</b>: The mother-in-law is named in one account and not in the other. Nehru's own words say that he was there. A family can be gathered in a room and still be remembered differently. We cannot say who stood where.</aside>
-
-The Wire says Bose helped with the cremation. It also says Nehru kept some of her ashes by his bedside for the rest of his life. We found these two claims in the Wire only.
+Bose helped with the cremation, says The Wire. Nehru kept some of her ashes by his bedside for the rest of his life. We found these two claims in the Wire only.
 
 ## What Nehru said
 
