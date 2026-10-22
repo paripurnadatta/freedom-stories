@@ -168,8 +168,8 @@ which ones should be redone and why.
 | Durga Bhabhi | 6 (2 flagship) | done |
 | Rajendra Lahiri | 6 (2 flagship) | done |
 | Roshan Singh | 6 (2 flagship) | done |
-| Surya Sen | 7 (2 flagship) | 6 prompts waiting |
-| Maulana Abul Kalam Azad | 7 (3 flagship) | 3 prompts waiting |
-| Sardar Vallabhbhai Patel | 7 (2 flagship) | 4 prompts waiting |
+| Surya Sen | 7 (2 flagship) | done |
+| Maulana Abul Kalam Azad | 7 (3 flagship) | done |
+| Sardar Vallabhbhai Patel | 7 (2 flagship) | done |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); more flagships for the four new subjects if sources allow.
