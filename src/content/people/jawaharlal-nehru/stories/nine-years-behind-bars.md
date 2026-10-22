@@ -32,11 +32,11 @@ status: published
 
 How long is nine years? It is longer than most of the time you have been at school.
 
-Wikipedia says Jawaharlal Nehru spent "over nine years" in prison between 1921 and 1945. We wanted to check that. So we went to the Nehru Memorial Fund's list of dates and added them up.
+Jawaharlal Nehru spent "over nine years" in prison between 1921 and 1945, says Wikipedia. To check that, the dates of his arrests and releases from the Nehru Memorial Fund's chronology can be added up.
 
 ## The list
 
-The Memorial Fund's chronology gives the dates of his arrests and releases. Here they are, with the reason where the list gives one.
+Here are the dates, with the reason where the list gives one.
 
 1. **6 December 1921 to 3 March 1922.** He took part in the Volunteer Movement. He also urged people to boycott the visit of the Prince of Wales.
 2. **11 May 1922 to 26 January 1923.** He was arrested for picketing cloth shops.
@@ -53,11 +53,11 @@ The Memorial Fund's chronology gives the dates of his arrests and releases. Here
 
 ## The sum
 
-We counted the days between each pair of dates. The total is 3,253 days. That is about 8 years and 11 months.
+The days between each pair of dates add up to 3,253. That is about 8 years and 11 months.
 
-So it is a little less than nine years by our count. Wikipedia says "over nine years" and says he was held eight times. The chronology has ten spells, because some are split.
+So it is a little less than nine years by this count. The chronology has ten spells, because some are split. Wikipedia says he was held eight times.
 
-<aside class="note"><b>Two versions</b>: Wikipedia says over nine years and eight detentions. The Nehru Memorial Fund's dates give about 8 years and 11 months in ten spells. The difference is small. We do not know which count is right, and we have not found a prison record. Wikipedia also gives 12 January 1934 for one arrest. The Fund gives 12 February.</aside>
+<aside class="note"><b>Two versions</b>: Wikipedia says over nine years and eight detentions. The Nehru Memorial Fund's dates give about 8 years and 11 months in ten spells. The difference is small, and no prison record was found to settle it. Wikipedia also gives 12 January 1934 for one arrest. The Fund gives 12 February.</aside>
 
 The longest stay was the last one. It ran from 9 August 1942 to 15 June 1945. That is 1,041 days, or about two years and ten months.
 
@@ -65,15 +65,15 @@ The longest stay was the last one. It ran from 9 August 1942 to 15 June 1945. Th
 
 Nehru was not only waiting. He used the time to write.
 
-**Letters from the cell.** From 1930 to 1933, Wikipedia says, he wrote a long series of letters in prisons at Naini, Bareilly and Dehra Dun. There were 196 of them. They were addressed to his daughter Indira. They became a book, *Glimpses of World History*.
+**Letters from the cell.** From 1930 to 1933, he wrote a long series of letters in prisons at Naini, Bareilly and Dehra Dun. There were 196 of them. They were addressed to his daughter Indira. They became a book, *Glimpses of World History*.
 
-He had few books with him. Wikipedia says he relied mainly on his own notes. It also says the letters were not actually sent. He kept them until he was released in 1933.
+He had few books with him. He relied mainly on his own notes. The letters were not actually sent. He kept them until he was released in 1933.
 
-The book starts with Ancient Greece and goes on to his own time. Wikipedia says Nehru wrote that H. G. Wells's *The Outline of History* had a strong effect on it.
+The book starts with Ancient Greece and goes on to his own time. Nehru wrote that H. G. Wells's *The Outline of History* had a strong effect on it.
 
-**His own story.** Wikipedia says he wrote *An Autobiography* in prison between June 1934 and February 1935. The page says he wrote it while his wife Kamala was ill for a long time. He said his aim was to trace "own mental growth", mainly for himself.
+**His own story.** He wrote *An Autobiography* in prison between June 1934 and February 1935. He wrote it while his wife Kamala was ill for a long time. His aim was to trace "own mental growth", mainly for himself.
 
-<aside class="note"><b>Autobiography</b>: the story of a person's life, written by that person.</aside>
+the story of a person's life, written by that person.
 
 The epilogue is dated 14 February 1935. A postscript was added later, after he had left prison. So the book was not written "entirely" inside, though some pages say so.
 
@@ -81,23 +81,21 @@ The epilogue is dated 14 February 1935. A postscript was added later, after he h
 
 ## More about some of the spells
 
-Wikipedia adds a few details to the list.
+- **Nabha, 1923.** Nabha was a princely state. He went there to observe a Sikh struggle, and was jailed.
+- **April 1930.** He was arrested on a train to Raipur, after he made contraband salt, and was sentenced to six months. He was freed after about six months, on 11 October.
+- **January 1931.** He was released early. Lord Irwin, the Viceroy, was talking with Gandhi at the time.
+- **October 1940.** He was sentenced to four years in a limited civil disobedience campaign. He was out in December 1941, so he served about a year.
+- **1942 to 1945.** Nehru and the Congress Working Committee were held at Ahmadnagar Fort.
 
-- **Nabha, 1923.** Nabha was a princely state. Wikipedia says he went there to observe a Sikh struggle, and was jailed.
-- **April 1930.** He was arrested on a train to Raipur. Wikipedia says this came after he made contraband salt, and that he was sentenced to six months. The Fund's dates show he was freed after about six months, on 11 October.
-- **January 1931.** The page says he was released early. Lord Irwin, the Viceroy, was talking with Gandhi at the time.
-- **October 1940.** Wikipedia says he was sentenced to four years in a limited civil disobedience campaign. He was out in December 1941, so he served about a year.
-- **1942 to 1945.** The page says Nehru and the Congress Working Committee were held at Ahmadnagar Fort.
-
-When he was freed in June 1945, the work did not stop. The Fund says that in November 1945 he acted as a defence lawyer in the trial of Indian National Army officers. Wikipedia says it was the first time in over twenty-five years that he had worn a barrister's gown in court.
+When he was freed in June 1945, the work did not stop. In November 1945 he acted as a defence lawyer in the trial of Indian National Army officers. It was the first time in over twenty-five years that he had worn a barrister's gown in court.
 
 ## The censors
 
-The Government of India read his autobiography to decide whether to ban it. Wikipedia says an officer named M. G. Hallet reviewed it. He called Nehru's chapter on animals in prison "very human". He was against a ban.
+The Government of India read his autobiography to decide whether to ban it. An officer named M. G. Hallet reviewed it. He called Nehru's chapter on animals in prison "very human". He was against a ban.
 
 ## Why he was let out in 1935
 
-On 4 September 1935 he was released from Almora District jail. Wikipedia says this was about five and a half months before his sentence ended. The reason was Kamala's health, which was getting worse.
+On 4 September 1935 he was released from Almora District jail. This was about five and a half months before his sentence ended. The reason was Kamala's health, which was getting worse.
 
 A month later he went to Badenweiler, in the Black Forest in Germany, where she was being treated. He wrote a postscript there.
 
@@ -105,7 +103,7 @@ A month later he went to Badenweiler, in the Black Forest in Germany, where she 
 
 The prison years are a mix of different things. Some stays were short, like 17 days. Some were very long. He was arrested for many reasons, from picketing a shop to speaking against the government.
 
-We do not know what each day was like. Our sources are lists of dates and his books. They do not tell us about the cell, the food or the guards. So we do not describe them.
+The sources are lists of dates and his books. They do not describe the cell, the food or the guards.
 
 ## Why it matters
 

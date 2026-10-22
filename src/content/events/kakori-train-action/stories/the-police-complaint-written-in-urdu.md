@@ -56,19 +56,19 @@ In 1925, police reports in this part of India were written in Urdu. So this one 
 
 ## What the report says
 
-The report is not complete. Parts of it have faded so much that they cannot be read. Even the number of the report is lost. But the Hindi translation gives every detail that could still be read.
+Parts of the report have faded so much that they cannot be read. Even the number of the report is lost. But the Hindi translation gives every detail that could still be read.
 
 It says that 20 to 25 unknown people robbed the train. In fact, there were only about ten. The police did not yet know who they were.
 
-It says the news of the robbery was first sent to the police from the moving train itself, through a machine for sending messages that was fitted in it.
+The news of the robbery was first sent to the police from the moving train itself, through a machine for sending messages that was fitted in it.
 
-It lists the crime under Section 396 of the Indian Penal Code. That is the law for "dacoity with murder": a robbery by a gang of five or more people, in which someone is killed.
+The crime is listed under Section 396 of the Indian Penal Code. That is the law for "dacoity with murder": a robbery by a gang of five or more people, in which someone is killed.
 
-And it gives the amount of money stolen, very exactly: 4,601 rupees, 15 annas and 6 pies.
+And the report gives the amount of money stolen, very exactly: 4,601 rupees, 15 annas and 6 pies.
 
 <aside class="note"><b>Annas and pies</b>: in those days a rupee was divided into 16 annas, and each anna into 12 pies. So 15 annas and 6 pies was nearly one more rupee.</aside>
 
-<aside class="note"><b>How much money?</b> The report says 4,601 rupees, 15 annas and 6 pies. The Allahabad High Court's history of the case gives 4,553 rupees, 3 annas and 6 pies. Wikipedia gives a much bigger figure, about 8,000 rupees. The sources do not explain the difference.</aside>
+<aside class="note"><b>How much money?</b> The report says 4,601 rupees, 15 annas and 6 pies. The Allahabad High Court's history of the case gives 4,553 rupees, 3 annas and 6 pies. Wikipedia gives a much bigger figure, about 8,000 rupees. None of them explains the difference.</aside>
 
 ## Found in an old register
 
@@ -82,7 +82,7 @@ The Kakori police station itself is older than the robbery. It opened in 1903.
 
 ## What happened next
 
-The report does not say how the case ended. But we know. About forty people were arrested. After a long trial, four men were sentenced to death: Ram Prasad Bismil, Ashfaqulla Khan, Rajendra Lahiri and Roshan Singh. Many others were sent to prison.
+The report does not say how the case ended. About forty people were arrested. After a long trial, four men were sentenced to death: Ram Prasad Bismil, Ashfaqulla Khan, Rajendra Lahiri and Roshan Singh. Many others were sent to prison.
 
 ## Why it matters
 
