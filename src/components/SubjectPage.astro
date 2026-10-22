@@ -28,6 +28,15 @@ const connections = {
 };
 const dates = datesOf(subject);
 const otherNames = aliasesFor(subject.id, d.aliases).join(", ");
+// For search: the names (and other names) of everyone linked to this page, in either direction,
+// so the Forward Bloc page answers to "Netaji" and the Congress page to "Gandhi".
+const linkedIds = new Set([...d.related, ...site.subjects.filter((x) => x.data.related.includes(subject.id)).map((x) => x.id)]);
+linkedIds.delete(subject.id);
+const linkedNames = [...linkedIds]
+  .map((id) => site.subjectById.get(id))
+  .filter((x) => x !== undefined)
+  .flatMap((x) => [x.data.name, ...aliasesFor(x.id, x.data.aliases)])
+  .join(", ");
 
 const facts = ({
   person: [["Born", formatDate(d.born)], ["Died", formatDate(d.died)], ["From", d.region], ["Known as", d.role ?? ""]],
@@ -70,6 +79,7 @@ const jsonLd = d.kind === "person"
       <meta data-pagefind-meta="blurb[content]" content={d.summary} />
       <meta data-pagefind-meta="image[content]" content={d.image?.src ?? "none"} />
       {otherNames && <span hidden data-pagefind-weight="8">{otherNames}</span>}
+      {linkedNames && <span hidden data-pagefind-weight="0.5">{linkedNames}</span>}
       <div>
         <span class="kind">{d.role ?? kind.one}</span>
         <h1>{d.name}</h1>

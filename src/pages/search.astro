@@ -52,6 +52,7 @@ const dev = import.meta.env.DEV;
     var startEl = root.querySelector(".sx-start");
 
     var PAGE = 12;
+    var SUBJ_CAP = 8;
     var SUBJECT_KINDS = ["Person", "Event", "Place", "Organisation"];
     var KIND_LABEL = { all: "Everything", Story: "Stories", Person: "People", Event: "Events", Place: "Places", Organisation: "Organisations" };
     var KIND_ORDER = ["Story", "Person", "Event", "Place", "Organisation"];
@@ -193,10 +194,19 @@ const dev = import.meta.env.DEV;
         resultsEl.innerHTML = "";
         didEl.hidden = true;
         if (!all) return none(q, my);
-        var subjectRows = res[1] ? res[1].results.slice(0, 4) : [];
-        return Promise.all(subjectRows.map(function (r) { return r.data(); })).then(function (rows) {
+        state.subjAll = res[1] ? res[1].results : [];
+        return Promise.all([Promise.all(state.subjAll.map(function (r) { return r.data(); })), loadIndex()]).then(function (got) {
           if (my !== state.token) return;
-          if (rows.length) resultsEl.insertAdjacentHTML("beforeend", '<h2 class="sx-h">People, events and places</h2><div class="sx-subjects">' + rows.map(cardFor).join("") + "</div>");
+          // A person named by the search comes first ("gandhi" -> Mahatma Gandhi before the Gandhi-Irwin Pact).
+          var words = norm(q).split(" ").filter(Boolean), named = {};
+          got[1].forEach(function (e) {
+            if (e.k !== "person") return;
+            var hay = norm([e.n].concat(e.a || []).join(" "));
+            if (words.every(function (w) { return hay.indexOf(w) !== -1; })) named[e.u] = 1;
+          });
+          var rows = got[0].filter(function (r) { return named[r.url]; }).concat(got[0].filter(function (r) { return !named[r.url]; }));
+          state.subjRows = rows;
+          if (rows.length) resultsEl.insertAdjacentHTML("beforeend", '<h2 class="sx-h">People, events and places</h2><div class="sx-subjects">' + rows.slice(0, SUBJ_CAP).map(cardFor).join("") + "</div>" + (rows.length > SUBJ_CAP ? '<p class="sx-subj-more"><button type="button" class="sx-more-btn" data-all-subj>Show all ' + rows.length + " people, events and places</button></p>" : ""));
           if (state.kind === "all" && res[2].results.length) resultsEl.insertAdjacentHTML("beforeend", '<h2 class="sx-h">Stories</h2><div class="sx-list"></div>');
           state.list = res[2].results; state.shown = 0;
           var target = resultsEl.querySelector(".sx-list");
@@ -307,6 +317,13 @@ const dev = import.meta.env.DEV;
         if (c.dataset.group === "kind") { state.kind = c.dataset.value; state.length = "any"; }
         else state.length = c.dataset.value;
         writeUrl(false); search(); return;
+      }
+      var all = e.target.closest("[data-all-subj]");
+      if (all) {
+        var grid = resultsEl.querySelector(".sx-subjects");
+        if (grid) grid.insertAdjacentHTML("beforeend", state.subjRows.slice(SUBJ_CAP).map(cardFor).join(""));
+        all.parentNode.remove();
+        return;
       }
       var a = e.target.closest("a[data-q]");
       if (a) { e.preventDefault(); state.q = a.dataset.q; state.kind = "all"; state.length = "any"; writeUrl(true); search(); }
