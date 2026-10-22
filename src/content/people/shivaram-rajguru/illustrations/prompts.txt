@@ -1,0 +1,36 @@
+ILLUSTRATIONS NEEDED: Shivaram Hari Rajguru
+Only scenes without a suitable verified and locally stored archival picture are listed.
+Real original documents are preferred for the other stories. These prompts are NOT images and are NOT claims that these exact photographed scenes exist.
+
+==============================================================================
+1. A servant on the train (short)
+==============================================================================
+FILE NAME: a-servant-on-the-train
+Save as a-servant-on-the-train.png in this folder.
+Shape: extra wide 16:6, 2400 x 900.
+Where it goes: story top and card for "A servant on the train"
+
+PROMPT:
+------------------------------------------------------------------------------
+Late December 1928, historically plausible Lahore railway platform from a wide, distant perspective. A modest family group is walking towards an old railway carriage: a young Indian man wearing a 1920s European-style hat and suit, a young Indian woman in a period sari walking with a small boy, and behind them a slim young Indian man in modest servant's clothes carrying luggage. Show the people mostly from behind and at a distance; no invented exact face or facial likeness. Period luggage and train architecture, quiet sense of movement, no made-up readable signs or railway logos. This is an artistic reconstruction, not a photographic record. Extra-wide composition.
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A court with fewer doors (short)
+==============================================================================
+FILE NAME: a-court-with-fewer-doors
+Save as a-court-with-fewer-doors.png in this folder.
+Shape: extra wide 16:6, 2400 x 900.
+Where it goes: story top and card for "A court with fewer doors"
+
+PROMPT:
+------------------------------------------------------------------------------
+An interpretive, non-literal scene evoking a 1930s colonial Indian courthouse: empty timber benches, a high judge's desk, tall windows, neat piles of papers whose surfaces show only unreadable marks, and a tall closed doorway in shadow. No judges or prisoners and no claim to reproduce the specific Lahore tribunal room. Warm lamp light crossing the benches, a thoughtful quiet mood, no text, insignia, weapons, violence, or invented period documents. Extra-wide composition.
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+The other three stories use / need actual historical documents or a real room photograph:
+- the-second-name-at-the-gate: existing Commons-derived HSRA pamphlet locally copied for this story
+- the-headline-after-the-execution: existing Commons-derived 1931 Tribune front page locally copied
+- the-room-the-town-kept: genuine CC BY-SA photo is on Commons (Birth room of rajguru.JPG) but needs a local WebP import and credit before it is used. Do NOT substitute an AI image for a genuine available photo.
