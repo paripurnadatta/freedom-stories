@@ -140,17 +140,17 @@ which ones should be redone and why.
 | Chandrashekhar Azad | 9 | done |
 | Subhas Chandra Bose | 13 | done |
 | Mahatma Gandhi | 19 | 2 prompts waiting |
-| Ashfaqulla Khan | 4 | done |
-| Batukeshwar Dutt | 6 | done |
-| Ram Prasad Bismil | 5 (+1 on Kakori page) | 4 prompts waiting |
-| Sukhdev Thapar | 6 | 3 prompts waiting |
-| Kakori train action (event) | 2 | 2 prompts waiting |
-| Kamala Nehru | 1 (flagship) | uses her portrait |
+| Ashfaqulla Khan | 6 (2 flagship) | done; new stories have no prompts yet |
+| Batukeshwar Dutt | 6 (2 flagship) | done |
+| Ram Prasad Bismil | 6 (2 flagship) | 4 prompts waiting |
+| Sukhdev Thapar | 6 (2 flagship) | 3 prompts waiting |
+| Kakori train action (event) | 6 (2 flagship) | 2 prompts waiting |
+| Kamala Nehru | 6 (2 flagship) | uses her portrait; no prompts yet |
 | B. R. Ambedkar | 14 (4 flagship, 10 short) | 12 prompts waiting |
 | Jawaharlal Nehru | 13 (5 flagship, 8 short) | 11 prompts waiting |
-| Shivaram Rajguru | 4 (short) | done |
-| Durga Bhabhi | 1 (school story held back: sources blocked) | done |
-| Rajendra Lahiri | 2 (short) | done |
-| Roshan Singh | 2 (short) | done |
+| Shivaram Rajguru | 6 (2 flagship) | done; new stories have no prompts yet |
+| Durga Bhabhi | 6 (2 flagship) | done; new stories have no prompts yet |
+| Rajendra Lahiri | 6 (2 flagship) | done; new stories have no prompts yet |
+| Roshan Singh | 6 (2 flagship) | done; new stories have no prompts yet |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Azad and Ashfaqulla (need outside research); more flagships for the four new subjects if sources allow.

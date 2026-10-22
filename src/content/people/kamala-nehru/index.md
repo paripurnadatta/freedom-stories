@@ -14,6 +14,8 @@ related:
   - "non-cooperation-and-khilafat-movement"
   - "civil-disobedience-movement"
   - "jawaharlal-nehru"
+  - "motilal-nehru"
+  - "subhas-chandra-bose"
 sources:
   - title: "Kamala Nehru"
     url: "https://en.wikipedia.org/wiki/Kamala_Nehru"
@@ -27,11 +29,49 @@ sources:
   - title: "Jawaharlal Nehru: Chronology"
     url: "https://www.jnmf.in/chrono.html"
     publisher: "Jawaharlal Nehru Memorial Fund"
+  - title: "Fact check: Did Nehru neglect his wife Kamala?"
+    url: "https://www.thequint.com/amp/story/news/webqoof/jawaharlal-nehru-kamala-nehru-false-story-tb-switzerland-fact-check"
+    publisher: "The Quint WebQoof"
+  - title: "The forgotten freedom fighter: remembering Kamala Nehru (Praveen Davar)"
+    url: "https://m.thewire.in/article/history/the-forgotten-freedom-fighter-remembering-kamala-nehru-on-her-89th-death-anniversary"
+    publisher: "The Wire"
+  - title: "Doyens of women's empowerment (Praveen Davar)"
+    url: "https://www.nationalheraldindia.com/amp/story/india/doyens-of-womens-empowerment"
+    publisher: "National Herald"
+  - title: "To Mother, 20 January 1936"
+    url: "https://nehruarchive.in/documents/to-mother-20-january-1936-v281g"
+    publisher: "The Nehru Archive (Selected Works, First Series, vol. 7)"
+  - title: "On the Death of Kamala Nehru, 17 March 1936"
+    url: "https://nehruarchive.in/documents/on-the-death-of-kamala-nehru-17-march-1936-g13el"
+    publisher: "The Nehru Archive (Selected Works, First Series, vol. 7)"
+  - title: "An Autobiography (Nehru), early chapters"
+    url: "https://dspace.bits-pilani.ac.in/bitstreams/eb0e2944-032f-481e-aed6-a743f7c9dc04/download"
+    publisher: "BITS Pilani repository copy"
 angles:
   - title: "Kamala was not a footnote"
     type: flagship
     hook: "She read her husband's speech to a crowd, ran a dispensary and was jailed in 1931."
     story: "kamala-not-a-footnote"
+  - title: "Kamala, the last winter"
+    type: flagship
+    hook: "From a sanatorium in Almora to Badenweiler and Lausanne: her last year, and who stood beside her."
+    story: "kamala-the-last-winter"
+  - title: "A false story about Kamala"
+    type: short
+    hook: "A made-up tale about her illness went around online. Fact-checkers looked at the records."
+    story: "a-false-story-about-kamala"
+  - title: "The wedding on Vasant Panchami"
+    type: short
+    hook: "A girl of sixteen, a man of twenty-six, and one plain line in his autobiography."
+    story: "the-wedding-on-vasant-panchami"
+  - title: "The jewels and the sanatorium"
+    type: short
+    hook: "The family took her to Europe for treatment in 1926."
+    story: "the-jewels-and-the-sanatorium"
+  - title: "Kamala in the year of the lathi"
+    type: short
+    hook: "In 1930 she led the women of Allahabad, and her mother-in-law was hurt in a police charge."
+    story: "kamala-in-the-year-of-the-lathi"
 image:
   src: "/files/people/kamala-nehru/portrait.webp"
   alt: "Kamala Nehru"
