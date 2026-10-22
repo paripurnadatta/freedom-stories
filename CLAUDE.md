@@ -140,9 +140,10 @@ which ones should be redone and why.
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
 | B. R. Ambedkar | 6 (2 flagship, 4 short) | 4 prompts waiting |
+| Jawaharlal Nehru | 8 (short) | 7 prompts waiting |
 | Shivaram Rajguru | 4 (short) | done |
 | Durga Bhabhi | 1 (school story held back: sources blocked) | done |
 | Rajendra Lahiri | 2 (short) | done |
 | Roshan Singh | 2 (short) | done |
 
-Suggested next: Nehru (ChatGPT researching on chatgpt-work), more Ambedkar (Kalaram temple), Azad and Ashfaqulla (need outside research); more flagships for the four new subjects if sources allow.
+Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple), Azad and Ashfaqulla (need outside research); more flagships for the four new subjects if sources allow.
