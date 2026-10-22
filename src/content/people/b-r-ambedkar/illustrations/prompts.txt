@@ -1,0 +1,70 @@
+ILLUSTRATIONS NEEDED: B. R. Ambedkar
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. Real photographs of Ambedkar exist, but these scenes show no faces.
+Any paper or book must show only unreadable squiggles, never real letters.
+
+==============================================================================
+1. "I have no homeland"  (short story)
+==============================================================================
+FILE NAME: i-have-no-homeland
+Save it as i-have-no-homeland.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story ""I have no homeland"", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in 1931, a sunlit verandah of a large Bombay house on a hill, with a view of palm trees and the sea far below. Two plain wooden chairs face each other across a low table, with a spinning wheel (charkha) beside one chair and a stack of law books beside the other. Nobody is seated: two sets of footprints in the dust of the doorway suggest they have just left. A quiet, serious mood. No people, no faces. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Seventy-one seats or a life  (short story)
+==============================================================================
+FILE NAME: seventy-one-seats-or-a-life
+Save it as seventy-one-seats-or-a-life.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seventy-one seats or a life", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+September 1932, the courtyard of an old prison in Poona, early morning. A single mango tree gives shade over a bare cot with a folded white cotton cloth on it, and a small clay water pot beside it. Beyond the open gate stands a group of men in white caps and dhotis, seen far away from behind, talking quietly together. A tense, hushed mood. No faces visible, no weapons. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. A life of contradictions  (short story)
+==============================================================================
+FILE NAME: a-life-of-contradictions
+Save it as a-life-of-contradictions.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A life of contradictions", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+November 1949, a large round hall with tall pillars and a high ceiling, in warm lamplight. Rows of empty wooden desks with papers and inkpots, fanning out in a half-circle toward a raised chair at the front. On the central desk lies one thick, bound book with a plain cover (no letters). Sunlight from high windows falls across the room. No people. A solemn, expectant mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The speech that was never given  (short story)
+==============================================================================
+FILE NAME: the-speech-that-was-never-given
+Save it as the-speech-that-was-never-given.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The speech that was never given", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1936, a small printing workshop in an Indian city, in the evening. On a wooden table lie freshly printed pages and a slim book with a plain cover (no letters), beside a hand-operated press. A lantern lights the room. Through the open door you can see a closed, empty meeting hall across the street, its doors shut. Papers show only unreadable squiggles. No people. A quiet, determined mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
