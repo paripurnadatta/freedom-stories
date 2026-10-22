@@ -148,6 +148,7 @@ which ones should be redone and why.
 | Kamala Nehru | 6 (2 flagship) | 5 prompts waiting |
 | B. R. Ambedkar | 14 (4 flagship, 10 short) | 12 prompts waiting |
 | Jawaharlal Nehru | 13 (5 flagship, 8 short) | 12 prompts waiting |
+| Rani Lakshmibai | 7 (2 flagship) | no prompts yet |
 | Shivaram Rajguru | 6 (2 flagship) | 2 prompts waiting |
 | Durga Bhabhi | 6 (2 flagship) | 5 prompts waiting |
 | Rajendra Lahiri | 6 (2 flagship) | 4 prompts waiting |
