@@ -37,77 +37,73 @@ sources:
 status: published
 ---
 
-Most pictures of the Kakori men show them in a courtroom or a jail. But each of them was once a child. This story starts with Rajendra Lahiri's childhood, and follows him until the night of the train.
+Most pictures of the Kakori men show them in a courtroom or a jail. But each of them was once a child. This story starts with Rajendra Lahiri's childhood and follows him until the night of the train.
 
-It also shows something else. The earliest part of his life is the part we know least about. Books and websites disagree, even on the year he was born.
+The earliest part of his life is the part we know least about. Even the year of his birth is told in two ways.
 
-## The year, the day and the village
+## A village in Pabna
 
-The Hindi Wikipedia, the Wire and a government magazine all say Lahiri was born in 1901. The government magazine, New India Samachar, and the Hindi Wikipedia give the date as 29 June. English Wikipedia says 23 June. A Lucknow newspaper says only "June".
+Rajendra Lahiri was born in the Pabna district of Bengal, which is now in Bangladesh. Most sources say it was in 1901. The date most often given is 29 June, though English Wikipedia says 23 June.
 
-The National Book Trust book says he was born in 1892.
+The Hindi Wikipedia, The Wire and the government magazine New India Samachar all say 1901. A Lucknow newspaper says only "June".
 
-<aside class="note"><b>Two versions</b>: Most sources say 1901. One book says 1892. If 1892 is right, he was about 35 when he died. If 1901 is right, he was 26. We follow 1901, because four sources agree. But we have not seen a birth record.</aside>
+<aside class="note"><b>Two versions</b>: the National Book Trust book says he was born in 1892. If 1892 is right, he was about 35 when he died. If 1901 is right, he was 26. We follow 1901 because four sources agree, but we have not seen a birth record.</aside>
 
-The village is in the Pabna district of Bengal. That is now in Bangladesh. English Wikipedia and the National Book Trust book say Mohanpur. The Hindi Wikipedia says Madiyan, also called Mohanpur. The Lucknow newspaper says Bharga.
+The village itself has three names. English Wikipedia and the National Book Trust book say Mohanpur. The Hindi Wikipedia says Madiyan, also called Mohanpur. The Lucknow newspaper says Bharga. It is possible that these were all names used for the same place, but we could not check.
+
+His father was Kshiti Mohan Lahiri. His mother was Basanta Kumari. The family had a big estate. The National Book Trust book says it was in Varanasi, while English Wikipedia says it was in the village in Pabna. The two accounts may describe two different pieces of land.
 
 ## A family in trouble
 
-His father was Kshiti Mohan Lahiri. His mother was Basanta Kumari. The National Book Trust book says his father owned a big estate in Varanasi. English Wikipedia says the estate was in the village.
-
-The Hindi Wikipedia adds something important. It says that when Rajendra was born, his father and his elder brother were in prison. They were accused of taking part in secret work for a group called the Anushilan Samiti.
+When Rajendra was born, his father and his elder brother were in prison, says the Hindi Wikipedia. They were accused of taking part in secret work for a group called the Anushilan Samiti.
 
 <aside class="note"><b>Anushilan Samiti</b>: a secret society in Bengal. Its members believed in armed action against British rule.</aside>
 
-<aside class="note"><b>Two versions</b>: A newsletter called Sadashree says it was his father and an uncle who were in prison. We could not check which is right.</aside>
+<aside class="note"><b>Two versions</b>: a newsletter called Sadashree says it was his father and an uncle who were in prison. We could not check which is right.</aside>
 
-The Hindi Wikipedia also says the family later set up a library in his mother's memory. It was called "Basantkumari".
+Later, the family set up a library in his mother's memory. It was called "Basantkumari".
 
 ## The move to Banaras
 
-The Hindi Wikipedia says that when he was about nine, Rajendra left Bengal for Varanasi, then also called Banaras. He went to live at his maternal uncle's house. The National Book Trust book also says he came to Varanasi in 1909.
+When he was about nine, Rajendra left Bengal for Varanasi, then also called Banaras. He went to live at his maternal uncle's house. The National Book Trust book says he came to Varanasi in 1909.
 
-He studied at the Central Hindu College, says the book. The Wire says he finished a degree in economics and history. The Hindi Wikipedia says that during the Kakori case, he was in the first year of a master's course in history at Banaras Hindu University.
+He studied at the Central Hindu College. According to The Wire, he finished a degree in economics and history. By the time of the Kakori case, he was in the first year of a master's course in history at Banaras Hindu University, says the Hindi Wikipedia.
 
-Even in those years, he was active outside class. The Wire says he was the honorary secretary of a Bengali literary society and the secretary of the university's health union. The Hindi Wikipedia says that he served as the secretary of the university's Bengali literature council.
+Even in those years he was busy outside class. He was the honorary secretary of a Bengali literary society and the secretary of the university's health union, The Wire says. He also served as the secretary of the university's Bengali literature council.
 
 ## A teacher from Bengal
 
-At Banaras, he met Sachindranath Sanyal. Sanyal was one of the founders of the Hindustan Republican Association, the HRA. He was already living in Banaras.
+In Banaras he met Sachindranath Sanyal. Sanyal was one of the founders of the Hindustan Republican Association, the HRA, and he was already living there.
 
-The Hindi Wikipedia says this meeting happened by chance. It says Sanyal saw how serious and patriotic Lahiri was. Sanyal gave him two jobs. One was to edit a magazine called *Bang Vani*. The other was to look after the armed side of the Anushilan Samiti's Varanasi branch.
+The meeting happened by chance. Sanyal saw how serious and patriotic Lahiri was. He gave him two jobs. One was to edit a magazine called *Bang Vani*. The other was to look after the armed side of the Anushilan Samiti's Varanasi branch. This is told by the Hindi Wikipedia.
 
-The Wire says Lahiri also wrote for another Bengali magazine called *Shankh*, which Sanyal edited. It says he became the HRA's organiser for Varanasi, and a member of its council for the province.
+Lahiri also wrote for another Bengali magazine called *Shankh*, which Sanyal edited. The Wire says he became the HRA's organiser for Varanasi, and a member of its council for the province.
 
 ## The group he joined
 
-The Wire says the HRA was formed in 1924. Its rules pictured a society in which one person could not use and exploit another.
+The HRA was formed in 1924. Its rules pictured a society in which one person could not use and exploit another, says The Wire.
 
-The High Court's history of the Kakori case describes the group's aim in harsher words. It says the group wanted to set up a "Federal Republic of the United States of India" by armed revolution. These are the words of the police and the court, and not the group's own.
+The High Court's history of the Kakori case describes the group's aim in harsher words. It says the group wanted to set up a "Federal Republic of the United States of India" by armed revolution. These are the words of the police and the court, not the group's own.
 
-The Hindi Wikipedia says Lahiri believed in writing as a way of thinking. It says he helped to start, or to spread, a handwritten paper called *Agradoot*. It says he urged each member of the group to write down his own views.
-
-The Wire says he was known as a sweet-tempered man who often smiled.
+Lahiri believed in writing as a way of thinking. He helped to start, or to spread, a handwritten paper called *Agradoot*. He urged each member of the group to write down his own views. He was known, The Wire adds, as a sweet-tempered man who often smiled.
 
 ## The city at the centre
 
-The National Book Trust book says that Banaras, which it calls Kashi, became the centre of the revolutionaries' work. This is where the men from Bengal and the men from Uttar Pradesh met.
+Banaras, which the National Book Trust book calls Kashi, became the centre of the revolutionaries' work. It was where the men from Bengal and the men from Uttar Pradesh met. The book calls Lahiri an important member of the organisation there.
 
-The book calls Lahiri an important member of the organisation there.
+Before Kakori, the book says, Lahiri took part in three robberies: at Bamrauli, Shivpuri and Dwarikapuri. The Wire says only that he took part in several holdups.
 
-The book says that before Kakori, Lahiri took part in three robberies: at Bamrauli, Shivpuri and Dwarikapuri. The Wire says only that he took part in several holdups.
-
-<aside class="note"><b>Note</b>: The court history lists the earlier robberies as Bamrauli, Bichpuri and Dwarkapur. "Shivpuri" in the book may be a slip for Bichpuri. We could not check it.</aside>
+The court history of the case names the earlier robberies slightly differently: Bamrauli, Bichpuri and Dwarkapur. "Shivpuri" in the book may be a slip for Bichpuri. We could not check which is right. In either case, the men had practised on smaller jobs before the big one.
 
 ## The train
 
-In August 1925, he was one of the group that stopped the train at Kakori. He is said to have pulled the chain. English Wikipedia, the Wire and the Hindi Wikipedia all say so.
+In August 1925, he was one of the group that stopped the train at Kakori. He is said to have pulled the chain. English Wikipedia, The Wire and the Hindi Wikipedia all say so.
 
 That is the part everybody remembers. But it was only one night in a life that had begun in a village in Bengal, in a family where the men were already in jail for the cause.
 
-## What we do not know
+## What is not known
 
-There are many things we cannot say. We do not know the name of his school in Bengal. We do not know what his family did after he was hanged. None of the sources we opened says when he first met Ram Prasad Bismil. And we have no letters from his childhood.
+We do not know the name of his school in Bengal. We do not know what his family did after he was hanged. None of the sources we opened says when he first met Ram Prasad Bismil. And there are no letters from his childhood.
 
 What we can say is that he came from Bengal, far from Uttar Pradesh, and that he stayed with the group in Uttar Pradesh to the end.
 
