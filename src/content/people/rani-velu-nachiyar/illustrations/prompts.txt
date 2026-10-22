@@ -1,0 +1,77 @@
+ILLUSTRATIONS NEEDED: Rani Velu Nachiyar. Five paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses; nobody knows what she looked like).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The fall of Kalaiyar Kovil  (flagship story)
+==============================================================================
+FILE NAME: the-fall-of-kalaiyar-kovil
+Save it as the-fall-of-kalaiyar-kovil.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The fall of Kalaiyar Kovil", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dawn at an old stone palace gateway in the Tamil country in June 1772, with a carved entrance tower and a wide dusty road. Thin smoke rises far away over the trees. A woman in a deep red silk sari with a long dark plait walks away along the road, seen from behind, holding the hand of a small girl. Beside them walks an elderly man in a white cloth and turban, also seen from behind. In the far distance, tiny soldiers in dark coats stand in rows by a gun, too far away to see clearly. Sorrowful, quiet mood. No fighting, no one hurt, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Eight years at Virupachi  (flagship story)
+==============================================================================
+FILE NAME: eight-years-at-virupachi
+Save it as eight-years-at-virupachi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Eight years at Virupachi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small fort courtyard on a rocky hill near Dindigul in the 1770s, hot golden afternoon, palm trees and a distant rock fortress. A woman in a dark green sari sits on the floor at a low wooden desk, seen from behind and the side, while an elderly minister in a white turban beside her writes a letter on a long palm leaf with a pointed stylus. Behind them, a few horsemen in turbans water their horses at a stone trough, seen from far away. Patient, waiting mood. No weapons pointed, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The return of 1780  (flagship story)
+==============================================================================
+FILE NAME: the-return-of-1780
+Save it as the-return-of-1780.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The return of 1780", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A road in Tamil Nadu in 1780 leading to a town gate with a tall carved tower, early morning gold light. A woman on a white horse, seen from behind, wearing a red silk sari with a gold border, rides at the front. Two men in turbans ride on either side of her, also seen from behind. Behind them a long, calm line of foot soldiers and horsemen with spears held upright and pointing at the sky, and villagers standing along the road with folded hands. Hopeful, dignified mood. No battle, no fighting, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Kuyili: a song and a doubt  (short story)
+==============================================================================
+FILE NAME: kuyili-a-song-and-a-doubt
+Save it as kuyili-a-song-and-a-doubt.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kuyili: a song and a doubt", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A Tamil village at night, in the present day, under a huge banyan tree. A group of elderly village women in cotton saris sit in a circle on the ground around a single brass oil lamp, singing, seen from behind and the side so that no face is clear. A small stone shrine with a lit lamp stands behind them. A young man with a notebook sits a little apart, listening. Warm lamplight against deep indigo night, fireflies. Gentle, respectful, thoughtful mood. No fire apart from the small lamps, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Two dates and one title  (short story)
+==============================================================================
+FILE NAME: two-dates-and-one-title
+Save it as two-dates-and-one-title.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two dates and one title", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet old record room in a palace in Sivaganga, afternoon light falling through a carved window. Bundles of palm-leaf manuscripts are tied with string on wooden shelves. On a low table lie two palm leaves side by side with blank, unmarked surfaces, and a brass lamp. A single empty carved wooden chair stands in the soft light. No people. Calm, searching mood. No flag, no readable writing, no marks that look like letters.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate eighteenth-century South Indian (Tamil) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
