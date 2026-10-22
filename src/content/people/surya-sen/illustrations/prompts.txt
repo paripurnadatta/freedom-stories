@@ -1,0 +1,92 @@
+ILLUSTRATIONS NEEDED: Surya Sen (Master-da). Six paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The night of Good Friday  (flagship story)
+==============================================================================
+FILE NAME: the-night-of-good-friday
+Save it as the-night-of-good-friday.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The night of Good Friday", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Quiet night in a port town in Bengal in April 1930, seen from a low hill above a long curving road. A few oil street lamps glow along the road. In the middle distance are a flat-roofed colonial building with tall arched windows and a stretch of railway track with a steam engine standing still and dark. In the foreground, small groups of young people in plain kurtas, dhotis and shirts walk along the road in silhouette, seen from far behind so no faces show, moving carefully in the dark. A pale moon, deep blue sky, warm lamp glows. No weapons visible, nothing pointed at anyone, no fire, no smoke, no bodies, no flag. Tense, quiet, expectant mood. Wide composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Three years on the run  (flagship story)
+==============================================================================
+FILE NAME: three-years-on-the-run
+Save it as three-years-on-the-run.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Three years on the run", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early morning in a village in the Chittagong countryside around 1932. A small mud-walled house with a thatched roof, an oil lamp still glowing in the open doorway, banana plants and tall betel-nut palms, a pond with mist rising from it, and green paddy fields beyond. On the doorstep, a village woman in a plain cotton sari, seen from behind, offers a brass bowl of rice to a thin man sitting on the step in a plain dhoti with a shawl over his shoulders, seen from the side with his face turned away and hidden by the shawl. Far down the dirt road, two or three tiny figures in uniform walk away, too small to see clearly, not aimed at anyone. Quiet, secret, kind mood. No flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The hill at Jalalabad  (short story)
+==============================================================================
+FILE NAME: the-hill-at-jalalabad
+Save it as the-hill-at-jalalabad.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The hill at Jalalabad", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late afternoon over green forested hills near Chittagong in April. Two steep hills face each other across a narrow valley, with long golden light, thin mist and tall trees. On the near hill, a few tiny human figures in dhotis and kurtas crouch behind rocks, so small and far away that no faces or details show. Silence and held breath: no firing, no gun smoke, no explosions, no wounded people, no bodies, no blood. A single bird flies across the valley. No flag, no readable writing. Wide 16:6 composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The widow of Dhalghat  (short story)
+==============================================================================
+FILE NAME: the-widow-of-dhalghat
+Save it as the-widow-of-dhalghat.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The widow of Dhalghat", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A village courtyard in Bengal in the 1930s at midday. An older woman in a plain white cotton widow's sari, seen from behind and the side with her face hidden, stands at a big clay stove stirring an enormous iron pot of rice. In front of her a line of thin, patient villagers, women and children, wait with metal plates, seen from the side or behind with faces turned away. A mud-walled house with a thatched roof, banana plants, a tulsi plant and a pond. Warm light, steam rising. Dignified, humble, hardworking mood. No police, no soldiers, no flag, no readable writing. Wide 16:6 composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The teacher who changed his mind  (short story)
+==============================================================================
+FILE NAME: the-teacher-who-changed-his-mind
+Save it as the-teacher-who-changed-his-mind.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The teacher who changed his mind", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Evening in a small village room in Bengal around 1932, lit by a single oil lamp. A slight man in a plain dhoti and shirt sits cross-legged on a mat, seen from behind and the side so his face is hidden, talking quietly. Opposite him sit three young women in simple cotton saris, listening closely, faces softly turned towards the lamp or away, with no invented likenesses. A rolled mosquito net hangs in the corner and a few cloth-wrapped bundles lie nearby. Shadows on mud walls, warm saffron lamp glow against deep indigo. No weapons, no flag, no readable writing, no books with legible pages. Wide 16:6 composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The last letter  (short story)
+==============================================================================
+FILE NAME: the-last-letter
+Save it as the-last-letter.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The last letter", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A bare prison cell at the first light of dawn in the 1930s: a small low wooden table with a single sheet of paper covered only in unreadable handwriting marks, a pen, and a small oil lamp that is burning low. A high barred window lets in pale golden-pink light across a stone floor. No person is shown. No gallows, no rope, no chains, no weapons, no blood. Quiet, still, thoughtful mood, with a feeling of a message waiting to be carried out. No flag, no readable text. Wide 16:6 composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
