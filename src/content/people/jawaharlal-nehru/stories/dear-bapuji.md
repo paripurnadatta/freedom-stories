@@ -28,19 +28,21 @@ In 1928, Jawaharlal Nehru did exactly that. The person was Mahatma Gandhi.
 
 ## The Madras resolution
 
-In 1927, the Congress met at Madras. Nehru moved a resolution there asking for complete independence. The Selected Works editor's note on his letter says he also moved resolutions on the League against Imperialism, on support for China, and on passport rules.
+In 1927, the Congress met at Madras. Nehru moved a resolution there asking for complete independence. He also moved resolutions on the League against Imperialism, on support for China, and on passport rules.
 
-Gandhi criticised the resolution in his newspaper, *Young India*. The Selected Works editors date that article 12 January 1928, a day after the letter, which we cannot explain. According to Nehru's letter, Gandhi called the independence resolution "hastily conceived and thoughtlessly passed".
+Gandhi criticised the resolution in his newspaper, *Young India*. He called the independence resolution "hastily conceived and thoughtlessly passed".
+
+<aside class="note"><b>A puzzle in the dates</b>: the editors of Nehru's Selected Works date Gandhi's article 12 January 1928, a day after Nehru's letter about it. They do not explain this.</aside>
 
 ## The letter
 
 Nehru wrote to Gandhi from Allahabad. His letter is dated 11 January 1928. It starts with the words "My dear Bapuji".
 
+<aside class="note"><b>Bapuji</b>: "dear father". Many people used this name for Gandhi.</aside>
+
 He then says: "I am very much troubled by your criticism of the Congress resolutions."
 
 He did not hide his respect. He wrote: "You know how intensely I have admired you and believed in you."
-
-<aside class="note"><b>Bapuji</b>: "dear father". Many people used this name for Gandhi.</aside>
 
 But he was clear about what he thought. About the idea of Dominion Status, he wrote: "it passes my comprehension how a national organisation can have as its ideal and goal Dominion Status."
 
@@ -50,17 +52,17 @@ He added that the very idea "suffocates and strangles me." And about independenc
 
 He also said he doubted whether anyone outside a small circle understood Gandhi's position on this. At the end he said sorry for the length: "I have already exceeded all reasonable limits."
 
-## What we do not have
+## The lost letter
 
 A footnote says that this is the second letter. Nehru wrote one earlier, but it has been lost. Gandhi wrote on 17 January 1928: "Your first letter I destroyed after reading and replying to it."
 
-So we have Nehru's side only in part. We have not read Gandhi's replies.
+So Nehru's side survives only in part, and Gandhi's replies were not read for this story.
 
 ## Calcutta, December 1928
 
 Almost a year later, the Congress met at Calcutta. The report of the Nehru Committee, called the Nehru Report, was before it. It was a plan for how India might be governed.
 
-Gandhi's resolution welcomed the Nehru Report. The footnote says it asked the British Parliament to accept the report. If Parliament did not, the Congress would organise non-violent non-cooperation. The deadline given in that note was 31 December 1929.
+Gandhi's resolution welcomed the Nehru Report. It asked the British Parliament to accept the report. If Parliament did not, the Congress would organise non-violent non-cooperation. The deadline was 31 December 1929.
 
 Jawaharlal Nehru moved an amendment on 27 December 1928. It said the Congress should keep to the Madras goal of "complete independence".
 
@@ -68,9 +70,9 @@ He said: "there can be no true freedom till British connection is severed."
 
 And he asked: "Do you think that it is right to haul down the Swaraj flag and to go on talking of Dominion Status?"
 
-According to his speech, Gandhi had advised members not to vote for the amendment "because of the personality involved". Nehru replied, "I have not heard of compromise about ideals, of giving up an ideal to suit another's fancy."
+Gandhi had advised members not to vote for the amendment "because of the personality involved". Nehru replied, "I have not heard of compromise about ideals, of giving up an ideal to suit another's fancy."
 
-We do not have the vote count or the final text from these pages.
+The vote count and the final text are not in the pages used here.
 
 ## What both wanted
 

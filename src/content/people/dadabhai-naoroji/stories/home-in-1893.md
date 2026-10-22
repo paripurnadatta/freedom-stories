@@ -33,31 +33,31 @@ Late one night in June 1893, the House of Commons voted on an idea from an India
 
 ## The bill
 
-Dinyar Patel's timeline says that on 1 March 1893 Naoroji brought in his bill about simultaneous exams. "Simultaneous" means at the same time, in both countries.
+On 1 March 1893 Naoroji brought in his bill about simultaneous exams. "Simultaneous" means at the same time, in both countries.
 
 <aside class="note"><b>Civil service</b>: the officials who run a country's government offices, courts and districts.</aside>
 
-On 2 June 1893, a resolution on the matter was carried. The Kaiser-i-Hind newspaper of 11 June said it passed "in a majority of eight". It says the Liberal member Herbert Paul moved it late at night, after some key opponents had left the House.
+On 2 June 1893, a resolution on the matter was carried. It passed "in a majority of eight", wrote the Kaiser-i-Hind newspaper on 11 June. The Liberal member Herbert Paul moved it late at night, after some key opponents had left the House.
 
 ## Was it a win?
 
 The newspapers did not agree. The Indu Prakash of 26 June called it "nothing but a tactical advantage". A tactical advantage is a gain in a fight that does not end the fight.
 
-We have not read the debate. So we cannot say whether the vote changed what happened to the exams. We can say that it was a vote won by Indian argument in the British Parliament, and that people in India argued about what it was worth.
+Whether the vote changed what happened to the exams is not clear. The debate itself was not read for this story. It was a vote won by Indian argument in the British Parliament, and people in India argued about what it was worth.
 
 ## Welcome home
 
-In 1893 Naoroji came home. Patel's news pages place the big reception in Bombay on 3 December.
+In 1893 Naoroji came home. The big reception in Bombay was on 3 December.
 
 The Englishman newspaper wrote on 4 December that there were crowds of Hindu and Parsi girls, priests, Brahmins and mill workers. The Kaiser-i-Hind of 10 December wrote that the people were Hindus, Muslims, Parsis, Jews and Portuguese. It said that only Anglo-Indians stayed away.
 
-<aside class="note"><b>Two versions</b>: One editor's note we saw says about 500,000 people were there. We could not find a source for that number, so we leave it out. The two newspapers disagree on who was in the crowd. The Englishman lists girls, priests, Brahmins and mill hands. The Kaiser-i-Hind lists communities.</aside>
+<aside class="note"><b>Two versions</b>: one editor's note gives about 500,000 people, but no source is named for that number, so it is left out. The two newspapers also disagree on who was in the crowd. The Englishman lists girls, priests, Brahmins and mill hands. The Kaiser-i-Hind lists communities.</aside>
 
-A British official, Chesney, said that Naoroji "was not … an alien". An alien is someone from outside, a foreigner in the country. Lord Harris wrote to congratulate him. We do not have the letters or speeches, only the reports of them.
+A British official, Chesney, said that Naoroji "was not … an alien". An alien is someone from outside, a foreigner in the country. Lord Harris wrote to congratulate him. Only reports of the letters and speeches survive in these pages.
 
 ## To Lahore
 
-He did not rest. Patel says he arrived at Lahore on 25 December. He was the president of the Congress session there from 27 to 30 December 1893.
+He did not rest. He arrived at Lahore on 25 December. He was the president of the Congress session there from 27 to 30 December 1893.
 
 ## Why it matters
 
