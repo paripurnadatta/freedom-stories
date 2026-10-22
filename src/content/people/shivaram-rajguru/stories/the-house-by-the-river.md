@@ -20,23 +20,21 @@ status: published
 
 Not far from Pune, on the bank of the river Bhima, there is an old house. People remember it for one of its sons.
 
-He was Shivaram Hari Rajguru. The town where the house stands is now named Rajgurunagar. Wikipedia says that it was once called Khed, and that it was renamed in his honour.
+He was Shivaram Hari Rajguru. The town where the house stands is now named Rajgurunagar. It was once called Khed, and it was renamed in his honour.
 
 ## A house the state protects
 
-Wikipedia calls the house Rajguru Wada. It says the house stands on the Pune–Nashik road, on the river bank.
+The house is called Rajguru Wada. It stands on the Pune–Nashik road, on the river bank.
 
 <aside class="note"><b>Wada</b>: a big old family house in Maharashtra, often built around a courtyard.</aside>
 
-It says the site covers 2,788 square metres. A group called the Hutatma Rajguru Smarak Samiti looks after it as a memorial.
-
-The Government of Maharashtra uses a slightly different name. It writes about the "Hutatma Shivaram Hari Rajguru Birth Room and Thorla Wada".
+The site covers 2,788 square metres. A group called the Hutatma Rajguru Smarak Samiti looks after it as a memorial.
 
 <aside class="note"><b>Hutatma</b>: a Marathi word for a person who gave up their life for a cause.</aside>
 
-The sources we read do not say whether these are the same building. Wikipedia and the government may be using two names for one place, or describing two places side by side.
+The Government of Maharashtra uses a slightly different name. It writes about the "Hutatma Shivaram Hari Rajguru Birth Room and Thorla Wada". The two names may be one place, or two places side by side. Our sources do not say.
 
-The government's notice gives a clear date for the protection. On 11 January 2000, the state declared the Birth Room and Thorla Wada a protected monument. A law about ancient monuments gave the state the power to do this.
+On 11 January 2000, the state declared the Birth Room and Thorla Wada a protected monument. A law about ancient monuments gave the state the power to do this.
 
 <aside class="note"><b>Protected monument</b>: an old place that the law says must be kept safe.</aside>
 
@@ -44,16 +42,9 @@ The government's notice gives a clear date for the protection. On 11 January 200
 
 Protecting a house is one thing. What about the open ground beside it?
 
-On 13 March 2024, the government put out a notice. It said it wished to mark a "controlled area" around the site.
+On 13 March 2024, the government put out a notice. It said it wished to mark a "controlled area" around the site. The notice lists plots of land by number. The river Bhima lies on the south, and roads lie on the other sides.
 
-The notice lists plots of land by number. It says the river Bhima lies on the south. Roads lie on the other sides.
-
-It proposed some rules for the area:
-
-- no new buildings above ground in the open spaces;
-- no big changes to the outside of existing buildings;
-- limits on cutting trees;
-- limits on how the land is used.
+The government proposed some rules for the area. There should be no new buildings above ground in the open spaces. There should be no big changes to the outside of existing buildings. There should be limits on cutting trees, and limits on how the land is used.
 
 The government said it wanted to keep the "reasonable amenities" of the place.
 

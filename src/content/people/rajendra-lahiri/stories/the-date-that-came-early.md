@@ -33,33 +33,31 @@ The fourth was Rajendranath Lahiri. He was hanged two days before. Why?
 
 ## Four jails
 
-On 6 April 1927, the judge, Mr. Hamilton, sentenced Ram Prasad Bismil, Rajendranath Lahiri and Roshan Singh to death. The Allahabad High Court's history says so. It says Ashfaqulla Khan was sentenced to death in a separate trial.
+On 6 April 1927, the judge, Mr. Hamilton, sentenced Ram Prasad Bismil, Rajendranath Lahiri and Roshan Singh to death. The Allahabad High Court's history says so. Ashfaqulla Khan was sentenced to death in a separate trial.
 
 Appeals followed. The National Book Trust book says an appeal to the Privy Council was also made and rejected.
 
-The four men were then held in different places. The book says Bismil was hanged in Gorakhpur, Roshan Singh in Allahabad and Ashfaqulla Khan in Faizabad. Lahiri was in Gonda jail.
+The four men were then held in different places. Bismil was hanged in Gorakhpur, Roshan Singh in Allahabad and Ashfaqulla Khan in Faizabad. Lahiri was in Gonda jail.
 
 ## The lonely months
 
-The Wire says Lahiri spent the last six months of his life in the jails of Gonda and Barabanki. It says he was very lonely there.
+Lahiri spent the last six months of his life in the jails of Gonda and Barabanki. He was very lonely there, The Wire says.
 
-The book prints two letters from him. It says that in the first, on 6 October, he thanked everyone who had pleaded for him. In the second, on 14 December, he wrote that his friends had done everything to save his life.
+He wrote two letters that the book prints. In the first, on 6 October, he thanked everyone who had pleaded for him. In the second, on 14 December, he wrote that his friends had done everything to save his life.
 
 We have not seen the original letters. We use the words that the book prints.
 
 ## The date moved
 
-The book says all four hangings were planned for 19 December. But Lahiri was hanged two days earlier, on 17 December, in Gonda.
+All four hangings were planned for 19 December. But Lahiri was hanged two days earlier, on 17 December, in Gonda. The book and The Wire give the same dates.
 
-The Wire gives the same dates.
+Both also say why. The authorities feared that revolutionaries would try to free Lahiri from the jail.
 
-Both accounts also say why. They say the authorities feared that revolutionaries would try to free Lahiri from the jail.
-
-The book gives more. It says Chandrashekhar Azad and Manmath Nath Gupta had come to Gonda. A meeting about the rescue was held at the house of a man named Lal Behari Tandon. The book says a traitor passed on the plan, and so Lahiri was hanged earlier.
+The book gives more. Chandrashekhar Azad and Manmath Nath Gupta had come to Gonda. A meeting about the rescue was held at the house of a man named Lal Behari Tandon. A traitor passed on the plan, the book says, and so Lahiri was hanged earlier.
 
 The Wire says the likeliest reason was a plan to break him out, led by Manmath Nath Gupta's group.
 
-<aside class="note"><b>Not confirmed</b>: Two accounts agree on the reason. But neither shows an official order from the jail or the government. The Wikipedia page on Lahiri gives no reason at all. We know the dates. We cannot prove the reason.</aside>
+<aside class="note"><b>Not confirmed</b>: the two accounts agree on the reason. But neither shows an official order from the jail or the government. The Wikipedia page on Lahiri gives no reason at all. We know the dates. We cannot prove the reason.</aside>
 
 ## Words we cannot check
 
