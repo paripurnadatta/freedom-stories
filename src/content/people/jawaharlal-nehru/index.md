@@ -68,6 +68,9 @@ sources:
   - title: "The Unavoidability of Partition, 15 June 1947"
     url: "https://nehruarchive.in/documents/the-unavoidability-of-partition-15-june-1947-pgdewj"
     publisher: "Selected Works of Jawaharlal Nehru"
+  - title: "The Unity of India: Collected Writings 1937-1940"
+    url: "https://archive.org/details/unityofindiacoll006382mbp"
+    publisher: "John Day Company, 1942, via the Internet Archive"
   - title: "A Tryst with Destiny, 14-15 August 1947"
     url: "https://nehruarchive.in/documents/a-tryst-with-destiny-aug-14-15-1947-j9le4z"
     publisher: "Selected Works of Jawaharlal Nehru"
@@ -115,6 +118,14 @@ angles:
     type: flagship
     hook: "We added up the dates of his ten spells in prison, and looked at what he wrote inside."
     story: "nine-years-behind-bars"
+  - title: "Sixteen days at Khali"
+    type: flagship
+    hook: "Tired of politics in 1938, he escaped to the Himalayas. The world found him there."
+    story: "sixteen-days-at-khali"
+  - title: "A symbol on trial"
+    type: flagship
+    hook: "At his trial in 1940 he said it was the British Empire, not he, that was on trial."
+    story: "a-symbol-on-trial"
   - title: "Two homes, two meanings"
     type: flagship
     hook: "How did a family house become a base for the freedom movement?"

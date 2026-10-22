@@ -112,3 +112,31 @@ Midnight, 14 to 15 August 1947, a large round hall with tall pillars lit by lamp
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+==============================================================================
+8. Sixteen days at Khali  (flagship story)
+==============================================================================
+FILE NAME: sixteen-days-at-khali
+Save it as sixteen-days-at-khali.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Sixteen days at Khali", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early spring, April 1938, a hillside in the Kumaun Himalayas at sunrise: red rhododendron flowers in bloom among pine and deodar trees, a small stone hill cottage with a wooden verandah, a sturdy hill pony tied beside it, and a long chain of snow peaks glowing pink in the far distance, with a light cloud over the tallest. A traveller's folded blanket and a small pile of letters tied with string sit on the verandah rail. No people, no faces, no flag, no readable text. A peaceful, wistful mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+==============================================================================
+9. A symbol on trial  (flagship story)
+==============================================================================
+FILE NAME: a-symbol-on-trial
+Save it as a-symbol-on-trial.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A symbol on trial", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+November 1940, the inside of a small district courtroom in northern India, in plain morning light: a high wooden judge's desk with a lamp, an empty wooden dock, rows of simple benches, and ceiling fans. On the dock rail rests a thin bundle of papers (unreadable squiggles only). Through a tall window, far fields of wheat and a line of villagers walking on a dusty road. No people in the room, no faces, no flag, no readable text, no weapons. A serious, quiet mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
