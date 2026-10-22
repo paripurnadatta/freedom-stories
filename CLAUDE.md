@@ -140,10 +140,10 @@ which ones should be redone and why.
 | Sukhdev Thapar | 6 | 3 prompts waiting |
 | Kakori train action (event) | 2 | 2 prompts waiting |
 | B. R. Ambedkar | 2 | done |
-| Shivaram Rajguru | 4 (short) | 2 prompts waiting |
-| Durga Bhabhi | 1 (school story held back: sources blocked) | 1 prompt waiting |
-| Rajendra Lahiri | 2 (short) | 2 prompts waiting |
-| Roshan Singh | 2 (short) | 2 prompts waiting |
+| Shivaram Rajguru | 4 (short) | done |
+| Durga Bhabhi | 1 (school story held back: sources blocked) | done |
+| Rajendra Lahiri | 2 (short) | done |
+| Roshan Singh | 2 (short) | done |
 
 Suggested next: Ambedkar, Azad and Ashfaqulla (need outside research); more flagships for the four new subjects if sources allow.
 Ambedkar needs more stories (Round Table, Poona Pact from his side, the Constitution).
