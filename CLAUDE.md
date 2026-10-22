@@ -66,7 +66,9 @@ Do not just edit their drafts.
    `about:` lists the main subject first, then other subjects that appear (use existing
    slugs; check with `ls src/content/*/`). `published:` is today's date.
 3. **Pictures from the archive** (real photos and documents): only free licences
-   (public domain, CC0, CC BY, CC BY-SA) from Wikimedia Commons. Download them into
+   (public domain, CC0, CC BY, CC BY-SA, and, as an exception decided by the owner on
+   22 October 2026, Government of India stamps and works under GODL-India) from Wikimedia
+   Commons. Download them into
    `archive/` as `.webp` with sharp (see "Wikimedia" below), then use them as the story's
    `image:` or as `<figure class="plate">` inside the story, always with credit, licence
    and a "Where this picture comes from" link.

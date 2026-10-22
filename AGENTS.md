@@ -60,7 +60,8 @@ Re-read "The rules for every story" in CLAUDE.md before each story. In short:
 - Blocked sites (Hindustan Times, Times of India, Indian Express, sometimes The Wire):
   do not build on a page you could not open. Record it in `research/checked.md`.
 - Use "HRA" before September 1928 and "HSRA" after.
-- Pictures: only free licences (public domain, CC0, CC BY, CC BY-SA) from Wikimedia Commons,
+- Pictures: only free licences (public domain, CC0, CC BY, CC BY-SA, plus Government of India
+  stamps / GODL-India as an owner-approved exception) from Wikimedia Commons,
   with credit, licence and a "Where this picture comes from" link. No readable text, flags,
   Ashoka Chakra, gore, or invented faces in painting prompts.
 
