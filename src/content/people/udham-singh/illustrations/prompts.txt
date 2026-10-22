@@ -1,0 +1,47 @@
+ILLUSTRATIONS NEEDED: Udham Singh. Three paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses; the other stories use real photographs). This is a hard subject: please keep every picture calm, with no weapons and nothing violent.
+------------------------------------------------------------------------------
+
+==============================================================================
+1. Sher Singh becomes Udham Singh  (short story)
+==============================================================================
+FILE NAME: sher-singh-becomes-udham-singh
+Save it as sher-singh-becomes-udham-singh.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Sher Singh becomes Udham Singh", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The courtyard of a plain brick orphanage in Amritsar in 1907, early evening, with a well, a neem tree and a verandah. Two small boys in simple cotton clothes, one a little taller than the other, stand close together at the edge of the courtyard, seen from behind, looking at a row of boys in blue turbans sitting on mats and listening to a teacher. A single oil lamp glows on the verandah. Quiet, uncertain, hopeful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Caxton Hall, 13 March 1940  (flagship story)
+==============================================================================
+FILE NAME: caxton-hall-13-march-1940
+Save it as caxton-hall-13-march-1940.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "Caxton Hall, 13 March 1940", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The outside of a grey London meeting hall in the late afternoon of March 1940, with tall windows, a stone porch and wet pavements, and a few black cars and bicycles parked along the kerb. A small group of people in overcoats and hats are walking up the steps, seen from behind and far away. Low cloud, pale amber light from the windows. Still, grave mood, nothing happening yet. No violence, no weapons, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Seven letters from Brixton  (short story)
+==============================================================================
+FILE NAME: seven-letters-from-brixton
+Save it as seven-letters-from-brixton.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seven letters from Brixton", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small stone prison cell in London in 1940, early evening. A man in plain dark clothes and a plain turban sits on a narrow bed, seen from behind and the side, writing on a sheet of paper on his knee with a stack of three books beside him. A single barred window lets in a thin band of amber light. Quiet, thoughtful mood. No guards, no violence, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Punjabi (early twentieth century) and London (1930s) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons shown, no violence. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

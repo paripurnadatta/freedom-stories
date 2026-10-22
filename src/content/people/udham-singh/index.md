@@ -3,25 +3,42 @@ id: IF-0212
 kind: person
 name: "Udham Singh"
 wikidata: "Q2473141"
-summary: "The transnational revolutionary who assassinated Michael O’Dwyer two decades after Jallianwala Bagh"
-born: "1899"
-died: "1940"
-year: 1919
-region: "Punjab"
+summary: "An orphan from Punjab who worked in Detroit and London, and who shot Michael O'Dwyer at Caxton Hall in 1940 for Jallianwala Bagh. Many stories about him are legends, and this page keeps them apart from what the records say."
+born: "26 December 1899 (colonial records say 23 August 1901)"
+died: "31 July 1940"
+year: 1940
+region: "Punjab / London"
 role: "Revolutionary"
 places: []
 related:
   - "jallianwala-bagh-massacre"
+  - "ghadar-party"
+  - "rowlatt-satyagraha"
+  - "bhagat-singh"
+  - "lala-lajpat-rai"
+  - "jawaharlal-nehru"
 sources:
-  - title: "Udham Singh avenged Jallianwala Bagh massacre after 20 years in London"
-    url: "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2022/Jul/2nd/English/files/basic-html/page48.html"
-    publisher: "New India Samachar / Government of India"
-  - title: "Udham Singh — early life and transnational activity"
-    url: "https://cmsadmin.amritmahotsav.nic.in/district-reopsitory-detail.htm?25230="
-    publisher: "Ministry of Culture, Government of India — Digital District Repository"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Udham Singh"
+    url: "https://southasianbritain.org/people/udham-singh/"
+    publisher: "South Asian Britain, University of Bristol"
+  - title: "Udham Singh: Avenger of the Amritsar Massacre, by Vinay Lal"
+    url: "https://southasia.ucla.edu/history-politics/british-india/udham-singh-avenger-amritsar-massacre/"
+    publisher: "UCLA / MANAS"
+  - title: "Inquilab: the last words, by Paramjit Ahluwalia"
+    url: "https://www.counselmagazine.co.uk/articles/inquilab-the-last-words"
+    publisher: "Counsel, the magazine of the Bar of England and Wales"
+  - title: "Udham Singh"
+    url: "https://en.wikipedia.org/wiki/Udham_Singh"
+    publisher: "Wikipedia"
+  - title: "Hanged for Patriotism, by R. K. Tandon"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
+  - title: "78 years after his martyrdom, Udham Singh myths are still alive"
+    url: "https://www.tribuneindia.com/news/archive/punjab/78-years-after-his-martyrdom-udham-singh-myths-are-still-alive-628970"
+    publisher: "The Tribune"
+  - title: "Martyr requested Gutka Saheb in last communique from jail"
+    url: "https://www.tribuneindia.com/news/amritsar/martyr-requested-gutka-saheb-in-last-communique-from-jail/"
+    publisher: "The Tribune"
 image:
   src: "/files/people/udham-singh/portrait.webp"
   alt: "Udham Singh"
@@ -29,6 +46,39 @@ image:
   credit: "Punjab state archives · Punjab state archives"
   license: "Public domain"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Sardar_Udham_Singh.jpg"
+angles:
+  - title: "Was Udham Singh at the Bagh?"
+    type: flagship
+    hook: "Many books say he was in Jallianwala Bagh in 1919. Historians who looked for proof are not sure."
+    story: "was-udham-singh-at-the-bagh"
+  - title: "Caxton Hall, 13 March 1940"
+    type: flagship
+    hook: "What happened, who was shot, and three stories that did not hold up."
+    story: "caxton-hall-13-march-1940"
+  - title: "A name on the arm"
+    type: flagship
+    hook: "Mohamed Singh Azad, a short trial and a speech the court would not hear."
+    story: "a-name-on-the-arm"
+  - title: "Sher Singh becomes Udham Singh"
+    type: short
+    hook: "Two orphan brothers, new names and two birthdays."
+    story: "sher-singh-becomes-udham-singh"
+  - title: "Detroit, California, Amritsar"
+    type: short
+    hook: "A Ford factory, a revolutionary party and a 1927 arrest."
+    story: "detroit-california-amritsar"
+  - title: "A Sikh in London"
+    type: short
+    hook: "A film extra, a carpenter and a man with several names."
+    story: "a-sikh-in-london"
+  - title: "Seven letters from Brixton"
+    type: short
+    hook: "A request for books, and a last request for a prayer book."
+    story: "seven-letters-from-brixton"
+  - title: "After 1940"
+    type: short
+    hook: "Two execution dates, two years for the ashes, and a statue at the gate of the Bagh."
+    story: "after-1940"
 ---
 
 <!--
