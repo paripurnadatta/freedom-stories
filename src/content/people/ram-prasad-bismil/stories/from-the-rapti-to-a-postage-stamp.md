@@ -29,19 +29,19 @@ This story is about what happened next. It follows his name across a map of nort
 
 ## The last morning
 
-The National Book Trust book says that he woke earlier than usual that morning. It says he bathed, said his prayers, and wrote a last letter to his mother. When the jail staff came for him, he stood up and walked to the gallows.
+He woke earlier than usual that morning. He bathed, said his prayers, and wrote a last letter to his mother. When the jail staff came for him, he stood up and walked to the gallows. That is how the National Book Trust book tells it.
 
-<aside class="note"><b>Two versions</b>: What did he say at the end? The National Book Trust book says he called out "Vande Mataram" and "Bharat Mata ki Jai". It says that at the gallows he said, "I want the destruction of British Empire". The Better India says he is reported to have said "Jai Hind". Nobody wrote down his words at the time. We cannot say which, if any, is exact.</aside>
+<aside class="note"><b>Two versions</b>: what did he say at the end? The National Book Trust book says he called out "Vande Mataram" and "Bharat Mata ki Jai", and at the gallows said, "I want the destruction of British Empire". The Better India says he is reported to have said "Jai Hind". Nobody wrote down his words at the time, so none can be called exact.</aside>
 
 ## The river
 
-The National Book Trust book says that the people of Gorakhpur took his body and carried it through the city. It says people threw money and flowers on it as it passed.
+The people of Gorakhpur took his body and carried it through the city. People threw money and flowers on it as it passed.
 
-Wikipedia says his body was taken to the river Rapti, and that a Hindu cremation was held there. The place became known as Rajghat. The Better India says that hundreds of mourners were there. We found no list of names of those who came.
+His body was taken to the river Rapti, and a Hindu cremation was held there. The place became known as Rajghat. Hundreds of mourners were there. No list of names has come down.
 
 ## A statue in Shahjahanpur
 
-Bismil was born in Shahjahanpur. A committee called the Shaheed Smarak Samiti built a memorial there, in the Khirni Bagh neighbourhood, where he was born. Wikipedia names it the Amar Shaheed Ram Prasad Bismil Smarak.
+Bismil was born in Shahjahanpur. A committee called the Shaheed Smarak Samiti built a memorial there, in the Khirni Bagh neighbourhood, where he was born. It is named the Amar Shaheed Ram Prasad Bismil Smarak.
 
 A white marble statue of him stands there. The Governor of Uttar Pradesh at the time, Motilal Vora, unveiled it on 18 December 1994.
 
@@ -49,11 +49,11 @@ A white marble statue of him stands there. The Governor of Uttar Pradesh at the 
 
 Northern Railway built a railway station named after him, Pt Ram Prasad Bismil station. It is about 11 kilometres from Shahjahanpur.
 
-The Uttar Pradesh government named a park the Amar Shaheed Pt. Ram Prasad Bismil Udyan. It stands near Rampur Jagir village. Wikipedia says this is where Bismil lived in hiding after the Mainpuri case, years before Kakori.
+The Uttar Pradesh government named a park the Amar Shaheed Pt. Ram Prasad Bismil Udyan. It stands near Rampur Jagir village. This is where Bismil lived in hiding after the Mainpuri case, years before Kakori.
 
 ## Kakori
 
-At Kakori, there is a memorial to all the men who took part in the train action. Wikipedia says Prime Minister Indira Gandhi opened it on 19 December 1983. That was the 56th anniversary of the hangings.
+At Kakori, there is a memorial to all the men who took part in the train action. Prime Minister Indira Gandhi opened it on 19 December 1983. That was the 56th anniversary of the hangings.
 
 ## A stamp
 

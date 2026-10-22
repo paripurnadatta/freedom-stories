@@ -49,39 +49,39 @@ status: published
 
 On Sunday, 13 April 1919, a crowd came into Jallianwala Bagh in Amritsar. It was the festival of Baisakhi.
 
-A local man named Om Prakash Seth, quoted by the historian V. N. Datta, remembers a "random crowd". He says some people were playing cards and others had come to enjoy the festival fair. A bookseller named Trilok Chand says plainly: "It was not a political meeting."
+A local man named Om Prakash Seth, quoted by the historian V. N. Datta, remembers a "random crowd". Some people were playing cards and others had come to enjoy the festival fair. A bookseller named Trilok Chand says plainly: "It was not a political meeting."
 
-Wikipedia gives another side of the same day. It says people had also gathered to protest the Rowlatt Act and the arrest of two leaders, Satyapal and Saifuddin Kitchlew. General Dyer had banned public meetings, but Wikipedia says the notice was not widely given out.
+There is another side of the same day. People had also gathered to protest the Rowlatt Act and the arrest of two leaders, Satyapal and Saifuddin Kitchlew. General Dyer had banned public meetings, but the notice was not widely given out.
 
-<aside class="note"><b>Rowlatt Act</b>: a law of 1919 that kept wartime limits on people's freedoms. Many Indians were angry about it.</aside>
+a law of 1919 that kept wartime limits on people's freedoms. Many Indians were angry about it.
 
 ## The firing
 
-Wikipedia says Brigadier-General Reginald Dyer ordered troops to fire on the crowd. They were from the 9th Gurkha Rifles and the 54th Sikhs. The firing lasted about ten minutes.
+Brigadier-General Reginald Dyer ordered troops to fire on the crowd. They were from the 9th Gurkha Rifles and the 54th Sikhs. The firing lasted about ten minutes.
 
-A plaque at the site says that no warning was given before the firing. Datta says it records that 1,650 rounds were fired. A local policeman, quoted by Datta, says there were no exit points. People jumped into a well. The wall has thirty-six bullet marks, Datta says, from firing by Dyer's order.
+A plaque at the site says that no warning was given before the firing. It records that 1,650 rounds were fired, says Datta. A local policeman, quoted by Datta, says there were no exit points. People jumped into a well. The wall has thirty-six bullet marks, from firing by Dyer's order.
 
-How many people died? The sources give different numbers. Wikipedia lists them: Dyer's own figure was 200 to 300. The Sewa Samiti and the Hunter Commission both counted 379 dead. The historian Datta thinks about 700. Madan Mohan Malaviya said 1,000. The Congress inquiry said about 1,000 killed and over 1,500 hurt.
+How many people died? The numbers differ. Dyer's own figure was 200 to 300. The Sewa Samiti and the Hunter Commission both counted 379 dead. The historian Datta thinks about 700. Madan Mohan Malaviya said 1,000. The Congress inquiry said about 1,000 killed and over 1,500 hurt.
 
-<aside class="note"><b>Hunter Commission</b>: a committee set up in October 1919 under Lord Hunter to inquire into the events in Punjab.</aside>
+a committee set up in October 1919 under Lord Hunter to inquire into the events in Punjab.
 
-We write these numbers without a verdict. Whatever the count, the people in the Bagh were unarmed.
+Whatever the count, the people in the Bagh were unarmed.
 
 ## The young man
 
-First, who was he? Vinay Lal says he was born Sher Singh in Sunam, in Punjab. His father worked as a railway crossing watchman, and the boy lost both parents young. We tell his early life in "Sher Singh becomes Udham Singh".
+Who was Udham Singh? Vinay Lal says he was born Sher Singh in Sunam, in Punjab. His father worked as a railway crossing watchman, and the boy lost both parents young. We tell his early life in "Sher Singh becomes Udham Singh".
 
-Udham Singh was then about twenty. Vinay Lal calls him "deeply hurt, and doubtless enraged" by the killing, and says he is thought to have sworn revenge. Twenty-one years later, in London, he killed Michael O'Dwyer, who had been the head of the Punjab government in 1919. We tell about that day in "Caxton Hall, 13 March 1940".
+He was then about twenty. Lal calls him "deeply hurt, and doubtless enraged" by the killing, and says he is thought to have sworn revenge. Twenty-one years later, in London, he killed Michael O'Dwyer, who had been the head of the Punjab government in 1919. We tell about that day in "Caxton Hall, 13 March 1940".
 
 But was he in the Bagh? Here the books do not agree.
 
 ## The story many books tell
 
-R. K. Tandon's book, published by the National Book Trust, says he saw the firing. It says his friend was killed. It says he lay on the ground and later helped the injured.
+R. K. Tandon's book, published by the National Book Trust, says he saw the firing. His friend was killed. He lay on the ground and later helped the injured.
 
 Wikipedia says that he was present, serving water to the crowd with friends from the orphanage.
 
-We looked for the evidence behind these accounts. The NBT book does not give its source for the scene. Wikipedia does not either, as far as we could see.
+Neither the book nor Wikipedia gives its source for the scene.
 
 ## The historians who doubt it
 
@@ -89,17 +89,17 @@ Kim Wagner is a historian of the massacre. He writes that "It is said that Udham
 
 V. N. Datta writes: "It is doubtful whether he was ever present in the Bagh at the time of the massacre."
 
-The Tribune goes further. It quotes Dr Navtej Singh, who wrote a book on Udham Singh, saying that Udham was abroad. The article says Navtej Singh found that he worked for the North Western Railway from 1917 to 1922. It also quotes another scholar, Malwinder Jit Singh Waraich, who gives a line from Udham Singh's own trial: "When the shooting took place… I had gone to East Africa… I wasn't in India…"
+The Tribune goes further. It quotes Dr Navtej Singh, who wrote a book on Udham Singh, saying that Udham was abroad. He found that Udham Singh worked for the North Western Railway from 1917 to 1922. The Tribune also quotes another scholar, Malwinder Jit Singh Waraich, who gives a line from Udham Singh's own trial: "When the shooting took place… I had gone to East Africa… I wasn't in India…"
 
-<aside class="note"><b>Two versions</b>: The Tribune says he was abroad in 1919 and also says he worked for the North Western Railway from 1917 to 1922. We cannot make these fit together, and we have not seen the trial record. Wikipedia says he was in Amritsar. The NBT book says he was in the Bagh. We do not choose.</aside>
+<aside class="note"><b>Two versions</b>: the Tribune says he was abroad in 1919, and also that he worked for the North Western Railway from 1917 to 1922. The two do not fit together, and the trial record was not seen. Wikipedia says he was in Amritsar. The NBT book says he was in the Bagh.</aside>
 
-Vinay Lal's article for UCLA does not say whether he was present. It also mentions a film from 2000 that shows him taking a pledge at the Golden Temple. The article calls that a dramatisation, not a record.
+Vinay Lal's article for UCLA does not say whether he was present. It mentions a film from 2000 that shows him taking a pledge at the Golden Temple. The article calls that a dramatisation, not a record.
 
 ## The brother and the sister
 
-Some sources say that his family was hurt in the massacre. The University of Bristol's South Asian Britain site says "his brother and sister were killed there". But Wikipedia and the NBT book say his brother Mukta died of illness in 1917, before the massacre. The Open magazine tells of a man who visited Udham Singh's relatives in 2011 and checked papers showing that they came from his sister, Aas Kaur. We found no record of a sister killed in the Bagh.
+Some sources say that his family was hurt in the massacre. The University of Bristol's South Asian Britain site says "his brother and sister were killed there". But Wikipedia and the NBT book say his brother Mukta died of illness in 1917, before the massacre. Open magazine tells of a man who visited Udham Singh's relatives in 2011 and checked papers showing that they came from his sister, Aas Kaur. No record of a sister killed in the Bagh was found.
 
-So we do not say that he lost a family member there.
+So this story does not say that he lost a family member there.
 
 ## Why the question matters
 
