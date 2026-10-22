@@ -33,39 +33,39 @@ Today, that jail is a place of remembrance. This story is about what people do t
 
 ## The day
 
-The Hindi Wikipedia says 17 December is a day of special note for the Gonda district government. On that day, schools and offices hold events in his honour. There are cultural programmes. The main events are held at the jail itself.
+Every 17 December is a day of special note for the Gonda district government, says the Hindi Wikipedia. Schools and offices hold events in his honour. There are cultural programmes. The main events are held at the jail itself.
 
-It says that a statue of Lahiri stands in the hanging chamber. A yagna, a Hindu ritual with a sacred fire, is held in front of it. There is a plaque with a short account of his life, and a second plaque with a poem in his memory.
+A statue of Lahiri stands in the hanging chamber. A yagna, a Hindu ritual with a sacred fire, is held in front of it. There is a plaque with a short account of his life, and a second plaque with a poem in his memory.
 
 We found this in only one source. We cannot say how long the custom has lasted.
 
 ## The first early hanging?
 
-New India Samachar says that Lahiri was hanged two days before the date that had been set. It adds that this was the first time a hanging in India had been carried out before the scheduled date.
+Lahiri was hanged two days before the date that had been set. New India Samachar adds that this was the first time a hanging in India had been carried out before the scheduled date.
 
-<aside class="note"><b>One claim</b>: We have only this one government magazine for "the first time". We did not find any record that could prove it, so we pass it on as a claim.</aside>
+<aside class="note"><b>One claim</b>: we have only this one government magazine for "the first time". We did not find any record that could prove it, so we pass it on as a claim.</aside>
 
 ## Words said to be his
 
-The Hindi Wikipedia says that before the noose, Lahiri shouted "Vande Mataram". It gives words it says he spoke. In English: "I am not dying. I am going to be born again in a free India." It says a plaque at the gallows carries this message.
+Before the noose, Lahiri shouted "Vande Mataram". The Hindi Wikipedia gives words it says he spoke. In English: "I am not dying. I am going to be born again in a free India." A plaque at the gallows carries this message, it says.
 
 The National Book Trust book gives other words. It says his last words before the hanging were "Bharat Mata ki Jai", "Long live the Hindustan Republican Army" and "Vande Mataram".
 
-<aside class="note"><b>Two versions</b>: The two accounts overlap, because both include a cry of "Vande Mataram". But they differ on the rest. Nobody wrote his words down at the time. So we cannot say which, if either, is exact.</aside>
+<aside class="note"><b>Two versions</b>: the two accounts overlap, because both include a cry of "Vande Mataram". But they differ on the rest. Nobody wrote his words down at the time. So we cannot say which, if either, is exact.</aside>
 
 ## A request about his funeral
 
-The book says that on the day before, his brother visited. Lahiri is said to have told him what he wished for his last rites. He wanted them done in the Vedic way. He wanted to say "Vande Mataram" as he was hanged, and to hear it echoed by the people outside the jail walls. Only then, he is said to have said, would he be at peace.
+On the day before, his brother visited, the book says. Lahiri is said to have told him what he wished for his last rites. He wanted them done in the Vedic way. He wanted to say "Vande Mataram" as he was hanged, and to hear it echoed by the people outside the jail walls. Only then, he is said to have said, would he be at peace.
 
 The Hindi Wikipedia, in describing the memorials, says the custom of honouring his last wish, above religious lines, goes on today.
 
-<aside class="note"><b>Handle with care</b>: The brother's visit and the words come from the book alone. We have no jail record of them.</aside>
+<aside class="note"><b>Handle with care</b>: the brother's visit and the words come from the book alone. We have no jail record of them.</aside>
 
-## What we are sure of
+## What is sure
 
-We are sure of the date and place. All four of our sources give 17 December 1927. The National Book Trust book, New India Samachar and the Hindi Wikipedia say it was at Gonda.
+The date and the place are sure. All four of our sources give 17 December 1927. The National Book Trust book, New India Samachar and the Hindi Wikipedia say it was at Gonda.
 
-We are not sure of the reason for the change of date. That story is told in "Two days early" on this site.
+The reason for the change of date is not sure. That story is told in "Two days early" on this site.
 
 ## Why it matters
 
