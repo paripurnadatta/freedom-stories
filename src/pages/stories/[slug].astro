@@ -7,6 +7,7 @@ import SubjectRow from "../../components/SubjectRow.astro";
 import MediaCarousel from "../../components/MediaCarousel.astro";
 import PageScripts from "../../components/PageScripts.astro";
 import { loadSite, hubUrl, storyUrl, minutesToRead, datesOf, type Story } from "../../lib/site";
+import { aliasesFor } from "../../lib/aliases";
 
 export async function getStaticPaths() {
   const site = await loadSite();
@@ -31,6 +32,10 @@ const { picture, painted } = site.leadPicture(story);
 const minutes = minutesToRead(story.body);
 const isFlagship = d.type === "flagship";
 const quote = d.quote ?? main.data.quote;
+// For search: other names of the people in the story, so "Netaji" finds Bose stories.
+const searchNames = [...new Set(cast.flatMap((s) => aliasesFor(s.id, s.data.aliases)))].join(", ");
+const searchImage = site.cardPicture(story)?.src ?? "";
+const searchImageIsAI = !!searchImage && searchImage === site.paintingFor(story)?.src;
 
 const tabs = [
   ["story", "Story"],
@@ -66,6 +71,14 @@ const jsonLd = {
     </ol>
 
     <header class="story-head" data-pagefind-body>
+      <meta data-pagefind-filter="kind[content]" content="Story" />
+      <meta data-pagefind-filter="length[content]" content={isFlagship ? "Flagship" : "Short"} />
+      <meta data-pagefind-meta="about[content]" content={main.data.name} />
+      <meta data-pagefind-meta="blurb[content]" content={d.subtitle} />
+      <meta data-pagefind-meta="image[content]" content={searchImage || "none"} />
+      {searchImageIsAI && <meta data-pagefind-meta="ai[content]" content="1" />}
+      {searchNames && <meta data-pagefind-meta="names[content]" content={searchNames} />}
+      {searchNames && <span hidden data-pagefind-weight="2">{searchNames}</span>}
       <div>
         <span class:list={["kind", { short: !isFlagship }]}>{isFlagship ? "Flagship story" : "Short story"}</span>
         <h1>{d.title}</h1>

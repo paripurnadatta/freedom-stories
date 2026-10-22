@@ -1,19 +1,319 @@
 ---
 import Base from "../layouts/Base.astro";
+import Icon from "../components/Icon.astro";
+const dev = import.meta.env.DEV;
 ---
 <Base title="Search: The Struggle for Freedom" description="Search every story, person, event, place and organisation." noindex>
-  <div class="page search-page">
-    <h1 style="font-size:clamp(2rem,5vw,2.8rem);font-weight:800;margin:1.5rem 0 1rem">Search</h1>
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-    <div id="search"></div>
+  <div class="page sx" data-dev={dev ? "1" : undefined}>
+    <h1>Search</h1>
+
+    <form class="sx-form" role="search" action="/search/" autocomplete="off">
+      <Icon name="search" />
+      <label class="visually-hidden" for="sx-q">Search stories, people, events, places and organisations</label>
+      <input id="sx-q" name="q" type="search" placeholder="Try a name, a place or a word" autofocus spellcheck="false" />
+      <button class="sx-clear" type="button" hidden aria-label="Clear the search">Clear</button>
+    </form>
+
+    <div class="sx-filters" hidden>
+      <div class="sx-chips" role="group" aria-label="Show results for" data-chips="kind"></div>
+      <div class="sx-chips sx-chips-sub" role="group" aria-label="Story length" data-chips="length" hidden></div>
+    </div>
+
+    <p class="sx-status" role="status" aria-live="polite"></p>
+    <p class="sx-note" hidden></p>
+    <div class="sx-did" hidden></div>
+    <div class="sx-results"></div>
+    <div class="sx-more" hidden><button type="button" class="sx-more-btn">Show more results</button></div>
+
+    <section class="sx-start">
+      <h2>Not sure what to look for?</h2>
+      <p>Try one of these, or pick a person.</p>
+      <div class="sx-try" data-try></div>
+      <ul class="sx-people" data-people></ul>
+      <p class="sx-browse">Or browse <a href="/stories/">all stories</a>, <a href="/people/">people</a>, <a href="/events/">events</a>, <a href="/places/">places</a> and <a href="/organisations/">organisations</a>.</p>
+    </section>
+
     <noscript><p>Search needs JavaScript. You can browse <a href="/stories/">all stories</a> or <a href="/people/">all people</a> instead.</p></noscript>
   </div>
-  <script is:inline src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline>
-    (function () {
-      var ui = new PagefindUI({ element: "#search", showSubResults: true, showImages: false, translations: { placeholder: "Search stories, people, events, places" } });
-      var q = new URLSearchParams(location.search).get("q");
-      if (q) ui.triggerSearch(q);
-    })();
+
+  <script is:inline type="module">
+    var root = document.querySelector(".sx");
+    var form = root.querySelector(".sx-form");
+    var input = form.querySelector("input");
+    var clearBtn = root.querySelector(".sx-clear");
+    var filtersBox = root.querySelector(".sx-filters");
+    var kindChips = root.querySelector('[data-chips="kind"]');
+    var lengthChips = root.querySelector('[data-chips="length"]');
+    var statusEl = root.querySelector(".sx-status");
+    var noteEl = root.querySelector(".sx-note");
+    var didEl = root.querySelector(".sx-did");
+    var resultsEl = root.querySelector(".sx-results");
+    var moreBox = root.querySelector(".sx-more");
+    var startEl = root.querySelector(".sx-start");
+
+    var PAGE = 12;
+    var SUBJECT_KINDS = ["Person", "Event", "Place", "Organisation"];
+    var KIND_LABEL = { all: "Everything", Story: "Stories", Person: "People", Event: "Events", Place: "Places", Organisation: "Organisations" };
+    var KIND_ORDER = ["Story", "Person", "Event", "Place", "Organisation"];
+    var TRY = ["Salt March", "Bhagat Singh", "Kakori", "Netaji", "Quit India", "Poona Pact", "Jallianwala Bagh", "Rani of Jhansi"];
+
+    var state = { q: "", kind: "all", length: "any", shown: 0, list: [], token: 0 };
+    var pf = null;       // the Pagefind search engine (exists after `npm run build`)
+    var index = null;    // the list of names, for suggestions and for preview mode
+
+    function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+    function norm(s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim(); }
+
+    function loadIndex() {
+      if (index) return Promise.resolve(index);
+      return fetch("/search-index.json").then(function (r) { return r.json(); }).catch(function () { return []; }).then(function (j) { index = j; return j; });
+    }
+    function loadPagefind() {
+      if (pf !== null) return Promise.resolve(pf);
+      return import("/pagefind/pagefind.js").then(function (m) { pf = m; return pf; }).catch(function () { pf = false; return pf; });
+    }
+
+    // ---- the page address keeps the search, so Back and sharing work -------------------
+    function readUrl() {
+      var p = new URLSearchParams(location.search);
+      state.q = (p.get("q") || "").trim();
+      state.kind = p.get("kind") || "all";
+      state.length = p.get("length") || "any";
+    }
+    function writeUrl(push) {
+      var p = new URLSearchParams();
+      if (state.q) p.set("q", state.q);
+      if (state.kind !== "all") p.set("kind", state.kind);
+      if (state.kind === "Story" && state.length !== "any") p.set("length", state.length);
+      var url = location.pathname + (p.toString() ? "?" + p : "");
+      if (url !== location.pathname + location.search) history[push ? "pushState" : "replaceState"](null, "", url);
+    }
+
+    // ---- result cards -------------------------------------------------------------------
+    function thumb(meta, big) {
+      if (!meta.image || meta.image === "none") return big ? "" : '<span class="sx-thumb none" aria-hidden="true"></span>';
+      return '<span class="sx-thumb' + (big ? " portrait" : "") + '"><img src="' + esc(meta.image) + '" alt="" loading="lazy" />' + (meta.ai ? '<span class="ai-badge">AI illustration</span>' : "") + "</span>";
+    }
+    // The hidden "other names" text can end up inside an excerpt. Skip any excerpt that shows it.
+    function showsOtherNames(html, meta) {
+      var plain = String(html || "").replace(/<[^>]+>/g, "").toLowerCase();
+      var hits = String(meta.names || "").split(",").map(function (n) { return n.trim().toLowerCase(); }).filter(function (n) { return n.length > 2 && plain.indexOf(n) !== -1; });
+      return hits.length >= 2;
+    }
+    function cleanExcerpt(data) {
+      var pool = [data.excerpt].concat((data.sub_results || []).map(function (x) { return x.excerpt; }));
+      for (var i = 0; i < pool.length; i++) if (pool[i] && !showsOtherNames(pool[i], data.meta || {})) return pool[i];
+      return "";
+    }
+    function cardFor(r) {
+      var m = r.meta || {};
+      var kind = (r.filters && r.filters.kind && r.filters.kind[0]) || "Story";
+      var isStory = kind === "Story";
+      var title = esc(m.title || r.url);
+      var blurb = isStory ? cleanExcerpt(r) : "";
+      var text = blurb ? "…" + blurb.replace(/^\s*[….]+\s*/, "") + "…" : esc(m.blurb || "");
+      var tag = isStory
+        ? (r.filters.length && r.filters.length[0] === "Flagship" ? "Flagship story" : "Short story") + (m.about ? ' <span class="who">· ' + esc(m.about) + "</span>" : "")
+        : esc(kind === "Person" ? "Person" : kind);
+      return '<a class="sx-card' + (isStory ? "" : " subject") + '" href="' + esc(r.url) + '">' + thumb(m, !isStory) +
+        '<span class="sx-body"><span class="sx-tag' + (isStory ? "" : " subj") + '">' + tag + "</span><h3>" + title + "</h3>" + (text ? "<p>" + text + "</p>" : "") + "</span></a>";
+    }
+
+    // ---- "Did you mean...?" ---------------------------------------------------------------
+    function lev(a, b, max) {
+      if (Math.abs(a.length - b.length) > max) return max + 1;
+      var prev = []; for (var j = 0; j <= b.length; j++) prev[j] = j;
+      for (var i = 1; i <= a.length; i++) {
+        var cur = [i], best = i;
+        for (var k = 1; k <= b.length; k++) { cur[k] = Math.min(prev[k] + 1, cur[k - 1] + 1, prev[k - 1] + (a[i - 1] === b[k - 1] ? 0 : 1)); if (cur[k] < best) best = cur[k]; }
+        if (best > max) return max + 1;
+        prev = cur;
+      }
+      return prev[b.length];
+    }
+    function suggest(q) {
+      return loadIndex().then(function (idx) {
+        var vocab = {};
+        idx.forEach(function (e) { [e.n].concat(e.a || []).forEach(function (t) { norm(t).split(" ").forEach(function (w) { if (w.length > 2) vocab[w] = (vocab[w] || 0) + 1; }); }); });
+        var words = norm(q).split(" ").filter(Boolean), changed = false;
+        var fixed = words.map(function (w) {
+          if (vocab[w] || w.length < 4) return w;
+          var max = w.length > 6 ? 2 : 1, best = null, bd = max + 1;
+          if (Object.keys(vocab).some(function (v) { return v.indexOf(w) === 0; })) return w; // still typing a longer name
+          Object.keys(vocab).forEach(function (v) { var d = lev(w, v, max); if (d < bd || (d === bd && best && vocab[v] > vocab[best])) { bd = d; best = v; } });
+          if (best) { changed = true; return best; }
+          return w;
+        });
+        return changed ? fixed.join(" ") : "";
+      });
+    }
+
+    // ---- filter chips ---------------------------------------------------------------------
+    function chip(group, value, label, count, on) {
+      return '<button type="button" class="sx-chip" data-group="' + group + '" data-value="' + value + '" aria-pressed="' + (on ? "true" : "false") + '">' + esc(label) + (count != null ? ' <span class="n">' + count + "</span>" : "") + "</button>";
+    }
+    function drawChips(totals, lenCounts) {
+      var total = 0, html = "";
+      KIND_ORDER.forEach(function (k) { total += totals[k] || 0; });
+      html += chip("kind", "all", KIND_LABEL.all, total, state.kind === "all");
+      KIND_ORDER.forEach(function (k) { if (totals[k]) html += chip("kind", k, KIND_LABEL[k], totals[k], state.kind === k); });
+      kindChips.innerHTML = html;
+      if (state.kind === "Story" && lenCounts) {
+        var any = (lenCounts.Flagship || 0) + (lenCounts.Short || 0);
+        lengthChips.innerHTML = chip("length", "any", "Any length", any, state.length === "any") +
+          (lenCounts.Flagship ? chip("length", "Flagship", "Big stories", lenCounts.Flagship, state.length === "Flagship") : "") +
+          (lenCounts.Short ? chip("length", "Short", "Short stories", lenCounts.Short, state.length === "Short") : "");
+        lengthChips.hidden = false;
+      } else lengthChips.hidden = true;
+      filtersBox.hidden = false;
+    }
+
+    // ---- drawing results --------------------------------------------------------------------
+    function showStart(on) { startEl.hidden = !on; }
+    function drawMore() {
+      var left = state.list.length - state.shown;
+      moreBox.hidden = left <= 0;
+      if (left > 0) moreBox.querySelector("button").textContent = "Show more (" + left + " left)";
+    }
+    function runPagefind(q, my) {
+      // One quick search per kind gives the counts on the filter buttons.
+      var perKind = KIND_ORDER.map(function (k) { return pf.search(q, { filters: { kind: [k] } }); });
+      var subj = state.kind === "all" ? pf.search(q, { filters: { any: SUBJECT_KINDS.map(function (k) { return { kind: k }; }) } }) : null;
+      var lengthF = state.kind === "Story" && state.length !== "any" ? { length: [state.length] } : {};
+      var lenSearch = state.kind === "Story" ? Promise.all(["Flagship", "Short"].map(function (l) { return pf.search(q, { filters: { kind: ["Story"], length: [l] } }); })) : Promise.resolve(null);
+      var main = state.kind === "all"
+        ? perKind[0]
+        : pf.search(q, { filters: Object.assign({ kind: [state.kind] }, lengthF) });
+      return Promise.all([Promise.all(perKind), subj, main, lenSearch]).then(function (res) {
+        if (my !== state.token) return;
+        var totals = {}, all = 0;
+        KIND_ORDER.forEach(function (k, i) { totals[k] = res[0][i].results.length; all += totals[k]; });
+        var lenCounts = res[3] ? { Flagship: res[3][0].results.length, Short: res[3][1].results.length } : null;
+        drawChips(totals, lenCounts);
+        resultsEl.innerHTML = "";
+        didEl.hidden = true;
+        if (!all) return none(q, my);
+        var subjectRows = res[1] ? res[1].results.slice(0, 4) : [];
+        return Promise.all(subjectRows.map(function (r) { return r.data(); })).then(function (rows) {
+          if (my !== state.token) return;
+          if (rows.length) resultsEl.insertAdjacentHTML("beforeend", '<h2 class="sx-h">People, events and places</h2><div class="sx-subjects">' + rows.map(cardFor).join("") + "</div>");
+          if (state.kind === "all" && res[2].results.length) resultsEl.insertAdjacentHTML("beforeend", '<h2 class="sx-h">Stories</h2><div class="sx-list"></div>');
+          state.list = res[2].results; state.shown = 0;
+          var target = resultsEl.querySelector(".sx-list");
+          if (!target) { resultsEl.insertAdjacentHTML("beforeend", '<div class="sx-list"></div>'); target = resultsEl.querySelector(".sx-list"); }
+          var count = state.kind === "all" ? all : res[2].results.length;
+          statusEl.textContent = count + (count === 1 ? " result" : " results") + " for \u201c" + q + "\u201d";
+          // Few results: the spelling may be off, so offer the nearest name.
+          if (all <= 3) suggest(q).then(function (fix) { if (my === state.token && fix) { didEl.innerHTML = 'Did you mean <a href="/search/?q=' + encodeURIComponent(fix) + '" data-q="' + esc(fix) + '">' + esc(fix) + "</a>?"; didEl.hidden = false; } });
+          var rowsP = state.list.slice(0, PAGE);
+          return Promise.all(rowsP.map(function (r) { return r.data(); })).then(function (rows2) {
+            if (my !== state.token) return;
+            target.innerHTML = rows2.map(cardFor).join("");
+            state.shown = rowsP.length; state.target = target; drawMore();
+          });
+        });
+      });
+    }
+    // "Show more" appends into the story list
+    moreBox.querySelector("button").addEventListener("click", function () {
+      var my = state.token, slice = state.list.slice(state.shown, state.shown + PAGE);
+      Promise.all(slice.map(function (r) { return r.data(); })).then(function (rows) {
+        if (my !== state.token) return;
+        (state.target || resultsEl).insertAdjacentHTML("beforeend", rows.map(cardFor).join(""));
+        state.shown += slice.length; drawMore();
+      });
+    });
+
+    // Preview mode (npm run dev): no full-text index yet, so match names, other names and story titles.
+    function runPreview(q, my) {
+      return loadIndex().then(function (idx) {
+        if (my !== state.token) return;
+        var words = norm(q).split(" ").filter(Boolean);
+        var hits = idx.filter(function (e) {
+          var hay = norm([e.n, e.s].concat(e.a || []).join(" "));
+          return words.every(function (w) { return hay.indexOf(w) !== -1; });
+        });
+        var totals = {};
+        hits.forEach(function (e) { var k = e.k === "story" ? "Story" : e.k.charAt(0).toUpperCase() + e.k.slice(1); totals[k] = (totals[k] || 0) + 1; });
+        drawChips(totals, null);
+        resultsEl.innerHTML = ""; didEl.hidden = true;
+        if (!hits.length) return none(q, my);
+        var shown = hits.filter(function (e) {
+          var k = e.k === "story" ? "Story" : e.k.charAt(0).toUpperCase() + e.k.slice(1);
+          return state.kind === "all" || state.kind === k;
+        });
+        resultsEl.innerHTML = '<div class="sx-list">' + shown.map(function (e) {
+          var k = e.k === "story" ? "Story" : e.k.charAt(0).toUpperCase() + e.k.slice(1);
+          return cardFor({ url: e.u, meta: { title: e.n, image: e.i, ai: e.p, blurb: e.s, about: e.k === "story" ? e.s : "" }, filters: { kind: [k], length: [] }, excerpt: "" });
+        }).join("") + "</div>";
+        statusEl.textContent = shown.length + (shown.length === 1 ? " result" : " results") + " for “" + q + "”";
+        moreBox.hidden = true;
+      });
+    }
+
+    function none(q, my) {
+      statusEl.textContent = "Nothing found for “" + q + "”.";
+      filtersBox.hidden = true;
+      moreBox.hidden = true;
+      return suggest(q).then(function (fix) {
+        if (my !== state.token) return;
+        if (fix) didEl.innerHTML = 'Did you mean <a href="/search/?q=' + encodeURIComponent(fix) + '" data-q="' + esc(fix) + '">' + esc(fix) + "</a>?";
+        didEl.hidden = !fix;
+        showStart(true);
+      });
+    }
+
+    function search() {
+      var q = state.q, my = ++state.token;
+      input.value = q;
+      clearBtn.hidden = !q;
+      noteEl.hidden = true;
+      if (!q) {
+        resultsEl.innerHTML = ""; statusEl.textContent = ""; filtersBox.hidden = true; moreBox.hidden = true; didEl.hidden = true;
+        showStart(true);
+        return;
+      }
+      showStart(false);
+      statusEl.textContent = "Searching…";
+      loadPagefind().then(function (engine) {
+        if (my !== state.token) return;
+        if (engine) return runPagefind(q, my);
+        if (root.dataset.dev) { noteEl.textContent = "Preview mode: this searches names and story titles only. Run npm run build and npm run preview for full-text search."; noteEl.hidden = false; }
+        else { noteEl.textContent = "Full-text search is not available right now, so this shows matching names and titles."; noteEl.hidden = false; }
+        return runPreview(q, my);
+      });
+    }
+
+    // ---- start screen ---------------------------------------------------------------------
+    document.querySelector("[data-try]").innerHTML = TRY.map(function (t) { return '<a class="sx-chip" href="/search/?q=' + encodeURIComponent(t) + '" data-q="' + esc(t) + '">' + esc(t) + "</a>"; }).join("");
+    loadIndex().then(function (idx) {
+      var people = idx.filter(function (e) { return e.k === "person"; }).slice(0, 12);
+      document.querySelector("[data-people]").innerHTML = people.map(function (e) {
+        return '<li><a href="' + esc(e.u) + '">' + (e.i ? '<img src="' + esc(e.i) + '" alt="" loading="lazy" />' : '<span class="ph"></span>') + "<span>" + esc(e.n) + "</span></a></li>";
+      }).join("");
+    });
+
+    // ---- events ----------------------------------------------------------------------------
+    var timer;
+    input.addEventListener("input", function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () { state.q = input.value.trim(); state.kind = "all"; state.length = "any"; writeUrl(false); search(); }, 180);
+    });
+    form.addEventListener("submit", function (e) { e.preventDefault(); clearTimeout(timer); state.q = input.value.trim(); writeUrl(true); search(); });
+    clearBtn.addEventListener("click", function () { state.q = ""; state.kind = "all"; state.length = "any"; writeUrl(true); search(); input.focus(); });
+    root.addEventListener("click", function (e) {
+      var c = e.target.closest(".sx-chip[data-group]");
+      if (c) {
+        if (c.dataset.group === "kind") { state.kind = c.dataset.value; state.length = "any"; }
+        else state.length = c.dataset.value;
+        writeUrl(false); search(); return;
+      }
+      var a = e.target.closest("a[data-q]");
+      if (a) { e.preventDefault(); state.q = a.dataset.q; state.kind = "all"; state.length = "any"; writeUrl(true); search(); }
+    });
+    window.addEventListener("popstate", function () { readUrl(); search(); });
+
+    readUrl();
+    search();
   </script>
 </Base>

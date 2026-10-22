@@ -7,6 +7,7 @@ import MediaItem from "./MediaItem.astro";
 import PageScripts from "./PageScripts.astro";
 import { loadSite, datesOf, KINDS, type Subject } from "../lib/site";
 import { formatDate } from "../lib/years";
+import { aliasesFor } from "../lib/aliases";
 
 interface Props { subject: Subject }
 const { subject } = Astro.props;
@@ -26,6 +27,7 @@ const connections = {
   groups: related.filter((s) => s.data.kind === "organisation"),
 };
 const dates = datesOf(subject);
+const otherNames = aliasesFor(subject.id, d.aliases).join(", ");
 
 const facts = ({
   person: [["Born", formatDate(d.born)], ["Died", formatDate(d.died)], ["From", d.region], ["Known as", d.role ?? ""]],
@@ -62,7 +64,12 @@ const jsonLd = d.kind === "person"
       <li aria-current="page">{d.name}</li>
     </ol>
 
-    <header class="subject-head" data-pagefind-body>
+    <header class="subject-head" data-pagefind-body={hasStories ? "" : undefined}>
+      <meta data-pagefind-filter="kind[content]" content={kind.one} />
+      <meta data-pagefind-meta="about[content]" content={kind.one} />
+      <meta data-pagefind-meta="blurb[content]" content={d.summary} />
+      <meta data-pagefind-meta="image[content]" content={d.image?.src ?? "none"} />
+      {otherNames && <span hidden data-pagefind-weight="8">{otherNames}</span>}
       <div>
         <span class="kind">{d.role ?? kind.one}</span>
         <h1>{d.name}</h1>

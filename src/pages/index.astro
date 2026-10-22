@@ -34,7 +34,7 @@ const tiles = [
         <form class="search-box" action="/search/" role="search">
           <Icon name="search" />
           <label class="visually-hidden" for="q-hero">Search stories, people, events and places</label>
-          <input id="q-hero" name="q" type="search" placeholder="Search stories, people, events, places" />
+          <input id="q-hero" name="q" type="search" placeholder="Search stories, people, events, places" data-suggest autocomplete="off" />
         </form>
       </div>
       <figure class:list={["hero-art", { archive: !painted }]}>

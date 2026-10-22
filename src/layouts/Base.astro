@@ -83,7 +83,7 @@ const nav = [
           <form class="search-box in-header" action="/search/" role="search">
             <Icon name="search" />
             <label class="visually-hidden" for="q-header">Search stories, people, events and places</label>
-            <input id="q-header" name="q" type="search" placeholder="Search stories, people, places" />
+            <input id="q-header" name="q" type="search" placeholder="Search stories, people, places" data-suggest autocomplete="off" />
           </form>
           <a class="icon-button search-link" href="/search/" aria-label="Search"><Icon name="search" /></a>
           <button class="icon-button" type="button" data-theme-toggle aria-label="Switch to night reading">
@@ -125,6 +125,77 @@ const nav = [
       </div>
     </footer>
 
+    <script is:inline>
+      // Instant suggestions under any search box marked data-suggest: names first, then stories.
+      (function () {
+        var inputs = document.querySelectorAll("input[data-suggest]");
+        if (!inputs.length) return;
+        var data = null, loading = null;
+        function load() {
+          if (data) return Promise.resolve(data);
+          loading = loading || fetch("/search-index.json").then(function (r) { return r.json(); }).then(function (j) { data = j; return j; }).catch(function () { data = []; return data; });
+          return loading;
+        }
+        function norm(s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim(); }
+        function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+        function score(e, q, words) {
+          var names = [e.n].concat(e.a || []).map(norm), best = 0;
+          names.forEach(function (n) {
+            if (n === q) best = Math.max(best, 100);
+            else if (n.indexOf(q) === 0) best = Math.max(best, 80);
+            else if (n.split(" ").some(function (w) { return w.indexOf(q) === 0; })) best = Math.max(best, 60);
+            else if (words.every(function (w) { return n.indexOf(w) !== -1; })) best = Math.max(best, 40);
+          });
+          if (!best && words.every(function (w) { return norm(e.s).indexOf(w) !== -1 || norm(e.n).indexOf(w) !== -1; })) best = 20;
+          return best;
+        }
+        inputs.forEach(function (input) {
+          var box = input.closest(".search-box") || input.parentElement;
+          var list = document.createElement("ul");
+          list.className = "suggest"; list.hidden = true; list.setAttribute("role", "listbox");
+          list.id = "suggest-" + input.id;
+          box.appendChild(list);
+          input.setAttribute("role", "combobox"); input.setAttribute("aria-expanded", "false"); input.setAttribute("aria-controls", list.id); input.setAttribute("aria-autocomplete", "list");
+          var active = -1;
+          function close() { list.hidden = true; input.setAttribute("aria-expanded", "false"); active = -1; }
+          function mark() {
+            Array.prototype.forEach.call(list.children, function (li, i) { li.setAttribute("aria-selected", i === active ? "true" : "false"); });
+          }
+          function render(q) {
+            var nq = norm(q), words = nq.split(" ").filter(Boolean);
+            if (nq.length < 2) return close();
+            load().then(function (idx) {
+              if (norm(input.value) !== nq) return;
+              var hits = idx.map(function (e) { return { e: e, s: score(e, nq, words) }; }).filter(function (x) { return x.s > 0; });
+              hits.sort(function (a, b) { return b.s - a.s || (a.e.k === "story") - (b.e.k === "story"); });
+              var subj = hits.filter(function (x) { return x.e.k !== "story"; }).slice(0, 3);
+              var stor = hits.filter(function (x) { return x.e.k === "story"; }).slice(0, 6 - subj.length);
+              var rows = subj.concat(stor);
+              if (!rows.length) return close();
+              list.innerHTML = rows.map(function (x) {
+                var e = x.e, isStory = e.k === "story";
+                var thumb = e.i ? '<span class="sg-thumb' + (isStory ? "" : " round") + '"><img src="' + esc(e.i) + '" alt="" loading="lazy" />' + (e.p ? '<span class="sg-ai">AI</span>' : "") + "</span>" : '<span class="sg-thumb' + (isStory ? "" : " round") + '"></span>';
+                var sub = isStory ? "Story" + (e.s ? " \u00b7 " + esc(e.s) : "") : esc(e.s);
+                return '<li role="option" aria-selected="false"><a href="' + esc(e.u) + '">' + thumb + '<span><span class="sg-t">' + esc(e.n) + '</span><span class="sg-s">' + sub + "</span></span></a></li>";
+              }).join("") + '<li class="sg-all" role="option"><a href="/search/?q=' + encodeURIComponent(q.trim()) + '">See all results for \u201c' + esc(q.trim()) + "\u201d</a></li>";
+              list.hidden = false; input.setAttribute("aria-expanded", "true"); active = -1;
+            });
+          }
+          input.addEventListener("focus", load);
+          input.addEventListener("input", function () { render(input.value); });
+          input.addEventListener("keydown", function (e) {
+            if (list.hidden) return;
+            var n = list.children.length;
+            if (e.key === "ArrowDown") { e.preventDefault(); active = (active + 1) % n; mark(); }
+            else if (e.key === "ArrowUp") { e.preventDefault(); active = (active - 1 + n) % n; mark(); }
+            else if (e.key === "Escape") { close(); }
+            else if (e.key === "Enter" && active >= 0) { e.preventDefault(); var a = list.children[active].querySelector("a"); if (a) location.href = a.href; }
+          });
+          document.addEventListener("click", function (e) { if (!box.contains(e.target)) close(); });
+          input.form && input.form.addEventListener("submit", close);
+        });
+      })();
+    </script>
     <script is:inline>
       (function () {
         var root = document.documentElement;
