@@ -151,6 +151,7 @@ which ones should be redone and why.
 | Rani Lakshmibai | 7 (2 flagship) | no prompts yet |
 | Bal Gangadhar Tilak | 9 (2 flagship) | no prompts yet; no portrait |
 | Lala Lajpat Rai | 7 (2 flagship) | no prompts yet |
+| Sarojini Naidu | 7 (2 flagship) | no prompts yet |
 | Shivaram Rajguru | 6 (2 flagship) | 2 prompts waiting |
 | Durga Bhabhi | 6 (2 flagship) | 5 prompts waiting |
 | Rajendra Lahiri | 6 (2 flagship) | 4 prompts waiting |
