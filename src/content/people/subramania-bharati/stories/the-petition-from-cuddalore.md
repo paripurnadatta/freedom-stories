@@ -30,62 +30,66 @@ status: published
 
 In November 1918 the First World War had just ended. A man walked from the French town of Pondicherry toward the village of his birth in the south, in the Tinnevelly district. He had not seen British India for about ten years.
 
-He did not get far. TamilNation says he was arrested at Cuddalore. Wikipedia says he was arrested on entering British India near that town. The PIB says "promptly arrested".
+He did not get far. He was arrested at Cuddalore, soon after he entered British India.
 
 The man was Subramania Bharati.
 
 ## Ten years of waiting
 
-Why would a poet in Pondicherry worry the British? The PIB gives one reason. It says that from Pondicherry he encouraged Tamil young people toward nationalism, and that this angered the British authorities. The papers he printed there, India and Vijaya, were banned in British India in 1909, says Wikipedia.
+Why would a poet in Pondicherry worry the British? From Pondicherry he had encouraged Tamil young people toward nationalism, and that angered the British authorities. The papers he printed there, India and Vijaya, were banned in British India in 1909.
 
-Bharati had left Madras in 1908 after a warrant was issued for the editor of the weekly India. The PIB says he spent about ten years in Pondicherry, and the Puducherry museum says 1908 to 1918. We tell about those years in "Ten years across the border".
+Bharati had left Madras in 1908 after a warrant was issued for the editor of the weekly India. He spent about ten years in Pondicherry. We tell about those years in "Ten years across the border".
 
-The war was a difficult time for people like him. TamilNation's page gives his own account in the petition he wrote later. He says that during the war an official of the police's CID, a Deputy Inspector General, offered him a deal. He could live in British India, but he would be kept in two districts. Bharati refused. The petition says he did so because he had "absolutely renounced politics".
+The war was a difficult time for people like him. In the petition he wrote later, he gave his own account. During the war an official of the police's CID, a Deputy Inspector General, offered him a deal. He could live in British India, but he would be kept in two districts. Bharati refused. The petition says he did so because he had "absolutely renounced politics".
 
-<aside class="note"><b>Internment</b>: being made to live in a fixed place, under watch, without being put in prison.</aside>
+being made to live in a fixed place, under watch, without being put in prison.
 
-DT Next adds another thing. It says that during the exile his wife, Chellamma, took the children to her parents' house and gave him an ultimatum to return to British India. We do not know how much this had to do with his decision. The article does not say.
+There was another pressure. During the exile his wife, Chellamma, took the children to her parents' house and told him to return to British India. How much this had to do with his decision, no one has written.
 
 ## In jail
 
-Wikipedia says that he was held from 20 November to 14 December 1918. TamilNation gives the same dates. Madras Musings says he was in the Cuddalore jail for 25 days.
+He was held from 20 November to 14 December 1918, about 25 days, in the jail at Cuddalore. In prison he wrote poems on freedom and nationalism. The poems have not survived.
 
-<aside class="note"><b>Two versions</b>: TamilNation's page calls the place the Central Prison at Cuddalore in one place, and the District Jail in the heading of the petition. We do not know which name is right.</aside>
-
-The PIB says he wrote poems on freedom and nationalism in prison. We do not have the poems.
+the petition's heading calls the place the District Jail, while another page calls it the Central Prison at Cuddalore.
 
 ## The petition
 
-On 28 November 1918 he wrote to the Governor of Madras, Lord Pentland. The text is reproduced on TamilNation. It is from there that we take the quotes. We have not seen the original in the government's files.
+On 28 November 1918 he wrote to the Governor of Madras, Lord Pentland. The text is printed on the TamilNation website, and the quotes here are taken from it.
 
 First he complained about prison. He wrote that the conditions were "altogether disagreeable to a man of my birth and status and full of dangerous possibilities to my health."
 
-Then he explained why he had come. He said that after the war ended he left Pondicherry, "honestly believing that there would be absolutely no difficulty" in settling in British India.
+Then he explained why he had come. After the war ended he left Pondicherry, "honestly believing that there would be absolutely no difficulty" in settling in British India.
 
 Then came the lines that many readers find hard. He wrote: "I have renounced every form of politics, I shall ever be loyal to british Government and law abiding." And he begged to be set free at once.
 
 ## How to read it
 
-A letter from a prisoner is not like a letter from a free man. He wanted to go out of prison. He had a family. In the petition he says he had refused the earlier offer because he had already given up politics. We have only his word for that.
+A letter from a prisoner is not like a letter from a free man. He wanted to go out of prison. He had a family. In the petition he says he had refused the earlier offer because he had already given up politics. That is his word alone.
 
-Two readings are possible. One says that this was a poet who gave in. The other says that this was a man who used the words that the government wanted, to get his freedom and keep writing. We cannot know which is right. A document like this does not tell us what a man really believed. It tells us what he said to a governor when he was in a cell.
+Two readings are possible. One says that this was a poet who gave in. The other says that this was a man who used the words that the government wanted, to get his freedom and keep writing. A document like this does not tell us what a man really believed. It tells us what he said to a governor when he was in a cell.
 
-The poems are the other half of the evidence. They tell us what he wrote in his own time and with his own pen. People can read his poems and the petition side by side and ask questions. That is a better way to treat a person than a one-word verdict.
+The poems are the other half of the evidence. They show what he wrote in his own time and with his own pen. People can read his poems and the petition side by side and ask questions. That is a better way to treat a person than a one-word verdict.
 
 ## How he got out
 
-TamilNation says that he was released only after he was "prevailed upon to give an undertaking" to the government that he would give up all political activity. Wikipedia says that Annie Besant and C. P. Ramaswamy Aiyar helped to get him released.
+He was released after he agreed to give the government an undertaking that he would give up all political activity. Annie Besant and C. P. Ramaswamy Aiyar helped to get him released.
 
-These are not opposites. A person's friends might have asked the government to release him, and the government might have asked for a promise. But our sources do not link the two, so we only put them side by side.
+the promise and the friends are given as separate reasons for his release. They need not be opposites. Friends may have asked the government to let him go, and the government may have asked for a promise in return. No page we found links the two.
 
 ## After the jail
 
-The PIB says that he met Mahatma Gandhi in 1919, at Rajaji's home in Madras. We do not have an account of what they said.
+In 1919 he met Mahatma Gandhi at Rajaji's home in Madras. No account says what they said.
 
-Wikipedia says that he began to edit Swadesamitran in Madras again in 1920. The General Amnesty Order of 1920, says TamilNation, later removed the limits on where he could go.
+In 1920 he began to edit Swadesamitran in Madras again. The General Amnesty Order of 1920 later removed the limits on where he could go.
 
-He lived about three more years. Wikipedia says that his last speech was given at the Karungalpalayam Library in Erode, and that its subject was "Man is Immortal". Madras Musings notes that his writing was wide: poems on patriotism, devotion and right conduct, journalism, short stories and an unfinished novel about the remarriage of widows. The jail petition is only one page in a long record.
+He lived about three more years. His last speech was given at the Karungalpalayam Library in Erode, and its subject was "Man is Immortal". His writing was wide: poems on patriotism, devotion and right conduct, journalism, short stories and an unfinished novel about the remarriage of widows. The jail petition is only one page in a long record.
+
+## What is not known
+
+The petition is read here from a printed copy. The original in the government's files was not seen. The poems he wrote in the jail have not survived, so we cannot compare them with the petition. No letter says what Chellamma wrote to him, or what he felt when he read it. No record says what Gandhi and Bharati talked about in 1919.
+
+What remains is a short letter of a few lines, a list of dates, and a great many poems. Each one tells part of the story, and none of them tells all of it.
 
 ## Why it matters
 
-Bharati is remembered today as a poet of courage. This story is a reminder that a hero can also be a husband and father, short of money, and that he may write a letter that is hard to read. We need not hide it. The honest thing is to tell what the document says, what we do not know, and to let readers decide what they feel.
+Bharati is remembered today as a poet of courage. This story is a reminder that a hero can also be a husband and father, short of money, and that he may write a letter that is hard to read. We need not hide it. The honest thing is to tell what the document says and let readers decide what they feel.

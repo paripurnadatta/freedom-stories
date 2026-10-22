@@ -33,55 +33,53 @@ sources:
 status: published
 ---
 
-On 12 July 1906, a leader in Calcutta wrote a letter to a man in London. The letter asked him to lead the Indian National Congress that December. It also carried a warning.
-
-Dinyar Patel's timeline gives the sender as Surendranath Banerjea. It says he warned that the moderate and radical groups in the Congress would probably split unless the man said yes.
+On 12 July 1906, a leader in Calcutta wrote a letter to a man in London. Surendranath Banerjea asked him to lead the Indian National Congress that December. The letter carried a warning. The moderate and radical groups in the Congress would probably split unless the man said yes.
 
 The man in London was Dadabhai Naoroji. He was eighty-one years old.
 
-<aside class="note"><b>Moderates and radicals</b>: two groups inside the Congress. Moderates wanted change step by step, by asking and arguing. Radicals, who were also called extremists in those days, wanted stronger action, such as boycotting British goods.</aside>
+two groups inside the Congress. Moderates wanted change step by step, by asking and arguing. Radicals, who were also called extremists in those days, wanted stronger action, such as boycotting British goods.
 
 ## Why him?
 
-Naoroji was respected by both sides. GKToday calls him "the Grand Oldman of India". Wikipedia says that the more assertive nationalists did not oppose his name. So a split was avoided for the time being.
+Naoroji was respected by both sides. People called him "the Grand Old Man of India". Even the more assertive nationalists did not oppose his name. So a split was avoided for the time being.
 
-Patel's timeline shows that the invitation was not a surprise to him. On 29 November 1884, he had spoken in public about self-government for India. That was twenty-two years before Calcutta.
+The invitation did not surprise him. On 29 November 1884, twenty-two years before Calcutta, he had spoken in public about self-government for India.
 
-It was not his first time in the chair. Wikipedia says he was president of the Congress in 1886, in 1893 and again in 1906. Patel's timeline adds that he presided at Lahore from 27 to 30 December 1893, after arriving there on 25 December. So he knew the work well. Few people in the Congress had served it for so long.
+It was not his first time in the chair. He had been president of the Congress in 1886 and in 1893. At Lahore in 1893 he presided from 27 to 30 December, after arriving there on 25 December. Few people in the Congress had served it for so long.
 
 ## Two meetings with Gandhi
 
-Before he left London, Naoroji did one more thing. Patel says that on 8 November 1906 he went with Mohandas Gandhi to a meeting with Lord Elgin, who was in charge of the colonies. On 22 November he went with Gandhi again, this time to meet John Morley, the Secretary of State for India.
+Before he left London, Naoroji did one more thing. On 8 November 1906 he went with Mohandas Gandhi to a meeting with Lord Elgin, who was in charge of the colonies. On 22 November he went with Gandhi again, this time to meet John Morley, the Secretary of State for India.
 
-Our sources do not say what was said at either meeting.
+No record we found says what was said at either meeting.
 
-On 13 November the Congress reception committee in Calcutta invited him, and the vote was unanimous. On 29 November he left London for Bombay.
+On 13 November the Congress reception committee in Calcutta formally invited him, and the vote was unanimous. On 29 November he left London for Bombay.
 
 ## Bombay and Calcutta
 
-He reached Bombay on 14 December. Patel says he was greeted with a procession through the city. Then he travelled to Calcutta. He was the president of the Congress from 26 to 29 December.
+He reached Bombay on 14 December and was greeted with a procession through the city. Then he travelled to Calcutta. He was president of the Congress from 26 to 29 December.
 
-On 26 December he gave his presidential address. Patel's timeline says he called for swaraj. The word means self-rule: Indians ruling India's own affairs.
-
-We have not read the address itself. So we do not quote his words. We only tell what the timeline and the newspapers of the time say about it.
+On 26 December he gave his presidential address. He called for swaraj. The word means self-rule: Indians ruling India's own affairs.
 
 ## What the session decided
 
-GKToday lists four resolutions at this session. They were about the partition of Bengal, self-government, swadeshi and boycott.
+The session passed four resolutions. They were about the partition of Bengal, self-government, swadeshi and boycott.
 
-<aside class="note"><b>Swadeshi and boycott</b>: swadeshi means using goods made in your own country. Boycott means refusing to buy or use something, in this case British goods, as a protest.</aside>
+swadeshi means using goods made in your own country. Boycott means refusing to buy or use something, in this case British goods, as a protest.
 
-On self-government, GKToday says the moderates "toned down the resolution". It says self-government was now explained as the kind that the self-governing British colonies already had. GKToday says this changed "the whole meaning of Swaraj of the extremists".
+On self-government, the moderates "toned down the resolution". Self-government was now explained as the kind that the self-governing British colonies already had. That changed "the whole meaning of Swaraj of the extremists", as one history site puts it.
 
-GKToday also says that the extremists wanted the boycott to spread over all India. It names Lala Lajpat Rai, Bal Gangadhar Tilak and Bipin Chandra Pal as their leaders. It says the moderates accepted the resolutions "with half heart". And it says the Congress was "now bound to split". That last line is the view of one website. It is not a fact in the way a date is.
+The extremists wanted the boycott to spread over all India. Their leaders were Lala Lajpat Rai, Bal Gangadhar Tilak and Bipin Chandra Pal. The moderates accepted the resolutions "with half heart".
+
+the same website says the Congress was "now bound to split". That is the opinion of one writer, not a fact in the way a date is. The Congress did not break at Calcutta.
 
 ## What people said
 
-The newspapers did not agree about him. Patel has collected some of them.
+The newspapers did not agree about him. Dinyar Patel's timeline has collected some of them.
 
 The Mahratta, on 30 December, said that "the burden of his song was Swaraj". The Kesari wrote on 1 January 1907 that the Congress was "entering upon an era of plain speaking".
 
-The Vihari was harsher. On 31 December it called the proceedings "insipid, meaningless and timid". It also used the word "mendicancy", which means living by begging. The word was a sharp one for a Congress that kept asking the government for things.
+The Vihari was harsher. On 31 December it called the proceedings "insipid, meaningless and timid". It also used the word "mendicancy", which means living by begging. It was a sharp word for a Congress that kept asking the government for things.
 
 Another paper, the Kaiser-i-Hind, was warmer. On 20 January 1907 it said that he had "steered the bark of the Congress clear of the shoals". A shoal is a shallow place where a boat can get stuck.
 
@@ -91,17 +89,19 @@ So one old man received three kinds of answers. Some said he was too bold. Some 
 
 ## After Calcutta
 
-Patel's timeline says Naoroji left Bombay for London on 19 January 1907 and returned there on 8 February. He had hoped to keep up his political work in the capital of the empire.
+Naoroji left Bombay for London on 19 January 1907 and got there on 8 February. He had hoped to keep up his political work in the capital of the empire.
 
 His health failed. In early October 1907, after months of illness, he decided to go back to India for good. He reached Bombay on 7 November and began his retirement at Versova.
 
 ## Did he hold it together?
 
-The question is fair, because the Congress was at risk before he came.
+For that session, yes. The Congress was at risk of breaking before he came, and it did not break at Calcutta. Some historians believe that the quarrel was only put off. The split between moderates and radicals did come, though not in 1906.
 
-For that session, yes. The Congress did not break at Calcutta. But GKToday believes that the quarrel was only put off.
+The Congress had asked an old man to be the bridge between two groups. He did it for four days.
 
-We cannot weigh this properly from the pages we opened. We did not read the address or the proceedings. We can say what the sources say. The Congress asked an old man to be the bridge between two groups. He did it for four days.
+## What is not known
+
+The full text of the address is not quoted here, because the pages used for this story only describe it. The timeline says he called for swaraj. The newspapers of the time quote only a few of his words. We know the day he spoke, the word he chose and how the papers received it. We do not have a record of how the hall sounded when he said it.
 
 ## Why it matters
 

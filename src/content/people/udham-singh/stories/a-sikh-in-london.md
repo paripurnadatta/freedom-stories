@@ -31,38 +31,40 @@ sources:
 status: published
 ---
 
-Imagine arriving in London in the 1930s with no regular job and a name that is not quite your own. This is how the sources describe Udham Singh's years in Britain.
+Imagine arriving in London in the 1930s with no regular job and a name that is not quite your own. That was Udham Singh's life in Britain.
 
 ## How he got there
 
-South Asian Britain says he got a passport and made his way to London in 1934. It says he claimed to have been a sports outfitter in India. Wikipedia also gives 1934.
+He got a passport and made his way to London in 1934. He claimed to have been a sports outfitter in India.
 
-<aside class="note"><b>Two versions</b>: Vinay Lal says he went to London in 1933 and then spent about three years travelling in Europe. The NBT book says he got a passport for England in 1933 under a false name and went by Paris and Switzerland. South Asian Britain and Wikipedia say 1934. We do not choose.</aside>
+<aside class="note"><b>Two versions</b>: Vinay Lal says he went to London in 1933 and then spent about three years travelling in Europe. The NBT book says he got a passport for England in 1933 under a false name and went by Paris and Switzerland. Wikipedia and South Asian Britain say 1934.</aside>
 
-Several names go with him. South Asian Britain lists Sher Singh, Udhan Singh, Ude Singh, Frank Brazil and Mohamed Singh Azad. Lal adds that police records say he later called himself Azad Singh.
+Several names go with him. He was Sher Singh, Udhan Singh, Ude Singh, Frank Brazil and Mohamed Singh Azad. Police records say he later called himself Azad Singh.
 
 ## Making a living
 
-South Asian Britain says he settled in Canterbury, could not find work, and may have worked as a pedlar. A pedlar is a person who sells small goods from door to door.
+He settled in Canterbury and could not find work. He may have worked as a pedlar, a person who sells small goods from door to door.
 
-It says that in 1937 he appeared as an extra in crowd scenes at the Denham studios of the film maker Alexander Korda. An extra is a person who stands in the background of a film.
+In 1937 he appeared as an extra in crowd scenes at the Denham studios of the film maker Alexander Korda. An extra is a person who stands in the background of a film.
 
-In 1938, says the same source, he worked as a carpenter at an RAF station. Then he was out of work again.
+In 1938 he worked as a carpenter at an RAF station. Then he was out of work again.
 
-Wikipedia says that he joined the Indian Workers' Association in Coventry. We found this only on Wikipedia.
+He is also said to have joined the Indian Workers' Association in Coventry. Only one source says so.
+
+His years in Britain took him to several places. Canterbury, Denham, an RAF station and Coventry are all named in the accounts of these years.
 
 ## Two photographs
 
-Commons has two photographs that it says show Udham Singh in these years. One is the group photograph above, from 1937. Commons says he is "standing at the top". Another, which Commons dates to about 1938, shows a man rolling dough to make roti. Commons says it lay in a London photo archive for years, catalogued only as "Sikh".
+Wikimedia Commons has two photographs that it says show Udham Singh in these years. One is the group photograph from 1937. Commons says he is "standing at the top". Another, which Commons dates to about 1938, shows a man rolling dough to make roti. It lay in a London photo archive for years, catalogued only as "Sikh".
 
-We have no second source that names him in either picture, so we do not draw anything from them. We show one of them because the Gurdwara in Shepherd's Bush was a place where Sikhs of London met, and the photograph shows what such a day looked like.
+<aside class="note"><b>Not proved</b>: no second source names him in either picture. They are shown because the gurdwara in Shepherd's Bush was a place where Sikhs of London met, and the photographs show what such a day looked like.</aside>
 
 ## What he planned
 
-The South Asian Britain site says his aim was to kill Michael O'Dwyer, whom he blamed for the Amritsar massacre. It says he waited for a moment that would have the greatest public effect. That is the site's account of his purpose. We do not have a letter or a diary from these years that we could read.
+His aim was to kill Michael O'Dwyer, whom he blamed for the Amritsar massacre. He waited for a moment that would have the greatest public effect. That is how a website on South Asians in Britain describes his purpose. No letter or diary from these years survives for us to read.
 
 That plan ended on 13 March 1940, which we tell in "Caxton Hall, 13 March 1940".
 
 ## Why it matters
 
-Most of what we read about Udham Singh is about the day in 1940. But he lived in Britain for about six years before it. The sources show a man with small jobs, several names and long gaps without work.
+Most of what we read about Udham Singh is about the day in 1940. But he lived in Britain for about six years before it. Those years were a man with small jobs, several names and long gaps without work.
