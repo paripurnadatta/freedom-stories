@@ -3,24 +3,30 @@ id: IF-0127
 kind: person
 name: "Durga Bhabhi"
 wikidata: "Q5316432"
-summary: "The revolutionary organizer who helped Bhagat Singh escape Lahore and sustained the network behind the headlines"
+summary: "Durga Devi Vohra helped Bhagat Singh escape Lahore, worked in the revolutionary movement and later supported children's education in Lucknow."
 born: "1907"
 died: "1999"
 year: 1928
 region: "Punjab / Uttar Pradesh"
-role: "Revolutionary / activist"
+role: "Revolutionary / educator"
 places: []
 related:
   - "execution-of-bhagat-singh-sukhdev-and-rajguru"
   - "bhagat-singh"
   - "shivaram-rajguru"
 sources:
-  - title: "Durgawati Devi"
-    url: "https://amritmahotsav.nic.in/unsung-heroes-detail.htm?96="
-    publisher: "Ministry of Culture, Government of India — Azadi Ka Amrit Mahotsav"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "What Durga Bhabhi did next"
+    url: "https://www.researchgate.net/publication/271936364_What_Durga_Bhabhi_did_next_or_was_there_a_gendered_agenda_in_revolutionary_circles"
+    publisher: "Kama Maclean, South Asian History and Culture"
+  - title: "Hanged for Patriotism"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
+  - title: "Smart chapter for Durga Bhabhi's school"
+    url: "https://timesofindia.indiatimes.com/city/lucknow/smart-chapter-for-durga-bhabhis-school/articleshow/68769661.cms"
+    publisher: "The Times of India"
+  - title: "Like Durga Bhabhi, her school fades into oblivion"
+    url: "https://timesofindia.indiatimes.com/city/lucknow/like-durga-bhabhi-her-school-fades-into-oblivion/articleshow/48407951.cms"
+    publisher: "The Times of India"
 image:
   src: "/files/people/durga-bhabhi/portrait.webp"
   alt: "Statue, bust, sculpture, or memorial of Durga Bhabhi"
@@ -28,6 +34,15 @@ image:
   credit: "Nishutoshk · Own work"
   license: "CC BY-SA 4.0"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Durgawati_Devi.jpg"
+angles:
+  - title: "The woman who became the wife"
+    type: short
+    hook: "A young mother joined the dangerous escape from Lahore."
+    story: "the-woman-who-became-the-wife"
+  - title: "The school after the secrets"
+    type: short
+    hook: "Durga Devi helped build a school for children in Lucknow."
+    story: "the-school-after-the-secrets"
 ---
 
 <!--
