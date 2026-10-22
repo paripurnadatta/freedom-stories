@@ -1,0 +1,62 @@
+ILLUSTRATIONS NEEDED: Khan Abdul Ghaffar Khan. Four paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (no invented likenesses).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The red shirts  (flagship story)
+==============================================================================
+FILE NAME: the-red-shirts
+Save it as the-red-shirts.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The red shirts", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A farm field in the Peshawar valley in 1929-30, late afternoon, with distant snowy hills behind. A long line of Pakhtun volunteers marches along a dirt path between wheat fields, all in shirts, loose trousers and turbans dyed the same deep brownish red. They carry no weapons and no sticks. A few men at the front play bagpipes and drums. In the near fields, farmers have stopped ploughing, with oxen standing beside them, and turn to watch. Everyone is seen from behind or far away, so no faces are clear. Orderly, calm, curious mood. No flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The day in Qissa Khwani Bazaar  (flagship story)
+==============================================================================
+FILE NAME: the-day-in-qissa-khwani-bazaar
+Save it as the-day-in-qissa-khwani-bazaar.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The day in Qissa Khwani Bazaar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A narrow old bazaar street in Peshawar, April 1930, tall wooden balconies on both sides, shop shutters closed. A crowd of men in white and grey turbans and shawls sits and stands quietly in the middle of the street, seen from behind, facing the far end of the street where one dark boxy armoured car stands small in the distance. Nobody carries a weapon. A few men kneel helping a friend with a cloth, shown gently and without any blood. Dusty golden light, heavy stillness. No guns pointed, no one falling, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The officer's remark  (short story)
+==============================================================================
+FILE NAME: the-officers-remark
+Save it as the-officers-remark.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The officer's remark", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A street in Peshawar around 1906. Two young Indian men in neat army-style tunics stand talking at the edge of the road, seen from behind. A little way off, a British young officer in a khaki uniform and cap walks away, seen from the side at a distance, with his chin raised. Old brick shops and a tonga with a horse in the background. Warm afternoon light. Quiet, tense, thoughtful mood. No weapons drawn, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The prisoner who ground the corn  (short story)
+==============================================================================
+FILE NAME: the-prisoner-who-ground-the-corn
+Save it as the-prisoner-who-ground-the-corn.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The prisoner who ground the corn", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The inside of a small stone jail cell in the Punjab in 1922, with a tiny barred window high in the wall letting in a single beam of light. A very tall man in short, tight, coarse white jail clothes sits on the floor, seen from behind, turning the handle of a stone hand-mill, with a little pile of flour beside it. In the open doorway, an elderly jailor with a white beard and a turban stands quietly, seen from the side at a distance, with his hands open as if pleading. Warm light on the stone, deep blue shadows. Calm, steady, respectful mood. No chains shown on anyone's neck, no beating, no flag, no readable writing.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate early-twentieth-century Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
