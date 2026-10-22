@@ -8,6 +8,7 @@ import PageScripts from "./PageScripts.astro";
 import { loadSite, datesOf, KINDS, type Subject } from "../lib/site";
 import { formatDate } from "../lib/years";
 import { aliasesFor } from "../lib/aliases";
+import { alongside } from "../lib/connections";
 
 interface Props { subject: Subject }
 const { subject } = Astro.props;
@@ -26,6 +27,8 @@ const connections = {
   places: related.filter((s) => s.data.kind === "place"),
   groups: related.filter((s) => s.data.kind === "organisation"),
 };
+const together = alongside(site, subject.id, 6);
+const KIND_COLOR: Record<string, string> = { person: "var(--heading)", event: "var(--saffron-fill)", organisation: "var(--leaf)", place: "var(--soft)" };
 const dates = datesOf(subject);
 const otherNames = aliasesFor(subject.id, d.aliases).join(", ");
 // For search: the names (and other names) of everyone linked to this page, in either direction,
@@ -49,7 +52,7 @@ const hasStories = written.length + appears.length > 0;
 const tabs = [
   ["stories", "Stories"],
   media.original.length + media.later.length > 0 && ["gallery", "Pictures and papers"],
-  related.length > 0 && ["connections", "Connections"],
+  (related.length > 0 || together.length > 0) && ["connections", "Connections"],
   d.sources.length > 0 && ["sources", "Sources"],
 ].filter(Boolean) as [string, string][];
 
@@ -184,9 +187,39 @@ const jsonLd = d.kind === "person"
       </section>
     )}
 
-    {related.length > 0 && (
+    {(related.length > 0 || together.length > 0) && (
       <section class="section" id="connections">
         <div class="section-head"><h2>Connections</h2></div>
+        {together.length > 0 && (
+          <div class="alongside">
+            <h3 style="margin:0;font-size:1rem;color:var(--soft)">Who appears alongside {d.name} in our stories</h3>
+            <svg viewBox="0 0 640 270" role="img" aria-label={`${d.name} and the names that share the most stories with them: ${together.map((x) => `${x.subject.data.name} (${x.count})`).join(", ")}`}>
+              {together.map((x, i) => {
+                const ang = -Math.PI / 2 + (i * 2 * Math.PI) / together.length;
+                const px = 320 + Math.cos(ang) * 230;
+                const py = 125 + Math.sin(ang) * 85;
+                return <line class="al-edge" x1="320" y1="125" x2={px} y2={py} />;
+              })}
+              {together.map((x, i) => {
+                const ang = -Math.PI / 2 + (i * 2 * Math.PI) / together.length;
+                const px = 320 + Math.cos(ang) * 230;
+                const py = 125 + Math.sin(ang) * 85;
+                return (
+                  <>
+                    <text class="al-c" x={(320 + px) / 2} y={(125 + py) / 2 - 6} text-anchor="middle">{x.count}</text>
+                    <a href={x.url}>
+                      <circle cx={px} cy={py} r="10" fill={KIND_COLOR[x.subject.data.kind]} />
+                      <text class="al-n" x={px} y={py + 27} text-anchor="middle">{x.subject.data.name}</text>
+                    </a>
+                  </>
+                );
+              })}
+              <circle cx="320" cy="125" r="17" fill={KIND_COLOR[d.kind]} stroke="var(--saffron-fill)" stroke-width="4" />
+              <text class="al-me" x="320" y="162" text-anchor="middle">{d.name}</text>
+            </svg>
+            <p class="al-go"><small style="color:var(--soft)">The number on each line is how many stories feature both.</small><br /><a href={`/connections/?with=${subject.id}`}>See how {d.name} connects to anyone else</a></p>
+          </div>
+        )}
         {Object.entries(connections).filter(([, list]) => list.length).map(([group, list]) => (
           <>
             <h3 style="margin:1.5rem 0 0.5rem;font-size:1rem;color:var(--soft)">{({ people: "People", events: "Events", places: "Places", groups: "Groups and organisations" } as Record<string, string>)[group]}</h3>

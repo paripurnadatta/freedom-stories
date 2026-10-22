@@ -516,3 +516,60 @@ details.more[open] summary { margin-bottom: 1.25rem; }
 .card.spot .spot-go .icon { width: 1.1rem; height: 1.1rem; }
 .card.spot .art { min-height: 14rem; }
 .cards > li { min-width: 0; }
+
+
+/* ---- connections (who is linked to whom) ------------------------------- */
+.cx h1 { font-size: clamp(2rem, 5vw, 2.8rem); font-weight: 800; margin: 1.5rem 0 0.5rem; }
+.cx-lede { margin: 0 0 1.5rem; color: var(--soft); max-width: 40rem; }
+.cx-step { display: grid; gap: 0.6rem; margin-top: 1.5rem; }
+.cx-lbl { margin: 0; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--soft); font-weight: 700; }
+.cx-search { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; padding: 0.6rem 0.8rem; border: 1px solid var(--rule-strong); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
+.cx-search:focus-within { border-color: var(--saffron); box-shadow: 0 0 0 3px color-mix(in srgb, var(--saffron-fill) 20%, transparent); }
+.cx-chips { display: contents; }
+.cx-chip { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.25rem 0.3rem 0.25rem 0.8rem; border: 1px solid var(--rule-strong); border-radius: 999px; background: var(--surface-2); color: var(--heading); font-size: 0.95rem; }
+.cx-chip button { border: 0; background: transparent; color: var(--soft); font-size: 1.2rem; line-height: 1; cursor: pointer; padding: 0 0.4rem; border-radius: 50%; }
+.cx-chip button:hover { color: var(--saffron); }
+.cx-input { position: relative; flex: 1 1 14rem; min-width: 0; }
+.cx-input input { width: 100%; border: 0; background: transparent; color: var(--text); font: inherit; font-size: 1.05rem; outline: none; padding: 0.35rem 0.2rem; }
+.cx-sug { position: absolute; z-index: 40; left: 0; right: 0; top: calc(100% + 0.5rem); margin: 0; padding: 0.25rem; list-style: none; background: var(--surface); border: 1px solid var(--rule-strong); border-radius: var(--radius); box-shadow: var(--shadow); max-height: 16rem; overflow: auto; }
+.cx-sug button { display: flex; justify-content: space-between; gap: 1rem; width: 100%; text-align: left; border: 0; background: transparent; color: var(--text); font: inherit; padding: 0.5rem 0.7rem; border-radius: 6px; cursor: pointer; }
+.cx-sug li[aria-selected="true"] button, .cx-sug button:hover { background: var(--surface-2); }
+.cx-sug small { color: var(--soft); white-space: nowrap; }
+.cx-none { padding: 0.6rem 0.7rem; color: var(--soft); font-size: 0.9rem; }
+.cx-eg { margin: 0; font-size: 0.9rem; color: var(--soft); display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+.cx-eg button { font: inherit; font-size: 0.9rem; color: var(--text); background: var(--surface); border: 1px solid var(--rule-strong); border-radius: 999px; padding: 0.2rem 0.75rem; cursor: pointer; }
+.cx-eg button:hover { border-color: var(--saffron); color: var(--saffron); }
+.cx-answer { padding: 1rem 1.1rem; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); display: grid; gap: 0.4rem; font-size: 1.05rem; }
+.cx-box { border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); padding: 0.25rem; min-height: 8rem; }
+.cx-box svg { display: block; width: 100%; height: auto; }
+.cx-empty { text-align: center; padding: 2.5rem 1rem; margin: 0; }
+.cx-card { padding: 1.1rem; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); display: grid; gap: 0.9rem; min-width: 0; }
+.cx-link { display: grid; gap: 0.4rem; border-top: 1px solid var(--rule); padding-top: 0.9rem; }
+.cx-link:first-child { border-top: 0; padding-top: 0; }
+.cx-who { font-weight: 700; color: var(--heading); }
+.cx-who a { color: inherit; }
+.cx-count { font-weight: 400; color: var(--soft); font-size: 0.9rem; }
+.cx-story { display: flex; gap: 0.6rem; align-items: baseline; }
+.cx-tag { flex: none; font-size: 0.7rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--soft); border: 1px solid var(--rule-strong); border-radius: 4px; padding: 0 0.35rem; }
+.cx-hint { color: var(--soft); font-size: 0.92rem; }
+.cx svg text { font-family: var(--book); }
+.cx-n { font-size: 15px; font-weight: 700; fill: var(--heading); }
+.cx-n2 { font-size: 13.5px; fill: var(--text); paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
+.cx-pill { font-size: 12.5px; fill: var(--heading); }
+.cx-pillbox { fill: var(--surface); stroke: var(--saffron-fill); stroke-width: 1.5; }
+.cx-hit { stroke: var(--saffron-fill); stroke-linecap: round; }
+.cx-line { stroke: var(--rule-strong); stroke-width: 2.5; }
+.cx-sel { stroke: var(--saffron-fill); stroke-width: 4; }
+.cx-mid { stroke: var(--surface); stroke-width: 2; }
+.cx-input input:focus-visible { outline: none; }
+.cx-eg button:focus-visible, .cx-chip button:focus-visible, .cx-sug button:focus-visible { outline: 2px solid var(--saffron); outline-offset: 2px; }
+
+/* the small "alongside" picture on a subject's page */
+.alongside { display: grid; gap: 0.5rem; margin: 0 0 1.5rem; padding: 0.75rem; border: 1px solid var(--rule); border-radius: var(--radius); background: var(--surface); }
+.alongside svg { display: block; width: 100%; height: auto; max-width: 40rem; margin: 0 auto; }
+.alongside .al-edge { stroke: var(--rule-strong); stroke-width: 2.5; }
+.alongside .al-n { font-family: var(--book); font-size: 12.5px; fill: var(--text); }
+.alongside .al-c { font-family: var(--book); font-size: 11.5px; fill: var(--soft); }
+.alongside .al-me { font-family: var(--book); font-size: 14px; font-weight: 700; fill: var(--heading); }
+.alongside a:hover .al-n { fill: var(--saffron); text-decoration: underline; }
+.alongside .al-go { margin: 0; text-align: center; font-size: 0.95rem; }

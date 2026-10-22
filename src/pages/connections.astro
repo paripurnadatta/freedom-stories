@@ -1,0 +1,257 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base
+  title="Connections: who is linked to whom | The Struggle for Freedom"
+  description="Choose two or three people, events or groups and see how the stories of India's freedom struggle connect them."
+  section="connections"
+>
+  <div class="page cx">
+    <ol class="crumbs" aria-label="Breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li aria-current="page">Connections</li>
+    </ol>
+    <h1>Who is connected to whom?</h1>
+    <p class="cx-lede">Choose two or three names. You will see the stories that link them. Two names are connected when a story is about both of them.</p>
+
+    <section class="cx-step" aria-labelledby="cx-h1">
+      <h2 class="cx-lbl" id="cx-h1">1. Choose names</h2>
+      <div class="cx-search">
+        <span id="cx-chips" class="cx-chips"></span>
+        <div class="cx-input">
+          <label class="visually-hidden" for="cx-q">Add a person, event or group</label>
+          <input id="cx-q" type="text" autocomplete="off" placeholder="Type a name" role="combobox" aria-expanded="false" aria-controls="cx-sug" aria-autocomplete="list" spellcheck="false" />
+          <ul class="cx-sug" id="cx-sug" role="listbox" hidden></ul>
+        </div>
+      </div>
+      <p class="cx-eg" id="cx-eg"></p>
+    </section>
+
+    <section class="cx-step" aria-labelledby="cx-h2">
+      <h2 class="cx-lbl" id="cx-h2">2. The answer</h2>
+      <div class="cx-answer" id="cx-answer" role="status" aria-live="polite"></div>
+    </section>
+
+    <section class="cx-step" aria-labelledby="cx-h3">
+      <h2 class="cx-lbl" id="cx-h3">3. The picture</h2>
+      <div class="cx-box" id="cx-box"></div>
+    </section>
+
+    <section class="cx-step" aria-labelledby="cx-h4">
+      <h2 class="cx-lbl" id="cx-h4">4. The stories behind each link</h2>
+      <div class="cx-card" id="cx-stories"></div>
+    </section>
+
+    <noscript><p>The connection picture needs JavaScript. You can browse <a href="/stories/">all stories</a> or <a href="/people/">all people</a> instead.</p></noscript>
+  </div>
+
+  <script is:inline type="module">
+    var $ = function (id) { return document.getElementById(id); };
+    var esc = function (s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); };
+    var plural = function (n, w) { return n + " " + (n === 1 ? w : (w === "story" ? "stories" : w + "s")); };
+    var norm = function (s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9\s]/g, " ").replace(/\s+/g, " ").trim(); };
+    var KIND = { person: "Person", event: "Event", organisation: "Group", place: "Place" };
+    var COLOR = { person: "var(--heading)", event: "var(--saffron-fill)", organisation: "var(--leaf)", place: "var(--soft)" };
+    var EXAMPLES = [
+      ["bhagat-singh,b-r-ambedkar,jawaharlal-nehru", "Bhagat Singh, Ambedkar, Nehru"],
+      ["mahatma-gandhi,subhas-chandra-bose", "Gandhi and Bose"],
+      ["ram-prasad-bismil,ashfaqulla-khan,kakori-train-action", "Bismil, Ashfaqulla, Kakori"]
+    ];
+
+    fetch("/connections-data.json").then(function (r) { return r.json(); }).then(start).catch(function () {
+      $("cx-answer").textContent = "The connection data could not be loaded. Please try again.";
+    });
+
+    function start(D) {
+      var N = D.nodes, S = D.stories, byId = {}, adj = {}, edges = {};
+      N.forEach(function (n) { byId[n.id] = n; adj[n.id] = []; });
+      Object.keys(S).forEach(function (sid) {
+        var a = S[sid].a;
+        for (var i = 0; i < a.length; i++) for (var j = i + 1; j < a.length; j++) {
+          var k = key(a[i], a[j]);
+          if (!edges[k]) { edges[k] = []; adj[a[i]].push(a[j]); adj[a[j]].push(a[i]); }
+          edges[k].push(sid);
+        }
+      });
+      function key(a, b) { return [a, b].sort().join("|"); }
+      var nameOf = function (id) { return byId[id].n; };
+      var sel = [];
+
+      function path(a, b) {
+        var prev = {}; prev[a] = null; var q = [a];
+        while (q.length) {
+          var x = q.shift();
+          for (var i = 0; i < adj[x].length; i++) {
+            var y = adj[x][i];
+            if (!(y in prev)) {
+              prev[y] = x;
+              if (y === b) { var p = [b], c = b; while (prev[c] !== null) { c = prev[c]; p.unshift(c); } return p; }
+              q.push(y);
+            }
+          }
+        }
+        return null;
+      }
+      function sharedAll(ids) { return Object.keys(S).filter(function (s) { return ids.every(function (i) { return S[s].a.indexOf(i) !== -1; }); }); }
+      function storyRow(sid) {
+        var st = S[sid];
+        return '<div class="cx-story"><span class="cx-tag">' + (st.f ? "Flagship" : "Short") + '</span><a href="' + st.u + '">' + esc(st.t) + "</a></div>";
+      }
+      function nameLink(id) { return '<a href="' + byId[id].u + '">' + esc(nameOf(id)) + "</a>"; }
+
+      function lx(x, text, size, W) { var hw = String(text).length * size * 0.3; return Math.round(Math.min(W - 6 - hw, Math.max(6 + hw, x))); }
+
+      function layout(pairs, W) {
+        var T = sel.length, narrow = W < 560;
+        var V = T === 2 ? [[W * (narrow ? 0.2 : 0.14), 100], [W * (narrow ? 0.8 : 0.86), 100]]
+                        : [[W * (narrow ? 0.24 : 0.17), 80], [W * (narrow ? 0.76 : 0.83), 80], [W * 0.5, 250]];
+        var pos = {};
+        sel.forEach(function (id, i) { pos[id] = V[i]; });
+        var use = {};
+        pairs.forEach(function (pr) { if (pr.p) pr.p.slice(1, -1).forEach(function (id) { if (sel.indexOf(id) === -1) use[id] = (use[id] || 0) + 1; }); });
+        var cen = T === 3 ? [(V[0][0] + V[1][0] + V[2][0]) / 3, (V[0][1] + V[1][1] + V[2][1]) / 3] : null;
+        pairs.forEach(function (pr) {
+          if (!pr.p) return;
+          var A = pos[pr.a], B = pos[pr.b], L = pr.p.length - 1;
+          pr.p.forEach(function (id, i) {
+            if (pos[id]) return;
+            if (cen && use[id] >= 2) pos[id] = cen;
+            else { var f = i / L; pos[id] = [A[0] + (B[0] - A[0]) * f, A[1] + (B[1] - A[1]) * f]; }
+          });
+        });
+        return { pos: pos, H: T === 2 ? 200 : 330 };
+      }
+
+      function render() {
+        $("cx-chips").innerHTML = sel.map(function (id) {
+          return '<span class="cx-chip">' + esc(nameOf(id)) + '<button type="button" data-rm="' + id + '" aria-label="Remove ' + esc(nameOf(id)) + '">×</button></span>';
+        }).join("");
+        var q = $("cx-q");
+        q.disabled = sel.length >= 3;
+        q.placeholder = sel.length >= 3 ? "Three is the most. Remove one to change." : (sel.length ? "Add one more name" : "Type a name");
+        try { history.replaceState(null, "", sel.length ? "?with=" + sel.join(",") : location.pathname); } catch (e) {}
+
+        var pairs = [];
+        for (var i = 0; i < sel.length; i++) for (var j = i + 1; j < sel.length; j++) pairs.push({ a: sel[i], b: sel[j], p: path(sel[i], sel[j]) });
+        var ans = "", stor = "", svg = "";
+        var W = Math.max(300, Math.round($("cx-box").clientWidth || 700));
+        var narrow = W < 560;
+
+        if (sel.length < 2) {
+          ans = '<span class="cx-hint">Choose at least two names to see the answer.</span>';
+          stor = '<span class="cx-hint">The stories that link your names will be listed here.</span>';
+          if (sel.length === 1) {
+            var n = byId[sel[0]];
+            var near = adj[n.id].map(function (o) { return { o: o, c: edges[key(n.id, o)].length }; }).sort(function (a, b) { return b.c - a.c; }).slice(0, 6);
+            var H = 300, cx = W / 2, cy = H / 2, rx = Math.min(W * 0.36, 260), ry = 100, s = "";
+            near.forEach(function (x, i) {
+              var ang = -Math.PI / 2 + i * 2 * Math.PI / near.length, px = cx + Math.cos(ang) * rx, py = cy + Math.sin(ang) * ry;
+              s += '<line x1="' + cx + '" y1="' + cy + '" x2="' + px + '" y2="' + py + '" class="cx-line"/><circle cx="' + px + '" cy="' + py + '" r="9" fill="' + COLOR[byId[x.o].k] + '"/><text class="cx-n2" x="' + lx(px, nameOf(x.o), 13.5, W) + '" y="' + (py + 26) + '" text-anchor="middle">' + esc(nameOf(x.o)) + '</text><text class="cx-pill" x="' + ((cx + px) / 2) + '" y="' + ((cy + py) / 2 - 6) + '" text-anchor="middle">' + x.c + "</text>";
+            });
+            s += '<circle cx="' + cx + '" cy="' + cy + '" r="16" fill="' + COLOR[n.k] + '" class="cx-sel"/><text class="cx-n" x="' + lx(cx, n.n, 15, W) + '" y="' + (cy + 36) + '" text-anchor="middle">' + esc(n.n) + "</text>";
+            svg = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="' + esc(n.n) + ' and the names it shares the most stories with">' + s + "</svg>";
+            ans = "<b>" + esc(n.n) + "</b> is in " + plural(n.c, "story") + ". The dots are the names it shares the most stories with. Add a second name to see a link.";
+          }
+        } else {
+          var L = layout(pairs, W), all = sel.length === 3 ? sharedAll(sel) : [];
+          var lines = pairs.map(function (pr) {
+            var nm = "<b>" + esc(nameOf(pr.a)) + "</b> and <b>" + esc(nameOf(pr.b)) + "</b>";
+            if (!pr.p) return nm + ": no story links them yet.";
+            if (pr.p.length === 2) return nm + " appear together in " + plural(edges[key(pr.a, pr.b)].length, "story") + ".";
+            var mid = pr.p.slice(1, -1).map(function (id) { return "<b>" + esc(nameOf(id)) + "</b>"; }).join(" and ");
+            return nm + " are not in a story together. They connect through " + mid + ".";
+          });
+          if (all.length) lines.unshift("All three appear together in " + plural(all.length, "story") + ".");
+          ans = lines.map(function (l) { return "<div>" + l + "</div>"; }).join("");
+
+          var drawn = {}, ed = "", nd = "";
+          pairs.forEach(function (pr) {
+            if (!pr.p) return;
+            for (var i = 0; i < pr.p.length - 1; i++) {
+              var a = pr.p[i], b = pr.p[i + 1], k = key(a, b);
+              if (drawn[k]) continue; drawn[k] = 1;
+              var A = L.pos[a], B = L.pos[b], c = edges[k].length, mx = (A[0] + B[0]) / 2, my = (A[1] + B[1]) / 2;
+              ed += '<line x1="' + A[0] + '" y1="' + A[1] + '" x2="' + B[0] + '" y2="' + B[1] + '" class="cx-hit" stroke-width="' + Math.min(8, 3 + c) + '"/>' +
+                '<rect x="' + (mx - (narrow ? 14 : 32)) + '" y="' + (my - 12) + '" width="' + (narrow ? 28 : 64) + '" height="24" rx="12" class="cx-pillbox"/><text class="cx-pill" x="' + mx + '" y="' + (my + 4.5) + '" text-anchor="middle">' + (narrow ? c : plural(c, "story")) + "</text>";
+            }
+          });
+          Object.keys(L.pos).forEach(function (id) {
+            var p = L.pos[id], isSel = sel.indexOf(id) !== -1, side = !isSel && sel.length === 3, up = isSel && sel.length === 3 && p[1] < 150;
+            nd += '<circle cx="' + p[0] + '" cy="' + p[1] + '" r="' + (isSel ? (narrow ? 15 : 19) : 11) + '" fill="' + COLOR[byId[id].k] + '" class="' + (isSel ? "cx-sel" : "cx-mid") + '"/>' +
+              (side ? '<text class="cx-n2" x="' + (p[0] + (p[0] < W / 2 - 8 ? -17 : 17)) + '" y="' + (p[1] + 5) + '" text-anchor="' + (p[0] < W / 2 - 8 ? "end" : "start") + '">' + esc(nameOf(id)) + "</text>" :
+              '<text class="' + (isSel ? "cx-n" : "cx-n2") + '" x="' + lx(p[0], nameOf(id), isSel ? 15 : 13.5, W) + '" y="' + (up ? p[1] - 26 : isSel ? p[1] + (narrow ? 38 : 42) : p[1] - 22) + '" text-anchor="middle">' + esc(nameOf(id)) + "</text>");
+          });
+          svg = '<svg viewBox="0 0 ' + W + " " + L.H + '" role="img" aria-label="How the chosen names are connected by stories">' + ed + nd + "</svg>";
+
+          if (all.length) stor += '<div class="cx-link"><div class="cx-who">All three together</div>' + all.map(storyRow).join("") + "</div>";
+          var seen = {};
+          pairs.forEach(function (pr) {
+            if (!pr.p) {
+              stor += '<div class="cx-link"><div class="cx-who">' + nameLink(pr.a) + " and " + nameLink(pr.b) + '</div><span class="cx-hint">No story links them yet. A story about both would create the link.</span></div>';
+              return;
+            }
+            for (var i = 0; i < pr.p.length - 1; i++) {
+              var a = pr.p[i], b = pr.p[i + 1], k = key(a, b);
+              if (seen[k]) continue; seen[k] = 1;
+              var ss = edges[k];
+              stor += '<div class="cx-link"><div class="cx-who">' + nameLink(a) + " and " + nameLink(b) + ' <span class="cx-count">' + plural(ss.length, "story") + "</span></div>" +
+                ss.slice(0, 4).map(storyRow).join("") + (ss.length > 4 ? '<span class="cx-hint">and ' + (ss.length - 4) + " more</span>" : "") + "</div>";
+            }
+          });
+        }
+        $("cx-answer").innerHTML = ans;
+        $("cx-stories").innerHTML = stor;
+        $("cx-box").innerHTML = svg || '<p class="cx-hint cx-empty">The picture appears when you choose two or three names.</p>';
+      }
+
+      // examples (only those whose names all exist)
+      $("cx-eg").innerHTML = "Or try: " + EXAMPLES.filter(function (e) { return e[0].split(",").every(function (id) { return byId[id]; }); })
+        .map(function (e) { return '<button type="button" data-eg="' + e[0] + '">' + esc(e[1]) + "</button>"; }).join(" ");
+
+      // search box
+      var q = $("cx-q"), sug = $("cx-sug"), cur = 0, list = [];
+      function suggest() {
+        var v = norm(q.value);
+        if (!v) { sug.hidden = true; q.setAttribute("aria-expanded", "false"); return; }
+        var words = v.split(" ");
+        list = N.filter(function (n) {
+          if (sel.indexOf(n.id) !== -1) return false;
+          return [n.n].concat(n.a || []).some(function (nm) { var t = norm(nm); return words.every(function (w) { return t.indexOf(w) !== -1; }); });
+        }).slice(0, 8);
+        cur = 0;
+        sug.innerHTML = list.length ? list.map(function (n, i) {
+          return '<li role="option" aria-selected="' + (i === 0) + '"><button type="button" data-add="' + n.id + '"><span>' + esc(n.n) + "</span><small>" + KIND[n.k] + ", " + plural(n.c, "story") + "</small></button></li>";
+        }).join("") : '<li class="cx-none">No match. Only names that have stories appear here.</li>';
+        sug.hidden = false; q.setAttribute("aria-expanded", "true");
+      }
+      function mark() { Array.prototype.forEach.call(sug.children, function (li, i) { li.setAttribute("aria-selected", i === cur ? "true" : "false"); }); }
+      function add(id) {
+        if (sel.length < 3 && sel.indexOf(id) === -1) sel.push(id);
+        q.value = ""; sug.hidden = true; q.setAttribute("aria-expanded", "false"); render();
+        if (sel.length < 3) q.focus();
+      }
+      q.addEventListener("input", suggest);
+      q.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" && list[cur] && !sug.hidden) { e.preventDefault(); add(list[cur].id); }
+        else if (e.key === "ArrowDown" && list.length) { cur = Math.min(list.length - 1, cur + 1); mark(); e.preventDefault(); }
+        else if (e.key === "ArrowUp" && list.length) { cur = Math.max(0, cur - 1); mark(); e.preventDefault(); }
+        else if (e.key === "Escape") { sug.hidden = true; q.setAttribute("aria-expanded", "false"); }
+        else if (e.key === "Backspace" && !q.value && sel.length) { sel.pop(); render(); }
+      });
+      document.addEventListener("click", function (e) {
+        var t = e.target.closest("[data-add],[data-rm],[data-eg]");
+        if (!t) { if (!e.target.closest(".cx-input")) sug.hidden = true; return; }
+        if (t.dataset.add) add(t.dataset.add);
+        else if (t.dataset.rm) { sel = sel.filter(function (x) { return x !== t.dataset.rm; }); render(); }
+        else if (t.dataset.eg) { sel = t.dataset.eg.split(",").filter(function (id) { return byId[id]; }); render(); }
+      });
+      var timer; window.addEventListener("resize", function () { clearTimeout(timer); timer = setTimeout(render, 150); });
+
+      // start from ?with=a,b,c, else show the first example so the page is never empty
+      var param = new URLSearchParams(location.search).get("with");
+      var wanted = (param ? param.split(",") : EXAMPLES[0][0].split(",")).filter(function (id) { return byId[id]; }).slice(0, 3);
+      sel = wanted.filter(function (id, i) { return wanted.indexOf(id) === i; });
+      render();
+    }
+  </script>
+</Base>
