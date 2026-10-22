@@ -507,3 +507,12 @@ details.more[open] summary { margin-bottom: 1.25rem; }
 .lead-art .ai-badge { bottom: auto; top: 0.75rem; left: 0.75rem; font-size: 0.8rem; }
 .hero-art .ai-badge { left: auto; right: 1rem; bottom: 1rem; }
 @media print { .ai-badge { background: #fff; color: #000; border: 1px solid #000; } }
+
+/* Home page: story of the moment, and rows that change on every visit */
+.spot-box { min-height: 0; }
+.card.spot .body { gap: 0.6rem; }
+.card.spot .spot-hook { font-size: 1.05rem; line-height: 1.55; color: var(--text); padding-right: 0; font-style: italic; }
+.card.spot .spot-go { display: inline-flex; align-items: center; gap: 0.4rem; margin-top: 0.3rem; font-weight: 700; color: var(--saffron-fill); }
+.card.spot .spot-go .icon { width: 1.1rem; height: 1.1rem; }
+.card.spot .art { min-height: 14rem; }
+.cards > li { min-width: 0; }

@@ -4,6 +4,10 @@ import Base from "../layouts/Base.astro";
 import Icon from "../components/Icon.astro";
 import StoryCard from "../components/StoryCard.astro";
 import { loadSite, KINDS } from "../lib/site";
+import { homeStory } from "../lib/homedata";
+import { collectDays } from "../lib/onthisday";
+import { pickDays } from "../lib/daypick";
+import { dayCardHtml, dayHeading, spotlightHtml, storyCardHtml } from "../lib/homecards";
 
 const site = await loadSite();
 const count = (k: keyof typeof KINDS) => site.subjects.filter((s) => s.data.kind === k).length;
@@ -15,8 +19,31 @@ const hero = painted
   ? { src: "/files/home/illustrations/home-hero.webp", alt: "", caption: "AI-generated illustration, not a real picture." }
   : { src: "/files/people/bhagat-singh/archive/drama-club-1924.webp", alt: "", caption: "National College drama club, Lahore, 1924. Public domain." };
 
-const featured = [...site.stories.filter((s) => s.data.featured), ...site.latest.filter((s) => !s.data.featured)].slice(0, 3);
+// What the page shows before anything is shuffled. This is what search engines read, and what
+// a visitor sees if scripts are off. The script in this page only swaps it for another mix.
+const pool = [...site.stories.filter((s) => s.data.featured), ...site.latest.filter((s) => !s.data.featured)];
+const spotlight = pool[0];
+const featured = pool.slice(1, 4);
 const latest = site.latest.slice(0, 8);
+const shown = new Set([spotlight, ...featured].map((s) => s.id));
+const more = site.latest.filter((s) => !shown.has(s.id) && !latest.includes(s)).slice(0, 6);
+const moreRow = more.length === 6 ? more : site.stories.filter((s) => !shown.has(s.id)).slice(0, 6);
+
+// "On this day" as of the day the site was built (India time); the visitor's own day replaces it in the browser.
+const today = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" }));
+const days = pickDays(collectDays(site), today.getMonth() + 1, today.getDate());
+const dayHead = dayHeading(days.ahead, days.day, days.month);
+
+const siteUrl = new URL("/", Astro.site).toString();
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "The Struggle for Freedom",
+  url: siteUrl,
+  inLanguage: "en-IN",
+  description: "True stories of the people who fought for India's freedom, from Plassey in 1757 to Independence in 1947, told for young readers.",
+  potentialAction: { "@type": "SearchAction", target: `${siteUrl}search/?q={search_term_string}`, "query-input": "required name=search_term_string" },
+};
 const tiles = [
   ["people", "person", "People", count("person"), "Freedom fighters, leaders and unsung heroes"],
   ["events", "calendar", "Events", count("event"), "Battles, movements and turning points"],
@@ -25,7 +52,7 @@ const tiles = [
   ["stories", "book", "Stories", site.stories.length, "Flagship and short stories"],
 ] as const;
 ---
-<Base title="The Struggle for Freedom: true stories of India, 1757 to 1947">
+<Base title="The Struggle for Freedom: true stories of India, 1757 to 1947" jsonLd={jsonLd}>
   <section class="hero">
     <div class="page">
       <div class="hero-copy">
@@ -46,10 +73,22 @@ const tiles = [
   </section>
 
   <div class="page">
-    <section class="section">
-      <div class="section-head"><h2>Featured stories</h2><a class="see-all" href="/stories/">See all stories <Icon name="arrow" /></a></div>
-      <ul class="cards">{featured.map((s) => <li><StoryCard story={s} /></li>)}</ul>
+    <section class="section" aria-labelledby="spot-h">
+      <div class="section-head"><h2 id="spot-h">Story of the moment</h2><a class="see-all" href="/stories/">See all stories <Icon name="arrow" /></a></div>
+      <div class="spot-box" data-spot set:html={spotlightHtml(homeStory(site, spotlight))} />
     </section>
+
+    <section class="section" aria-labelledby="feat-h">
+      <div class="section-head"><h2 id="feat-h">Featured stories</h2><a class="see-all" href="/stories/">See all stories <Icon name="arrow" /></a></div>
+      <ul class="cards" data-shuffle="featured">{featured.map((s) => <li set:html={storyCardHtml(homeStory(site, s))} />)}</ul>
+    </section>
+
+    {days.list.length > 0 && (
+      <section class="section" aria-labelledby="otd-h" data-otd>
+        <div class="section-head"><div><h2 id="otd-h" data-otd-h>{dayHead.h}</h2><p data-otd-p>{dayHead.p}</p></div></div>
+        <ul class="cards" data-otd-list>{days.list.map((x) => <li set:html={dayCardHtml(x)} />)}</ul>
+      </section>
+    )}
 
     <section class="section">
       <div class="section-head"><h2>Explore by category</h2></div>
@@ -58,6 +97,11 @@ const tiles = [
           <li><a class="tile" href={`/${path}/`}><Icon name={icon} /><strong>{label}</strong><span class="n">{n}</span><span>{text}</span></a></li>
         ))}
       </ul>
+    </section>
+
+    <section class="section" aria-labelledby="more-h">
+      <div class="section-head"><h2 id="more-h">Something new to read</h2><a class="see-all" href="/stories/">Browse all stories <Icon name="arrow" /></a></div>
+      <ul class="cards" data-shuffle="more">{moreRow.map((s) => <li set:html={storyCardHtml(homeStory(site, s))} />)}</ul>
     </section>
 
     <section class="section">
@@ -76,3 +120,63 @@ const tiles = [
     </section>
   </div>
 </Base>
+
+<script>
+  // Makes the home page a little different on every visit. The page already shows a complete default
+  // version in its HTML; this only swaps in another mix once the page has loaded, never moves anything,
+  // and does nothing at all if the data cannot be loaded.
+  import { dayCardHtml, dayHeading, spotlightHtml, storyCardHtml, type HomeDay, type HomeStory } from "../lib/homecards";
+  import { pickDays } from "../lib/daypick";
+
+  const KEY = "sf-home-seen";
+  const shuffle = <T,>(a: T[]) => { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
+  const readSeen = (): string[] => { try { return JSON.parse(localStorage.getItem(KEY) || "[]"); } catch { return []; } };
+  const writeSeen = (ids: string[]) => { try { localStorage.setItem(KEY, JSON.stringify(ids.slice(-30))); } catch { /* private mode: fine */ } };
+
+  async function run() {
+    const res = await fetch("/home-data.json");
+    if (!res.ok) return;
+    const data: { stories: HomeStory[]; days: HomeDay[] } = await res.json();
+    const seen = readSeen();
+    const used = new Set<string>();
+    // Prefer stories this visitor has not just seen; fall back to anything if there are too few.
+    const take = (list: HomeStory[], n: number) => {
+      const fresh = shuffle(list.filter((s) => !used.has(s.u) && !seen.includes(s.u)));
+      const rest = shuffle(list.filter((s) => !used.has(s.u) && seen.includes(s.u)));
+      const out = [...fresh, ...rest].slice(0, n);
+      out.forEach((s) => used.add(s.u));
+      return out;
+    };
+
+    const spotBox = document.querySelector<HTMLElement>("[data-spot]");
+    const withPicture = data.stories.filter((s) => s.i);
+    const spot = take(withPicture.length ? withPicture : data.stories, 1)[0];
+    if (spotBox && spot) spotBox.innerHTML = spotlightHtml(spot);
+
+    const fill = (sel: string, list: HomeStory[], n: number) => {
+      const ul = document.querySelector<HTMLElement>(`[data-shuffle="${sel}"]`);
+      if (!ul) return;
+      const items = take(list, n);
+      if (items.length === n) ul.innerHTML = items.map((s) => `<li>${storyCardHtml(s)}</li>`).join("");
+    };
+    fill("featured", data.stories.filter((s) => s.f), 3);
+    fill("more", data.stories, 6);
+    writeSeen([...seen, ...used]);
+
+    // "On this day", worked out for the visitor's own date.
+    const now = new Date();
+    const day = pickDays(data.days, now.getMonth() + 1, now.getDate());
+    const box = document.querySelector<HTMLElement>("[data-otd]");
+    if (box && day.list.length) {
+      const head = dayHeading(day.ahead, day.day, day.month);
+      box.querySelector("[data-otd-h]")!.textContent = head.h;
+      box.querySelector("[data-otd-p]")!.textContent = head.p;
+      const ul = box.querySelector<HTMLElement>("[data-otd-list]")!;
+      ul.innerHTML = day.list.map((x) => `<li>${dayCardHtml(x)}</li>`).join("");
+    }
+  }
+
+  const start = () => run().catch(() => { /* keep the default page */ });
+  if ("requestIdleCallback" in window) (window as any).requestIdleCallback(start, { timeout: 2000 });
+  else setTimeout(start, 300);
+</script>
