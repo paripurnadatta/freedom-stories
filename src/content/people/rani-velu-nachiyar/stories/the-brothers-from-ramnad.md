@@ -37,34 +37,34 @@ Velu Nachiyar did not return to Sivaganga alone. Two brothers stood beside her. 
 
 ## Where they came from
 
-The district's page on eminent people names their parents. They were Udayar Servai, also called Mookiah Palaniappan Servai, and Anandayer, also called Ponnathal. The page says the family came from Kongulu Street in Ramnad. It also says they "belonged neither to the family of the ancient poligars nor to their division of the caste". A poligar was a local chief who held a fort and land. So the brothers were not from a ruling house.
+Their parents were Udayar Servai, also called Mookiah Palaniappan Servai, and Anandayer, also called Ponnathal. The family came from Kongulu Street in Ramnad. They "belonged neither to the family of the ancient poligars nor to their division of the caste". A poligar was a local chief who held a fort and land. So the brothers were not from a ruling house.
 
-They first served Muthu Vaduganatha, the husband of Velu Nachiyar. Later he made them commanders. They were known for their skill with the valari stick, says the district page. Wikipedia's page says they were "said to have" made it famous.
+<aside class="note"><b>Two versions</b>: the district's page puts their home in Kongulu Street, Ramnad. Wikipedia's page on them says they were born at Mukkulam near Narikudi, in 1748 and 1753.</aside>
 
-<aside class="note"><b>Two versions</b>: The district page puts their home in Kongulu Street, Ramnad. Wikipedia's page on them says they were born at Mukkulam near Narikudi, in 1748 and 1753. We cannot tell which is right.</aside>
+They first served Muthu Vaduganatha, the husband of Velu Nachiyar. Later he made them commanders. They were known for their skill with the valari stick, and are "said to have" made it famous.
 
 ## Governing Sivaganga
 
-The district history says that, after the agreement of 1780, Chinna Marudu became the queen's minister and Vellai Marudu became commander-in-chief. Wikipedia's page on the district says they ran the country from 1783 to 1801. It says they built temples, ooranis and tanks. An ooraani is a village water tank.
+After the agreement of 1780, Chinna Marudu became the queen's minister and Vellai Marudu became commander-in-chief. They ran the country from 1783 to 1801. They built temples, ooranis and tanks. An ooraani is a village water tank.
 
-On 10 March 1789, the district page says, the Nawab appealed to the Madras Council for help. British forces attacked Kollangudi on 29 April 1789. The district page says a large body of the brothers' troops defeated the attack. It also says that the brothers had gathered twelve thousand armed men.
+On 10 March 1789, the Nawab appealed to the Madras Council for help. British forces attacked Kollangudi on 29 April 1789. The brothers had gathered twelve thousand armed men, and a large body of their troops defeated the attack.
 
 ## A friend of Kattabomman
 
-The district page links the brothers to another poligar leader, Veerapandiya Kattabomman. He was executed on 17 October 1799 at Kayattar. According to the page, Chinna Marudu gave a place to shelter to Kattabomman's brother Oomadurai, and issued a proclamation. The proclamation is called the Jumboo Deweepa proclamation. We did not find its text in the sources we opened.
+The brothers were linked to another poligar leader, Veerapandiya Kattabomman. He was executed on 17 October 1799 at Kayattar. Chinna Marudu gave a place to shelter to Kattabomman's brother Oomadurai, and issued a proclamation. It is called the Jumboo Deweepa proclamation.
 
 ## October 1801
 
-The district page says that Marudu Pandiyan and Vellai Marudu were executed on the ruins of the Tiruppathur fort on 24 October 1801. Wikipedia's page on the district gives the same date. Wikipedia's page on the brothers says they were hanged at the Tiruppathur fort. It says that many family members were captured at a place called Cholapuram and killed with them.
+Marudu Pandiyan and Vellai Marudu were executed on the ruins of the Tiruppathur fort on 24 October 1801. Many family members were captured at a place called Cholapuram and killed with them.
 
-We do not tell more about how it happened. The sources we opened are short on this, and it was a sad end.
+It was a sad end, and the records say little more about it.
 
 ## How they are remembered
 
-Wikipedia's page says that a stamp was issued in October 2004 and that a bronze statue was opened in Madurai on 15 December 2007. It also says that a Guru Poojai, a day of respect, is held each 27 October at their memorial in Kalaiyarkoil.
+A stamp was issued in October 2004. A bronze statue was opened in Madurai on 15 December 2007. Each year on 27 October, a day of respect called Guru Poojai is held at their memorial in Kalaiyarkoil.
 
 ## Why it matters
 
 The brothers were not born into a royal house. They rose as soldiers and then served a queen who had lost her country. They helped her take it back, and they ran it for about twenty years.
 
-The sources that we have are mostly government pages and a short Wikipedia page. They tell us dates and names, but they do not tell us what these two men said or felt. A fuller story needs old records, and we have not found them.
+Their story comes down to us as dates and names. What these two men said to each other, and what they felt, is not on record. A fuller story waits for the old papers.

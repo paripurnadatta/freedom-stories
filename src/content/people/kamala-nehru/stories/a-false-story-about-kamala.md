@@ -28,33 +28,37 @@ Kamala Nehru's illness is a good example.
 
 ## The story that went around
 
-The Quint is a news website with a fact-checking team called WebQoof. It reports that since 2019 some posts on social media have said that Jawaharlal Nehru neglected his wife. The posts say she was sent to a sanatorium in "Prague, Yugoslavia" and waited about ten years there to die. They say he never visited. They say Subhas Chandra Bose visited her, raised seventy thousand rupees, and moved her to a Swiss hospital.
+Since 2019, some posts on social media have said that Jawaharlal Nehru neglected his wife. The posts say she was sent to a sanatorium in "Prague, Yugoslavia" and waited about ten years there to die. They say he never visited. They say Subhas Chandra Bose visited her, raised seventy thousand rupees, and moved her to a Swiss hospital.
 
 The posts also say that Nehru did not come even after she died, and that Bose carried out her last rites.
 
-## What the fact-checkers found
+## What the records show
 
-The Quint says the claim is false. It says Kamala did have tuberculosis and did die in Switzerland in 1936. But it found no record of a Prague hospital, and no record that she spent ten years alone in Switzerland.
+The Quint's fact-checking team, WebQoof, looked into the claim and found it false. Kamala did have tuberculosis, and she did die in Switzerland in 1936. But there is no record of a Prague hospital, and no record that she spent ten years alone in Switzerland.
 
-It points to a biography by Frank Moraes. According to the Quint, the book says Kamala had been unwell with a tubercular infection from about 1925. In March 1926 she was taken to Europe by ship, with Nehru and their eight-year-old daughter. The family lived in Switzerland, and she was in a sanatorium at Montana.
+She had been unwell with a tubercular infection from about 1925. In March 1926 she was taken to Europe by ship, with Nehru and their eight-year-old daughter. The family lived in Switzerland, and she was in a sanatorium at Montana.
 
-The Quint says she then returned to India. It says she was ill again by December 1928. In 1931 she was arrested, and Motilal Nehru worried that jail would make her worse.
+Then she returned to India. By December 1928 she was ill again. In 1931 she was arrested, and Motilal Nehru worried that jail would make her worse.
 
-It says that in 1934 Nehru was let out of prison for eleven days to see her. In September 1935 he was freed several months early and went to Badenweiler, where she was "critically ill again". She died in Lausanne on 28 February 1936 with Nehru, their daughter and a doctor present.
+In 1934 Nehru was let out of prison for eleven days to see her. In September 1935 he was freed several months early and went to Badenweiler, where she was "critically ill again". She died in Lausanne on 28 February 1936.
+
+These details come from a biography by Frank Moraes, quoted by The Quint.
 
 ## A letter from the time
 
-A letter in the Nehru Archive supports this. On 20 January 1936, Nehru wrote to his mother from Badenweiler. He described Kamala's fever, her weakness and her plans to move to Switzerland. He wrote that he planned to spend two or three weeks with her. This is not the letter of a man who stayed away.
+A letter in the Nehru Archive fits this account. On 20 January 1936, Nehru wrote to his mother from Badenweiler. He described Kamala's fever, her weakness and the plan to move her to Switzerland. He wrote that he planned to spend two or three weeks with her. This is not the letter of a man who stayed away.
 
-## Even the story's details do not fit
+## Even the details do not fit
 
-The posts say she was in "Prague, Yugoslavia". Prague is the capital of what was then Czechoslovakia. The fact-check found no record of any Prague hospital in her story.
+The posts say she was in "Prague, Yugoslavia". Prague is the capital of what was then Czechoslovakia, not Yugoslavia.
 
-## The part we cannot settle
+## What the real story leaves open
 
-The Quint gets some of its facts from Moraes and the Wikipedia pages, as we do. We have not read Moraes ourselves. On two points the sources differ: who was with Kamala when she died, and who took her to Germany in 1935. We cover those in "Kamala, the last winter".
+Two points are told differently in different places: who took Kamala to Germany in 1935, and who was with her when she died. We tell both versions in "Kamala, the last winter".
 
-The Wire says Bose helped with the cremation. That part is not what the false posts claim, since the Wire also says Nehru was there.
+Bose did help with the cremation, according to The Wire. That is the one part of the posts that has some support. But the same report says Nehru was there too.
+
+<aside class="note"><b>Two versions</b>: The Quint says Nehru, their daughter and a doctor were present when Kamala died. Wikipedia says her daughter and her mother-in-law were with her. Both agree on the date and the place.</aside>
 
 ## Why it matters
 

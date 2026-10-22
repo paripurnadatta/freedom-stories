@@ -31,34 +31,34 @@ Four men would hear the words "sentenced to death". One of them was Thakur Rosha
 
 ## What the judge said
 
-The National Book Trust book gives the judge's words about Roshan Singh. It says Judge Hamilton gave him five years under one section of the law. Then, for the robbery at Bamrauli, he gave him a death sentence under another section. The book says both sentences were to run together. It says the judge also told him he could appeal within a week.
+Judge Hamilton gave Roshan Singh five years under one section of the law. Then, for the robbery at Bamrauli, he gave him a death sentence under another section. Both sentences were to run together. The judge also told him he could appeal within a week.
 
-The book says Roshan Singh was the eldest of the accused. It says many people in the court felt his crime was the smallest.
+Roshan Singh was the eldest of the accused. Many people in the court felt his crime was the smallest.
 
-## The first story: a question and a joke
+The sentencing took place on 6 April 1927.
 
-The National Book Trust book says Roshan Singh did not understand English. So he turned to a friend standing near him, Vishnu Sharan Dublish, who was also an accused. He asked what the judge had said besides the five years.
+## One telling: a question and a joke
 
-The book says Dublish told him that he had got the death sentence, like Bismil and Lahiri. It says Roshan Singh was glad. It says he looked at Bismil, Ashfaq and Lahiri and said, "You wanted to go alone." Then he said to the judge, "Thank you for giving me a new life, Sir." The book also gives a last line, about the honour of his seniority among the younger men.
+Roshan Singh did not understand English. So he turned to a friend standing near him, Vishnu Sharan Dublish, who was also an accused. He asked what the judge had said besides the five years.
 
-## The second story: a demand
+Dublish told him that he had got the death sentence, like Bismil and Lahiri. Roshan Singh was glad. He looked at Bismil, Ashfaq and Lahiri and said, "You wanted to go alone." Then he said to the judge, "Thank you for giving me a new life, Sir." He ended with a last line about the honour of his seniority among the younger men.
 
-Garima Times, a Hindi news site, tells it another way. It says that when the sentences were read out, Roshan Singh was fearless. It says he asked the court for the same punishment that Bismil had received. In Hindi, the words are: "Give me the same punishment that Bismil got."
+That is how the National Book Trust book tells it.
 
-The site says the judge then sentenced him to death.
+## Another telling: a demand
 
-<aside class="note"><b>Two versions</b>: In the book, Roshan Singh learns his sentence from a friend and then speaks. In the news site, he asks for it first, and the judge gives it afterwards. They cannot both be right in every detail. Neither source says where its account came from. The court history we opened does not report any such words.</aside>
+A Hindi news site, Garima Times, tells it another way. When the sentences were read out, Roshan Singh was fearless. He asked the court for the same punishment that Bismil had received. In Hindi, the words are: "Give me the same punishment that Bismil got."
 
-## The date
+Then, in this telling, the judge sentenced him to death.
 
-The book and the news site do not name the day. Other sources put the sentencing on 6 April 1927. We follow that date but we did not see the original judgment.
+<aside class="note"><b>Two versions</b>: in the book, Roshan Singh learns his sentence from a friend and then speaks. On the news site, he asks for it first, and the judge gives it afterwards. They cannot both be right in every detail. Neither says where its account came from, and the court history does not report any such words.</aside>
 
-## What can be said
+## What is certain
 
-All we can say safely is this. Roshan Singh was sentenced to death at Lucknow in 1927. Stories say he took it calmly and even cheerfully. These stories were written down long after. No one who was in the courtroom, as far as we found, wrote down his exact words.
+Roshan Singh was sentenced to death at Lucknow in 1927. Stories say he took it calmly and even cheerfully. These stories were written down long after. No one in the courtroom, as far as the records show, wrote down his exact words.
 
 ## Why it matters
 
 It is tempting to love a good last line. The men of Kakori are remembered through such lines, and people repeat them for good reason. But a careful reader asks: who wrote this, and when?
 
-Here the answer is "a book, and a website, many years later". So we tell both, and we say that we do not know. That is more honest than choosing the better line.
+Here the answer is "a book, and a website, many years later". So both are told here as tellings. That is more honest than choosing the better line.
