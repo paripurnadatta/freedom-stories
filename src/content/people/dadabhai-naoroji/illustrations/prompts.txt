@@ -1,0 +1,32 @@
+ILLUSTRATIONS NEEDED: Dadabhai Naoroji. Two paintings, one for each story that has no real picture at the top. Only owner-generated, automatically labelled illustrations. Nobody's face is shown (the other stories use real photographs of him).
+------------------------------------------------------------------------------
+
+==============================================================================
+1. The oil lamp and the girls' schools  (short story)
+==============================================================================
+FILE NAME: the-oil-lamp-and-the-girls-schools
+Save it as the-oil-lamp-and-the-girls-schools.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The oil lamp and the girls' schools", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A Bombay sitting room in the 1840s in the evening, with a carved wooden ceiling and a brass oil lamp burning on a low table. An older Parsi gentleman in a long white coat and tall dark hat sits on a cushioned chair, seen from the side and behind. A young man in a white coat leans forward as he talks, also with his face turned away. Through an open window, the lamps of the town glow in the dusk, and a little girl's school slate lies on a nearby shelf. Quiet, thoughtful mood. No flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate nineteenth-century western Indian (Bombay and Gujarat) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A year in Baroda  (short story)
+==============================================================================
+FILE NAME: a-year-in-baroda
+Save it as a-year-in-baroda.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A year in Baroda", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The courtyard of a large palace in a princely state in western India in 1874, early morning, with arched stone galleries and a fountain. A tall man in a white coat and a dark Parsi cap walks along a gallery holding a roll of papers, seen from behind. Court officials in turbans stand in small groups in the courtyard, far away, talking quietly. Soft light, a grave, uncertain mood. No weapons, no poison, no flag, no readable writing. Nobody's face is shown.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate nineteenth-century western Indian (Bombay and Gujarat) clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
