@@ -140,3 +140,31 @@ November 1940, the inside of a small district courtroom in northern India, in pl
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
+==============================================================================
+10. London in suspense  (flagship story)
+==============================================================================
+FILE NAME: london-in-suspense
+Save it as london-in-suspense.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "London in suspense", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late September 1938, a London park in the grey evening: long fresh trenches dug across the grass, a tall anti-aircraft gun under a tarpaulin, and a wooden hut with a stack of gas-mask boxes on a table. In the distance the Houses of Parliament with its clock tower under heavy clouds. A few ordinary Londoners in coats and hats walk past, seen far away from behind. No faces, no flag, no swastika or other symbols, no readable text, no violence. A tense, waiting mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+==============================================================================
+11. "Give us a road or we die"  (flagship story)
+==============================================================================
+FILE NAME: give-us-a-road-or-we-die
+Save it as give-us-a-road-or-we-die.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Give us a road or we die", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+May 1938, a narrow mountain bridle-path in the Garhwal Himalayas above the place where two rivers, one milky green and one grey-blue, meet and join into one wide river far below. A line of travelling horses with riders seen far away from behind, a few pilgrims on foot, wild yellow jasmine along the track, and bare terraced hillsides. In the sky, a small old-fashioned propeller aeroplane. Snow peaks in the far distance. No faces, no flag, no readable text. A hopeful, spacious mood. Wide cinematic composition.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

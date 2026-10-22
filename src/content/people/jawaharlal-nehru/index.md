@@ -126,6 +126,14 @@ angles:
     type: flagship
     hook: "At his trial in 1940 he said it was the British Empire, not he, that was on trial."
     story: "a-symbol-on-trial"
+  - title: "London in suspense"
+    type: flagship
+    hook: "In September 1938 he was in London as everyone feared war. He fetched a gas mask."
+    story: "london-in-suspense"
+  - title: "\"Give us a road or we die\""
+    type: flagship
+    hook: "He flew over Garhwal in five hours. A trip on foot took five weeks. The people begged for a road."
+    story: "give-us-a-road-or-we-die"
   - title: "Two homes, two meanings"
     type: flagship
     hook: "How did a family house become a base for the freedom movement?"
