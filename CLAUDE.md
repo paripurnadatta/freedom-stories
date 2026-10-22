@@ -148,25 +148,25 @@ which ones should be redone and why.
 
 | Subject | Stories | Paintings |
 |---|---|---|
-| Bhagat Singh | 16 | 1 prompt waiting |
+| Bhagat Singh | 16 | done |
 | Chandrashekhar Azad | 9 | done |
 | Subhas Chandra Bose | 13 | done |
 | Mahatma Gandhi | 19 | done |
-| Ashfaqulla Khan | 6 (2 flagship) | 2 prompts waiting |
+| Ashfaqulla Khan | 6 (2 flagship) | done |
 | Batukeshwar Dutt | 6 (2 flagship) | done |
-| Ram Prasad Bismil | 6 (2 flagship) | 1 prompt waiting |
+| Ram Prasad Bismil | 6 (2 flagship) | done |
 | Sukhdev Thapar | 6 (2 flagship) | done |
-| Kakori train action (event) | 6 (2 flagship) | 4 prompts waiting |
-| Kamala Nehru | 6 (2 flagship) | 5 prompts waiting |
-| B. R. Ambedkar | 14 (4 flagship, 10 short) | 12 prompts waiting |
-| Jawaharlal Nehru | 13 (5 flagship, 8 short) | 12 prompts waiting |
+| Kakori train action (event) | 6 (2 flagship) | done |
+| Kamala Nehru | 6 (2 flagship) | done |
+| B. R. Ambedkar | 14 (4 flagship, 10 short) | done |
+| Jawaharlal Nehru | 13 (5 flagship, 8 short) | done |
 | Rani Lakshmibai | 7 (2 flagship) | no prompts yet |
 | Bal Gangadhar Tilak | 9 (2 flagship) | no prompts yet |
 | Lala Lajpat Rai | 7 (2 flagship) | no prompts yet |
 | Sarojini Naidu | 7 (2 flagship) | no prompts yet |
-| Shivaram Rajguru | 6 (2 flagship) | 2 prompts waiting |
-| Durga Bhabhi | 6 (2 flagship) | 5 prompts waiting |
-| Rajendra Lahiri | 6 (2 flagship) | 4 prompts waiting |
-| Roshan Singh | 6 (2 flagship) | 4 prompts waiting |
+| Shivaram Rajguru | 6 (2 flagship) | done |
+| Durga Bhabhi | 6 (2 flagship) | done |
+| Rajendra Lahiri | 6 (2 flagship) | done |
+| Roshan Singh | 6 (2 flagship) | done |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Azad and Ashfaqulla (need outside research); more flagships for the four new subjects if sources allow.
