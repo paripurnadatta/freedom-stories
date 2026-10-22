@@ -3,10 +3,10 @@ id: IF-0119
 kind: person
 name: "Roshan Singh"
 wikidata: "Q7368818"
-summary: "Revolutionary executed in connection with the Kakori case."
-born: "1892"
-died: "1927"
-year: 1924
+summary: "Former Non-Cooperation activist who joined the Hindustan Republican Association; convicted in the wider Kakori conspiracy case and executed at Allahabad on 19 December 1927."
+born: "1892 or 1894 (sources disagree)"
+died: "19 December 1927"
+year: 1925
 region: "United Provinces"
 role: "Revolutionary / activist"
 places:
@@ -14,20 +14,38 @@ places:
   - "Shahjahanpur district"
 related:
   - "kakori-train-action"
+  - "ram-prasad-bismil"
+  - "rajendra-lahiri"
+  - "ashfaqulla-khan"
 sources:
-  - title: "Dictionary of Martyrs: India's Freedom Struggle, Vol. 2 Part II"
-    url: "https://culture.gov.in/files/publications_documents/Martyrs_Vol_2_Part_II_06_03_2019_4.pdf"
-    publisher: "Ministry of Culture, Government of India"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Hanged for Patriotism"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
+  - title: "History of the Court in Avadh"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court / H. K. Ghose"
+  - title: "Ashfaqullah and Bismil hanged: Kakori history"
+    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-robbery-action-9074349/"
+    publisher: "The Indian Express"
+  - title: "Roshan Singh"
+    url: "https://en.wikipedia.org/wiki/Roshan_Singh"
+    publisher: "Wikipedia (weakly sourced; conflict only)"
 image:
   src: "/files/people/roshan-singh/portrait.webp"
   alt: "Roshan Singh"
-  caption: "Roshan Singh"
-  credit: "Unknown author Unknown author · ত্রৈলোক্যনাথ চক্রবর্তী, জেলে ত্রিশ বছর পাক ভারতের স্বাধীনতা সংগ্রাম, ধ্রুপদ সাহিত্যাঙ্গন, ঢাকা, ঢাকা বইমেলা ২০০৪, পৃষ্ঠা ২৪৩।"
-  license: "Public domain"
+  caption: "Roshan Singh (historical image reproduced in a later Bengali book)"
+  credit: "Unknown original author; reproduced in Trailokyanath Chakravarty, Jele Trish Bachar"
+  license: "Public domain (India/Bangladesh), CC BY-SA 4.0 also listed"
   sourceUrl: "https://commons.wikimedia.org/wiki/File:Roshan_Singh.jpg"
+angles:
+  - title: "In the case, but not on the train?"
+    type: short
+    hook: "A famous train robbery gave its name to a much larger trial."
+    story: "the-man-in-the-case-not-on-the-train"
+  - title: "The road from protest to the HRA"
+    type: short
+    hook: "Before the Kakori sentence, Roshan had worked in a nonviolent protest movement."
+    story: "the-road-from-protest-to-hra"
 ---
 
 <!--

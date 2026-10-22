@@ -2,10 +2,10 @@
 id: IF-0118
 kind: person
 name: "Rajendra Lahiri"
-summary: "The Bengali revolutionary organizer whose path from Banaras to Kakori and Dakshineswar ended on the gallows at Gonda"
-born: "1901"
-died: "1927"
-year: 1924
+summary: "Hindustan Republican Association organiser involved in the 1925 Kakori train action, sentenced in the case and executed at Gonda jail on 17 December 1927."
+born: "1901 or 1892 (sources disagree)"
+died: "17 December 1927"
+year: 1925
 region: "Bengal / United Provinces"
 role: "Revolutionary / activist"
 places: []
@@ -13,16 +13,29 @@ related:
   - "kakori-train-action"
   - "sachindranath-sanyal"
   - "ram-prasad-bismil"
+  - "roshan-singh"
 sources:
-  - title: "Dictionary of Martyrs: India's Freedom Struggle, Vol. 2 Part II"
-    url: "https://culture.gov.in/files/publications_documents/Martyrs_Vol_2_Part_II_06_03_2019_4.pdf"
-    publisher: "Ministry of Culture, Government of India"
-  - title: "The mastermind behind the Kakori conspiracy"
-    url: "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?12="
-    publisher: "Ministry of Culture, Government of India"
-  - title: "Unsung Heroes of India’s Freedom Struggle"
-    url: "https://amritmahotsav.nic.in/unsung-heroes.htm"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "History of the Court in Avadh"
+    url: "https://www.allahabadhighcourt.in/event/HistoryOfTheCourtInAvadhFrom1856HKGhose.pdf"
+    publisher: "Allahabad High Court / H. K. Ghose"
+  - title: "The Kakori Train Action"
+    url: "https://indianexpress.com/article/explained/explained-history/kakori-train-action-full-story-british-raj-10825020/lite/"
+    publisher: "The Indian Express"
+  - title: "Hanged for Patriotism"
+    url: "https://www.nbtindia.gov.in/writereaddata/freebooks/pdf/Hanged%20for%20Petriotism.pdf"
+    publisher: "National Book Trust, India"
+  - title: "Remembering Rajendranath Lahiri"
+    url: "https://m.thewire.in/article/history/rajendranath-lahiri-indian-revolutionary/amp"
+    publisher: "The Wire"
+angles:
+  - title: "The chain at Kakori"
+    type: short
+    hook: "One pull stopped a train, but a passenger lost his life during the robbery."
+    story: "the-chain-at-kakori"
+  - title: "The date that came early"
+    type: short
+    hook: "Why was Rajendra Lahiri executed two days before the three others?"
+    story: "the-date-that-came-early"
 ---
 
 <!--
