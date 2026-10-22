@@ -38,53 +38,49 @@ This story follows those two years. We must say at the start that the record is 
 
 ## A last meeting in a Delhi park
 
-Maclean writes that in early April 1929, Durga Devi met four people at Qudsia Park in Delhi. They were her husband, Chandrashekhar Azad, Bhagat Singh and her sister-in-law Sushila.
+In early April 1929, Durga Devi met four people at Qudsia Park in Delhi, Maclean writes. They were her husband, Chandrashekhar Azad, Bhagat Singh and her sister-in-law Sushila.
 
-Bhagat Singh was about to carry out the attack on the Central Assembly. Maclean says Sushila pricked her own thumb and put a tika of her blood on Bhagat Singh's forehead, as a blessing.
+Bhagat Singh was about to carry out the attack on the Central Assembly. Sushila pricked her own thumb and put a tika of her blood on Bhagat Singh's forehead, as a blessing.
 
 <aside class="note"><b>Tika</b>: a mark put on the forehead, often as a blessing before a journey or a hard task.</aside>
 
-Maclean tells one more small story from that day. She says that as the police led Bhagat Singh away, little Sachi called out, "Lamba Chacha!" That means "Tall Uncle". Bhagat Singh looked up. Maclean says that glance could have led the police to his friends.
+There was one more small moment that day. As the police led Bhagat Singh away, little Sachi called out, "Lamba Chacha!" That means "Tall Uncle". Bhagat Singh looked up. That glance could have led the police to his friends, Maclean says.
 
-<aside class="note"><b>One version</b>: This story comes only from Maclean's excerpt, and it is a memory told long afterwards. We did not find it in any record from the time.</aside>
+<aside class="note"><b>One version</b>: this story comes only from Maclean's excerpt, and it is a memory told long afterwards. We did not find it in any record from the time.</aside>
 
 ## The factory is found
 
-Later in 1929, Maclean says, the police raided the group's bomb factory at Kashmir House in Lahore. It was rented in the name of Durga Devi's husband. Sukhdev, Jai Gopal and Kishori Lal were arrested. Bhagwati Charan went into hiding.
+Later in 1929, the police raided the group's bomb factory at Kashmir House in Lahore. It was rented in the name of Durga Devi's husband. Sukhdev, Jai Gopal and Kishori Lal were arrested. Bhagwati Charan went into hiding.
 
-Durga Devi was now alone with her son. Maclean says the police tried to seize the family's house. She hired a lawyer to fight them.
+Durga Devi was now alone with her son. The police tried to seize the family's house. She hired a lawyer to fight them.
 
-A family friend, Ram Chandra, later told Maclean's sources that she was a kind of "post box". Letters and messages for the revolutionaries came through her. She also supported the families of men who were in jail.
+She became a kind of "post box", a family friend, Ram Chandra, later told Maclean's sources. Letters and messages for the revolutionaries came through her. She also supported the families of men who were in jail.
 
-J. N. Sahni, the editor of the *Hindustan Times*, said he saw her in Delhi in early 1930. According to Maclean, he said she carried pistols under her clothes.
-
-We must label this. It is one man's report, written down later.
+J. N. Sahni, the editor of the *Hindustan Times*, said he saw her in Delhi in early 1930. According to Maclean, he said she carried pistols under her clothes. We must label this. It is one man's report, written down later.
 
 ## The Viceroy's train
 
-The National Book Trust book says her husband took part in a plan to blow up the Viceroy's train in December 1929. One carriage was blown up, but the Viceroy was saved.
+Her husband took part in a plan to blow up the Viceroy's train in December 1929, says the National Book Trust book. One carriage was blown up, but the Viceroy was saved.
 
 The book is a short note and gives no more. Maclean's excerpt does not mention it. We have no second source.
 
 ## A funeral for Jatin Das
 
-Jatin Das died after a hunger strike of sixty-three days in a Lahore jail. Wikipedia gives that number.
+Jatin Das died after a hunger strike of sixty-three days in a Lahore jail. That is the number given by Wikipedia.
 
-Wikipedia says Durga Devi led his funeral procession from Lahore to Calcutta, with big crowds along the way. Maclean's excerpt says she was named in a procession mourning Jatin Das. Maclean also says she led a procession on a "Bhagat Singh and Dutt Day", but gives the date as July 1929.
+Durga Devi led his funeral procession from Lahore to Calcutta, with big crowds along the way, says Wikipedia. Maclean's excerpt says she was named in a procession mourning Jatin Das. Maclean also says she led a procession on a "Bhagat Singh and Dutt Day", but gives the date as July 1929.
 
-<aside class="note"><b>Two versions</b>: Did she lead the funeral procession, or only take part in a mourning one? Wikipedia and Maclean's excerpt are not the same here. We do not know what she did, only that she was there.</aside>
+<aside class="note"><b>Two versions</b>: did she lead the funeral procession, or only take part in a mourning one? Wikipedia and Maclean's excerpt are not the same here. We do not know what she did, only that she was there.</aside>
 
 ## 28 May 1930
 
-Maclean says that Bhagwati Charan Vohra died on 28 May 1930. He was testing a bomb near the river Ravi when it exploded too soon. The police found his body later, in a shallow grave.
-
-The Quint gives the same date and place. The National Book Trust book says only that he died in 1930, testing a bomb on the banks of the Ravi.
+Bhagwati Charan Vohra died on 28 May 1930. He was testing a bomb near the river Ravi when it exploded too soon. The police found his body later, in a shallow grave. Maclean gives these details, and The Quint gives the same date and place. The National Book Trust book says only that he died in 1930, testing a bomb on the banks of the Ravi.
 
 She had lost her husband. She now had to hide.
 
 ## Leaving Lahore
 
-Maclean says she stayed first with Kewal Kishan Engineer. Then she stayed three weeks with her sister-in-law Sushila, at the home of Rana Jang Bahadur Singh.
+She stayed first with Kewal Kishan Engineer. Then she stayed three weeks with her sister-in-law Sushila, at the home of Rana Jang Bahadur Singh.
 
 She left Lahore wearing a burqa. For about a month she stayed with a woman named Sridevi Musaddi.
 
@@ -94,21 +90,19 @@ After this, Maclean says, her path is "somewhat unclear".
 
 ## Bombay, October 1930
 
-Maclean says that on 8 October 1930, at midnight, shots were fired at a police sergeant and his wife outside the Lamington Road police station in Bombay. She names three people: Durga Devi, Prithvi Singh and a driver named J. B. Bapat. She says it was the day after the death sentences for Bhagat Singh, Sukhdev and Rajguru.
+On 8 October 1930, at midnight, shots were fired at a police sergeant and his wife outside the Lamington Road police station in Bombay. Maclean names three people: Durga Devi, Prithvi Singh and a driver named J. B. Bapat. It was the day after the death sentences for Bhagat Singh, Sukhdev and Rajguru.
 
-The sergeant, Taylor, was hit through the hand. Mrs Taylor had three wounds in her leg. Maclean says nobody died.
+The sergeant, Taylor, was hit through the hand. Mrs Taylor had three wounds in her leg. Nobody died.
 
-She says the plan was first to attack the Governor, but they could not reach him. She also says the attack broke the group's own rule, since Azad had not agreed to it.
+The plan was first to attack the Governor, but they could not reach him. Maclean also says the attack broke the group's own rule, since Azad had not agreed to it.
 
-Maclean says the police then hunted a "young, fair, good-looking" woman. They called her Sharda Devi. She had already left Bombay. No one was convicted for the shooting.
+The police then hunted a "young, fair, good-looking" woman. They called her Sharda Devi. She had already left Bombay. No one was convicted for the shooting.
 
-Now the other accounts.
+Other accounts tell it differently. Wikipedia says that after Bhagat Singh's trial, she tried to kill Lord Hailey, who was the Governor of the Punjab, and that some of her companions were hurt. It says she was arrested and spent three years in prison.
 
-Wikipedia says something else. It says that after Bhagat Singh's trial, she tried to kill Lord Hailey, who was the Governor of the Punjab, and that some of her companions were hurt. It says she was arrested and spent three years in prison.
+The National Book Trust book gives a third version. She and others shot at Sergeant Taylor and his wife, and some other officers, on 1 October 1931. The book says this was "to avenge the hanging of Bhagat Singh".
 
-The National Book Trust book gives a third version. It says she and others shot at Sergeant Taylor and his wife, and some other officers, on 1 October 1931. The book says this was "to avenge the hanging of Bhagat Singh".
-
-<aside class="note"><b>Three versions</b>: Maclean says 8 October 1930, in Bombay, after the death sentences. The NBT book says 1 October 1931, after the hangings of 1931. Wikipedia names a different target, Lord Hailey, and a three-year prison sentence. Maclean says no one was convicted for Lamington Road. In another article she says Durga Devi gave herself up in Lahore on 14 September 1932 and was held for two months, then kept to Lahore for a year. The accounts cannot all be right. We have not seen a court record.</aside>
+<aside class="note"><b>Three versions</b>: Maclean says 8 October 1930, in Bombay, after the death sentences. The NBT book says 1 October 1931, after the hangings of 1931. Wikipedia names a different target, Lord Hailey, and a three-year prison sentence. In another article Maclean says Durga Devi gave herself up in Lahore on 14 September 1932 and was held for two months, then kept to Lahore for a year. The accounts cannot all be right. We have not seen a court record.</aside>
 
 We have chosen to tell Maclean's version in the most detail. She quotes press reports from the time. But a careful reader should remember there are others.
 

@@ -36,23 +36,23 @@ Every year in Maharashtra, huge Ganesh idols stand in streets, and large crowds 
 
 ## Before the streets
 
-Wikipedia says nobody knows exactly when or how the festival was first held in public. It says the Peshwa rulers of Pune, who were devotees of Ganesha, held a public festival in the 1700s. It marks that claim as needing a better source.
+Nobody knows exactly when or how the festival was first held in public. The Peshwa rulers of Pune, who were devotees of Ganesha, held a public festival in the 1700s, according to Wikipedia. It marks that claim as needing a better source.
 
-Under British rule, says Wikipedia, the festival lost the support of the state. In Maharashtra it became mostly a family celebration at home.
+Under British rule the festival lost the support of the state. In Maharashtra it became mostly a family celebration at home.
 
 ## A man named Rangari
 
-Both Wikipedia and Brut India name a man called Bhausaheb Rangari. Wikipedia calls him a royal physician and freedom fighter. It gives the year as 1892. It says another man, Krishnajipant Khasgiwale, saw a public celebration in Gwalior and suggested one for Pune. Rangari then placed a public idol in his house in Shalukar Bol, Pune.
+A man called Bhausaheb Rangari is named by both Wikipedia and Brut India. Wikipedia calls him a royal physician and freedom fighter, and gives the year as 1892. Another man, Krishnajipant Khasgiwale, saw a public celebration in Gwalior and suggested one for Pune. Rangari then placed a public idol in his house in Shalukar Bol, Pune.
 
-Brut India says he is also known as Bhausaheb Laxman Javale. It says some research puts his public festival in 1892, but that sources disagree on whether the start was 1892 or 1893.
+He is also known as Bhausaheb Laxman Javale, says Brut India. Some research puts his public festival in 1892, but sources disagree on whether the start was 1892 or 1893.
 
 ## What Tilak did
 
-Both pieces say that in 1893 Tilak wrote in favour of the public festival. Brut India names his newspapers, *Kesari* and *The Mahratta*. Wikipedia says he worked to make the festival large and organised. Brut India adds that in 1894 he set up his own public idol at Vinchurkar Wada in Pune, and that groups called mandals began to appear across the city.
+In 1893 Tilak wrote in favour of the public festival. His newspapers were *Kesari* and *The Mahratta*. He worked to make the festival large and organised. In 1894 he set up his own public idol at Vinchurkar Wada in Pune, and groups called mandals began to appear across the city.
 
-Brut India says his greatest work was to spread and grow the movement, not to begin it. By 1905, it reports, public festivals were held in 72 towns outside Pune. This comes from research that Brut cites from *The Indian Express*.
+His greatest work was to spread and grow the movement, not to begin it, says Brut India. By 1905, public festivals were held in 72 towns outside Pune. This comes from research that Brut cites from *The Indian Express*.
 
-<aside class="note"><b>Two versions</b>: Was Tilak the founder, or the man who made the festival big? The Deccan Herald published a story in 2017 with the title "A challenge to Tilak's claim," but we could only read its summary and not its text. Wikipedia and Brut India give Rangari the first public idol and Tilak the wider push.</aside>
+<aside class="note"><b>Two versions</b>: was Tilak the founder, or the man who made the festival big? Wikipedia and Brut India give Rangari the first public idol and Tilak the wider push. The Deccan Herald published a story in 2017 with the title "A challenge to Tilak's claim," but we could only read its summary and not its text.</aside>
 
 <figure class="plate">
   <img src="/files/people/bal-gangadhar-tilak/archive/kesari-wada-pune.webp" alt="The front of Kesari Wada in Pune, with a white dome over the entrance and the word Kesari on the wall" loading="lazy" />
@@ -61,11 +61,13 @@ Brut India says his greatest work was to spread and grow the movement, not to be
 
 ## Why Tilak wanted it
 
-Brut India says British limits on political meetings made a religious festival useful for bringing people together. Wikipedia quotes the historian Richard Cashman, who says Tilak felt Hindus were poorly organised after riots between Hindus and Muslims in 1893. Wikipedia also says Tilak called Ganesha "the god for everybody."
+British limits on political meetings made a religious festival useful for bringing people together, says Brut India. The historian Richard Cashman says Tilak felt Hindus were poorly organised after riots between Hindus and Muslims in 1893. Wikipedia quotes him. Tilak also called Ganesha "the god for everybody."
 
 ## Not everyone saw it as friendly
 
-The festival also had a harder side. Wikipedia says the Hindu processions may have been influenced by the Muharram processions of Shia Muslims, which were allowed. It says the British reportedly proposed licences for Muslim processions only, which Hindu leaders called unfair. Wikipedia's article on Tilak says historians think these festivals raised tension between Hindus and Muslims, and that some organisers urged boycotts of the Muharram observances of Shia Muslims.
+The festival also had a harder side. The Hindu processions may have been influenced by the Muharram processions of Shia Muslims, which were allowed, says Wikipedia. The British reportedly proposed licences for Muslim processions only, which Hindu leaders called unfair.
+
+Historians think these festivals raised tension between Hindus and Muslims, says Wikipedia's article on Tilak. Some organisers urged boycotts of the Muharram observances of Shia Muslims.
 
 ## Why it matters
 
