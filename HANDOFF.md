@@ -107,3 +107,7 @@ The owner sent wishlist-pictures.zip (198 pictures chosen from the 1,951-picture
 - **Not placed**: about 40 modern Aga Khan Palace photos and plaques; Gandhi film slides and the Harijan covers (licence not confirmed); hangings and battle scenes; colourised or watermarked portraits; tiny 1916 Ghadar trial portraits; people with no subject page yet (Chapekar brothers, Sarala Devi, Bhulabhai Desai, Kanailal Dutta, Suhasini Ganguly, Hari Kishan, Vanchi Iyer, Obaidullah Sindhi).
 - `media.json` files touched were rewritten with `json.dump(indent=1)`, so the git diff is large but only the added items are new.
 - Not yet used as story plates; a pass could add the best ones (Kakori group, Bande Mataram 1907, Ghadar handbills) inside stories.
+
+## Paintings, Remaining5.1 batch (23 October 2026)
+Placed 25 paintings plus home-hero (the home page now shows the painted hero). Still waiting: INA four-brigades-and-a-motto and the-exile-and-the-bakery (redo), and Khudai Khidmatgar the-vote-the-red-shirts-did-not-cast (redo: a sign reads "POLLING"; prompt tightened).
+Noted but kept: babarra-12-august-1948 shows a red cloth and sandals on the road (aftermath, no body); the-days-the-city-burned shows the Gateway of India, which was not finished until 1924 (story is Nov 1921); gulab-kaur-and-the-bangles has a blank face; small plain pennants in a-grave-in-jalalabad and the-water-pitchers-of-takkar; the-doctor-from-utmanzai shows a red cross and a poster with a face.
