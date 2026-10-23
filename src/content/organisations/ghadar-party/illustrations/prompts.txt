@@ -1,0 +1,101 @@
+ILLUSTRATIONS NEEDED: Ghadar Party
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. A sawmill, a press and a newspaper called Revolt  (flagship story)
+==============================================================================
+FILE NAME: a-sawmill-a-press-and-a-newspaper-called-revolt
+Save it as a-sawmill-a-press-and-a-newspaper-called-revolt.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A sawmill, a press and a newspaper called Revolt", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1913, the upstairs room of a plain wooden house in San Francisco. A small hand-operated printing press stands against one wall, with stacks of printed sheets drying on a table. Four or five men in working clothes and turbans, seen from behind and at a distance, fold and bundle the sheets. Late-evening lamp light through a window, with the foggy bay beyond. Busy, quiet, determined mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The rising set for the twenty-first  (flagship story)
+==============================================================================
+FILE NAME: the-rising-set-for-the-twenty-first
+Save it as the-rising-set-for-the-twenty-first.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The rising set for the twenty-first", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+February 1915, a cavalry barracks yard in Punjab at night. Rows of horses in a stable and a long low brick building with lamps glowing in a few windows. In the foreground, two men in plain village clothes and turbans stand close together in the shadows and whisper, seen from behind. Dark indigo night with warm amber lamplight. Secret, tense mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The ship that was not allowed to land  (flagship story)
+==============================================================================
+FILE NAME: the-ship-that-was-not-allowed-to-land
+Save it as the-ship-that-was-not-allowed-to-land.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The ship that was not allowed to land", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Summer 1914, a steamship at anchor in Vancouver's harbour with snow-capped mountains behind. The deck is crowded with turbaned passengers looking toward the city shore, seen from far away. A small tug and two harbour boats wait in the water between ship and shore. Cool morning light, gray-blue water. Waiting, quiet, uneasy mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The boy they called Baba Gernal  (short story)
+==============================================================================
+FILE NAME: the-boy-they-called-baba-gernal
+Save it as the-boy-they-called-baba-gernal.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The boy they called Baba Gernal", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1912, a lumber mill yard in Oregon: tall stacks of cut timber, a log pond and a steam whistle. A thin teenage Punjabi boy in a turban and work clothes sits on a log at lunchtime reading a folded newspaper, seen from behind and at a distance, with an older bearded Sikh worker beside him. Forest and mountains behind. Warm afternoon light. Thoughtful mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Mewa Singh and the Vancouver courthouse  (short story)
+==============================================================================
+FILE NAME: mewa-singh-and-the-vancouver-courthouse
+Save it as mewa-singh-and-the-vancouver-courthouse.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Mewa Singh and the Vancouver courthouse", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1914, a stone courthouse in Vancouver on a grey autumn morning, with wide steps, tall columns and wet pavement. A few men in turbans and Western coats stand quietly at the foot of the steps, seen from a distance. Nothing violent is shown. Solemn, heavy mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Gulab Kaur and the bangles  (short story)
+==============================================================================
+FILE NAME: gulab-kaur-and-the-bangles
+Save it as gulab-kaur-and-the-bangles.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Gulab Kaur and the bangles", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+About 1914, an open courtyard in a Punjab village at dusk, with a mud-brick wall and a neem tree. A woman in a simple salwar and dupatta stands before a small gathering of villagers, seen from behind, with one raised hand. Glass bangles at her wrist catch the evening light. Goats and clay pots in the corners. Warm amber sky. Brave, quiet mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
