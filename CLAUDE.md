@@ -195,11 +195,11 @@ which ones should be redone and why.
 | Dadabhai Naoroji | 7 (2 flagship) | done |
 | Subramania Bharati | 7 (2 flagship) | done |
 | Udham Singh | 8 (2 flagship) | done |
-| Pritilata Waddedar | 6 (2 flagship) | 3 prompts waiting |
-| Indian National Congress (organisation) | 7 (4 flagship) | 7 prompts waiting |
-| HSRA with HRA (organisation) | 6 (2 flagship) | 5 prompts waiting |
-| Indian National Army (organisation) | 6 (2 flagship) | 6 prompts waiting |
-| Ghadar Party (organisation) | 6 (3 flagship) | 6 prompts waiting |
+| Pritilata Waddedar | 6 (2 flagship) | done |
+| Indian National Congress (organisation) | 7 (4 flagship) | done |
+| HSRA with HRA (organisation) | 6 (2 flagship) | done |
+| Indian National Army (organisation) | 6 (2 flagship) | 4 done, 2 waiting (redo) |
+| Ghadar Party (organisation) | 6 (3 flagship) | 5 done, 1 waiting |
 | Khudai Khidmatgar (organisation) | 6 (3 flagship) | 6 prompts waiting |
 | Revolt of 1857 (event) | 7 (3 flagship) | 7 prompts waiting |
 | Swadeshi Movement (event) | 6 (2 flagship) | 6 prompts waiting |
