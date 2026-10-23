@@ -189,12 +189,12 @@ which ones should be redone and why.
 | Surya Sen | 7 (2 flagship) | done |
 | Maulana Abul Kalam Azad | 7 (3 flagship) | done |
 | Sardar Vallabhbhai Patel | 7 (2 flagship) | done |
-| Birsa Munda | 7 (3 flagship) | 5 prompts waiting |
-| Khan Abdul Ghaffar Khan | 7 (3 flagship) | 4 prompts waiting |
-| Rani Velu Nachiyar | 6 (2 flagship) | 5 prompts waiting |
-| Dadabhai Naoroji | 7 (2 flagship) | 2 prompts waiting |
-| Subramania Bharati | 7 (2 flagship) | 5 prompts waiting |
-| Udham Singh | 8 (2 flagship) | 3 prompts waiting |
+| Birsa Munda | 7 (3 flagship) | done |
+| Khan Abdul Ghaffar Khan | 7 (3 flagship) | done |
+| Rani Velu Nachiyar | 6 (2 flagship) | done |
+| Dadabhai Naoroji | 7 (2 flagship) | done |
+| Subramania Bharati | 7 (2 flagship) | done |
+| Udham Singh | 8 (2 flagship) | done |
 | Pritilata Waddedar | 6 (2 flagship) | 3 prompts waiting |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); more flagships for the four new subjects if sources allow.
