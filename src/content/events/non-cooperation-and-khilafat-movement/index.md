@@ -2,9 +2,9 @@
 id: E-0035
 kind: event
 name: "Non-Cooperation and Khilafat Movement"
-summary: "Mass boycott and non-cooperation campaign led by Gandhi alongside Khilafat organizers."
-date: "1920"
-endDate: "1922"
+summary: "The first nation-wide mass campaign led by Gandhi, joined to the Khilafat movement of Indian Muslims. From 1920 Indians were asked to give up titles, government schools, courts and foreign cloth. It ended after the violence at Chauri Chaura in February 1922, and Gandhi was jailed that March."
+date: "1 August 1920"
+endDate: "12 February 1922"
 year: 1920
 region: "Pan-India"
 places:
@@ -74,9 +74,49 @@ related:
   - "surya-sen"
   - "india"
 sources:
+  - title: "Non-Cooperation Movement"
+    url: "https://en.wikipedia.org/wiki/Non-Cooperation_Movement"
+    publisher: "Wikipedia"
+  - title: "Non-Cooperation Movement"
+    url: "https://www.gktoday.in/non-cooperation-movement/"
+    publisher: "GKToday"
+  - title: "Khilafat movement"
+    url: "https://en.wikipedia.org/wiki/Khilafat_movement"
+    publisher: "Wikipedia"
+  - title: "Chauri Chaura incident"
+    url: "https://en.wikipedia.org/wiki/Chauri_Chaura_incident"
+    publisher: "Wikipedia"
+  - title: "Prince of Wales riots"
+    url: "https://en.wikipedia.org/wiki/Prince_of_Wales_riots"
+    publisher: "Wikipedia"
   - title: "Freedom Struggle theme"
     url: "https://amritmahotsav.nic.in/freedom-strugle"
     publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+angles:
+  - title: "One year to swaraj"
+    type: flagship
+    hook: "Gandhi asked India to stop helping the government that ruled it."
+    story: "one-year-to-swaraj"
+  - title: "Two brothers and a caliph"
+    type: flagship
+    hook: "Muhammad Ali and Shaukat Ali led the Khilafat movement beside Gandhi."
+    story: "two-brothers-and-a-caliph"
+  - title: "The fire at Chauri Chaura"
+    type: flagship
+    hook: "A march, a burning police station, and a movement called off."
+    story: "the-fire-at-chauri-chaura"
+  - title: "The days the city burned"
+    type: short
+    hook: "Bombay, November 1921, and Gandhi's fast."
+    story: "the-days-the-city-burned"
+  - title: "Gandhi in the Circuit House"
+    type: short
+    hook: "He pleaded guilty and asked for the heaviest sentence."
+    story: "gandhi-in-the-circuit-house"
+  - title: "A university free of the government"
+    type: short
+    hook: "Jamia Millia Islamia began in Aligarh in October 1920."
+    story: "a-university-free-of-the-government"
 ---
 
 <!--
