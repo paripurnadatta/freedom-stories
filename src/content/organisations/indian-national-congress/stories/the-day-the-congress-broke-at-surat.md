@@ -44,7 +44,17 @@ The group called Extremists, or Nationalists, included Bal Gangadhar Tilak, Lala
 
 The group called Moderates included Gopal Krishna Gokhale, Pherozeshah Mehta and Surendranath Banerjea. They wanted the boycott limited to Bengal and to foreign goods. They believed in constitutional methods, such as petitions and legal reform. They were ready to change or drop the Calcutta resolutions.
 
+<figure class="plate">
+  <img src="/files/organisations/indian-national-congress/archive/congress-group-bombay-1904.webp" alt="An old black-and-white group photograph of about twenty men in coats, turbans and caps, seated in two rows in front of a large tent with a scalloped edge." loading="lazy" />
+  <figcaption>Congress leaders at Bombay, December 1904, four years before Surat. The printed caption names Henry Cotton as president, and among the others William Wedderburn, Pherozeshah Mehta, Surendranath Banerjea and G. K. Gokhale.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Indian_National_Congress_1904.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 The split had been showing for two years. At the Banaras meeting in 1905, Tilak and his followers held a separate conference of their own. But they agreed to go on working inside the Congress.
+
+<figure class="plate">
+  <img src="/files/organisations/indian-national-congress/archive/tilak-print.webp" alt="A framed old black-and-white print of a man in a white robe and a small dark cap, sitting at a table and reading papers. A line of Marathi writing runs under it." loading="lazy" />
+  <figcaption>Bal Gangadhar Tilak, in a print made from a photograph. The Marathi line under it reads "Lokamanya Bal Gangadhar Tilak".<span class="credit">Unknown photographer, public domain in India. <a href="https://commons.wikimedia.org/wiki/File:Lokamanya_Bal_Gangadhar_Tilak%22_(1856-1920)_a_print_made_from_a_photo.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 <aside class="note"><b>Moderate and Extremist</b>: These were the names used at the time. The two groups differed over how bold the demands should be, and over what to boycott.</aside>
 

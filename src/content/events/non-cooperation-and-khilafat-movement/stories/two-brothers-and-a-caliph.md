@@ -31,6 +31,11 @@ status: published
 
 In 1920 two brothers from Rampur were among the best-known men in India. They were Muhammad Ali and Shaukat Ali. People called them the Ali brothers. They stood beside Gandhi, and for a while their cause and his were one.
 
+<figure class="plate">
+  <img src="/files/events/non-cooperation-and-khilafat-movement/archive/mohamed-ali-poster.webp" alt="A black-and-white printed poster. A bearded man in a cap is drawn inside a large round frame, with smaller drawings around it and Urdu and English words at the top and bottom." loading="lazy" />
+  <figcaption>A printed poster of Maulana Mohamed Ali, titled "India's Hero of National Liberation". The artist and the printing date are not known.<span class="credit">Unknown artist, public domain (a copy of an old printed work). <a href="https://commons.wikimedia.org/wiki/File:Maulana_Mohamed_Ali,_India%27s_Hero_of_National_Liberation.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## A mother's wish
 
 Muhammad Ali was born on 10 December 1878 in Rampur. His family was rich. His father died when he was about five. His mother, Abadi Begum, was determined that her sons would be educated. His brothers included Shaukat Ali and Zulfiqar Ali.

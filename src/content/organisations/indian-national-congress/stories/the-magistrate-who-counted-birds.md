@@ -58,6 +58,11 @@ In 1886 and 1887 Hume tried to bring farmers, townspeople and Muslims into the C
 
 <aside class="note"><b>The "safety valve"</b>: Some writers say Hume started the Congress to give angry Indians a safe outlet. Another page says the idea rests on seven volumes of secret reports that never existed, and that William Wedderburn invented them to show Hume as a loyal Briton. Historians also point out that Dufferin did not trust Hume.</aside>
 
+<figure class="plate">
+  <img src="/files/organisations/indian-national-congress/archive/william-wedderburn.webp" alt="An old black-and-white portrait of a bearded man in a dark suit, sitting and reading a small book." loading="lazy" />
+  <figcaption>Sir William Wedderburn. The printed words under the picture call him president of the fourth Congress, Bombay, 1889.<span class="credit">Photograph from about 1905, via Paper Jewels, CC BY 4.0. <a href="https://commons.wikimedia.org/wiki/File:William-wdderburn_0.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## The last years
 
 Hume's wife, Mary, died on 30 March 1890. He left India in 1894 and settled at Upper Norwood in south London. Near the end of his life he founded the South London Botanical Institute.
