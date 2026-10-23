@@ -90,13 +90,13 @@ Her husband belonged to a different community from hers, which made the marriage
 
 What did her family think? Here the sources disagree. Wikipedia calls the marriage "groundbreaking and scandalous", and says both families approved. EBSCO says the marriage cut her off from her family, friends and society. Both cannot be fully true. We do not know which is closer.
 
-Wikipedia says they had five children. Encyclopedia.com and EBSCO say four.
+<aside class="note"><b>How many children?</b> Wikipedia says they had five children. Encyclopedia.com and EBSCO say four.</aside>
 
 ## The first book
 
 Her first book of poems was *The Golden Threshold*, printed in London in 1905. Symons wrote the introduction. Gosse had suggested the book. In it she says that Gosse "first showed me the way to the Golden Threshold."
 
-Banglapedia says that this book earned her the name "Bulbul-e-Hind", the nightingale of India.
+One account says this book earned her the name "Bulbul-e-Hind", the nightingale of India.
 
 ## After the first book
 

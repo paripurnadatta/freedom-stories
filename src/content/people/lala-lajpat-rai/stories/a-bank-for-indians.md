@@ -50,7 +50,7 @@ The board came from different parts of India and from different faiths. The foun
 
 Was Lajpat Rai a founder of the bank? The bank's own page says he was the first person to open an account, and that he joined the board soon after. It names him as the man who called for the bank by circular.
 
-Wikipedia's article on the bank does not list him among the founders. It says only that he took an active part in managing it in the early years. The article on Rai says he was "linked" with the Punjab National Bank and with the Lakshmi Insurance Company.
+The long article on the bank does not list him among the founders. It says only that he took an active part in managing it in the early years. The article on Rai says he was "linked" with the Punjab National Bank and with the Lakshmi Insurance Company.
 
 All agree that he was part of it. The only question is the word for his part. "He helped start the bank" is safe. "Founder" depends on who counts as one.
 

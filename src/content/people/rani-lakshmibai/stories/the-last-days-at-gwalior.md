@@ -62,11 +62,11 @@ At half past seven in the morning, units of the 95th Regiment fought rebels led 
 
 ## How did she die?
 
-All our sources agree that she died fighting. After that, they part.
+All the accounts agree that she died fighting. After that, they part.
 
-Wikipedia says the exact way is unknown, and gives the date as 18 June 1858. Britannica says she was killed on 17 or 18 June. She "may have been shot or stabbed by a saber or both," it says, and adds that India marks her death on 18 June.
+The exact way is unknown. India marks her death on 18 June 1858, though some accounts say 17 or 18 June. She "may have been shot or stabbed by a saber or both."
 
-National Geographic points to a report in the papers of Lord Canning. A trooper of the 8th Hussars shot her in the back. She then turned to fight and was killed with a sword.
+One report, in the papers of Lord Canning, says a trooper of the 8th Hussars shot her in the back. She then turned to fight and was killed with a sword.
 
 The priest Vishnubhat Godse says in his book that she was hit by a bullet, then by a sword in the thigh, and fell from her horse. Tatya Tope rushed to her and held her. Live History India notes that he gives her death only three sentences.
 

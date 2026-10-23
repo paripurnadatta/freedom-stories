@@ -42,9 +42,9 @@ Thakur Roshan Singh was in a jail in Allahabad. He was waiting for 19 December. 
 
 Where was he held? The answer depends on whom you ask.
 
-English Wikipedia and the National Book Trust book say Allahabad Jail. A Lucknow newspaper calls it Malaka Prison, in Allahabad. Webdunia, a Hindi website, calls it Naini Jail, and also Malaka Jail. Garima Times says Naini Jail in Prayagraj.
+He was held in the jail at Allahabad, now called Prayagraj.
 
-Allahabad is now called Prayagraj. Naini and Malaka are names tied to the jails of that city. These look like names for one place or for two jails near each other. We cannot tell which.
+The jail has more than one name in print. English Wikipedia and the National Book Trust book say Allahabad Jail. A Lucknow newspaper calls it Malaka Prison, in Allahabad. Webdunia, a Hindi website, calls it Naini Jail, and also Malaka Jail. Garima Times says Naini Jail in Prayagraj. Naini and Malaka are names tied to the jails of that city. They may be names for one place or for two jails near each other.
 
 ## Waiting
 
@@ -66,7 +66,7 @@ Webdunia says he wrote from his cell on 6 December, and gives a fuller letter. I
 
 The letter ends with a couplet of his own, Webdunia says. The line means: live your life with spirit, Roshan, or many people here die every day anyway.
 
-was the letter written on 13 December or on 6 December? The two letters are alike in what they say. Both ask the friend not to grieve. Both say that death comes to everyone. But Webdunia's own letter says "within a week", and 6 December is almost two weeks before 19 December. The 13 December date fits better. Neither source shows the original. We cannot say which date is right, or whether there were two letters.
+Was the letter written on 13 December or on 6 December? The two letters are alike in what they say. Both ask the friend not to grieve. Both say that death comes to everyone. But Webdunia's own letter says "within a week", and 6 December is almost two weeks before 19 December. The 13 December date fits better. Neither source shows the original. It is not clear which date is right, or whether there were two letters.
 
 ## The morning
 
@@ -78,7 +78,7 @@ Webdunia adds more. He slept a few hours the night before, and then spent the ni
 
 Garima Times says that he recited the Gita, and that he shouted "Vande Mataram" as he faced the end.
 
-three sources agree on two things, the Gita and the cry of "Vande Mataram". Beyond that, the details come from one source each.
+Three sources agree on two things, the Gita and the cry of "Vande Mataram". Beyond that, the details come from one source each.
 
 ## The funeral
 

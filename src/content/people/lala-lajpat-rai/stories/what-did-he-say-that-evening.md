@@ -34,11 +34,11 @@ People still repeat what he said. But when we look for his words, we find three 
 
 All three versions share one picture. It is a coffin, and it is British rule that is lying in it.
 
-Wikipedia gives his words as: "the blows struck at me today will be the last nails in the coffin of British rule in India."
+One version gives his words as: "the blows struck at me today will be the last nails in the coffin of British rule in India."
 
-The Tribune printed an article in 2011. It says that Rai declared: "Every blow on my body will prove to be the last kneel in the coffin of British rule in India." The word "kneel" is odd. It may be a slip for "knell", the sound of a funeral bell. That is only a guess. The article does not say.
+A second version appeared in an article in 2011. It says that Rai declared: "Every blow on my body will prove to be the last kneel in the coffin of British rule in India." The word "kneel" is odd. It may be a slip for "knell", the sound of a funeral bell. That is only a guess.
 
-Swarajya, a magazine, has an article by an admirer of Rai. It says he declared that each blow "drove one more nail into the coffin of the Empire."
+A third version comes from an article by an admirer of Rai. It says he declared that each blow "drove one more nail into the coffin of the Empire."
 
 <aside class="note"><b>Three versions</b>: Wikipedia has "last nails in the coffin of British rule in India". The Tribune has "last kneel in the coffin of British rule in India". Swarajya has "one more nail into the coffin of the Empire". None of the three names a newspaper report or a recording, so we cannot say which is closest to what he said.</aside>
 

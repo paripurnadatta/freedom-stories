@@ -46,7 +46,7 @@ The police also found papers. One was a leaflet against what it called official 
 
 ## The arrests
 
-Wikipedia says nine men were arrested on one day, 26 September 1925. Among them was Roshan Singh. Ram Prasad Bismil was arrested at Shahjahanpur a month later, on 26 October.
+Nine men were arrested on one day, 26 September 1925. Among them was Roshan Singh. Ram Prasad Bismil was arrested at Shahjahanpur a month later, on 26 October.
 
 Some of the men sought by the police were never caught. Chandrashekhar Azad is the best known of them.
 
@@ -79,7 +79,7 @@ On 6 April 1927, Mr Hamilton gave his decision. The court history sums it up lik
 - Fifteen got prison terms of different lengths.
 - One man was found unfit to stand trial. His case was put off.
 
-English Wikipedia says Sachindranath Sanyal was sentenced to life, and Manmathnath Gupta to fourteen years. The shortest sentences were three years.
+Sachindranath Sanyal was sentenced to life, and Manmathnath Gupta to fourteen years. The shortest sentences were three years.
 
 The National Book Trust book prints words it says are from the judgment. About Lahiri, the judge said that he was one of the leaders, and that he was "responsible for the death of Ahmed Ali". About Roshan Singh, the judge said he was the leader in the Bamrauli robbery, and that two people had said he carried a pistol that day.
 

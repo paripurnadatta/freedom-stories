@@ -94,7 +94,7 @@ He also wrote something harsh. He said he found "a certain lack of enterprise" a
 
 At the end, he remembered something else. Eight years before, he wrote, Garhwali soldiers had "performed a gallant deed" in the North-West Frontier Province. A footnote explains. In 1930, a party of the Garhwali Rifles refused to fire on Congress volunteers. They said a soldier's duty was to defend the country against a foreign invader.
 
-Wikipedia gives a short account of this. It says two platoons of the Royal Garhwal Rifles refused to board buses into Peshawar. It says Chandra Singh Garhwali led one of them. It says the soldiers' non-commissioned officers were sentenced to up to eight years in prison. It does not tell us how the sentences were given. And it says the facts are given in little detail.
+The story of the Garhwalis is told in few details. Two platoons of the Royal Garhwal Rifles refused to board buses into Peshawar. Chandra Singh Garhwali led one of them. The soldiers' non-commissioned officers were sentenced to up to eight years in prison. How those sentences were given is not told.
 
 ## Why it matters
 

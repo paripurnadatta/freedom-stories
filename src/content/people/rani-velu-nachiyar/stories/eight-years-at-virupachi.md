@@ -66,7 +66,7 @@ The letter said that the Nawab of Arcot was spreading into the lands of Ramnad a
 
 The Tamil Nadu school textbook tells it a little differently. Thandavarayanar wrote to Hyder Ali "asking for 5000 infantry and 5000 cavalry". Infantry are soldiers on foot, and cavalry are soldiers on horses.
 
-Wikipedia says the letter asked for five thousand horsemen. The textbook says five thousand foot soldiers and five thousand horsemen. We have not seen the letter itself. Even if it asked for so many, no source says that so many came.
+<aside class="note"><b>Two versions</b>: Wikipedia says the letter asked for five thousand horsemen. The textbook says five thousand foot soldiers and five thousand horsemen. The letter itself was not seen. Even if it asked for so many, no source says that so many came.</aside>
 
 ## A talk in Urdu
 
@@ -78,7 +78,7 @@ This fits with what other sources say about the languages she knew. But we have 
 
 During these years she raised an army and made an alliance with Gopala Nayaker and Hyder Ali "to attack the British", says the Press Information Bureau. The textbook says she succeeded in making an alliance "with not only Gopala Nayakar but Hyder Ali as well".
 
-Wikipedia calls it "eight years of planning". Her helpers were the nattu ambalars, the Marudu brothers and Thandavarayan Pillai. She also received support from Tipu Sultan, Hyder Ali's son. Wikipedia gives no details, so we do not know what that support was.
+Those were eight years of planning. Her helpers were the nattu ambalars, the Marudu brothers and Thandavarayan Pillai. She also received support from Tipu Sultan, Hyder Ali's son. No details of that support are given.
 
 <aside class="note"><b>Nattu ambalars</b>: leaders of local communities in the Tamil villages. Wikipedia lists them as supporters but does not say who they were.</aside>
 

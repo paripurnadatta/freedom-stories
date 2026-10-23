@@ -27,7 +27,7 @@ In 1938, Jawaharlal Nehru felt this. He did something about it. He wrote an essa
 
 The essay is called "Escape". It starts at Haripura, a village on the banks of the river Tapti. The Indian National Congress held its yearly meeting there in 1938. Nehru's own note says Haripura was "till then unknown to the outside world."
 
-Wikipedia says that in February 1938 Nehru did not stand for re-election as Congress president. Subhas Chandra Bose followed him.
+In February 1938 Nehru did not stand for re-election as Congress president. Subhas Chandra Bose followed him.
 
 For the meeting, a whole city of bamboo had been built. Nehru wrote that it was full of "an animated, jostling crowd" a day or two earlier. Then everyone left. Nehru walked to the river bank in the dark. He felt sad that the city would soon disappear. In his words, "Only the memory would endure."
 

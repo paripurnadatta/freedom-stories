@@ -100,7 +100,7 @@ Those three states are other stories. Wikipedia says that Junagadh and Hyderabad
 
 It is easy to tell this as a story about one person. The official papers say otherwise. They name Nehru, Mountbatten, Menon, the Muslim League's Nishtar, and the princes on the Negotiating Committee. The White Paper itself says that "the task of conducting negotiations with the Princes was entrusted ... to Lord Mountbatten."
 
-Wikipedia says Patel worked with V. P. Menon, Mountbatten and Nehru. A Constitution of India page says Patel is known as the "Iron Man of India" for bringing in "565 princely states".
+Patel worked with V. P. Menon, Mountbatten and Nehru. He is known as the "Iron Man of India" for bringing in "565 princely states".
 
 <aside class="note"><b>Two versions</b>: The number of states is not agreed. Mountbatten said "something like 565." Wikipedia says that sources give 550, 565, and over 600. The Sardar Patel Trust says "nearly 560." The count depends on what you call a state, since some were tiny estates. We use Mountbatten's words in his own speech, and we do not give a single total.</aside>
 

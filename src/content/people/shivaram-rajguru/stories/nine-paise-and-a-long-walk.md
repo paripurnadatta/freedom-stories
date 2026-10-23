@@ -36,7 +36,7 @@ His father died when he was six. His older brother, Dinkar, looked after him.
 
 Shivaram went to a Marathi school. The National Book Trust book says he liked sports much more than lessons.
 
-Wikipedia adds that he studied at the New English High School in Pune. It says he joined the Seva Dal while he was still young. The book does not mention either of these.
+He studied at the New English High School in Pune. He joined the Seva Dal while he was still young.
 
 <aside class="note"><b>Seva Dal</b>: a volunteer group. The word means "service force".</aside>
 

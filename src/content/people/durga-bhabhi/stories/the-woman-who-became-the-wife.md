@@ -37,7 +37,7 @@ Durga Devi Vohra was born in 1907. Wikipedia says she was married at eleven to B
 
 In 1925 she had a son, Sachinanda, who was called Sachi. In December 1928 he was about three years old.
 
-Wikipedia says she first became well known through the Naujawan Bharat Sabha, a youth group. It planned a gathering in Lahore on 16 November 1926 to remember a freedom fighter named Kartar Singh Sarabha.
+She first became well known through the Naujawan Bharat Sabha, a youth group. It planned a gathering in Lahore on 16 November 1926 to remember a freedom fighter named Kartar Singh Sarabha.
 
 ## The night they came
 
@@ -79,7 +79,9 @@ Bhagwati Charan was staying with his sister Sushila in Calcutta. He was surprise
 
 Maclean cites the recorded memories of Shiv Verma. In them, Bhagwati Charan says: "I have got a revolutionary wife." This is a memory told long afterwards, not a note written at the time.
 
-Wikipedia says Durga Devi came back to Lahore a few days later with her child. Maclean says she stayed for some sessions of the Congress in Calcutta first. The two accounts differ a little in the order of things.
+Durga Devi came back to Lahore a few days later with her child.
+
+<aside class="note"><b>Two versions</b>: Wikipedia says she came back a few days later. Maclean says she stayed for some sessions of the Congress in Calcutta first. The two accounts differ a little in the order of things.</aside>
 
 ## After the escape
 

@@ -90,7 +90,7 @@ The referendum was held in July 1947. Tendulkar says the voting began on 6 July 
 
 The Khudai Khidmatgars did not vote. Tendulkar writes that the boycott "took place quietly and in good order". He calls it the last powerful sign of the Khudai Khidmatgars, and says it was futile.
 
-Wikipedia says the Khudai Khidmatgars objected to the question itself. The vote had no choice of becoming independent or joining Afghanistan.
+The Khudai Khidmatgars objected to the question itself. The vote had no choice of becoming independent or joining Afghanistan.
 
 Earlier, in June, the movement had passed what Wikipedia calls the Bannu Resolution. It asked that Pashtuns should have a choice to have an independent state of Pashtunistan. Wikipedia says the British refused.
 
@@ -100,7 +100,7 @@ Abdul Ghaffar himself said the vote was unfair. He told Tendulkar about registra
 
 In September 1947, says Wikipedia, the Khudai Khidmatgars met at Sardaryab. They said they would regard Pakistan as their own country. They also said they would cut their link with the Congress.
 
-Wikipedia adds that Abdul Ghaffar later told the prime minister of Pakistan that Pashtunistan was only "a name" for the Pashtun province inside Pakistan. By the 1960s, support for an independent Pashtunistan had almost disappeared.
+Abdul Ghaffar later told the prime minister of Pakistan that Pashtunistan was only "a name" for the Pashtun province inside Pakistan. By the 1960s, support for an independent Pashtunistan had almost disappeared.
 
 ## Why it matters
 

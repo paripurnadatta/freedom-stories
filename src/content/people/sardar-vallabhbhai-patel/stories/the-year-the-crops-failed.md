@@ -58,7 +58,7 @@ Kheda gave two lasting results, the Press Information Bureau says. It made the f
 
 The government's men took away farmers' property and cattle, and police seized land, says Wikipedia. The farmers did not fight back. They gave their cash and valuables to the Gujarat Sabha, which was running the protest. The campaign lasted about three months, with arrests and seizures, and with "official brutality" before the government gave way, says the Congress page.
 
-Wikipedia marks several of these details as lacking sources. So we say only what both pages agree on: goods were seized, the farmers stayed peaceful, and the campaign lasted some months.
+<aside class="note"><b>What is sure</b>: Wikipedia marks several of these details as lacking sources. So this story says only what both pages agree on: goods were seized, the farmers stayed peaceful, and the campaign lasted some months.</aside>
 
 ## How it ended
 

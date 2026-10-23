@@ -51,11 +51,9 @@ Nehru wrote in his autobiography, in an entry dated 25 October 1935, that she le
 
 Here the sources part.
 
-In early 1935 Subhas Chandra Bose took her to a sanatorium in Badenweiler, Germany, while Nehru was in prison. So says Wikipedia.
+In early 1935 Subhas Chandra Bose took her to a sanatorium in Badenweiler, Germany, while Nehru was in prison.
 
-The Quint does not mention Bose. It says she left in May 1935, and it names no one who went with her.
-
-<aside class="note"><b>Two versions</b>: Wikipedia says Bose took her. The Quint gives only the month and names no travelling companion.</aside>
+<aside class="note"><b>Two versions</b>: Wikipedia says Bose took her. The Quint gives only the month, May 1935, and names no travelling companion.</aside>
 
 No letter or record we opened settles who went with her. What the sources do agree on is the place she was going to: a sanatorium in the German Black Forest, far from the hills of home.
 

@@ -28,13 +28,11 @@ What do you do after you have spent years hiding from the police? Durga Devi cho
 
 ## A school for poor children
 
-Wikipedia says that she later opened a school for poor children in Lucknow. It does not say when.
-
-The Quint is a news site. It carries an opinion piece by Vivek Shukla, who writes about her life. He says she trained in the Montessori way in Madras in 1939. In 1940 he says she went to Lucknow and began the Lucknow Montessori School for children from poor families.
+Later she opened a school for poor children in Lucknow. A writer, Vivek Shukla, tells how it began. She trained in the Montessori way in Madras in 1939. In 1940 she went to Lucknow and began the Lucknow Montessori School for children from poor families.
 
 <aside class="note"><b>Montessori</b>: a way of teaching small children, started by an Italian doctor, Maria Montessori. Children learn by choosing activities and doing things with their hands.</aside>
 
-Shukla says that she ran the school until 1975. Then she moved to Ghaziabad.
+She ran the school until 1975. Then she moved to Ghaziabad.
 
 ## Which year?
 

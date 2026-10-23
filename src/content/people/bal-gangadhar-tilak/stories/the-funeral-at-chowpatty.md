@@ -51,7 +51,7 @@ The sculptor was Raghunath Krishna Phadke. The article says he had eighteen mont
 
 ## Other memories
 
-Wikipedia lists later honours. The Lokmanya Tilak Smarak Trust was founded in 1920. In 1956 Nehru uncovered a portrait of Tilak in the Central Hall of Parliament. In 2007 a coin was issued to mark 150 years since his birth.
+Honours came later. The Lokmanya Tilak Smarak Trust was founded in 1920. In 1956 Nehru uncovered a portrait of Tilak in the Central Hall of Parliament. In 2007 a coin was issued to mark 150 years since his birth.
 
 In 1954, Nehru had written a note about a plaque at Mandalay, where Tilak had been held. He wanted only a tablet. The Nehru Archive keeps the note.
 

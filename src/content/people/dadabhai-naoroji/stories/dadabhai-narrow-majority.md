@@ -56,7 +56,7 @@ A few months later, on 29 November 1888, the Prime Minister, Lord Salisbury, mad
 
 Many people disliked the remark. Wikipedia says that the New York Times in 1888 called Salisbury's words "grotesque and foolish". The History of Parliament's article says the remark won Naoroji public sympathy. Manu Pillai says it set off a debate in the newspapers about how "black" Naoroji was.
 
-Wikipedia adds that Salisbury later invited Naoroji to become a governor of the Imperial Institute, and Naoroji accepted.
+Salisbury later invited Naoroji to become a governor of the Imperial Institute, and Naoroji accepted.
 
 ## Waiting for 1892
 
@@ -66,7 +66,7 @@ A newspaper advertisement from 2 July 1892, which Patel reprints, called Naoroji
 
 On 6 July 1892, the voting took place. Patel gives the result: Naoroji received 2,959 votes and the Conservative, Frederick Thomas Penton, received 2,956. That was a lead of three. Then Penton asked for a recount. After it, Naoroji's lead was five.
 
-<aside class="note"><b>Two versions</b>: Some books say he won by three votes and some say five. Patel's timeline and Pillai both explain it. It was three at first, and five after the recount. Wikipedia gives only the final majority of five.</aside>
+Some books say he won by three votes and some say five. Patel's timeline and Pillai both explain it. It was three at first, and five after the recount. Wikipedia gives only the final majority of five.
 
 His opponents gave him a nickname. They called him "Dadabhai Narrow-Majority". Pillai says they also called him "Mr Nowraggie", which he says was only a little better.
 
@@ -90,7 +90,7 @@ Naoroji had friends among Irish politicians, who also wanted more self-rule for 
 
 ## A seat for three years
 
-Wikipedia says that he sat in the Commons from 1892 to 1895, as a Liberal member for Finsbury Central. Pillai writes that Naoroji later served as president of a local football club in his area. He also backed votes for women and Indian self-rule. Wikipedia says he argued in his first Commons speech that Indians would be British subjects or British slaves. It would depend on whether they were allowed to govern themselves.
+From 1892 to 1895 he sat in the Commons, as a Liberal member for Finsbury Central. He later served as president of a local football club in his area. He also backed votes for women and Indian self-rule. In his first Commons speech he argued that Indians would be British subjects or British slaves. It would depend on whether they were allowed to govern themselves.
 
 On 27 July 1893, Patel says, he helped to found the Indian Parliamentary Committee, a group of MPs who took an interest in India.
 

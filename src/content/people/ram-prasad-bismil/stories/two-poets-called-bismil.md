@@ -45,7 +45,7 @@ The second was born in 1901 in Azimabad. That is the old name of Patna, in Bihar
 
 ## Who wrote the song?
 
-Wikipedia says Bismil Azimabadi wrote Sarfaroshi ki Tamanna in 1921. It says the poem first appeared in a journal called Sabah, printed in Delhi.
+Bismil Azimabadi wrote *Sarfaroshi ki Tamanna* in 1921. The poem first appeared in a journal called *Sabah*, printed in Delhi.
 
 Rekhta, a large online library of Urdu poetry, prints the poem under Bismil Azimabadi's name. It says it comes from his book Hikayat-e-Hasti. It also says that scholars have shown the poem is his.
 

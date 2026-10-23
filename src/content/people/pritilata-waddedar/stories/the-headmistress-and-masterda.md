@@ -60,7 +60,7 @@ That did not last. After Dhalghat, Preeti went into hiding.
 
 ## What she had done before
 
-Wikipedia lists some earlier activities. It says she took part in attacks on telephone and telegraph offices and on the reserve police line, and that she supplied explosives. We found these claims in only one source.
+Before that night she had taken part in attacks on telephone and telegraph offices and on the reserve police line, and she had supplied explosives.
 
 <aside class="note"><b>One source only</b>: these earlier activities are in Wikipedia but not in the court record, Kalpana Dutt's book or Banglapedia. Treat them as unproven.</aside>
 

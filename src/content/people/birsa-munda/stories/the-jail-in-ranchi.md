@@ -41,7 +41,7 @@ Birsa's followers sang of that day. Rycroft prints some lines from a song, taken
 
 Hundreds of Birsa's followers had been caught too. They were tried in the courts.
 
-Wikipedia quotes a letter from the Deputy Commissioner of Ranchi. It says 460 people were accused in 15 cases. Sixty-three were found guilty. One was sentenced to death, 39 were sent away for life, and 23 were jailed for up to fourteen years. Six people died in custody. One of them was Birsa.
+A letter from the Deputy Commissioner of Ranchi gives the numbers. 460 people were accused in 15 cases. Sixty-three were found guilty. One was sentenced to death, 39 were sent away for life, and 23 were jailed for up to fourteen years. Six people died in custody. One of them was Birsa.
 
 The trials became national news. Surendra Nath Banerjee, editor of *The Bengalee*, criticised the government for delays and for what he called legal cover-ups, Rycroft writes. A paper called *The Statesman* wrote on 25 March 1900 that the prisoners had no lawyers to defend them. These are newspaper claims. We have not seen the court papers.
 

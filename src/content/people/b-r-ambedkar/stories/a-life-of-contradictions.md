@@ -30,7 +30,7 @@ Dr Ambedkar did something else. He gave a warning.
 
 India's Constituent Assembly was the body that wrote the country's Constitution. On 29 August 1947, it set up a Drafting Committee. Dr Ambedkar was made its chairman.
 
-Wikipedia lists the other members as K. M. Munshi, Muhammed Sadulla, Alladi Krishnaswamy Iyer, N. Gopalaswami Ayyangar, Devi Prasad Khaitan and B. L. Mitter.
+The other members were K. M. Munshi, Muhammed Sadulla, Alladi Krishnaswamy Iyer, N. Gopalaswami Ayyangar, Devi Prasad Khaitan and B. L. Mitter.
 
 <aside class="note"><b>Draft</b>: a first version of a text, written to be discussed and changed.</aside>
 

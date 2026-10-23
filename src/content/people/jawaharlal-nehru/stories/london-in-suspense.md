@@ -49,7 +49,7 @@ Nehru's diary entry is headed "September 28, 1938". It begins with a radio talk 
 
 <aside class="note"><b>Prime Minister</b>: the head of the British government.</aside>
 
-Wikipedia dates that talk 27 September 1938. In it, Chamberlain spoke of "a quarrel in a far-away country between people of whom we know nothing." Nehru's entry seems to cover two days. It describes the talk and then the next day in Parliament.
+The talk was on 27 September 1938. In it, Chamberlain spoke of "a quarrel in a far-away country between people of whom we know nothing." Nehru's entry seems to cover two days. It describes the talk and then the next day in Parliament.
 
 Nehru thought the talk was short and weak. It lasted "hardly eight minutes." He felt it did not praise the Czech people. He wrote, "I felt depressed, and my heart was heavy within me."
 

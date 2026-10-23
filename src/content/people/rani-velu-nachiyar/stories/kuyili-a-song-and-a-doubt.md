@@ -37,7 +37,7 @@ Kuyili was Velu Nachiyar's faithful friend. She is "said to have led the unit of
 
 <aside class="note"><b>Arsenal</b>: a place where weapons are stored.</aside>
 
-Wikipedia's page on Kuyili tells a similar story. In 1780, during an attack on a Company fort, she went into the weapons store and destroyed it, and so helped the queen to win.
+A second account tells a similar story. In 1780, during an attack on a Company fort, Kuyili went into the weapons store and destroyed it, and so helped the queen to win.
 
 The oral accounts differ on how Kuyili met the queen and what they were to each other. But they all agree "on her valour and sacrifice", says The Hindu.
 

@@ -34,7 +34,7 @@ The posts also say that Nehru did not come even after she died, and that Bose ca
 
 ## What the records show
 
-The Quint's fact-checking team, WebQoof, looked into the claim and found it false. Kamala did have tuberculosis, and she did die in Switzerland in 1936. But there is no record of a Prague hospital, and no record that she spent ten years alone in Switzerland.
+A fact-checking team, WebQoof, looked into the claim and found it false. Kamala did have tuberculosis, and she did die in Switzerland in 1936. But there is no record of a Prague hospital, and no record that she spent ten years alone in Switzerland.
 
 She had been unwell with a tubercular infection from about 1925. In March 1926 she was taken to Europe by ship, with Nehru and their eight-year-old daughter. The family lived in Switzerland, and she was in a sanatorium at Montana.
 

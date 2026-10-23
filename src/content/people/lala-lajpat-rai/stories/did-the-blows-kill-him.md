@@ -74,9 +74,9 @@ That evening he spoke to a crowd at Mochi Gate. Wikipedia gives his words as: "t
 
 He died on 17 November 1928, in Lahore. Several sources agree on the date. They do not agree on the cause.
 
-Wikipedia says that doctors believed the blows had hastened his death. A Dawn writer says it was "widely assumed" that Scott's blows had done so. Wikipedia's article on the Commission says he died of a heart attack. It does not link the two.
+Doctors believed the blows had hastened his death, and a Dawn writer says it was "widely assumed" that Scott's blows had done so. The article on the Commission says he died of a heart attack and does not link the two.
 
-One more article, also from Dawn, says he died at the Lahore railway station from a blow to his head. That cannot be right, since the protest was on 30 October and he died on 17 November. We list it only to show how stories change as they are repeated.
+One more Dawn article says he died at the Lahore railway station from a blow to his head. That cannot be right, since the protest was on 30 October and he died on 17 November. It shows how stories change as they are repeated.
 
 ## The questions in London
 

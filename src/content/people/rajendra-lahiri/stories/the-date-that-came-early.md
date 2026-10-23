@@ -55,7 +55,7 @@ Both also say why. The authorities feared that revolutionaries would try to free
 
 The book gives more. Chandrashekhar Azad and Manmath Nath Gupta had come to Gonda. A meeting about the rescue was held at the house of a man named Lal Behari Tandon. A traitor passed on the plan, the book says, and so Lahiri was hanged earlier.
 
-The Wire says the likeliest reason was a plan to break him out, led by Manmath Nath Gupta's group.
+The likeliest reason was a plan to break him out, led by Manmath Nath Gupta's group.
 
 <aside class="note"><b>Not confirmed</b>: the two accounts agree on the reason. But neither shows an official order from the jail or the government. The Wikipedia page on Lahiri gives no reason at all. We know the dates. We cannot prove the reason.</aside>
 
@@ -67,7 +67,7 @@ We have no record that we could check against what was said at the time. So we l
 
 ## A note about his age
 
-The Wire says he was hanged at the age of 24. But by its own birth year of 1901, he would have been 26. Wikipedia also says he was 26.
+One account says he was hanged at the age of 24. But by that account's own birth year of 1901, he would have been 26. Wikipedia also says he was 26.
 
 If the National Book Trust's year of 1892 is right, he was about 35. So even his age at the end is not settled.
 

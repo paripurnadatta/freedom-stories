@@ -53,9 +53,9 @@ Pondicherry was then a French territory, outside British India. The PIB says tha
 
 How he got there is a puzzle. One popular website says some people think he went by boat, but it calls the true method "a mystery". We do not use it.
 
-TamilNation says what he printed there. He edited India, a Tamil daily called Vijaya, an English monthly named Bala Bharatha, and a weekly called Suryothayam. He also started a Bala Bharatha Sangam.
+In Pondicherry he edited *India*, a Tamil daily called *Vijaya*, an English monthly named *Bala Bharatha*, and a weekly called *Suryothayam*. He also started a Bala Bharatha Sangam.
 
-<aside class="note"><b>Two versions</b>: The PIB and Wikipedia say he spent about ten years in Pondicherry. The Puducherry museum says 1908 to 1918. A speech by the Vice-President of India in 2021 says "more than 11 years". We use the museum's dates.</aside>
+The PIB and Wikipedia say he spent about ten years in Pondicherry. The Puducherry museum says 1908 to 1918. A speech by the Vice-President of India in 2021 says "more than 11 years". We use the museum's dates.
 
 ## Pressure from outside
 
@@ -63,9 +63,9 @@ The British could not arrest him in Pondicherry. But they could still make his w
 
 ## A friend arrives
 
-The PIB says that in Pondicherry he met other people who were wanted by the British: Aurobindo, Lajpat Rai and V. V. S. Aiyar. TamilNation says Aurobindo arrived in Pondicherry in 1910. Bharati then helped with Aurobindo's journals, Arya and Karma Yogi. Wikipedia says the same.
+In Pondicherry he met other people who were wanted by the British: Aurobindo, Lajpat Rai and V. V. S. Aiyar. Aurobindo arrived in Pondicherry in 1910. Bharati then helped with Aurobindo's journals, *Arya* and *Karma Yogi*.
 
-In November 1910, TamilNation says, Bharati brought out a book of poems.
+In November 1910 Bharati brought out a book of poems.
 
 The museum has a list of the papers and books from this time: India, Vijaya, Karmayogi and Chakravartini. It also keeps new editions of older works that he printed from 1908 on.
 
@@ -73,9 +73,9 @@ The museum has a list of the papers and books from this time: India, Vijaya, Kar
 
 The ten years were short of money, but they were rich in work. TamilNation says that in 1912 he published his Tamil commentary on the Bhagavad Gita. In the same year he published three works: Kannan Paatu, Kuyil Paatu and Panjali Sabatham.
 
-Madras Musings describes them. Kannan Pattu has twenty-three lyrics on Krishna. Kuyil Pattu is a narrative poem of 750 lines, a fable about a koel, a monkey and a bull. Wikipedia says he also translated the Vedic hymns, the Yoga Sutra and the Bhagavad Gita into Tamil.
+*Kannan Pattu* has twenty-three lyrics on Krishna. *Kuyil Pattu* is a narrative poem of 750 lines, a fable about a koel, a monkey and a bull. He also translated the Vedic hymns, the Yoga Sutra and the Bhagavad Gita into Tamil.
 
-We do not tell the stories in the poems here. We have the descriptions from Madras Musings, not the poems in front of us.
+The stories inside the poems are left for other pages.
 
 <figure class="plate"><img src="/files/people/subramania-bharati/archive/vijaya-cover-1909.webp" alt="The cover of an old printed magazine, with a title in Tamil and English letters" loading="lazy" /><figcaption>The cover of the magazine Vijaya, 1909. Commons says it displays the slogan "Vande Mataram". <span class="credit">Fowler&amp;fowler, Public domain. <a href="https://commons.wikimedia.org/wiki/File:1909magazine_vijaya.jpg" rel="noopener">Where this picture comes from</a></span></figcaption></figure>
 
@@ -89,13 +89,13 @@ Another writer, Sujata Nahar, lists two books of his poems from these years. She
 
 The sources do not tell us which ideas came in which year. But they agree on what he stood for. The PIB says he opposed caste distinctions and said there were only two castes, men and women. It says he took off his own sacred thread and gave sacred threads to some Dalits. It says he wanted temples opened to Dalits and spoke against child marriage and dowry.
 
-The Wire quotes him on caste: "inter-dining and inter-marrying are the only true solutions to caste inequality." It also says that "Bharati's commitment to women's freedom was without equal." These are the words of a writer and the praise of a modern writer. They are not records of what he did on a certain day.
+On caste he is quoted as saying: "inter-dining and inter-marrying are the only true solutions to caste inequality." A modern writer says that "Bharati's commitment to women's freedom was without equal." These are the words of a writer and the praise of a modern writer. They are not records of what he did on a certain day.
 
 ## Hard years
 
-Madras Musings says that in Pondicherry he "suffered intense poverty". It does not give numbers. DT Next adds that during his exile his wife, Chellamma, took the children to her parents' house and gave him an ultimatum to return to British India.
+In Pondicherry he "suffered intense poverty". No numbers are given. During his exile his wife, Chellamma, took the children to her parents' house and gave him an ultimatum to return to British India.
 
-That is one article's account of what happened inside a family, and we do not know more than this.
+That is one article's account of what happened inside a family, and little more is known.
 
 ## The house today
 

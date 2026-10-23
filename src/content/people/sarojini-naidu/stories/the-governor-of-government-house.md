@@ -48,7 +48,7 @@ She was the first woman in India to be appointed governor of a state. A woman wh
 
 ## A busy state
 
-EBSCO, a library of reference works, calls the United Provinces the most politically active state in India. She was in a place where much was happening.
+The United Provinces was the most politically active state in India. She was in a place where much was happening, and the governor's house stood at the centre of it.
 
 <figure class="plate">
   <img src="/files/people/sarojini-naidu/archive/nehru-science-congress-lucknow-1949.webp" alt="A black-and-white photograph of Jawaharlal Nehru speaking at a microphone, with people seated to the left" loading="lazy" />

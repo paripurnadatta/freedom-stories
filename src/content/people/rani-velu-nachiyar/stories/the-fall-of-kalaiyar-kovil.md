@@ -47,7 +47,7 @@ Muthu Vaduganatha offered trading rights to the Dutch. He did this "only after t
 
 The English wanted more than trade. They wanted Sivaganga to serve the Nawab of Arcot, to pay him tribute, or to stop dealing with foreign powers. A tribute is a regular payment that a smaller ruler makes to a stronger one.
 
-Wikipedia's page on the Marudhu brothers says it was over "refusal to pay taxes" that the Company killed Muthu Vaduganatha. We have only that one line for this reason. The district history does not say so in these words.
+Why was Muthu Vaduganatha killed? Wikipedia's page on the Marudhu brothers says it was over "refusal to pay taxes". That is the only source that gives this reason, and the district history does not say so in these words.
 
 <aside class="note"><b>Nawab</b>: a Muslim governor or ruler. The Nawab of Arcot ruled much of the Tamil country at that time, and his troops fought together with those of the East India Company.</aside>
 

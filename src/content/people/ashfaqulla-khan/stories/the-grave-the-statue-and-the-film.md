@@ -49,7 +49,7 @@ No source describes the burial itself. Who was there, and what was said, is not 
 
 ## What happened to his family
 
-ThePrint spoke to Ashfaq's grandson, Shahdabullah. He said that the British government took away the family's property after the hanging. His grandmother's family was well off, and that helped the family to get by.
+Ashfaq's grandson, Shahdabullah, remembers what came after the hanging. The British government took away the family's property. His grandmother's family was well off, and that helped the family to get by.
 
 He also said something sad. People seem to remember Ashfaq only twice a year, on Independence Day and on the day he died.
 

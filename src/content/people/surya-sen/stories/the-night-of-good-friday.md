@@ -104,7 +104,7 @@ Surya Sen and his friends believed in armed action. The raid came in the weeks a
 
 The raiders thought again later. Kalpana Dutt wrote in her book that the group moved away from "individual heroism" towards rousing the whole people. In the preface, dated October 1945, P. C. Joshi of the Communist Party called terrorism the "infant" stage and Communism the "mature" stage of their lives. Not everyone agrees with this view of the raiders.
 
-The Daily Star of Bangladesh gives another view. Surya Sen wanted to replace what it calls "individual terrorism" with a planned struggle by a "dedicated band of youths." For him, the raid was meant to begin something bigger.
+Surya Sen saw it differently. He wanted to replace what one newspaper calls "individual terrorism" with a planned struggle by a "dedicated band of youths." For him, the raid was meant to begin something bigger.
 
 ## The weeks after
 

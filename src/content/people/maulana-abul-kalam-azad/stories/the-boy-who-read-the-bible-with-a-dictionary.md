@@ -63,7 +63,9 @@ The old course had a set order. First came Persian. Then Arabic. Then, in Arabic
 
 Azad says he finished at sixteen. Then his father gathered about fifteen students for him to teach. He taught them higher philosophy, mathematics and logic. In the old system, a young scholar had to teach before he was truly counted as finished.
 
-Wikipedia adds some details about his early years. It says he started a poetry magazine called *Nairang-e-Alam* in 1899, when he was about eleven. It also says he ran a small library and a debating society. We found these only on Wikipedia, so we cannot say more about them.
+Some more details about his early years are told. He started a poetry magazine called *Nairang-e-Alam* in 1899, when he was about eleven. He also ran a small library and a debating society.
+
+<aside class="note"><b>One source only</b>: these details were found only on Wikipedia.</aside>
 
 ## "I must learn English"
 
@@ -99,7 +101,7 @@ That is the name India knows him by.
 
 ## What he did with his years of study
 
-Wikipedia says that Azad began to publish journals in Calcutta before he was twenty. Among them was a weekly called *Al-Misbah* and another called *Lisan-us-Sidq*, which closed for lack of money in 1905. In his own book, Azad says that his next step was a journey to Iraq, Egypt, Syria and Turkey in 1908.
+Before he was twenty, Azad began to publish journals in Calcutta. Among them was a weekly called *Al-Misbah* and another called *Lisan-us-Sidq*, which closed for lack of money in 1905. In his own book, Azad says that his next step was a journey to Iraq, Egypt, Syria and Turkey in 1908.
 
 Those journals and journeys are another story. Here we only note where it began: a home classroom, a dictionary, and a boy who wanted to know more than he was allowed.
 

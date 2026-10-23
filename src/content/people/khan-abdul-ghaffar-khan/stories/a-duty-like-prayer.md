@@ -39,7 +39,7 @@ So he and his friends decided to open schools themselves. Tendulkar says that in
 
 A prominent religious teacher from a nearby village, the Haji Saheb of Turangzai, had started his own schools in 1911. He helped Abdul Ghaffar and his friends. Together they formed a group to spread schools in the villages.
 
-Wikipedia adds that between 1915 and 1918 he toured about five hundred villages. We have not seen a source that explains this number in detail.
+Between 1915 and 1918 he toured about five hundred villages.
 
 ## The Azad School
 

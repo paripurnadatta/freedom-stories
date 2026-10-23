@@ -52,7 +52,7 @@ A newsletter of the Nehru Centre gives a different place and year. Tilak spoke a
 
 Tilak took up the slogan of Swaraj. His friend Kaka Baptista is said to have coined it first. The English line "Swaraj is my birthright and I shall have it!" comes from Marathi and English sources, but no source names the speech.
 
-The Tribune says 1907 and a Congress session. The Nehru Centre says Nasik, 17 May 1917. Wikipedia says Baptista coined the Swaraj slogan. None of these shows a recording or a newspaper report of the first speech. The line may have been said more than once.
+Nobody agrees on the day of the first speech. The Tribune says 1907 and a Congress session. The Nehru Centre says Nasik, 17 May 1917. Wikipedia says Baptista coined the Swaraj slogan. No recording or newspaper report of the first speech has turned up, and the line may have been said more than once.
 
 ## What kind of Swaraj?
 

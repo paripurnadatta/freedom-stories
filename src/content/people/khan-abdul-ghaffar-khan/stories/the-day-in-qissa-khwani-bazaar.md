@@ -77,7 +77,7 @@ At their court martial, they said: "We will not shoot our unarmed brethren, beca
 
 Seventeen men were sentenced. One was sentenced to be sent away for life. Another got fifteen years. The rest got three to ten years of hard prison.
 
-Wikipedia says two platoons refused, and that their NCOs were sentenced to up to eight years. It names Chandra Singh Garhwali as the leader of one platoon. The court's records were not seen.
+Two platoons refused to fire. Their NCOs were sentenced to up to eight years. Chandra Singh Garhwali led one platoon.
 
 You can read more in the story of the Garhwalis at Peshawar on this site.
 

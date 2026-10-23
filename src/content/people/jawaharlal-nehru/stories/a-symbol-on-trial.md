@@ -31,7 +31,7 @@ Jawaharlal Nehru faced this in November 1940. He was in a prison in Gorakhpur. H
 
 It was the second year of the Second World War. The British government had brought India into the war. The Congress had said this was done without asking Indians.
 
-Wikipedia says the Viceroy, Lord Linlithgow, declared India at war in September 1939 without consulting Indians. In October 1939 the Congress asked its provincial ministries to resign in protest.
+The Viceroy, Lord Linlithgow, declared India at war in September 1939 without consulting Indians. In October 1939 the Congress asked its provincial ministries to resign in protest.
 
 In 1940, the Congress started a limited form of protest. It was called individual satyagraha.
 

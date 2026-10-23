@@ -39,7 +39,9 @@ The boy was named after the day of the week he was born. It was a Thursday. That
 
 When was he born? Here the sources disagree, and the question is old.
 
-Wikipedia says 15 November 1875, in Ulihatu village. That is the date India keeps as his birthday. Joseph Bara says a scholar named Mathew Areeparampil read church records at the Burju mission. They show a birth on 22 July 1872 and a baptism on 11 August 1872. Bara says Birsa's close helper, Bharmi Munda, also gave 1872. Sarat Chandra Roy, writing in 1912, says Birsa was about twenty-one in the summer of 1895, which points to about 1874. We could not look at the church book ourselves, so we do not choose.
+India keeps 15 November 1875 as his birthday, and names the village of Ulihatu as his birthplace.
+
+The church records tell another story. Joseph Bara says a scholar named Mathew Areeparampil read them at the Burju mission. They show a birth on 22 July 1872 and a baptism on 11 August 1872. Bara says Birsa's close helper, Bharmi Munda, also gave 1872. Sarat Chandra Roy, writing in 1912, says Birsa was about twenty-one in the summer of 1895, which points to about 1874. The church book itself was not seen, so this story gives no single date.
 
 ## School and a new name
 

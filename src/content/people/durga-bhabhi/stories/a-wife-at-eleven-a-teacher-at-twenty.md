@@ -76,7 +76,7 @@ Durga Devi first became well known through the Naujawan Bharat Sabha, according 
 
 On 16 November 1926, the Sabha held a meeting in Lahore to mark the eleventh anniversary of the death of Kartar Singh Sarabha. He was a young revolutionary who was hanged in 1915.
 
-<aside class="note"><b>One source only</b>: we found this event in the one Wikipedia article only. It does not say what she did at the meeting.</aside>
+This event is found in one Wikipedia article only. It does not say what she did at the meeting.
 
 ## A job and a name
 
@@ -84,7 +84,7 @@ Durga Devi worked as a teacher at a girls' college in Lahore. She kept this job 
 
 The members of the revolutionary group called her *Bhabhi*, which is "brother's wife" in Hindi. That is how she became Durga Bhabhi.
 
-The Quint points out that she was not really Bhagat Singh's wife. She was Bhagwati Charan's wife. The name Bhabhi was a title that the group gave her.
+She was not really Bhagat Singh's wife. She was Bhagwati Charan's wife. The name Bhabhi was a title that the group gave her.
 
 ## The group changes its name
 
@@ -96,15 +96,15 @@ By late 1928, Durga Devi and her husband had joined the Hindustan Socialist Repu
 
 When her husband left for Calcutta in December 1928, he left four or five thousand rupees with her. Maclean says Durga Devi remembered this later. It is her own memory, told long afterwards.
 
-Wikipedia says she sold ornaments worth three thousand rupees to help pay for the defence of Bhagat Singh and his comrades. That would have been after their arrest in 1929.
+She sold ornaments worth three thousand rupees to help pay for the defence of Bhagat Singh and his comrades. That would have been after their arrest in 1929.
 
 <aside class="note"><b>One source only</b>: we found the sale of the ornaments in Wikipedia only.</aside>
 
 ## A bomb factory?
 
-Wikipedia says that she, her husband and a man named Vimal Prasad Jain ran a bomb factory in Delhi, on Qutub Road. It says the shop was disguised as "Himalayan Toilets".
+She, her husband and a man named Vimal Prasad Jain are said to have run a bomb factory in Delhi, on Qutub Road, in a shop disguised as "Himalayan Toilets".
 
-We have no second source for this. Maclean, in the excerpt we read, says the group's bomb factory was at a place called Kashmir House, which was rented in Bhagwati Charan's name. These may be two different places, or one place described two ways. We cannot tell.
+Only one source gives the Qutub Road factory. Maclean says the group's bomb factory was at a place called Kashmir House, which was rented in Bhagwati Charan's name. These may be two different places, or one place described two ways.
 
 ## What we do not know
 

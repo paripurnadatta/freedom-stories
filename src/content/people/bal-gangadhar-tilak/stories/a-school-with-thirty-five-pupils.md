@@ -58,7 +58,7 @@ The school did so well that the friends formed a larger group. The Deccan Educat
 
 Tilak and Agarkar also began two weekly papers. One was *Maratha*, in English. The other was *Kesari*, in Marathi. Pradhan says the first copy of *Maratha* came out on 2 January 1881, and *Kesari* came two days later.
 
-The Tribune gives 1881 for the start of the two papers. Wikipedia says 1880 or 1881. Pradhan names exact days in January 1881.
+The year the papers began is told in different ways. The Tribune gives 1881. Wikipedia says 1880 or 1881. Pradhan names exact days in January 1881, so this story follows him.
 
 ## Four months in jail
 

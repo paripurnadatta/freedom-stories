@@ -38,7 +38,7 @@ Lajpat Rai was born on 28 January 1865 in a village called Dhudike, in Punjab. B
 
 His father was Munshi Radha Krishan. He taught Urdu and Persian in a government school. His mother was Gulab Devi. Lajpat was the eldest of six children. He spent much of his youth in Jagraon, where his house is now a library and a museum.
 
-Wikipedia says the family was Agrawal Jain. The Congress paper says only "a Punjabi Hindu family." Wikipedia places Dhudike in Moga district today. AllAboutSikhs places it in Ferozepur district.
+The family was Agrawal Jain. The Congress paper says only "a Punjabi Hindu family." Dhudike lies in Moga district today, though one website places it in Ferozepur district.
 
 <figure class="plate">
   <img src="/files/people/lala-lajpat-rai/archive/ancestral-house-jagraon.webp" alt="A narrow old house with a pink front and carved windows, with scaffolding and a sign in front" loading="lazy" />

@@ -42,7 +42,7 @@ Was she the first woman to lead the Congress, or the second?
 
 ## Which number was she?
 
-Wikipedia and Britannica call her the first Indian woman to be president of the Congress. EBSCO calls her the first woman to hold the post. But the Congress's own page on its women presidents calls her the second.
+She is often called the first Indian woman to be president of the Congress. Wikipedia and Britannica say so, and EBSCO calls her the first woman to hold the post. But the Congress's own page on its women presidents calls her the second.
 
 The Congress page puts Annie Besant first. Besant was elected in 1917 and presided over the session at Calcutta. Sarojini Naidu comes second, in 1925 at Kanpur. After her come Nellie Sen Gupta in 1933 and later Indira Gandhi and Sonia Gandhi.
 
@@ -56,7 +56,7 @@ In her presidential address, she said: "In the battle for liberty, fear is the o
 
 Her speech spoke of sacrifice and of the struggle to free India from colonial rule, says The Wire. She was uneasy about the growing quarrel between Hindus and Muslims. She admired both Hindu and Islamic culture, and Hindu-Muslim unity was her lifelong aim.
 
-The Wire also gives words she spoke to a women's conference: "No Indian could be loyal to the country and yet be narrow and sectarian in spirit."
+At a women's conference she said: "No Indian could be loyal to the country and yet be narrow and sectarian in spirit."
 
 <aside class="note"><b>A friendly writer</b>: the Wire article was written by a columnist and author, Praveen Davar. It is warm and admiring, and does not mention any critic.</aside>
 

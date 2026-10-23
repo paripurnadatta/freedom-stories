@@ -72,7 +72,7 @@ The Working Committee's resolution accepted the plan of Lord Mountbatten, the la
 
 Then it was put to the vote. According to Azad, 29 members voted for it and 15 against. Azad says even Gandhi's appeal could not bring more votes.
 
-Wikipedia says that Azad did not vote for or against. He abstained. It says the AICC approved the plan.
+Azad did not vote for or against. He abstained. The AICC approved the plan.
 
 <aside class="note"><b>Two versions</b>: Wikipedia says the British announced the plan on 3 June 1947. The passage of Azad's book we read does not give a date for the AICC vote. We use Wikipedia for the abstention, because Azad does not mention it in the lines we read.</aside>
 

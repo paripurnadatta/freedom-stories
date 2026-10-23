@@ -1,7 +1,7 @@
 ---
-title: "Seven puzzles about Rajguru"
-subtitle: "Where was he born? What happened to his parents? Was he at Kakori? When was he arrested? The books and websites give different answers. Here is how to be a history detective."
-type: flagship
+title: "From Khed to Hussainiwala"
+subtitle: "Shivaram Rajguru died at 22. The books and websites tell his story a little differently, so the small differences sit in notes along the way."
+type: short
 when: "1908 to 1931"
 where: "Khed, Varanasi, Pune and Lahore"
 published: 2026-10-22
@@ -39,80 +39,34 @@ sources:
 status: published
 ---
 
-Shivaram Rajguru died young, at 22. He left no writings that we know of. So what we know about him comes from other people.
+A boy was born on 24 August 1908 in Khed, a town near Pune in what is now Maharashtra. His name was Shivaram Rajguru. The town was later renamed Rajgurunagar in his honour. A notice from the Ministry of Information and Broadcasting says the same: Khed village, "now named as Rajguru Nagar".
 
-And other people do not always agree. When you put a book, a website and an encyclopedia side by side, you find puzzles. Some have answers. Some do not.
+<aside class="note"><b>Two versions</b>: The National Book Trust book says he was born in Varanasi, in Uttar Pradesh, and that his father's family belonged to Poona. Wikipedia, the website shivaramrajguru.com and the government notice all say Khed. No birth record was found.</aside>
 
-This story sets out seven of them. It shows you how a history detective works: open the sources, compare them, and say clearly where they differ.
+His father died when he was six. His elder brother, Dinkar, took care of him. Shivaram went to a Marathi school.
 
-## Puzzle 1: Where was he born?
+<aside class="note"><b>Two versions</b>: The National Book Trust book says both his parents died when he was six. Wikipedia and shivaramrajguru.com name his mother as Parvati Devi and say only that the father died then.</aside>
 
-Wikipedia says he was born on 24 August 1908 at Khed, near Pune, in what is now Maharashtra. The town was later renamed Rajgurunagar. The website shivaramrajguru.com agrees. So does a notice from the Ministry of Information and Broadcasting, which says he was born in Khed village, "now named as Rajguru Nagar".
+He grew up and joined the revolutionaries. Wikipedia says he took part in the Kakori train robbery in 1925, when he was about 17. That is probably a mistake. Wikipedia's own list of the Kakori men does not include him. The Allahabad High Court's history of the Kakori case does not name him. The National Book Trust book's chapter on him never mentions Kakori.
 
-The National Book Trust book says something else. It says he was born in Varanasi, in Uttar Pradesh. It adds that his father's family belonged to Poona.
+In December 1928 he was one of the group who shot the police officer Saunders in Lahore. The group had been angry about the beating of Lala Lajpat Rai, who was hurt in a police baton charge and died on 17 November.
 
-We lean towards Khed, because three sources agree and one of them is from the government. But we do not have a birth record.
+<aside class="note"><b>Who gave the order?</b> The Home Affairs page says Superintendent Scott struck the blows. Wikipedia and LiveLaw say the group was after Scott and shot Saunders by mistake. The National Book Trust book says the officer who struck the blows was Saunders. Most of the sources point to Scott.</aside>
 
-## Puzzle 2: What happened to his parents?
+Rajguru was arrested in Pune on 30 September 1929. By then he had been free for about nine and a half months. The police found a pistol and fourteen cartridges on him.
 
-The National Book Trust book says both his parents died when he was six, and that his elder brother Dinkar took care of him.
+<aside class="note"><b>A slip in a book</b>: The National Book Trust book gives 30 September 1928. That cannot be right, because the Saunders shooting was in December 1928. The year 1929 fits, and it is the year the website shivaramrajguru.com gives.</aside>
 
-Wikipedia and shivaramrajguru.com say that his father died when he was six. They name his mother as Parvati Devi. They do not say that she died then.
+The book also tells how he was caught. A police spy named Sharat Keskar became his friend and then betrayed him. Rajguru had been planning to kill the Governor of Bombay at the Governor's Cup race at the Poona Race Course, but could not get close enough. He was arrested in a motor garage. None of the other sources describes the arrest.
 
-So the sources agree on the father, and on the brother. They disagree about the mother.
+A special tribunal sentenced him on 7 October 1930. He was hanged at Lahore Central Jail, with Bhagat Singh and Sukhdev, on 23 March 1931. He was 22.
 
-## Puzzle 3: Was he at Kakori?
+The police cremated the bodies in secret at a place called Hussainiwala. The Home Affairs page says the ashes were reportedly thrown into the river Sutlej, and that the next day friends collected "bodily remains" from the cremation site.
 
-Wikipedia says Rajguru took part in the Kakori train robbery in 1925. It gives no source for that.
+<aside class="note"><b>Two places</b>: The website shivaramrajguru.com says the cremation was near Ganda Singh Wala, and that the ashes went into the Sutlej. It may mean the same spot as Hussainiwala, or a place close by.</aside>
 
-The website shivaramrajguru.com treats this as unsettled. And the lists we opened do not support it. The National Book Trust book's chapter on him never mentions Kakori. The Allahabad High Court's history of the Kakori case does not name him. Wikipedia's own article on the Kakori robbery lists the men who took part, and he is not among them.
-
-In 1925, he was about 17. We think the claim is probably wrong. But we say "probably", because we do not have the police files.
-
-## Puzzle 4: When was he arrested?
-
-The National Book Trust book says he was arrested in Poona on 30 September 1928. But the same book says he took part in the Saunders killing on 17 December 1928. You cannot be arrested before something happens.
-
-The website shivaramrajguru.com says he was arrested in Pune on 30 September 1929. That fits. It adds that he had been free for about nine and a half months, and that the police found a pistol and fourteen cartridges on him.
-
-So 1929 must be right, and the book probably has a printing slip. This is a good reminder. Even a book published by the government's own book trust can have a slip.
-
-## Puzzle 5: Who gave him away?
-
-The National Book Trust book says a police spy named Sharat Keskar became his friend, and then betrayed him. It says Rajguru had been planning to kill the Governor of Bombay at the Governor's Cup race at the Poona Race Course, but could not get close enough.
-
-It says he was arrested in a motor garage.
-
-None of the other sources we opened says how the police found him. We do not know if Keskar's part is exactly as the book tells it.
-
-## Puzzle 6: Which officer ordered the baton charge?
-
-In 1928, the police beat protesters in Lahore, and Lala Lajpat Rai was hurt. He died on 17 November. The Home Affairs page says the officer who struck the blows was Superintendent Scott. The National Book Trust book says it was Saunders.
-
-Wikipedia and LiveLaw say the group was after Scott. They also say Saunders was shot by mistake.
-
-If Scott gave the order, then Saunders paid for something he did not do. If the book is right, the story changes. The weight of the sources is on Scott.
-
-## Puzzle 7: What happened after the hanging?
-
-The Home Affairs page says the police secretly cremated the bodies at a place called Hussainiwala. It says the ashes were reportedly thrown into the river Sutlej. The website shivaramrajguru.com says they were cremated near Ganda Singh Wala, and that the ashes went into the Sutlej.
-
-The Home Affairs page adds that the next day, friends collected "bodily remains" from the cremation site. That does not quite fit with the ashes being thrown in the river. One part of the account must be loose.
-
-The two sources also name two different places. We cannot tell if they mean the same spot.
-
-We do know that there is a memorial at Hussainiwala today. The Home Affairs page says it was built after Independence, on land India acquired from Pakistan in 1950. It says the first memorial was destroyed in the 1971 war and was later rebuilt. The website shivaramrajguru.com calls the place the National Martyrs Memorial.
-
-## What is not a puzzle
-
-Some things are solid. Two or more sources agree on these.
-
-- He was hanged at Lahore Central Jail, with Bhagat Singh and Sukhdev, on 23 March 1931.
-- He was sentenced on 7 October 1930 by a special tribunal.
-- His birthplace village, Khed, was renamed Rajgurunagar in his honour.
+Today there is a memorial at Hussainiwala. The Home Affairs page says it was built after Independence, on land India acquired from Pakistan in 1950. The first memorial was destroyed in the 1971 war and was later rebuilt. The website calls the place the National Martyrs Memorial.
 
 ## Why it matters
 
-When a book says one thing, and a website says another, it is tempting to trust whichever one you read first. A good reader asks: who says so? Do others agree? Is there a date that does not fit?
-
-Rajguru's life is a good place to practise. He is remembered by many people, and each tells the story a little differently. We try to show you what we found, and where we could not be sure.
+Rajguru left no writings that are known. What is known about him comes from other people, and they do not always agree. A good reader asks who says a thing, whether others agree, and whether the date fits. Even a book from the government's own book trust can have a slip.

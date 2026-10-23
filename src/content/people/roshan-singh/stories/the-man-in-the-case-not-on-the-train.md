@@ -45,11 +45,11 @@ So the Kakori case was about all four. It was named for the last, because that o
 
 ## What the books say about Roshan Singh
 
-The National Book Trust book says Roshan Singh was not even present at the "main scene" of the Kakori robbery. Wikipedia also says he did not take part in it.
+Roshan Singh was not even present at the "main scene" of the Kakori robbery. He did not take part in it.
 
-Wikipedia says he was arrested and tried in January 1926 for a murder committed during the Bamrauli robbery.
+He was arrested and tried in January 1926 for a murder committed during the Bamrauli robbery.
 
-The book prints words it says Judge Hamilton wrote about him. They say that at Bamrauli Roshan "was the leader, as he knew everything about that village". They also say that "two persons have revealed that he was carrying a pistol that day".
+Judge Hamilton's words are printed in the National Book Trust book. They say that at Bamrauli Roshan "was the leader, as he knew everything about that village". They also say that "two persons have revealed that he was carrying a pistol that day".
 
 Because of this, the judge sentenced him to death under Section 396 of the law. Judge Hamilton gave his judgment on 6 April 1927.
 

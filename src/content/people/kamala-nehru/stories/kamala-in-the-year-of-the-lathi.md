@@ -32,7 +32,7 @@ By April 1930 Nehru was in prison again, says the National Herald. Many more wom
 
 <aside class="note"><b>Lathi charge</b>: when police hit a crowd with long sticks to break it up.</aside>
 
-The Wire says the same. Both articles were written by the same author, Praveen Davar, so they are not two separate checks.
+<aside class="note"><b>One author</b>: The Wire carries the same account, but both it and the National Herald piece were written by Praveen Davar, so they are not two separate checks.</aside>
 
 ## A leader in her own city
 

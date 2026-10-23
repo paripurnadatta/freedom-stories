@@ -50,7 +50,7 @@ Things belonging to the dead were later found in her palace, Wikipedia adds. Her
 
 In mid-June, the Rani wrote two letters to a British officer, Major Erskine. She told him the soldiers had surrounded her palace. They had threatened to burn it, and even to kill her, if she did not help them. She said she had given them men and guns because she had no choice.
 
-National Geographic says she wrote that she hoped the soldiers would "go straight to hell for their deeds." The Company did not believe her.
+She wrote that she hoped the soldiers would "go straight to hell for their deeds." The Company did not believe her.
 
 Erskine believed her. His bosses in Calcutta did not.
 
@@ -64,7 +64,7 @@ He disapproved of the killing of the British families. He wrote that the rebels'
 
 ## A problem for storytellers
 
-Wikipedia states the difficulty plainly. If the Rani took part from the start, her reputation suffers. If she was forced, the story of her bravery becomes smaller. Writers on both sides have struggled with this.
+The difficulty is plain. If the Rani took part from the start, her reputation suffers. If she was forced, the story of her bravery becomes smaller. Writers on both sides have struggled with this.
 
 ## What we can say
 

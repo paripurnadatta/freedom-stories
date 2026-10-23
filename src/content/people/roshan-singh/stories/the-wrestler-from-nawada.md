@@ -50,7 +50,7 @@ As a boy he was a brave wrestler and a sure shot. The ideas of the Arya Samaj sh
 
 When was he born? Most sources say 22 January 1892.
 
-English Wikipedia and two Hindi websites give 22 January 1892. Another Hindi news site gives 19 December 1892, which is also the day he was hanged in 1927, so it may be a slip. The National Book Trust book says 1894, and a newspaper, The Lucknow Observer, says 1890. No record from his own time was seen.
+Not every record agrees. English Wikipedia and two Hindi websites give 22 January 1892. Another Hindi news site gives 19 December 1892, which is also the day he was hanged in 1927, so it may be a slip. The National Book Trust book says 1894, and a newspaper, The Lucknow Observer, says 1890. No record from his own time was found, so 1892 is the date most pages share.
 
 ## A teacher
 

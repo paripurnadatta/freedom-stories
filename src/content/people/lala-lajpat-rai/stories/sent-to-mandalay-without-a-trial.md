@@ -57,7 +57,7 @@ The year 1907 was fifty years after the great revolt of 1857, and the authoritie
 
 <aside class="note"><b>A friendly writer</b>: the writer of the Swarajya article admires Rai, so his reading should be weighed with care.</aside>
 
-Wikipedia says the government did not have enough proof to hold Rai for working against it. So he was deported all the same.
+The government did not have enough proof to hold Rai for working against it. So he was deported all the same.
 
 From prison, Rai wrote to his father. He said "whatever comes should be manfully borne," according to Swarajya.
 
