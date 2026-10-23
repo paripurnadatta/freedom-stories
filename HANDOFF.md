@@ -103,7 +103,7 @@ Library pass on 23 October 2026: `archive-library/indian-independence-movement/`
 
 ## Wishlist pictures placed (23 October 2026)
 The owner sent wishlist-pictures.zip (198 pictures chosen from the 1,951-picture sub-category index). All were viewed.
-- **Placed (gallery items, `foundIn: "owner-library"`, in each subject's `archive/` and `media.json`)**: about 57 pictures across Revolt of 1857, Ghadar Party, HSRA, HRA, Kakori, Swadeshi (Bande Mataram 1907), Rowlatt, Civil Disobedience (Vedaranyam), Congress (1929 session), Nehru, Bose, Sukhdev, Bismil, Lahiri, Vohra. Pictures already in a gallery were skipped.
+- **Placed (gallery items, `foundIn: "owner-library"`, in each subject's `archive/` and `media.json`)**: 52 gallery entries across Revolt of 1857, Ghadar Party, HSRA, HRA, Kakori, Swadeshi (Bande Mataram 1907), Rowlatt, Civil Disobedience (Vedaranyam), Congress (1929 session), Nehru, Bose, Sukhdev, Bismil, Lahiri, Vohra. Pictures already in a gallery were skipped.
 - **Not placed**: about 40 modern Aga Khan Palace photos and plaques; Gandhi film slides and the Harijan covers (licence not confirmed); hangings and battle scenes; colourised or watermarked portraits; tiny 1916 Ghadar trial portraits; people with no subject page yet (Chapekar brothers, Sarala Devi, Bhulabhai Desai, Kanailal Dutta, Suhasini Ganguly, Hari Kishan, Vanchi Iyer, Obaidullah Sindhi).
 - `media.json` files touched were rewritten with `json.dump(indent=1)`, so the git diff is large but only the added items are new.
 - Not yet used as story plates; a pass could add the best ones (Kakori group, Bande Mataram 1907, Ghadar handbills) inside stories.
