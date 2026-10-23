@@ -200,7 +200,7 @@ which ones should be redone and why.
 | HSRA with HRA (organisation) | 6 (2 flagship) | done |
 | Indian National Army (organisation) | 6 (2 flagship) | 4 done, 2 waiting (redo) |
 | Ghadar Party (organisation) | 6 (3 flagship) | done |
-| Khudai Khidmatgar (organisation) | 6 (3 flagship) | 5 done, 1 waiting (redo: readable sign) |
+| Khudai Khidmatgar (organisation) | 6 (3 flagship) | done (the vote painting keeps a readable "POLLING" sign; owner said fine, 23 Oct 2026) |
 | Revolt of 1857 (event) | 7 (3 flagship) | done |
 | Swadeshi Movement (event) | 6 (2 flagship) | done |
 | Non-Cooperation and Khilafat (event) | 6 (3 flagship) | done |
