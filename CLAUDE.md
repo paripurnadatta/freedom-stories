@@ -198,7 +198,7 @@ which ones should be redone and why.
 | Pritilata Waddedar | 6 (2 flagship) | done |
 | Indian National Congress (organisation) | 7 (4 flagship) | done |
 | HSRA with HRA (organisation) | 6 (2 flagship) | done |
-| Indian National Army (organisation) | 6 (2 flagship) | 4 done, 2 waiting (redo) |
+| Indian National Army (organisation) | 6 (2 flagship) | done (owner accepted the chakra flag and the Japanese sign, 23 Oct 2026) |
 | Ghadar Party (organisation) | 6 (3 flagship) | done |
 | Khudai Khidmatgar (organisation) | 6 (3 flagship) | done (the vote painting keeps a readable "POLLING" sign; owner said fine, 23 Oct 2026) |
 | Revolt of 1857 (event) | 7 (3 flagship) | done |
