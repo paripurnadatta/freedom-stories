@@ -196,5 +196,7 @@ which ones should be redone and why.
 | Subramania Bharati | 7 (2 flagship) | done |
 | Udham Singh | 8 (2 flagship) | done |
 | Pritilata Waddedar | 6 (2 flagship) | 3 prompts waiting |
+| Indian National Congress (organisation) | 7 (4 flagship) | 7 prompts waiting |
+| HSRA with HRA (organisation) | 6 (2 flagship) | 5 prompts waiting |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); more flagships for the four new subjects if sources allow.

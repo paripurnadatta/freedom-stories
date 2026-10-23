@@ -1,0 +1,86 @@
+ILLUSTRATIONS NEEDED: Hindustan Socialist Republican Association
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. A constitution for a secret army  (flagship story)
+==============================================================================
+FILE NAME: a-constitution-for-a-secret-army
+Save it as a-constitution-for-a-secret-army.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A constitution for a secret army", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+October 1924, a plain upstairs room in a house in Kanpur. A handful of young men in kurtas and a few in shirts sit on a rug around a low table covered with handwritten pages. One older man, seen from behind, reads aloud. A small oil lamp and a window with the curtains half drawn. Serious, hopeful, secretive mood. Keep every face small and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Soul-force or the bomb?  (flagship story)
+==============================================================================
+FILE NAME: soul-force-or-the-bomb
+Save it as soul-force-or-the-bomb.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Soul-force or the bomb?", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Two desks side by side in one wide picture. On the left, a quiet room with a man in a simple white cloth seen from behind, writing at a low desk by a window, a spinning wheel in the corner. On the right, a small crowded room where two young men in kurtas bend over a hand printing press, pages hanging to dry on a string. Warm light on both sides, a soft dividing wall between them. Thoughtful mood, no fighting. Keep every face small and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Two days in the ruins of Kotla  (short story)
+==============================================================================
+FILE NAME: two-days-in-the-ruins-of-kotla
+Save it as two-days-in-the-ruins-of-kotla.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two days in the ruins of Kotla", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+September 1928, the broken stone walls and arches of an old fort in Delhi at dusk. About ten young men sit in a loose circle on the grass among fallen stones, talking, seen from a distance. Long shadows, a pale sky going orange. Quiet, serious mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The dispensary in Saharanpur  (short story)
+==============================================================================
+FILE NAME: the-dispensary-in-saharanpur
+Save it as the-dispensary-in-saharanpur.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The dispensary in Saharanpur", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1929, the front of a small town dispensary in North India: a plain shop with a wooden counter, shelves of glass bottles and jars, and a hanging cloth awning. Two young men in white shirts stand behind the counter, mixing powders in small paper packets, seen from the street at a distance. A cart and a few townspeople pass outside. Warm afternoon light. Calm, ordinary mood. No signboard text. Keep every face small and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Classes in the Cellular Jail  (short story)
+==============================================================================
+FILE NAME: classes-in-the-cellular-jail
+Save it as classes-in-the-cellular-jail.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Classes in the Cellular Jail", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1930s, the corridor of a red-brick prison on an island, with a high watchtower in the distance through an arched opening. Inside one open cell door, a young man sits on the floor with a book, teaching a small group of other prisoners in plain cotton clothes, who sit cross-legged with notebooks. Soft light from a barred window. Quiet, studious mood. Keep every face small and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
