@@ -43,7 +43,7 @@ The oral accounts differ on how Kuyili met the queen and what they were to each 
 
 ## Who collected the songs
 
-The Hindu names two men who gathered the oral material.
+Two men gathered the oral material.
 
 One is R. Lenin, who writes under the name Santhimavo. He says that elderly villagers in Sivaganga district sing folk songs which mention Kuyili. He also says that a goddess worshipped in the village of Muthupatti, called Theepanja Amman, is Kuyili. And one family in the village of Idaikattur holds a ritual for her every year in the Tamil month of Maasi.
 

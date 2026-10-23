@@ -51,7 +51,7 @@ The Hindi account says that Bichpuri and Dwarkapur each brought in very little m
 
 It says that after these two robberies, Ram Prasad Bismil decided something. From now on, the group would loot only government money. They would not take the property of rich Indians again.
 
-The National Book Trust book gives a similar reason in Bismil's own voice. It says he told his friends that if they robbed the government, they would not have to harm their own people.
+Bismil gave a similar reason in his own voice. He told his friends that if they robbed the government, they would not have to harm their own people.
 
 That is why the next target was a train. The government's money was carried in an iron safe in the guard's van.
 

@@ -35,7 +35,7 @@ On the evening of 9 August 1925, a train called the 8 Down stopped near Kakori. 
 
 The men on the train told the passengers to stay inside, says the court history. They said no harm would come to them, because they were only after "Government property".
 
-The National Book Trust book gives the words it says they shouted: "Travellers! Do not be afraid. We are revolutionaries fighting for the freedom. Your lives, money and honour are safe. But take care not to peep out of the train."
+They shouted, in words one book gives: "Travellers! Do not be afraid. We are revolutionaries fighting for the freedom. Your lives, money and honour are safe. But take care not to peep out of the train."
 
 This warning was part of the plan. The group wanted to rob the government's money and leave ordinary people alone.
 

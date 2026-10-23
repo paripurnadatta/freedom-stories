@@ -39,7 +39,7 @@ After a three-month stay in Dover in 1921, he went to the United States. He work
 
 Vinay Lal tells it differently. He went to Africa first, probably Uganda and possibly Nairobi, and then to America. In the middle of the 1920s he reportedly travelled through several European countries.
 
-The National Book Trust book says he worked with a contractor, went to Africa and then America.
+One book says he worked with a contractor, went to Africa and then America.
 
 <aside class="note"><b>Several roads</b>: South Asian Britain says Dover in 1921 and then the United States. Vinay Lal says Africa and then the United States. The Tribune quotes Dr Navtej Singh as saying that Udham Singh worked for the North Western Railway from 1917 to 1922. The three do not fit together, and no source settles it.</aside>
 

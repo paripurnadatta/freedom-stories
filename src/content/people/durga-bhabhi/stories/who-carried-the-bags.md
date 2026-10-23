@@ -58,21 +58,21 @@ Bhagat Singh cut his hair and shaved. Wikipedia says he did it so well that she 
 
 Who carried the bags? Maclean, Wikipedia and the National Book Trust book say it was Rajguru, in the role of the servant.
 
-<aside class="note"><b>Two versions</b>: three sources name Rajguru. The Quint names Sukhdev. Most of the evidence points to Rajguru. We could not find a record from the time that settles it.</aside>
+Three sources name Rajguru. The Quint names Sukhdev. Most of the evidence points to Rajguru. We could not find a record from the time that settles it.
 
 ## The platform
 
 On the platform there was more going on. The National Book Trust book says a sadhu, a holy man, was seen there. It says this was Chandrashekhar Azad in disguise.
 
-Maclean tells it differently. She says Azad escaped as a pilgrim's guide, called a *panda*, travelling with Sukhdev's mother and sister.
+In another telling, Azad escaped as a pilgrim's guide, called a *panda*, travelling with Sukhdev's mother and sister.
 
-The Quint says that more than four hundred policemen were watching the platform. No other source gives this number.
+More than four hundred policemen were watching the platform, one report says. No other source gives this number.
 
 ## The road
 
 The group took tickets to Cawnpore, now Kanpur, says Wikipedia. They went on to Lucknow, to avoid the police at Howrah. At Lucknow, Rajguru left for Benares. Bhagat Singh, Durga Devi and the baby went on to Howrah, near Calcutta.
 
-Maclean says they went on to Calcutta. The Quint says they got past the police questions on the train.
+They went on to Calcutta. They got past the police questions on the train.
 
 ## Why it matters
 

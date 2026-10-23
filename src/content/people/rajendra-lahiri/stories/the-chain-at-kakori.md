@@ -31,7 +31,7 @@ What happens when someone pulls the emergency chain on a train?
 
 The train slows and stops. Passengers wonder why. On the evening of 9 August 1925, near the small station of Kakori, the stop was planned.
 
-The National Book Trust book says the train was the Number Eight Down, going from Shahjahanpur to Lucknow. The Allahabad High Court says it was after seven in the evening. The place was about eight miles from Lucknow.
+The train was the Number Eight Down, going from Shahjahanpur to Lucknow. It was after seven in the evening. The place was about eight miles from Lucknow.
 
 ## The man in the carriage
 
@@ -67,7 +67,7 @@ Police arrested many people across the country. The hearing began in January 192
 
 The judge was Mr. Hamilton, a Special Judge. He gave his judgment on 6 April 1927.
 
-The National Book Trust book prints words that it says Hamilton spoke about Lahiri. He called him "one of the leaders of this conspiracy". He said that, as a leader, Lahiri was also responsible for the death of Ahmad Ali. Lahiri was sentenced to death.
+Hamilton called him "one of the leaders of this conspiracy". He said that, as a leader, Lahiri was also responsible for the death of Ahmad Ali. Lahiri was sentenced to death.
 
 <aside class="note"><b>Conspiracy</b>: a secret plan, made by a group of people, to do something against the law.</aside>
 

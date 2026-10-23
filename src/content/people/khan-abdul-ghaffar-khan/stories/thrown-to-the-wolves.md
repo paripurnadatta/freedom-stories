@@ -42,7 +42,7 @@ The Khudai Khidmatgars had stood with the Congress for many years. Tendulkar wri
 
 If India was divided, the Frontier would probably go to Pakistan. And then these Pakhtun leaders would be at the mercy of the Muslim League.
 
-Tendulkar says that Abdul Ghaffar was very sad in those days. He said, "We shall be outcasts in the eyes of both." He meant India and Pakistan. And then he added, "But I do not worry so long as Mahatmaji is there."
+Abdul Ghaffar was very sad in those days. He said, "We shall be outcasts in the eyes of both." He meant India and Pakistan. And then he added, "But I do not worry so long as Mahatmaji is there."
 
 On the last day of Gandhi's stay, he said what we read above. He also said that the end of their long fight would be "to pass under the domination of Pakistan, away from Bapu, away from India". Gandhi heard about it from Manu. Tendulkar says Gandhi replied: "Verily Badshah Khan is a fakir. Independence will come, but the brave Pathan will lose his."
 
@@ -56,7 +56,7 @@ On 7 May Gandhi left for Calcutta. Abdul Ghaffar saw him off at the station. "Ma
 
 On 3 June 1947 the Congress Working Committee met. The plan from the British was now known. India would be divided. In the Frontier province, a vote of the people, called a referendum, would decide whether to join Pakistan or not.
 
-Tendulkar says Abdul Ghaffar was stunned. For several minutes he could hardly speak. Then he reminded the committee that he had always stood by the Congress. He said that if the Congress deserted him, his enemies would laugh. Even his friends would say that the Congress cared for the Frontier only while it needed it.
+Abdul Ghaffar was stunned. For several minutes he could hardly speak. Then he reminded the committee that he had always stood by the Congress. He said that if the Congress deserted him, his enemies would laugh. Even his friends would say that the Congress cared for the Frontier only while it needed it.
 
 Sardar Patel and C. Rajagopalachari strongly favoured the referendum, says Tendulkar. In the end the Working Committee accepted both the partition and the referendum.
 
@@ -78,7 +78,7 @@ We have not found the other leaders' own account of this meeting in the sources 
 
 What we do know is why leaders of the Congress accepted partition. Tendulkar says Nehru and Patel accepted it on the understanding that by giving Pakistan to Jinnah they would hear no more of him. He quotes Nehru as saying privately, "By cutting off the head we will get rid of the headache."
 
-Tendulkar adds that in a radio broadcast that evening Nehru said they all disliked dividing India. But they could not let India go on bleeding, and an operation was better.
+In a radio broadcast that evening Nehru said they all disliked dividing India. But they could not let India go on bleeding, and an operation was better.
 
 Gandhi's answer to Abdul Ghaffar is also in Tendulkar. Gandhi was sure that if the Frontier did not get "a square deal", or if the Khudai Khidmatgars were oppressed, India would feel in honour bound to help. He said he would advise the Indian government to treat it as a cause for war. He told Ghani, Abdul Ghaffar's son, not to worry about his non-violence: "I am non-violent, the Government is not."
 

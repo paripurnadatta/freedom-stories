@@ -28,7 +28,7 @@ The first person is a follower of Birsa Munda. The second is a Belgian priest na
 
 ## Who Hoffmann was
 
-Joseph Bara writes that Hoffmann was a Jesuit professor at St Xavier's College in Calcutta. He longed to work in Chotanagpur. He learnt the Mundari language. In time he wrote a huge work on the Mundas, called the *Encyclopaedia Mundarica*. It has sixteen volumes, Bara says, and the Bihar government published it.
+Hoffmann was a Jesuit professor at St Xavier's College in Calcutta. He longed to work in Chotanagpur. He learnt the Mundari language. In time he wrote a huge work on the Mundas, called the *Encyclopaedia Mundarica*. It has sixteen volumes, and the Bihar government published it.
 
 <aside class="note"><b>Jesuit</b>: a priest of the Society of Jesus, a Catholic order known for its schools and scholars.</aside>
 
@@ -42,7 +42,7 @@ But Hoffmann spoke Mundari. That helped people who had been arrested.
 
 In 1895, when Birsa's trial began at Khunti, some of his followers seemed to threaten the court, Roy says. A number of them were arrested. They were later let go. Roy says the reason was that Hoffmann explained what had really happened. Their language had been misunderstood. Roy calls Hoffmann a man "than whom no one knows the Mundas better".
 
-Bara describes a second time. In early 1900, a group of Birsa's followers came to Khunti police station just to catch a glimpse of their captured leader. They were falsely accused of setting fire to something. Hoffmann correctly translated their Mundari words for the visiting Deputy Commissioner. That saved them. Bara calls him "a humanitarian at heart".
+A second time came in early 1900. A group of Birsa's followers came to Khunti police station just to catch a glimpse of their captured leader. They were falsely accused of setting fire to something. Hoffmann correctly translated their Mundari words for the visiting Deputy Commissioner. That saved them. One writer calls him "a humanitarian at heart".
 
 ## A law for the land
 
@@ -58,10 +58,10 @@ When the government thanked Hoffmann, Bara says, he answered politely. A word of
 
 The Lieutenant-Governor, Andrew Fraser, called the Act a bulwark, or strong wall, of Adivasi rights. Officials said it would bring "a calm, sunny morning after a long destructive hurricane". Bara thinks this was too hopeful. He says forced labour and some payments to landlords were indeed ended. But the poor farmers were still hard pressed. Most of the best land was already lost. Only 156 villages still held their khuntkatti rights, covering just 144 square miles, he says. Many Adivasi families left to work on tea plantations in Assam. Within ten years, a new movement began, the Tana Bhagat movement.
 
-Bara adds one more thought. Hoffmann worked inside the government's own system. Birsa had wanted something different, which was freedom from it. So the two men did not want the same thing, even when they both cared about the land.
+One more thought stays with the reader. Hoffmann worked inside the government's own system. Birsa had wanted something different, which was freedom from it. So the two men did not want the same thing, even when they both cared about the land.
 
 ## Why it matters
 
 People are rarely only on one side. A man who was Birsa's enemy still spoke up for the Mundas in court, and helped to write the law. A law written by officials may still fall short.
 
-Bara puts it this way. The task that Birsa had begun, to protect Adivasi land, "fell on his adversary's shoulder".
+The task that Birsa had begun, to protect Adivasi land, "fell on his adversary's shoulder", as one writer puts it.

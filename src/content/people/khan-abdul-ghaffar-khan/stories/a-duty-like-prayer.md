@@ -53,9 +53,9 @@ The police, says Tendulkar, tried to frighten the teachers. When that failed, th
 
 The school was only six months old when the Chief Commissioner, Sir John Maffey, sent for Abdul Ghaffar's father, Behram Khan.
 
-Tendulkar says the officer told the old man that the school was anti-British. He asked why his son was visiting village after village setting up schools. He told Behram Khan to ask his son to stay at home like the others, or "you both will have to face the consequences".
+The officer told the old man that the school was anti-British. He asked why his son was visiting village after village setting up schools. He told Behram Khan to ask his son to stay at home like the others, or "you both will have to face the consequences".
 
-Behram Khan was fond of the British, who called him "chacha". Tendulkar says he used to say that the British had come as angels sent by God for people's good. He took his son aside and gently said: "What the others are not doing, you should not do. Sit comfortably at home."
+Behram Khan was fond of the British, who called him "chacha". He used to say that the British had come as angels sent by God for people's good. He took his son aside and gently said: "What the others are not doing, you should not do. Sit comfortably at home."
 
 Abdul Ghaffar answered with a question. Suppose all the other people stopped saying their prayers, he asked, would his father tell him to stop too?
 

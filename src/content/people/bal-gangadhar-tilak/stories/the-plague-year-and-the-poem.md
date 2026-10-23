@@ -95,7 +95,7 @@ The sentence was eighteen months of hard labour. Tilak asked the Privy Council i
 
 ## In prison
 
-Pradhan's book says Tilak was kept in Yerwada prison. Tilak began work on a book there. It was *The Arctic Home in the Vedas*. A friend named Gopalrao Gogate wrote it down as Tilak spoke. It was published in 1903.
+Tilak was kept in Yerwada prison. He began work there on a book, *The Arctic Home in the Vedas*. A friend named Gopalrao Gogate wrote it down as Tilak spoke. It was published in 1903.
 
 He was set free on 6 September 1898, says Pradhan. The Tribune agrees on the date. Pradhan says he served about eleven months. A Sankalp India page says the government cut the sentence and that he came out at Deepavali. These accounts do not match, and neither explains the difference. We cannot say which is right.
 

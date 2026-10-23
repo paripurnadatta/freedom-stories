@@ -54,7 +54,7 @@ Then came a famine in 1897, cholera in 1898, and a failed crop in 1899.
 
 ## What changed with Birsa
 
-Bara says the Sardars were tired of their long wait. When Birsa began to speak, many of them joined him. Bara says Birsa went further than the Sardars did in three ways.
+The Sardars were tired of their long wait. When Birsa began to speak, many of them joined him. Birsa went further than the Sardars did in three ways.
 
 First, the Sardars never questioned the British as supreme rulers in their petitions. Birsa named the British, the missionaries and the landlords as enemies.
 

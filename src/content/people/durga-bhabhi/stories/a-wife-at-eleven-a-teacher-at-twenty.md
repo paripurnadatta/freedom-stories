@@ -62,7 +62,9 @@ A son of such a man might have lived a quiet life. Instead, Bhagwati Charan stud
 
 Their son was born in 1925. His name was Sachinanda, but everyone called him Sachi.
 
-Maclean gives the year, 1925. That would make Sachi about three in December 1928. Wikipedia only calls him "an infant" at that time. We follow Maclean, but we have not seen his birth record.
+Sachi was born in 1925, which would make him about three in December 1928.
+
+Maclean gives the year 1925. Wikipedia only calls him "an infant" at that time. This story follows Maclean, but his birth record was not seen.
 
 ## Visitors in the house
 

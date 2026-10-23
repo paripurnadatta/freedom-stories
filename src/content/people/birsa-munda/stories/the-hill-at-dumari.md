@@ -49,7 +49,7 @@ The witness said Birsa told them to make bows and arrows, and other weapons. Acc
 
 Please remember who is speaking. This is one man's statement in a trial. He was a prosecution witness, and the government was trying Birsa's followers. We cannot check his words against any other witness. But two writers, Roy and Bara, both print the same statement, so we know it was recorded in court.
 
-Bara adds a point about the place. Birsa, he says, usually met his followers on hilltops. Officials found it hard to climb up there, and it was easy to defend.
+Birsa usually met his followers on hilltops. Officials found it hard to climb up there, and it was easy to defend.
 
 ## Christmas Eve
 

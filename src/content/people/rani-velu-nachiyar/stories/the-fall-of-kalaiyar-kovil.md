@@ -1,7 +1,7 @@
 ---
 title: "The fall of Kalaiyar Kovil"
 subtitle: "In June 1772, two armies marched on the little kingdom of Sivaganga. In four days its ruler was dead. His wife, Velu Nachiyar, was a queen with no kingdom."
-type: flagship
+type: short
 when: "21 to 25 June 1772"
 where: "Sivaganga and Kalaiyar Kovil, Tamil Nadu"
 published: 2026-10-22
@@ -67,9 +67,9 @@ That sentence is all the history tells us about his death. We do not know how it
 
 Historians praised the way Velu Nachiyar behaved on the battlefield, the district history adds. It does not say what she did. So we do not know where she was, or what she did, on that day.
 
-The Press Information Bureau says her husband and his second wife were both killed. Wikipedia's page does not mention a second wife. We do not know more about this.
+Her husband and his second wife were both killed, says one government page. Wikipedia's page does not mention a second wife. Nothing more is known about this.
 
-the school textbook says the Nawab and the Company soldiers "stormed the Kalaiyar Kovil Palace" and that Muthu Vadugar was killed there. The district history says he fell in a battle against Benjour's force. Wikipedia says he was killed at Kalaiyar Kovil, and then adds a muddled line about another place, Maravar Mangalam. The accounts are not the same, but they might describe the same fight.
+The school textbook says the Nawab
 
 ## The flight
 

@@ -81,7 +81,7 @@ On 6 April 1927, Mr Hamilton gave his decision. The court history sums it up lik
 
 Sachindranath Sanyal was sentenced to life, and Manmathnath Gupta to fourteen years. The shortest sentences were three years.
 
-The National Book Trust book prints words it says are from the judgment. About Lahiri, the judge said that he was one of the leaders, and that he was "responsible for the death of Ahmed Ali". About Roshan Singh, the judge said he was the leader in the Bamrauli robbery, and that two people had said he carried a pistol that day.
+The judgment, as one book prints it, describes two of the men. About Lahiri, the judge said that he was one of the leaders, and that he was "responsible for the death of Ahmed Ali". About Roshan Singh, the judge said he was the leader in the Bamrauli robbery, and that two people had said he carried a pistol that day.
 
 <aside class="note"><b>Bamrauli</b>: the first of the four robberies in the case. It happened on Christmas night in 1924, in the Pilibhit district. It was not at Kakori.</aside>
 

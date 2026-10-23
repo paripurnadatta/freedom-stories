@@ -54,11 +54,11 @@ He went on: "I am not fit for the praise you have showered on me." He said the p
 
 ## Where the name came from
 
-Tendulkar says the name was used warmly by admirers and mockingly by rivals. He says it would seem to come from the time when Abdul Ghaffar was in Gujrat jail in the Punjab. There he had read Gandhi's life story with care. He fasted once a week and kept silent one day a week.
+The name was used warmly by admirers and mockingly by rivals. It would seem to come from the time when Abdul Ghaffar was in Gujrat jail in the Punjab. There he had read Gandhi's life story with care. He fasted once a week and kept silent one day a week.
 
 Jawaharlal Nehru wrote that Abdul Ghaffar was known by many names: "Pride of the Pathans" and "the Frontier Gandhi", among others. Nehru said the rest of India saw him as the symbol of the courage of a brave people.
 
-Tendulkar says the name "Badshah Khan", meaning King Khan, had been used by his own people since 1921. Mahadev Desai, who visited him in 1938, wrote that they revered him as their king.
+His own people had used the name "Badshah Khan", meaning King Khan, since 1921. Mahadev Desai, who visited him in 1938, wrote that they revered him as their king.
 
 ## Gandhi comes to the Frontier
 

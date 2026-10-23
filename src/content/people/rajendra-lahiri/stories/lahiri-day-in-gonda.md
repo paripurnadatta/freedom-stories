@@ -49,7 +49,7 @@ Lahiri was hanged two days before the date that had been set. New India Samachar
 
 Before the noose, Lahiri shouted "Vande Mataram". The Hindi Wikipedia gives words it says he spoke. In English: "I am not dying. I am going to be born again in a free India." A plaque at the gallows carries this message, it says.
 
-The National Book Trust book gives other words. It says his last words before the hanging were "Bharat Mata ki Jai", "Long live the Hindustan Republican Army" and "Vande Mataram".
+Another book gives other words. It says his last words before the hanging were "Bharat Mata ki Jai", "Long live the Hindustan Republican Army" and "Vande Mataram".
 
 <aside class="note"><b>Two versions</b>: the two accounts overlap, because both include a cry of "Vande Mataram". But they differ on the rest. Nobody wrote his words down at the time. So we cannot say which, if either, is exact.</aside>
 

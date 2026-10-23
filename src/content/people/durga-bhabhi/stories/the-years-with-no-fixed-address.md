@@ -100,7 +100,7 @@ The police then hunted a "young, fair, good-looking" woman. They called her Shar
 
 Other accounts tell it differently. Wikipedia says that after Bhagat Singh's trial, she tried to kill Lord Hailey, who was the Governor of the Punjab, and that some of her companions were hurt. It says she was arrested and spent three years in prison.
 
-The National Book Trust book gives a third version. She and others shot at Sergeant Taylor and his wife, and some other officers, on 1 October 1931. The book says this was "to avenge the hanging of Bhagat Singh".
+A third version comes from the National Book Trust book. She and others shot at Sergeant Taylor and his wife, and some other officers, on 1 October 1931. It says this was "to avenge the hanging of Bhagat Singh".
 
 <aside class="note"><b>Three versions</b>: Maclean says 8 October 1930, in Bombay, after the death sentences. The NBT book says 1 October 1931, after the hangings of 1931. Wikipedia names a different target, Lord Hailey, and a three-year prison sentence. In another article Maclean says Durga Devi gave herself up in Lahore on 14 September 1932 and was held for two months, then kept to Lahore for a year. The accounts cannot all be right. We have not seen a court record.</aside>
 

@@ -56,7 +56,7 @@ Think how hard this was in a land of feuds. A man who was hit would not hit back
 
 ## Why red?
 
-Tendulkar tells how the colour came about. Abdul Ghaffar went from village to village talking to the Pakhtuns. His companions found that their white clothes got dirty easily. So they decided to dye them.
+This is how the colour came about. Abdul Ghaffar went from village to village talking to the Pakhtuns. His companions found that their white clothes got dirty easily. So they decided to dye them.
 
 One of them took his shirt, trousers and turban to a local tannery. A tannery is a place where animal hides are turned into leather. He dipped the clothes in a liquid made from pine bark, which the workers used for the hides. The cloth came out a dark brownish red. The others did the same.
 
@@ -66,9 +66,9 @@ So the volunteers became known as the Red Shirts.
 
 ## How the Red Shirts were organised
 
-Tendulkar says Abdul Ghaffar had "a genius for organizing his people". Every village had a committee called a jirga. Villages were grouped into bigger committees. At the top was the Provincial Jirga, which Tendulkar calls "the unofficial parliament of the Pakhtuns".
+Abdul Ghaffar had "a genius for organizing his people". Every village had a committee called a jirga. Villages were grouped into bigger committees. At the top was the Provincial Jirga, which one biographer calls "the unofficial parliament of the Pakhtuns".
 
-The volunteers were a separate body. They were led by a Commander-in-Chief, whom Abdul Ghaffar chose himself. Tendulkar says this was because discipline mattered most in this group.
+The volunteers were a separate body. They were led by a Commander-in-Chief, whom Abdul Ghaffar chose himself. This was because discipline mattered most in this group.
 
 They worked for nothing. They even paid for their own uniforms. Men wore red and women wore black. They had bagpipe and drum bands. They kept order at meetings and helped villagers in trouble. They drilled and went on long marches, like soldiers.
 

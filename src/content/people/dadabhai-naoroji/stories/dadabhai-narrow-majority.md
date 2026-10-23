@@ -78,7 +78,7 @@ New members of the House of Commons have to take an oath. Naoroji was a Zoroastr
 
 ## What he did in Parliament
 
-Patel says he gave his first speech in the Commons on 9 August 1892. On 1 March 1893 he put forward a bill. It asked that the civil service exams be held in India as well as Britain. You can read how that went in "Home in 1893". The History of Parliament's article says he also spoke for votes for women, old-age pensions and Irish Home Rule. It says he argued that British rule in India was "un-British", because it did not follow the British idea of fair play.
+He gave his first speech in the Commons on 9 August 1892. On 1 March 1893 he put forward a bill. It asked that the civil service exams be held in India as well as Britain. You can read how that went in "Home in 1893". He also spoke for votes for women, old-age pensions and Irish Home Rule. He argued that British rule in India was "un-British", because it did not follow the British idea of fair play.
 
 He lost his seat in 1895. On 16 July, Patel says, he got 2,873 votes and the winner got 3,588. That same year, Patel notes, another Indian, Mancherji Bhownaggree, won a seat at Bethnal Green. He stood for the Conservatives, the party of Lord Salisbury. Bhownaggree was a Conservative, so he belonged to the party that had opposed Naoroji. Manu Pillai writes that after his defeat he published a book, *Poverty and Un-British Rule in India*. We tell about that in "The forty shillings".
 

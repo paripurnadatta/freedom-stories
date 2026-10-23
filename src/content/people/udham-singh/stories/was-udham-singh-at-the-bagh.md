@@ -79,9 +79,9 @@ But was he in the Bagh? Here the books do not agree.
 
 R. K. Tandon's book, published by the National Book Trust, says he saw the firing. His friend was killed. He lay on the ground and later helped the injured.
 
-Wikipedia says that he was present, serving water to the crowd with friends from the orphanage.
+Another account says that he was present, serving water to the crowd with friends from the orphanage.
 
-Neither the book nor Wikipedia gives its source for the scene.
+Neither account gives its source for the scene.
 
 ## The historians who doubt it
 

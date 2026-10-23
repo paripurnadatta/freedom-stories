@@ -48,7 +48,7 @@ The jail has more than one name in print. English Wikipedia and the National Boo
 
 ## Waiting
 
-The National Book Trust book gives a few small scenes from the waiting months.
+A few small scenes survive from the waiting months.
 
 Roshan Singh learned Bengali in jail. When Bismil asked him what use that was, if he was going to be hanged, he answered that it would help him in his next life. He also read a Marathi newspaper, and enjoyed it.
 
@@ -60,9 +60,9 @@ One day a lawyer came and told him a mercy appeal had been filed. Roshan Singh a
 
 A letter is said to have survived. But there are two versions of it, with two different dates.
 
-The National Book Trust book says Roshan Singh wrote to a friend on 13 December 1927. It gives these words, which it says are his. "I will be hanged during this week. It is my prayer to God that he should reward you for the affection shown towards me. You need not feel sorry for me. My death is a symbol of happiness. One who is born has to die. This is a fact of life."
+One version is dated 13 December 1927. Roshan Singh wrote to a friend: "I will be hanged during this week. It is my prayer to God that he should reward you for the affection shown towards me. You need not feel sorry for me. My death is a symbol of happiness. One who is born has to die. This is a fact of life."
 
-Webdunia says he wrote from his cell on 6 December, and gives a fuller letter. In it he says the hanging will be within a week. He asks his friend not to grieve, and says that his death should be a reason for happiness. He says that everyone who is born must die. A person should not bring shame on himself by doing wicked things, he writes, and should remember God at the time of death. He has been apart from his children for two years, and this time gave him plenty of chances to pray. His wish for worldly things is gone.
+The other version is dated 6 December, and it is fuller. In it he says the hanging will be within a week. He asks his friend not to grieve, and says that his death should be a reason for happiness. He says that everyone who is born must die. A person should not bring shame on himself by doing wicked things, he writes, and should remember God at the time of death. He has been apart from his children for two years, and this time gave him plenty of chances to pray. His wish for worldly things is gone.
 
 The letter ends with a couplet of his own, Webdunia says. The line means: live your life with spirit, Roshan, or many people here die every day anyway.
 
@@ -74,9 +74,9 @@ The date was 19 December 1927. Bismil was to be hanged in Gorakhpur and Ashfaqul
 
 Roshan Singh went to the gallows holding the Bhagavad Gita, with a smile on his face, reciting "Vande Mataram" and "Om", says the National Book Trust book.
 
-Webdunia adds more. He slept a few hours the night before, and then spent the night in prayer. In the morning he bathed, said his prayers and read a little from the Gita. Then he told the guard to take him. The guard wondered whether he was a man or a god. He bowed to his cell, walked to the gallows with the Gita in his hand, and shouted "Vande Mataram" three times.
+Another account adds more. He slept a few hours the night before, and then spent the night in prayer. In the morning he bathed, said his prayers and read a little from the Gita. Then he told the guard to take him. The guard wondered whether he was a man or a god. He bowed to his cell, walked to the gallows with the Gita in his hand, and shouted "Vande Mataram" three times.
 
-Garima Times says that he recited the Gita, and that he shouted "Vande Mataram" as he faced the end.
+A third account says that he recited the Gita, and that he shouted "Vande Mataram" as he faced the end.
 
 Three sources agree on two things, the Gita and the cry of "Vande Mataram". Beyond that, the details come from one source each.
 

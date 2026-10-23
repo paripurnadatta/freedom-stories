@@ -44,9 +44,9 @@ His family belonged to the Lewa Patidar community of farmers. The Congress page 
 
 ## A strike, and a story about his father
 
-The Congress page tells a story from his school days. When he was in the top class, it says, he organised a strike by his classmates that lasted three days. Their teacher, it says, was too fond of using the cane.
+A story from his school days says that, when he was in the top class, he organised a strike by his classmates that lasted three days. Their teacher was too fond of using the cane.
 
-It also says that his father, "it is said, had fought in the Mutiny under the Rani of Jhansi." It adds that the father was later taken prisoner by Malhar Rao Holkar.
+The same story adds that his father, "it is said, had fought in the Mutiny under the Rani of Jhansi." It adds that the father was later taken prisoner by Malhar Rao Holkar.
 
 <aside class="note"><b>A word of care</b>: Both stories come from one biography on the Congress website. It writes "it is said" about the father. We did not find a second source for either one. Please take them as family and school tales, not as proven facts.</aside>
 

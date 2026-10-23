@@ -50,7 +50,7 @@ How she did it depends on who tells the story. There is a story of a battle, and
 
 A government feature of 2014 says she formed an army at Virupachi and joined with Gopala Nayaker and Hyder Ali. In 1780 she defeated the British with the military help of her allies. "Thus she became the first queen who successfully fought against British in India," it says.
 
-The Tamil Nadu school textbook says something similar. She "was crowned as Queen with the help of Marudhu brothers". After eight years of planning she waged war on the East India Company in 1780 and took back her kingdom. Hyder Ali helped her.
+The same story is told in school. She "was crowned as Queen with the help of Marudhu brothers". After eight years of planning she waged war on the East India Company in 1780 and took back her kingdom. Hyder Ali helped her.
 
 All these tellings agree that she fought and she won. But none of them says where the battle was. None gives a date for it. None says how many soldiers fought on each side, or what happened.
 

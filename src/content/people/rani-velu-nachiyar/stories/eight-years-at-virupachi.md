@@ -64,7 +64,7 @@ In 1772 her minister, Thandavarayan Pillai, wrote to Hyder Ali on her behalf. Th
 
 The letter said that the Nawab of Arcot was spreading into the lands of Ramnad and Sivaganga and causing great damage. It said the queen had escaped. After that she had stayed with Kallar leaders in the forests, and kept up the fight. It asked for five thousand horsemen. It said that if she could have five thousand soldiers, she could pay their allowances, retake both kingdoms, and send troops on to Madurai. And it said that the poligars of that area would join her.
 
-The Tamil Nadu school textbook tells it a little differently. Thandavarayanar wrote to Hyder Ali "asking for 5000 infantry and 5000 cavalry". Infantry are soldiers on foot, and cavalry are soldiers on horses.
+Thandavarayanar wrote to Hyder Ali "asking for 5000 infantry and 5000 cavalry". Infantry are soldiers on foot, and cavalry are soldiers on horses.
 
 <aside class="note"><b>Two versions</b>: Wikipedia says the letter asked for five thousand horsemen. The textbook says five thousand foot soldiers and five thousand horsemen. The letter itself was not seen. Even if it asked for so many, no source says that so many came.</aside>
 

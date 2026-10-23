@@ -44,7 +44,7 @@ To follow Rycroft's idea, we need to go back to 1895. Birsa was about twenty yea
 
 The officials did not like it. Rycroft says one reason was the forest law of 1882. It had taken away the Mundas' rights over forest land. He also says that Birsa told his followers not to plant rice, because his powers would grow the crop. Officials feared that less rice would mean less tax.
 
-Rycroft says the first try to arrest Birsa came on 9 August 1895. It failed. The police were three men. They were a head constable named Luchman Lal and two others. Birsa's father and family outnumbered them.
+The first try to arrest Birsa came on 9 August 1895. It failed. The police were three men: a head constable named Luchman Lal and two others. Birsa's father and family outnumbered them.
 
 The second try worked, on a night in August. There are two stories about it.
 
@@ -60,13 +60,13 @@ Roy writes that on the morning after, the followers found their leader gone. The
 
 Another rumour grew in Ranchi. Roy says that on the day Birsa was brought to the jail, a small mud-walled barn there fell down under the weight of grain sacks. The story that reached the Munda villages was different. It said the jail walls fell the moment Birsa walked in. Roy says this helped keep many followers loyal after the first prophecy failed. He tells it as a rumour, and we do too.
 
-Rycroft says the followers demanded Birsa's release. The government held an open trial, with the crowd watching. Roy says the trial began at Khunti on 24 October. It was stopped when some of Birsa's followers seemed to threaten violence. Father Hoffmann, who knew the Mundas well, explained that their words had been misunderstood. Roy says those men were let go.
+The followers demanded Birsa's release. The government held an open trial, with the crowd watching. The trial began at Khunti on 24 October. It was stopped when some of Birsa's followers seemed to threaten violence. Father Hoffmann, who knew the Mundas well, explained that their words had been misunderstood. Those men were let go.
 
 The trial moved to Ranchi. In November 1895, Roy writes, Birsa was sentenced to two and a half years of hard prison work. Rycroft and Wikipedia say two years.
 
 <aside class="note"><b>Rigorous imprisonment</b>: a prison sentence with hard labour.</aside>
 
-Rycroft says Birsa told his followers about the jail in a way that stayed with them. He called it the "whitewashed house". Munda homes were made of clay. The jail had white walls, as the houses of rich outsiders did.
+Birsa told his followers about the jail in a way that stayed with them. He called it the "whitewashed house". Munda homes were made of clay. The jail had white walls, as the houses of rich outsiders did.
 
 ## Out of jail
 

@@ -63,7 +63,7 @@ There was still one way left. The accused could ask the Privy Council in London 
 
 <aside class="note"><b>Privy Council</b>: a group of senior judges in London who could hear some cases from the British Empire.</aside>
 
-LiveLaw says the planned hanging was put off while the request waited. The Privy Council turned it down on 11 February 1931.
+The planned hanging was put off while the request waited. The Privy Council turned it down on 11 February 1931.
 
 The three men were hanged on 23 March 1931.
 

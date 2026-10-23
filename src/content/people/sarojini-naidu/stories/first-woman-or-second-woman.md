@@ -44,7 +44,7 @@ Was she the first woman to lead the Congress, or the second?
 
 She is often called the first Indian woman to be president of the Congress. Wikipedia and Britannica say so, and EBSCO calls her the first woman to hold the post. But the Congress's own page on its women presidents calls her the second.
 
-The Congress page puts Annie Besant first. Besant was elected in 1917 and presided over the session at Calcutta. Sarojini Naidu comes second, in 1925 at Kanpur. After her come Nellie Sen Gupta in 1933 and later Indira Gandhi and Sonia Gandhi.
+On the Congress list, Annie Besant comes first. Besant was elected in 1917 and presided over the session at Calcutta. Sarojini Naidu comes second, in 1925 at Kanpur. After her come Nellie Sen Gupta in 1933 and later Indira Gandhi and Sonia Gandhi.
 
 Annie Besant was born in London in 1847, the same page says. Britannica and Wikipedia say Naidu was the first *Indian* woman. Put together, the facts fit: Besant was the first woman to be president, and Naidu was the first one born in India. That is our reading of the sources, and none of them says it in so many words.
 

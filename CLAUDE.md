@@ -182,7 +182,7 @@ which ones should be redone and why.
 | Bal Gangadhar Tilak | 9 (2 flagship) | done |
 | Lala Lajpat Rai | 7 (2 flagship) | done |
 | Sarojini Naidu | 7 (2 flagship) | done |
-| Shivaram Rajguru | 6 (2 flagship) | done |
+| Shivaram Rajguru | 6 (1 flagship; needs one more) | done |
 | Durga Bhabhi | 6 (2 flagship) | done |
 | Rajendra Lahiri | 6 (2 flagship) | done |
 | Roshan Singh | 6 (2 flagship) | done |
@@ -191,7 +191,7 @@ which ones should be redone and why.
 | Sardar Vallabhbhai Patel | 7 (2 flagship) | done |
 | Birsa Munda | 7 (3 flagship) | done |
 | Khan Abdul Ghaffar Khan | 7 (3 flagship) | done |
-| Rani Velu Nachiyar | 6 (2 flagship) | done |
+| Rani Velu Nachiyar | 6 (1 flagship; needs one more) | done |
 | Dadabhai Naoroji | 7 (2 flagship) | done |
 | Subramania Bharati | 7 (2 flagship) | done |
 | Udham Singh | 8 (2 flagship) | done |

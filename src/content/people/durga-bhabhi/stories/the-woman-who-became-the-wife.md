@@ -47,7 +47,7 @@ Her husband was not at home. Historian Kama Maclean writes that Bhagwati Charan 
 
 <aside class="note"><b>Congress</b>: the Indian National Congress, the biggest political party working for India's freedom.</aside>
 
-Maclean says that Sukhdev and Bhagat Singh came to her on the night of 18 December. She did not ask them questions.
+Sukhdev and Bhagat Singh came to her on the night of 18 December. She did not ask them questions.
 
 <aside class="note"><b>Two versions</b>: Maclean says the night was 18 December 1928. Wikipedia says Sukhdev asked for her help on 19 December. We do not know which date is right.</aside>
 
@@ -57,13 +57,13 @@ Bhagat Singh had to change his looks. Wikipedia says he shaved and cut his hair.
 
 Then came the part that Durga Devi played. She agreed to pretend to be his wife. Her small son would be their child. Rajguru would play their servant.
 
-Maclean says Bhagat Singh was disguised "as a married man", with Durga Devi and her son as his "family".
+Bhagat Singh was disguised "as a married man", with Durga Devi and her son as his "family".
 
 ## On the train
 
-Maclean writes that the group got past a police cordon and boarded a train. They travelled first class.
+The group got past a police cordon and boarded a train. They travelled first class.
 
-The National Book Trust book tells the story with extra pictures. It describes a big American car pulling up at Lahore station, where the platform was full of police and plain-clothes detectives. In this version, an attendant opens the car door. Bhagat Singh steps out as a well-dressed "American". Durga Bhabhi follows as his "mem sahib". Rajguru goes to a third-class compartment.
+A fuller version tells it with extra pictures. A big American car pulls up at Lahore station, where the platform is full of police and plain-clothes detectives. An attendant opens the car door. Bhagat Singh steps out as a well-dressed "American". Durga Bhabhi follows as his "mem sahib". Rajguru goes to a third-class compartment.
 
 The same book says that Chandrashekhar Azad boarded the train too, dressed as a holy man. Maclean and Wikipedia do not mention this. We have only one source for it.
 
@@ -95,7 +95,7 @@ That sentence is one of the few that we have in her own voice. It tells us she d
 
 ## Later years
 
-Maclean writes that after independence she started a Montessori school in Lucknow and gave it all her energy. Wikipedia also says she opened a school for poor children there. She lived to the age of 92 and died in Ghaziabad in 1999.
+After independence she started a Montessori school in Lucknow and gave it all her energy. She lived to the age of 92 and died in Ghaziabad in 1999.
 
 We do not yet have a source we could open that gives the exact year the school began.
 

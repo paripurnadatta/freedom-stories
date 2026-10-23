@@ -60,6 +60,6 @@ But his mother cried and would not agree. She had been told that people who go a
 
 ## Why it matters
 
-Tendulkar says Abdul Ghaffar "owed much" to a British teacher, the Rev. E. F. E. Wigram, who was headmaster of his school. Abdul Ghaffar said that Wigram and his brother, a doctor, served the people with love. He said that their example taught him to give his life to service.
+Abdul Ghaffar "owed much" to a British teacher, the Rev. E. F. E. Wigram, who was headmaster of his school. Abdul Ghaffar said that Wigram and his brother, a doctor, served the people with love. He said that their example taught him to give his life to service.
 
 So his story is not "Indians good, British bad". He admired a British teacher. He refused to serve an army where an officer could mock an Indian for the way he combed his hair. One lesson came from kindness. The other came from an insult. Both shaped the man who later led the Red Shirts.

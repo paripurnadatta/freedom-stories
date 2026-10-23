@@ -32,7 +32,7 @@ status: published
 
 The nation took about a century to honour Birsa Munda, Joseph Bara says. But in the villages around Khunti he was a popular leader long before that, and people made up songs about him.
 
-Bara says that Birsa was "reminisced in Mundari folk songs and folk tales". One song was written down by two scholars in 1969. It goes:
+He was "reminisced in Mundari folk songs and folk tales". One song was written down by two scholars in 1969. It goes:
 
 > For your fellowmen, Birsa, you stood up, Birsa;
 > for your motherland, Birsa, you died.
@@ -70,6 +70,6 @@ On 10 November 2021, Wikipedia reports, the Union Cabinet decided to mark 15 Nov
 
 ## Why it matters
 
-Bara says Birsa was a local hero for a long time before the nation noticed him. He argues that people should see him as more than a local leader. He fought for his own people's land and rights. And he did so against a government that ruled the whole country, Bara argues.
+Birsa was a local hero for a long time before the nation noticed him. Some argue that people should see him as more than a local leader. He fought for his own people's land and rights. And he did so against a government that ruled the whole country.
 
 You can decide for yourself. But the songs came first. The first people to honour Birsa were villagers who sang.
