@@ -87,3 +87,12 @@ He generates the paintings himself and sends them back (often a zip).
 
 One commit per subject, message like "Add <Subject>: N stories (M flagship), index and painting prompts",
 pushed straight to `main`.
+
+
+## Picture library (added 23 October 2026)
+
+`scripts/fetch-category-library.mjs` downloads a whole Commons category into `archive-library/<name>/`
+(`free/`, `check-licence/`, `index.json`, `links.txt`) with author, licence and File: link. Nothing in it is
+published. The owner runs it on his own computer (fast); from the cloud workspace Wikimedia throttles it to
+about one picture a minute. We pick from the library when writing stories, then copy the picture into the
+subject's `archive/` folder and credit it in the story. Category: `Category:Indian_independence_movement` (110 files, 39 sub-categories).
