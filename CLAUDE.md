@@ -202,5 +202,6 @@ which ones should be redone and why.
 | Ghadar Party (organisation) | 6 (3 flagship) | 6 prompts waiting |
 | Khudai Khidmatgar (organisation) | 6 (3 flagship) | 6 prompts waiting |
 | Revolt of 1857 (event) | 7 (3 flagship) | 7 prompts waiting |
+| Swadeshi Movement (event) | 6 (2 flagship) | 6 prompts waiting |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); more flagships for the four new subjects if sources allow.
