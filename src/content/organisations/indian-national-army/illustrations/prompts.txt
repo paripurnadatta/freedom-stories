@@ -1,0 +1,101 @@
+ILLUSTRATIONS NEEDED: Indian National Army
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. The man who was handed an army  (flagship story)
+==============================================================================
+FILE NAME: the-man-who-was-handed-an-army
+Save it as the-man-who-was-handed-an-army.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man who was handed an army", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+17 February 1942, a wide open grass field in Singapore under a hot morning sky, with low buildings and tall trees at the edge. Thousands of Indian soldiers in khaki shorts and turbans stand in neat rows, seen from a distance and from behind. At the front, a small group of men on a low wooden platform; one young Indian officer speaks, seen from behind. Tense, quiet, attentive mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The sailors who sided with the soldiers  (flagship story)
+==============================================================================
+FILE NAME: the-sailors-who-sided-with-the-soldiers
+Save it as the-sailors-who-sided-with-the-soldiers.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The sailors who sided with the soldiers", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+February 1946, Bombay harbour at dusk. Grey navy ships sit at anchor near the waterfront, with the arched stone gateway of the city on the shore and small boats between. On the deck of the nearest ship, a group of sailors in white uniforms stand together looking toward the city, seen from behind and at a distance. Orange evening sky, long reflections on the water. Quiet, tense mood, no fighting. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The exile and the bakery  (short story)
+==============================================================================
+FILE NAME: the-exile-and-the-bakery
+Save it as the-exile-and-the-bakery.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The exile and the bakery", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1910s, the warm back room of a small Tokyo bakery. Shelves of round loaves, wooden trays, a big brick oven glowing. A slim Indian man in a plain coat sits at a small wooden table in the corner, writing by lamplight, seen from behind. A Japanese baker's family works near the oven. Soft golden lamp and oven light. Quiet, safe, hidden mood. Keep every face small and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Four brigades and a motto  (short story)
+==============================================================================
+FILE NAME: four-brigades-and-a-motto
+Save it as four-brigades-and-a-motto.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Four brigades and a motto", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1943, a parade ground in Singapore at dawn. Rows of Indian soldiers in khaki uniforms and caps march in step, seen from behind and the side, with a brass band at the edge. Palm trees and a pale pink sky. Disciplined, proud mood. Soldiers of different backgrounds, some with turbans, some in caps. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Whose oath?  (short story)
+==============================================================================
+FILE NAME: whose-oath
+Save it as whose-oath.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Whose oath?", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+November 1945, a long courtroom inside a red sandstone fort in Delhi. A row of army officers in uniform sit at a long table on a raised platform, seen from the front and far away. In the dock, three men in plain army uniforms sit side by side, seen from behind. Lawyers in black gowns stand at tables with papers. Tall arched windows, dusty light. Serious, quiet mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. A door open to individuals  (short story)
+==============================================================================
+FILE NAME: a-door-open-to-individuals
+Save it as a-door-open-to-individuals.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A door open to individuals", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late 1940s, the wide stone gateway of a government office in Delhi. A thin middle-aged man in a faded old army coat stands outside the gate with a cloth bundle under his arm, seen from behind, looking at the open door. Clerks in white pass in and out in the distance. Warm afternoon light. Quiet, waiting, hopeful mood. Keep every face tiny and not detailed. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
