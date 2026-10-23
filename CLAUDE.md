@@ -1,6 +1,6 @@
 # CLAUDE.md: how we work on The Struggle for Freedom
 
-Read this first in every session. It is the project's rulebook. The details live in
+Read this first in every session, then HANDOFF.md (notes and open work from the previous session). It is the project's rulebook. The details live in
 README.md (site and folders), ILLUSTRATIONS.md (paintings) and RESEARCH_BRIEF.md
 (research from other AIs). If this file and those disagree, this file wins.
 
