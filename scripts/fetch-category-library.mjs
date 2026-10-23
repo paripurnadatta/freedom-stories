@@ -95,7 +95,7 @@ for (const { f, from } of todo) {
   n++;
   if (got >= limit) break;
   const fileName = decodeURIComponent(f.slice(5));
-  if (index[fileName]?.saved) continue;
+  if (index[fileName]?.saved && !/\/\.webp$/.test(index[fileName].saved)) continue; // also redo the empty-name ones
   const page = await get("https://commons.wikimedia.org/wiki/" + f);
   if (!page) { console.log(n, "page failed:", fileName); continue; }
   const a = page.indexOf('id="Licensing"'), b = page.indexOf('id="filehistory"');
@@ -129,7 +129,9 @@ for (const { f, from } of todo) {
     if (!data) data = await get(`https://commons.wikimedia.org/wiki/Special:FilePath/${base}?width=960`, true);
     if (data) {
       try {
-        const slug = fileName.replace(/\.[^.]+$/, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 70);
+        let slug = fileName.replace(/\.[^.]+$/, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 70);
+        if (!slug) slug = "file-" + md5.slice(0, 10); // names in Hindi, Bengali etc. have no Latin letters
+        slug = slug.slice(0, 60) + "-" + md5.slice(0, 4); // keeps two similar names from overwriting each other
         const folder = status === "free" ? "free" : "check-licence";
         const img = sharp(data).rotate().webp({ quality: 82 });
         await img.toFile(join(out, folder, slug + ".webp"));
