@@ -1,0 +1,116 @@
+ILLUSTRATIONS NEEDED: Revolt of 1857
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. Eighty-five men who would not bite  (flagship story)
+==============================================================================
+FILE NAME: eighty-five-men-who-would-not-bite
+Save it as eighty-five-men-who-would-not-bite.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Eighty-five men who would not bite", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A line of Indian cavalrymen in 1857 Bengal Army uniforms on a dusty parade ground at Meerut, seen from behind, a British colonel in the distance, a paper cartridge lying on a cloth in the foreground. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. Four months on the Ridge  (flagship story)
+==============================================================================
+FILE NAME: four-months-on-the-ridge
+Save it as four-months-on-the-ridge.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Four months on the Ridge", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A rocky ridge with a tented army camp in monsoon rain, 1857, Sikh, Gurkha and British soldiers seen from behind, the walls and domes of old Delhi in the grey distance. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The poet who was made an emperor  (flagship story)
+==============================================================================
+FILE NAME: the-poet-who-was-made-an-emperor
+Save it as the-poet-who-was-made-an-emperor.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The poet who was made an emperor", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+An elderly man in Mughal robes and a white turban seen from behind, sitting on a carpet in a palace hall at dusk, holding a pen over a manuscript, arched windows open to the city. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The parade ground at Barrackpore  (short story)
+==============================================================================
+FILE NAME: the-parade-ground-at-barrackpore
+Save it as the-parade-ground-at-barrackpore.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The parade ground at Barrackpore", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A wide empty parade ground at Barrackpore at five in the afternoon, 1857, rows of sepoys in red coats seen from far away, long shadows, a single musket lying on the ground. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Kunwar Singh at eighty  (short story)
+==============================================================================
+FILE NAME: kunwar-singh-at-eighty
+Save it as kunwar-singh-at-eighty.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Kunwar Singh at eighty", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+An elderly tall Rajput rider with a white moustache seen from behind on horseback leading a column of soldiers beside a wide river, evening light, Bihar village in the distance. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The Begum who would not give in  (short story)
+==============================================================================
+FILE NAME: the-begum-who-would-not-give-in
+Save it as the-begum-who-would-not-give-in.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The Begum who would not give in", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A noblewoman in a veil seen from behind standing on the balcony of a Lucknow palace at dawn, a small boy in a crown beside her, domes and minarets in the distance. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. The boats at Satichaura Ghat  (short story)
+==============================================================================
+FILE NAME: the-boats-at-satichaura-ghat
+Save it as the-boats-at-satichaura-ghat.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The boats at Satichaura Ghat", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Empty wooden boats stuck in shallow water at a riverside ghat with steps and a small temple, early morning mist, no people shown, quiet and sad mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
