@@ -96,3 +96,5 @@ pushed straight to `main`.
 published. The owner runs it on his own computer (fast); from the cloud workspace Wikimedia throttles it to
 about one picture a minute. We pick from the library when writing stories, then copy the picture into the
 subject's `archive/` folder and credit it in the story. Category: `Category:Indian_independence_movement` (110 files, 39 sub-categories).
+
+Indian National Congress now has a `media.json` built by hand from the owner's zip (22 pictures, `foundIn: "owner-zip"`, local files in its `archive/`). Do not run `fetch-media.mjs --refresh` on it: that would overwrite the local pictures. Unchecked in the captions: the roles of Kali Charan Banerjee, J. N. Ghoshal, Ranjit Pandit, Yogendra Vidyabhushan and the Cursetjees (the Cursetjee prints may not belong on a Congress page).
