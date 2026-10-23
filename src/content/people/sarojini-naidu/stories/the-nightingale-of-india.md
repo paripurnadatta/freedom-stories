@@ -1,6 +1,6 @@
 ---
 title: "The Nightingale of India"
-subtitle: "People call Sarojini Naidu the Nightingale of India. Who gave her the name? The sources give a different answer each time. Here is what they say about the name, and about her poems."
+subtitle: "In 1905 a young woman from Hyderabad published her first book of poems in London. Soon India had a new name for her, and she wrote for the rest of her life."
 type: short
 when: "1905 to 1927"
 where: "London and India"
@@ -38,39 +38,47 @@ sources:
 status: published
 ---
 
-A nightingale is a small bird known for its beautiful song. In India people call Sarojini Naidu "the Nightingale of India". Who gave her that name? The sources do not agree.
+In 1905, a slim book of poems came out in London. Its title was *The Golden Threshold*. The writer was a young woman from Hyderabad named Sarojini Naidu.
 
-## Three explanations
+Edmund Gosse, a famous English writer, had helped her in her early years in England. Later he called her "the most accomplished living poet in India".
 
-Britannica says that Mahatma Gandhi called her "the Nightingale of India". The Congress's tribute says Gandhi called her "Bharat Kokila". Banglapedia says her 1905 book of poems earned her the name "Bulbul-e-Hind". Kokila and bulbul are both Indian words for singing birds.
+## A name for a singer
 
-Wikipedia says the Gandhi story appears in its opening lines without a source. Encyclopedia.com only says she was called "the nightingale of India", and does not say who called her so.
+Before long, people had a name for her. They called her "the Nightingale of India". A nightingale is a small bird known for its beautiful song.
 
-<aside class="note"><b>Three versions</b>: Gandhi gave her the name (Britannica, and the Congress with a Hindi form of it). Her first book of poems earned it (Banglapedia). Or the sources do not say (Encyclopedia.com). We found no record from the time that settles it.</aside>
+Many say it was Mahatma Gandhi who gave her the name. In Hindi it became "Bharat Kokila". Kokila and bulbul are both Indian words for singing birds.
 
-## Her books
+<aside class="note"><b>Three versions</b>: Britannica and the Congress's tribute say Gandhi gave her the name. Banglapedia says her 1905 book earned her the name "Bulbul-e-Hind". Encyclopedia.com says only that she was called the nightingale of India. Wikipedia repeats the Gandhi story in its opening lines without a source, and no record from the time settles it.</aside>
 
-Whoever gave the name, the poems were real. *The Golden Threshold* came out in London in 1905. *The Bird of Time* followed in 1912, and *The Broken Wing* in 1917. That was the last new collection printed in her lifetime.
+## A house with a golden name
 
-After that, other books gathered her work. *The Sceptred Flute*, printed in New York in 1928, collects poems already published. *The Feather of the Dawn*, printed in 1961, was made from poems she had not published. Her daughter Padmaja Naidu edited it.
-
-<aside class="note"><b>Two versions</b>: Banglapedia dates *The Sceptred Flute* to 1943. Wikipedia dates it to 1928.</aside>
+She lived in Hyderabad, in a house that shared the name of her first book: The Golden Threshold. It is a white house with a row of arches at the front.
 
 <figure class="plate">
   <img src="/files/people/sarojini-naidu/archive/golden-threshold-hyderabad.webp" alt="A white house with a row of arches at the front, in Hyderabad" loading="lazy" />
   <figcaption>The Golden Threshold, the house in Hyderabad where Sarojini Naidu lived. Her first book of poems has the same name.<span class="credit">రహ్మానుద్దీన్, CC BY-SA 3.0. <a href="https://commons.wikimedia.org/wiki/File:Golden_threshold_01.JPG" rel="noopener">Where this picture comes from</a></span></figcaption>
 </figure>
 
-Her 1912 poem "In the Bazaars of Hyderabad" is one of her most popular, says the Congress's tribute. It was printed in *The Bird of Time*. Two of her poems carried a political message. "Awake!" closed a speech she gave to the Congress in 1915. "The Gift of India" criticised the British for taking advantage of Indian mothers. Both are named by the website Brewminate.
+## More books
 
-We do not copy her poems here. They can be read in the books themselves.
+In 1912 came *The Bird of Time*. One of its poems, "In the Bazaars of Hyderabad", became one of her most popular. In 1917 came *The Broken Wing*. That was the last new collection printed in her lifetime.
 
-## What critics said
+Two of her poems carried a political message. "Awake!" closed a speech she gave to the Congress in 1915. "The Gift of India" criticised the British for taking advantage of Indian mothers.
 
-Edmund Gosse, who helped her in her early years in England, called her in 1919 "the most accomplished living poet in India". Three of her poems were printed in the *Oxford Book of English Mystical Verse* in 1927, says EBSCO.
+In 1927 three of her poems were printed in the *Oxford Book of English Mystical Verse*.
 
-EBSCO also says her poetry was "overlooked in the West" but is "regarded as some of the most important in India". It gives no source for this. Encyclopedia.com has a different view. Its writer says her verse "tends to become monotonous and repetitive", and that her lasting fame will "likely rest" on her work as a leader. These are opinions, and readers can judge for themselves.
+Her poems are not copied here. They can be read in the books themselves.
+
+## After her
+
+Other books gathered her work. *The Sceptred Flute*, printed in New York in 1928, collects poems already published. *The Feather of the Dawn*, printed in 1961, was made from poems she had not published. Her daughter Padmaja Naidu edited it.
+
+<aside class="note"><b>Two versions</b>: Banglapedia dates *The Sceptred Flute* to 1943. Wikipedia dates it to 1928.</aside>
+
+## What readers thought
+
+Not everyone has loved her poems equally. One writer says her poetry was "overlooked in the West" but is "regarded as some of the most important in India". Another says her verse "tends to become monotonous and repetitive", and that her lasting fame will "likely rest" on her work as a leader. Readers can judge for themselves.
 
 ## Why it matters
 
-A nickname is easy to repeat and hard to trace. How this one began is something the sources leave open. What we can read are the poems themselves, and the opinions of those who read them.
+A nickname is easy to repeat and hard to trace. But the poems are real, and they are still there to be read. A woman who is remembered as a Congress president and a governor was first known as a singer with words.
