@@ -61,9 +61,24 @@ At about half past four, six shots were fired from a Smith and Wesson revolver. 
 
 The man who fired did not try to run away. He told people that he had done his duty.
 
+<figure class="plate">
+  <img src="/files/people/udham-singh/archive/herald-1940.webp" alt="The front page of the Daily Herald of Thursday 14 March 1940. A large headline says Sir M. O'Dwyer assassinated at a London meeting. A photograph of an older man in a suit is in the middle of the page." loading="lazy" />
+  <figcaption>The front page of the Daily Herald, Thursday 14 March 1940, the morning after the shooting.<span class="credit">Daily Herald, public domain according to Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Front-page_headline_from_the_Daily_Herald_newspaper_reporting_on_the_assassination_of_Michael_O%27Dwyer_by_Udham_Singh,_Thursday,_14_March_1940.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
+<figure class="plate">
+  <img src="/files/people/udham-singh/archive/telegraph-1940.webp" alt="The front page of the Daily Telegraph and Morning Post of Thursday 14 March 1940. A headline on the right says Sir Michael O'Dwyer assassinated, with a portrait of an older man in a suit." loading="lazy" />
+  <figcaption>The front page of the Daily Telegraph, the same morning. Its report says a man named "Mohomed Singh Azad" was charged.<span class="credit">Daily Telegraph, public domain according to Wikimedia Commons. <a href="https://commons.wikimedia.org/wiki/File:Front-page_headline_from_The_Daily_Telegraph_newspaper_reporting_on_the_assassination_of_Michael_O%27Dwyer_by_Udham_Singh,_Thursday,_14_March_1940.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## Who was he?
 
 He gave his name as Mohamed Singh Azad. We tell how he chose that name in "A name on the arm". The police later knew him as Udham Singh. He had come to Britain with the aim of killing O'Dwyer, and waited for a moment when it would have the greatest effect.
+
+<figure class="plate">
+  <img src="/files/people/udham-singh/archive/photograph-before-1941.webp" alt="An old black-and-white close-up photograph of a man with dark hair and a moustache, looking at the camera." loading="lazy" />
+  <figcaption>A photograph that Wikimedia Commons catalogues as showing Udham Singh. It is dated only "before 1941".<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Photograph_of_Udham_Singh.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
 
 He was charged on 1 April 1940. The court tried him for murder. Counsel's article calls the case "the murder of Sir Michael O'Dwyer".
 

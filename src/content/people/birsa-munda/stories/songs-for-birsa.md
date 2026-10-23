@@ -64,6 +64,11 @@ After independence, books were written about Birsa. Bara says Suresh Singh's boo
 
 In recent years, honours have come quickly. Bara writes that in 2000, the Government of India chose 15 November, Birsa's birthday, to start the new state of Jharkhand. In Parliament there is a 14-foot statue of Birsa and a portrait.
 
+<figure class="plate">
+  <img src="/files/people/birsa-munda/archive/birsa-statue-naya-more.webp" alt="A reddish-brown statue of a man in a turban with a bead necklace. He stands on a rock with one arm raised and a bow in his other hand. Green trees are behind him." loading="lazy" />
+  <figcaption>A statue of Birsa Munda in Ranchi, Jharkhand, photographed in 2008.<span class="credit">Manoj nav, public domain. <a href="https://commons.wikimedia.org/wiki/File:Birsa_Munda_Statue_at_Naya_More.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 On 10 November 2021, Wikipedia reports, the Union Cabinet decided to mark 15 November each year as *Janjatiya Gaurav Divas*, the Day of Tribal Pride. The main event is held at his samadhi, the place where he is remembered, at Kokar in Ranchi. An airport, a jail, a university and a stadium have also been named for him, Wikipedia says.
 
 <aside class="note"><b>Two versions</b>: The birth date is not agreed. Jharkhand started on his official birthday, 15 November. Bara also reports church records that give 22 July 1872. We have not seen the church book, so we cannot say which is right.</aside>

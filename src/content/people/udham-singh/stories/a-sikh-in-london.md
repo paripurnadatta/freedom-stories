@@ -59,6 +59,11 @@ Wikimedia Commons has two photographs that it says show Udham Singh in these yea
 
 <aside class="note"><b>Not proved</b>: no second source names him in either picture. They are shown because the gurdwara in Shepherd's Bush was a place where Sikhs of London met, and the photographs show what such a day looked like.</aside>
 
+<figure class="plate">
+  <img src="/files/people/udham-singh/archive/roti-1938.webp" alt="An old black-and-white photograph. A man in a turban and a patterned knitted sweater rolls out flat dough with a rolling pin on a table. Another turbaned man with a beard stands behind him." loading="lazy" />
+  <figcaption>A man rolling dough to make roti, London, about 1938. A London photo archive had catalogued it only as "Sikh". Wikimedia Commons says it shows Udham Singh. No second source names him.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Photograph_of_Udham_Singh_rolling_dough_to_make_roti_(Indian_flatbread),_London,_England,_ca.1938.gif" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## What he planned
 
 His aim was to kill Michael O'Dwyer, whom he blamed for the Amritsar massacre. He waited for a moment that would have the greatest public effect. That is how a website on South Asians in Britain describes his purpose. No letter or diary from these years survives for us to read.
