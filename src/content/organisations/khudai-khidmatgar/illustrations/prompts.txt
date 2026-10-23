@@ -1,0 +1,101 @@
+ILLUSTRATIONS NEEDED: Khudai Khidmatgar
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. The doctor from Utmanzai  (flagship story)
+==============================================================================
+FILE NAME: the-doctor-from-utmanzai
+Save it as the-doctor-from-utmanzai.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The doctor from Utmanzai", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A doctor in a plain long coat and turban seen from behind, walking into a small village clinic in the Frontier hills, villagers waiting in the courtyard with mud-brick houses and mountains behind. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The vote the Red Shirts did not cast  (flagship story)
+==============================================================================
+FILE NAME: the-vote-the-red-shirts-did-not-cast
+Save it as the-vote-the-red-shirts-did-not-cast.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The vote the Red Shirts did not cast", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A long queue of men in 1947 Frontier dress waiting at a polling tent, seen from a distance, while a group of men in red shirts sit quietly on the hillside across the road, mountains behind. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. Babarra, 12 August 1948  (flagship story)
+==============================================================================
+FILE NAME: babarra-12-august-1948
+Save it as babarra-12-august-1948.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Babarra, 12 August 1948", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet wide landscape of a village road near Charsadda at dawn, empty of people, with scattered abandoned shoes and a red shirt cloth lying on the dust, mourning light, no figures shown in danger. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The havildar who said Cease fire  (short story)
+==============================================================================
+FILE NAME: the-havildar-who-said-cease-fire
+Save it as the-havildar-who-said-cease-fire.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The havildar who said Cease fire", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A row of soldiers in 1930 Garhwal Rifles uniform seen from behind, rifles lowered to the ground, facing a crowded old bazaar street in Peshawar at a distance. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The water pitchers of Takkar  (short story)
+==============================================================================
+FILE NAME: the-water-pitchers-of-takkar
+Save it as the-water-pitchers-of-takkar.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The water pitchers of Takkar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Village women in Frontier shawls carrying clay water pitchers along a dusty path in a Mardan village, seen from behind, with mud houses and a procession far in the distance. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. A grave in Jalalabad  (short story)
+==============================================================================
+FILE NAME: a-grave-in-jalalabad
+Save it as a-grave-in-jalalabad.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A grave in Jalalabad", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A huge crowd of mourners seen from far away walking through the Khyber Pass at golden evening, carrying a wooden bier, hills on both sides, no clear faces. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
