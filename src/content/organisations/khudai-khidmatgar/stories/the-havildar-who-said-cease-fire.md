@@ -43,6 +43,16 @@ The soldiers did not shoot. One page says that Hindu soldiers refused to fire on
 
 <aside class="note"><b>Two versions</b>: One page says "a troop" was sent. Another says "two platoons" were under Chandra Singh. The pages do not give the number of men. The site's story of Qissa Khwani Bazaar tells more about the day.</aside>
 
+<figure class="plate">
+  <img src="/files/organisations/khudai-khidmatgar/archive/armoured-car-qissa-khwani-1930.webp" alt="An old black-and-white photograph of a narrow street between tall wooden buildings. A crowd of men stands in the road beside an armoured car." loading="lazy" />
+  <figcaption>An armoured car in the street at Qissa Khwani Bazaar, 23 April 1930. Wikimedia Commons, citing The Friday Times, says it ran over demonstrators near Kabuli Thana that day.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:Massacre_at_Qissa_Khwani_Bazaar_1930.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
+<figure class="plate">
+  <img src="/files/organisations/khudai-khidmatgar/archive/soldiers-aiming-peshawar-1930.webp" alt="An old black-and-white photograph of soldiers in turbans lying behind a low earth bank and aiming rifles. A tree trunk stands beside them." loading="lazy" />
+  <figcaption>Soldiers aiming rifles, said to be at Peshawar on the day of the Qissa Khwani Bazaar firing. Only Commons names the place and the day. No second source confirms it, and the photographer is not known.<span class="credit">Unknown photographer, public domain. <a href="https://commons.wikimedia.org/wiki/File:BritishIndianArmysoldiers.jpg" rel="noopener">Where this picture comes from</a></span></figcaption>
+</figure>
+
 ## The trial
 
 Chandra Singh and 59 other soldiers were put on trial in a court-martial. Their ranks were taken away. Chandra Singh's property was seized.
