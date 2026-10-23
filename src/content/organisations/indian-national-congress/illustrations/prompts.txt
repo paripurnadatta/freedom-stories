@@ -1,0 +1,115 @@
+ILLUSTRATIONS NEEDED: Indian National Congress
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. Seventy-two men in Bombay  (flagship story)
+==============================================================================
+FILE NAME: seventy-two-men-in-bombay
+Save it as seventy-two-men-in-bombay.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Seventy-two men in Bombay", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+December 1885, the airy hall of a stone college building in Bombay. Rows of about seventy men sit on wooden benches and chairs, mostly in turbans, long coats and a few in dark Western suits; two Scottish gentlemen in dark frock coats sit among them. A speaker stands at a small table at the front with papers in hand, seen from behind and at a distance. Tall arched windows pour warm afternoon light across the room. No women. Calm, attentive, hopeful mood. Wide composition, 16:9. Keep every face small and not detailed.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A Muslim president in Madras  (flagship story)
+==============================================================================
+FILE NAME: a-muslim-president-in-madras
+Save it as a-muslim-president-in-madras.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A Muslim president in Madras", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+December 1887, a large open hall in Madras with a pillared verandah and a crowd of delegates in turbans and caps seated in rows. At the front, a dignified Indian gentleman in a dark long coat and a Persian-style cap stands at a lectern, seen from behind, addressing the hall. Warm light through tall windows, palm trees outside. A sense of shared purpose. Wide composition, 16:9. No face should be shown clearly.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The day the Congress broke at Surat  (flagship story)
+==============================================================================
+FILE NAME: the-day-the-congress-broke-at-surat
+Save it as the-day-the-congress-broke-at-surat.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The day the Congress broke at Surat", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+December 1907, a crowded pandal (a big cloth tent hall) in Surat. Delegates in turbans stand up from their benches, some lifting wooden chairs, a single leather shoe is in the air above the crowd, men on a raised platform shield one another with their arms. Dust and gold light in the air, confusion but no injuries, no blood. Seen from the back of the hall, faces small and indistinct. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. Midnight on the Ravi  (flagship story)
+==============================================================================
+FILE NAME: midnight-on-the-ravi
+Save it as midnight-on-the-ravi.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Midnight on the Ravi", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Late night on the bank of the river Ravi at Lahore, December 1929. A crowd of thousands stands on the sandy bank holding small oil lamps and torches; their warm light shines on the dark water. In the middle distance a tall flagpole stands against a deep indigo starry sky; a man in white khadi and a Gandhi cap holds the rope, seen from behind. The cloth at the top of the pole is a plain, unmarked cloth just beginning to rise, in shadow, with no colours, bands or symbols visible. Wide composition, 16:9. Faces small and indistinct.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. Black flowers and seven promises  (short story)
+==============================================================================
+FILE NAME: black-flowers-and-seven-promises
+Save it as black-flowers-and-seven-promises.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Black flowers and seven promises", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+March 1931, a railway platform in Karachi in bright sunlight. A crowd of young Indian men in white kurtas and caps hold up black cloth flags. At the centre, a small thin elderly man in a white dhoti, shawl and round glasses, seen from the side at a distance, smiles gently and holds out his hands to receive a bunch of black flowers from a young man. Calm and gentle mood, no anger shown on any face. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Twenty-eight months in office  (short story)
+==============================================================================
+FILE NAME: twenty-eight-months-in-office
+Save it as twenty-eight-months-in-office.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Twenty-eight months in office", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1937, the entrance steps of a large stone government building in an Indian provincial capital, with arched verandahs. Men in white khadi kurtas, dhotis and caps walk up the steps carrying files; a line of villagers stands at the foot of the steps, holding papers, waiting to be heard. A British officer in a pale suit watches from a window, small in the frame. Warm morning light. Wide composition, 16:9. Faces calm and not detailed.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. The magistrate who counted birds  (short story)
+==============================================================================
+FILE NAME: the-magistrate-who-counted-birds
+Save it as the-magistrate-who-counted-birds.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The magistrate who counted birds", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1870s, a hill house in the Himalayan foothills with a wide verandah. A tall Englishman with a white beard, seen from behind, stands at a long table covered with rows of small study-skins of birds, each with a little paper label with no readable writing. Glass-fronted wooden cabinets in the background. Warm lamp and window light. Quiet, scholarly mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
