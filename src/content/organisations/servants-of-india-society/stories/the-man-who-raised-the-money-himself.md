@@ -33,7 +33,9 @@ One man found the money. His name was Gokhale, and he found it from his own frie
 
 ## What the money paid for
 
-The money paid for the school's first home, in Pune. It paid for the small rooms where the new members would sleep, for the five years they spent there. It paid for the books the school kept in its rooms. It paid for the carts that carried the books to the villages, and for the small hospital the school ran for the sick people who had no money for a doctor.
+The money paid for the school's first home, in Pune. It paid for the small rooms where the new members would sleep, for the five years they spent there. It paid for the books the school kept in its rooms.
+
+And it paid for the carts that carried those books to the villages. And for the small hospital the school ran for sick people who had no money for a doctor.
 
 The school, at its highest, spent, in one year, from twenty to forty thousand rupees. That was a big number, in 1905, for a small school with twenty-six members.
 
@@ -52,6 +54,6 @@ He did ask, in the years after, for one thing. He asked the village people of ev
 
 ## Why it matters
 
-The school did not grow because it had one rich man behind it. It grew because one man, who had retired from his job and gone home, kept asking, in the years, for small things, from the people who had no big things to give.
+The school did not grow because it had one rich man behind it. It grew because one man, who had retired and gone home, kept asking, in the years, for small things, from people who had no big things to give.
 
 That is the quiet work the school's first book called "service." It was not a loud word. It was not a war cry. It was a small word, and it meant: the school did not wait for the government, and it did not wait for the rich. It waited for the village people, and it grew with them.

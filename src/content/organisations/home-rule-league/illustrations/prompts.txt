@@ -1,0 +1,70 @@
+ILLUSTRATIONS NEEDED: Home Rule League
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. Two leagues, one word  (flagship story)
+==============================================================================
+FILE NAME: two-leagues-one-word
+Save it as two-leagues-one-word.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two leagues, one word", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A wide 1910s Indian landscape, seen from a hill, two small towns far apart, one in the south-west and one on the south-east coast, a small road leading to each one, a few figures in white clothes seen from a distance, their faces not shown, the morning light pale and the sky a thin blue. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, pale morning light against deep indigo shadows, touches of leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The house that was a school  (flagship story)
+==============================================================================
+FILE NAME: the-house-that-was-a-school
+Save it as the-house-that-was-a-school.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The house that was a school", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small 1910s house on a hill, seen from the front at midday, a plain doorway with no sign, a low stone step, a few figures in white clothes standing at the far end of the garden path, their faces not shown, the hills going down into the valley below, the sky a thin blue. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, midday light against deep indigo shadows, touches of leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The newspaper that kept the word  (short story)
+==============================================================================
+FILE NAME: the-newspaper-that-kept-the-word
+Save it as the-newspaper-that-kept-the-word.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The newspaper that kept the word", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small 1910s printing room in a low house, seen from the doorway, a woman in a long white sari sitting at a low desk seen from behind, her face not shown, pushing the bar of a small hand press, sheets of blank paper stacked on a low table, one small lamp on the desk, evening light. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber lamplight against deep indigo shadows, touches of leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The president the league got  (short story)
+==============================================================================
+FILE NAME: the-president-the-league-got
+Save it as the-president-the-league-got.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The president the league got", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A large 1910s conference hall in a city in India, seen from the back, rows of wooden benches with men in white suits and round caps seen from the far end, their faces not shown, a small stage at the front with a single wooden podium, a woman in a long white sari standing at the podium seen from behind, her face not shown, warm lamplight, the hall's high ceiling in shadow. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber lamplight against deep indigo shadows, touches of leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

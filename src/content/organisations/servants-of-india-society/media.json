@@ -1,0 +1,27 @@
+{
+ "subject": "servants-of-india-society",
+ "wikidata": null,
+ "wikipedia": "Servants of India Society",
+ "commonsCategory": "Gopal Krishna Gokhale",
+ "matchedBy": "portraits",
+ "fetched": "2026-10-24",
+ "hidden": [],
+ "originals": [
+  "gokhale.webp"
+ ],
+ "items": [
+  {
+   "file": "gokhale.webp",
+   "type": "image",
+   "title": "Gopal Krishna Gokhale",
+   "description": "Portrait of Gokhale, the man who opened the school in Pune in 1905.",
+   "date": "",
+   "author": "Unknown",
+   "license": "Public domain (PD-India)",
+   "page": "https://commons.wikimedia.org/wiki/File:GK_Gokhale.jpg",
+   "foundIn": "owner-zip",
+   "year": 1905,
+   "era": "original"
+  }
+ ]
+}

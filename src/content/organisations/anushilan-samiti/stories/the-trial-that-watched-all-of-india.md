@@ -35,15 +35,15 @@ The trial had a name. It was called the Alipore bomb case. Alipore is a place in
 
 The men who sat in the dock were young. Most of them were in their twenties. Some had been students. Some had been teachers. All of them had been part, in one way or another, of the Anushilan Samiti's work.
 
-The court at Alipore held its first sittings in May 1908. By the end, in all, forty-nine men had been made to stand in that dock. On 2 May 1908, the police had arrested the first thirty-three of them.
+The court at Alipore held its first sittings in May 1908. By the end, in all, forty-nine men had been made to stand in that dock. On 2 May 1908, the police had arrested the first batch of thirty-three of them.
 
 <aside class="note"><b>Word</b>: To sit in the <i>dock</i> means to sit in the low, boxed place in a courtroom where the accused person stands during their trial.</aside>
 
 One of the accused changed how the trial would be talked about. His name was Aurobindo Ghosh, and he was not just a member of the group. He was, in the years before the bomb in Muzaffarpur, the quiet head of its ideas. He had written poetry, and he had written long thoughts on what a free country might look like.
 
-The lawyer who closed the case for Aurobindo was a young barrister from Calcutta named Chittaranjan Das. He was not a member of the group himself. He stood in front of the court, and he argued that the man his client was, in his books and his poetry, was not the man the government said he was.
+The lawyer who closed the case for Aurobindo was a young barrister from Calcutta named Chittaranjan Das. He was not a member of the group himself.
 
-Das's closing words about Aurobindo became the line the court is still remembered for. He said that, in time, people would look back at Aurobindo not as the leader of a plot but as the poet of patriotism.
+He stood in front of the court and argued that the man Aurobindo was, in his books and his poetry, was not the man the government said he was. Das's closing words became the line the court is still remembered for. He said that, in time, people would look back at Aurobindo not as the leader of a plot but as the poet of patriotism.
 
 The lawyers for the accused did not let the court rush to a verdict. For nearly a year, they argued that the young men had not been guilty of the crime they were being charged with. They said the crime was not a bomb, and not a plan for a bomb, but an act of thought, of writing, of building a free country.
 
@@ -55,22 +55,26 @@ On 6 May 1909, the judge gave his decision.
 
 Seventeen of the accused, Aurobindo among them, were found not guilty. Aurobindo walked out of the court a free man.
 
-But the other men were not. Two were found guilty of the crime and sentenced to death by hanging. Their sentences were later changed. Thirteen more were sentenced to the longest kind of prison term the law allowed, called transportation for life. Three more got ten years, and three more got seven.
+But the other men were not. Two were found guilty and sentenced to death by hanging. Their sentences were later changed. Thirteen more were sentenced to the longest kind of prison term the law allowed, called transportation for life. Three more got ten years, and three more got seven.
 
-The two men whose names came out of the verdict, Barin Ghose and a man named Ullaskar Dutt, went on to a small island far off the coast of India, to a prison called the Cellular Jail, on the island of Port Blair, in the Andaman Islands.
+Two of the men named in the verdict went on to a small island far off the coast of India. Their names were Barin Ghose and Ullaskar Dutt. They were sent to a prison called the Cellular Jail, on the island of Port Blair, in the Andaman Islands.
 
 Dutt was not a writer, like Aurobindo, and not a lawyer, like Das. He was a young man who had taught himself chemistry, in a small place near Howrah. He had come to Calcutta, in 1907, to help the group make the things it needed. In the court record, his work was described in the plain way the courts wrote: he made the explosives. He was one of the two men the judge found guilty, on top of the death sentence that was later changed to life.
 
 <aside class="note"><b>The Cellular Jail</b> was one of the harshest places a person could be sent by the British. It had small rooms, and long silence, and very little light. It was meant to break a prisoner, not just to hold one.</aside>
 
-The trial had run from May 1908 to May 1909. In that year, the court called more than two hundred witnesses, and it heard some five thousand exhibits, the objects and papers that had been gathered as proof. It had been watched by the whole country. When it ended, some of the accused were free, and some were in cells. And the Anushilan Samiti, which had started as a quiet gym, had now, in the open record, become the name of a movement that had gone to war, in its way, with the British.
+The trial had run from May 1908 to May 1909. In that year, the court called more than two hundred witnesses. It also heard some five thousand exhibits, the objects and papers that had been gathered as proof.
+
+It had been watched by the whole country. When it ended, some of the accused were free, and some were in cells. And the Anushilan Samiti, the quiet gym of 1902, had now become the name of a movement that had gone to war with the British, in its own way.
 
 Barin Ghose, the man whose name had broken from Anushilan to start the paper Jugantar, stayed in the Cellular Jail until a general pardon in 1920 let him out. After that, he went on writing and printing, but as a journalist, not as a secret leader.
 
 ## What the names meant after
 
-In the years that followed, the Anushilan Samiti did not disappear. It kept meeting, in secret, in Calcutta and in Dhaka. Its ideas passed, in time, into the hands of younger men, and the name Alipore stayed in the record as the courtroom where a whole generation of young men had first been shown, in public, what their ideas had cost them.
+In the years that followed, the Anushilan Samiti did not disappear. It kept meeting, in secret, in Calcutta and in Dhaka.
 
-The two men whose names came out of that trial most often are not the ones who sat in the dock. They are the two who had thrown the bomb in Muzaffarpur two years before: Khudiram Bose, who was hanged at fifteen, and Prafulla Chaki, who did not let himself be caught.
+Its ideas passed, in time, into the hands of younger men. And the name Alipore stayed in the record, as the courtroom where a whole generation of young men had first been shown, in public, what their ideas had cost them.
 
-Their names became the reason the courtroom in Alipore was watched at all. And that is how a quiet gym in Calcutta, opened in 1902, ended up, by 1910, as the centre of the country's loudest legal fight.
+The two men whose names came out of that trial most often are not the ones who sat in the dock. They are the two who had thrown the bomb in Muzaffarpur two years before. Their names were Khudiram Bose, who was hanged when he was eighteen, and Prafulla Chaki, who did not let himself be caught.
+
+Their names became the reason the courtroom in Alipore was watched at all. And that is how a quiet gym in Calcutta, opened in 1902, ended up, by 1910, at the centre of the country's loudest legal fight.

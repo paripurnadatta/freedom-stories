@@ -36,7 +36,7 @@ The two young men were named Khudiram Bose and Prafulla Chaki. Khudiram Bose was
 
 <aside class="note"><b>Word</b>: To be <i>hanged</i> means to be put to death by the gallows, a wooden frame with a rope. It was the British way of putting people to death who were found guilty of very serious crimes.</aside>
 
-The two men had come from the same secret group. They had been trained, in the years before, by a network called the Anushilan Samiti, which had opened in Calcutta in 1902 as a fitness club and had, under its quiet rooms, planned something much more than exercise.
+The two men had come from the same secret group. That group was called the Anushilan Samiti. It had opened in Calcutta in 1902, at first as a fitness club. Under its quiet rooms, it had planned something much more than exercise.
 
 After the bomb went off, the two men did not run together. They ran separate ways. Chaki went to a small station called Mokama, near Patna. He was cornered by a police officer there, on 2 May 1908. The officer had only a few bullets left. He used his last one, on himself.
 
@@ -46,6 +46,6 @@ Khudiram Bose walked, some forty kilometres, to a place called Waini, before he 
 
 In the Muzaffarpur jail, in August 1908, Khudiram Bose was hanged. He was eighteen years old.
 
-The bomb in Muzaffarpur was not the first act of that group. It was, in many ways, the act that pushed the British to look harder at who was behind it. That looking led, in Calcutta, to a long trial called the Alipore bomb case, and to the arrest of a thinker and poet named Aurobindo Ghosh, who had been, in the years before, the quiet head of the group's ideas.
+The bomb in Muzaffarpur was not the first act of that group. But it was the act that pushed the British to look harder at who was behind it. That looking led, in Calcutta, to a long trial called the Alipore bomb case. And to the arrest of a thinker named Aurobindo Ghosh, who had been the quiet head of the group's ideas in the years before.
 
 The two names, Khudiram Bose and Prafulla Chaki, went from that one night into the history of the freedom struggle. Khudiram Bose, in particular, became the name of a boy who had gone to prison and had not flinched.

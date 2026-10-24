@@ -29,7 +29,7 @@ The list had seven lines on it. He called them the seven vows. A person who want
 
 The seven promises were not about money. They were not about how to make more. They were about how to live, and how to treat the people who were poorer.
 
-The school's own record said the seven vows were about: keeping the body clean, keeping the mind quiet, studying every day, working for the village people, not asking for a bigger pay, and treating every person, rich or poor, with the same face.
+The school's own record said the seven vows were about: keeping the body clean. Keeping the mind quiet. Studying every day. Working for the village people. Not asking for a bigger pay. And treating every person with the same face, rich or poor.
 
 <aside class="note"><b>Two versions</b>: the exact words of all seven vows are not in the record I could open in this project. A later book calls them "the seven obligatory vows to be abided by the members of the society." This story keeps the list short and says what the promises were about, not the words they were written in.</aside>
 
@@ -56,4 +56,4 @@ In 1910, the school opened a branch in Madras. In 1911, two more branches, in Na
 
 <aside class="note"><b>Word</b>: A <i>branch</i> of a group is a smaller version of it, in another town. The seven promises were written once, in 1905, and every new branch, in every city, wrote them the same way.</aside>
 
-The school is still open today. The seven promises are still on its first page. A person who joins the school now says "yes" to the same seven lines Gokhale wrote in 1905.
+The school is still open today. The seven promises are still on its first page. A person who joins the school now says "yes" to the same seven lines Gokhale wrote in 1905. And he keeps them for the same five years, in the same small house, in the same town of Pune.

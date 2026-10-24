@@ -1,0 +1,40 @@
+ILLUSTRATIONS NEEDED: Servants of India Society
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. A school for serving the country  (flagship story)
+==============================================================================
+FILE NAME: a-school-for-serving-the-country
+Save it as a-school-for-serving-the-country.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A school for serving the country", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small 1900s Indian house in a quiet part of Pune, seen from the street at morning, a plain doorway with no sign, a few men in white clothes carrying books and small bundles seen from behind, their faces not shown, warm early light on the narrow lane. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The Gujarat that went without for one year  (flagship story)
+==============================================================================
+FILE NAME: the-gujarat-that-went-without-for-one-year
+Save it as the-gujarat-that-went-without-for-one-year.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The Gujarat that went without for one year", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A dry Indian landscape at midday, cracked earth and low hills, a small line of bare trees, a few figures in white clothes seen from the far end of a dusty road, their faces not shown, carrying small bundles, the sun high and the light harsh and pale. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, harsh pale sunlight against deep indigo shadows, touches of dry ochre and leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

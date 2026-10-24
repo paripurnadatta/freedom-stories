@@ -91,7 +91,9 @@ The school also started printing a small paper, in 1911. It called it the Hitava
 
 The school did not grow in a big building. It grew in a small house, in the town of Pune, that Gokhale had bought with the money his friends had sent.
 
-The house had a small room for the new members to sleep in. It had a room for the books. It had a room for the small hospital the school ran, for the people who were sick and had no money for a doctor. And it had one room at the top, that Gokhale kept for the first record book, where the seven promises were written down, and where the list of the twenty-six members was kept.
+The house had a small room for the new members to sleep in. It had a room for the books. It had a room for the small hospital the school ran, for people who were sick and had no money for a doctor.
+
+It also had one room at the top, that Gokhale kept for the first record book. That is where the seven promises were written down, and where the list of the twenty-six members was kept.
 
 <aside class="note"><b>Word</b>: A <i>record book</i> is the first book a small group writes down its rules in. The school's record book, from 1905, is kept in the same room, in the same house in Pune, today. The school still runs, and the room is still there.</aside>
 

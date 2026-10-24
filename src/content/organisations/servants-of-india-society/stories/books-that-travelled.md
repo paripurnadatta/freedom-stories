@@ -23,11 +23,13 @@ status: published
 
 In 1913, a branch of the Servants of India Society opened in the city of Allahabad.
 
-That branch did not just sit in the city and run its own classes. It did something that, in that time, no other school in the country was doing. It put its books on a cart.
+That branch did not just sit in the city and run its own classes. It did something that, in that time, few other schools in the country were doing. It put its books on a cart.
 
 <aside class="note"><b>Word</b>: A <i>mobile library</i> is a library that moves. It carries its books, in a cart or a small van, from one village to the next, so the people who could not walk to a city could still read.</aside>
 
-The cart went to the villages that had never had a book. A village might have one well, and one field, and one small temple. It would not have had a shelf of books, ever. The cart would come, stop at the village, and let the people take a book, for a week. Then the cart would go to the next village, and leave the book for a month.
+The cart went to the villages that had never had a book. A village might have one well, and one field, and one small temple. It would not have had a shelf of books, ever.
+
+The cart would come, stop at the village, and let the people take a book, for a week. Then the cart would go to the next village. And it would leave that book for a month, and come back for it at the end of the month.
 
 ## Who read the books
 
@@ -37,7 +39,9 @@ The people who read the books on the cart were not just the young men who would 
 
 ## What the school did besides the carts
 
-In the same year, the school did other quiet work. It ran a league for the small children, to get them into the town's schools. It ran night classes for the people who worked in the mills by day, so they could learn to read after the sun went down. It ran a hospital, for the people who were sick and had no money for a doctor.
+In the same year, the school did other quiet work. It ran a league for the small children, to get them into the town's schools. It ran night classes for the people who worked in the mills by day, so they could learn to read after the sun went down.
+
+The school also sent its own teachers, out to the villages, to run small classes in a rented room. And it kept a list of the villages it had reached, a list that grew longer every year.
 
 <figure class="plate">
   <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A portrait of Gokhale in a white dhoti">
@@ -46,6 +50,6 @@ In the same year, the school did other quiet work. It ran a league for the small
 
 ## Why it matters
 
-A book on a cart is not a loud thing. It is not a war cry, and it is not a flag. But it did something the government, in that time, did not do for the village people. It gave them a page to read, on a night when the field work was done, and the lamp was lit, and the village was quiet.
+A book on a cart is not a loud thing. It is not a war cry. And it is not a flag. But it did something the government, in that time, did not do for the village people. It gave them a page to read, on a night when the field work was done. And when the lamp was lit, and the village was quiet.
 
-The school's first record book kept the list of the carts, and of the villages they went to. The list is still in Pune, in the same room the school opened in 1905.
+The school's first record book kept the list of the carts, and of the villages they went to. That list is still in Pune. It is in the same small room where the school opened, in 1905. And it is the same room where the school still keeps its records today.

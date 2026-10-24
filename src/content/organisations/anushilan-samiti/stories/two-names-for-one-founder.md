@@ -38,13 +38,13 @@ It is not unusual for this to happen. A group that met in secret for many years 
 
 What we can say is this: the club opened in 1902. It was small. It trained young people in discipline and fitness. And, quietly, it became one of the first groups in Bengal to plan a fight against the British, not just a protest.
 
-That quiet work led, in time, to bigger names. It led to the newspaper Jugantar. It led to two boys, Khudiram Bose and Prafulla Chaki, who were hanged for throwing a bomb. It led to a long trial called the Alipore case.
+That quiet work led, in time, to bigger names. It led to the newspaper Jugantar, which broke away from the group in 1906. It led to two young men, Khudiram Bose and Prafulla Chaki, who threw a bomb in Muzaffarpur in 1908. It led to a long trial called the Alipore case, which ran for two years and drew the whole country to watch one courtroom in Calcutta.
 
-But at the start, at the small club in 1902, there were two names where history would like to find one.
+But at the start, at the small club in 1902, there were two names where history would like to find one. The records do not say which of the two men, if either, first set the room in motion. They only say that both were there, and that both carried the name forward into the years that followed.
 
 <figure class="plate">
   <img src="/files/organisations/anushilan-samiti/archive/pramathanath-mitra.webp" alt="A small, dark portrait that does not show a face clearly">
   <figcaption>A portrait said to be of Pramathanath Mitra, one of the two men named in the record of the club's founding.</figcaption>
 </figure>
 
-Neither name is wrong, in the way a wrong fact is wrong. Both men were part of the same early circle. The question of who deserves the word "founder" is one the records have never fully settled.
+Neither name is wrong, in the way a wrong fact is wrong. Both men were part of the same early circle. The question of who deserves the word "founder" is one the records have never fully settled. And that is not a small thing to leave open. It means that the group's own early history, the very first few years, is not something the surviving records can say with one clear voice.

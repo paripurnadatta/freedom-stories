@@ -1,0 +1,70 @@
+ILLUSTRATIONS NEEDED: Swaraj Party
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. The split that made a new party  (flagship story)
+==============================================================================
+FILE NAME: the-splits-that-made-a-new-party
+Save it as the-splits-that-made-a-new-party.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The split that made a new party", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A large 1920s Indian conference hall at night, rows of wooden benches with men in white suits and round caps seen from the far end, their faces not shown, a small stage at the front with a single microphone stand, warm lamplight, the hall's high ceiling in shadow. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber light against deep indigo shadows, touches of leaf green. Historically accurate 1920s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The voice that sat in the council  (short story)
+==============================================================================
+FILE NAME: the-voice-that-sat-in-the-council
+Save it as the-voice-that-sat-in-the-council.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The voice that sat in the council", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A 1920s council chamber in India, seen from the back of the room, a long semicircle of wooden benches with men in white suits seated, their faces not shown, a man standing at the centre of the front row with his back to the viewer, a wooden podium with a small book on it, morning light coming through the chamber's tall windows. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber light against deep indigo shadows, touches of leaf green. Historically accurate 1920s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The two rooms and the two leaders  (short story)
+==============================================================================
+FILE NAME: the-two-rooms-and-the-two-leaders
+Save it as the-two-rooms-and-the-two-leaders.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The two rooms and the two leaders", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small 1920s Indian house seen from the garden at evening, a low veranda with two wooden chairs, a small lamp on the stone step, a man in a white dhoti sitting on one of the chairs seen from behind, his face not shown, a stack of letters on the chair beside him, warm lamplight on the veranda, the garden dark. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber lamplight against deep indigo shadows, touches of leaf green. Historically accurate 1920s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The party that quietly went  (short story)
+==============================================================================
+FILE NAME: the-party-that-quietly-went
+Save it as the-party-that-quietly-went.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The party that quietly went", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A 1920s council chamber at dusk, the benches mostly empty, one man in a white suit seen from the far end of the room, walking slowly toward the door, his face not shown, the last light of the day coming through the tall windows, the chamber's high ceiling in shadow. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, the last warm light of the day against deep indigo shadows, touches of leaf green. Historically accurate 1920s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
