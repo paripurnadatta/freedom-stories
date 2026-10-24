@@ -4,3 +4,9 @@ dist/
 .DS_Store
 .env
 .env.*
+archive-library/
+wishlist-pictures/
+wishlist-pictures.zip
+library-index.zip
+wishlist-paths.txt
+make-wishlist-zip.ps1

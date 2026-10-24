@@ -1,0 +1,95 @@
+ILLUSTRATIONS NEEDED: Anushilan Samiti
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Do not show clear faces of real people in any of these. Show them from behind or at a distance.
+
+==============================================================================
+1. The gym that was something else  (flagship story)
+==============================================================================
+FILE NAME: the-gym-that-was-something-else
+Save it as the-gym-that-was-something-else.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The gym that was something else", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small 1900s Calcutta club building seen from the outside at dusk, a narrow colonnaded veranda, a dark entrance, a few men in loose Indian clothes standing at the far end of the veranda seen from behind, their faces not shown, warm lamplight through the arches. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. The trial that watched all of India  (flagship story)
+==============================================================================
+FILE NAME: the-trial-that-watched-all-of-india
+Save it as the-trial-that-watched-all-of-india.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The trial that watched all of India", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+A large 1900s Indian court building seen from a distance at dawn, a long corridor of wooden columns, a small group of men in white suits and round caps walking slowly down the corridor seen from behind, their faces not shown, morning light coming up the corridor. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. A newspaper called Jugantar  (short story)
+==============================================================================
+FILE NAME: a-newspaper-called-jugantar
+Save it as a-newspaper-called-jugantar.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A newspaper called Jugantar", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+A small hand printing press in a low-lit 1900s Calcutta room, a man in a simple white shirt and head wrap seen from behind, his face not shown, pushing the bar of the press, sheets of blank paper stacked on a low table, one candle on the table, evening light. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. From Calcutta to Dhaka  (short story)
+==============================================================================
+FILE NAME: from-calcutta-to-dhaka
+Save it as from-calcutta-to-dhaka.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "From Calcutta to Dhaka", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+A 1900s river road in east Bengal at first light, a long line of low thatched and brick houses by the water, a small covered meeting house with its doors closed at the far end of the road, a few figures seen from behind walking toward it, their faces not shown, the river reflecting the sky. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The night a bomb fell on the wrong carriage  (short story)
+==============================================================================
+FILE NAME: the-night-a-bomb-fell-on-the-wrong-carriage
+Save it as the-night-a-bomb-fell-on-the-wrong-carriage.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The night a bomb fell on the wrong carriage", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+A quiet 1900s Indian night road in Bihar, a horse-drawn carriage seen from the far end of the road, the horse's head lowered, the carriage's lamps lit, two small figures standing at the edge of the road seen from behind, their faces not shown, the road stretching toward a sleeping village, cold blue light. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, cold blue night light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone, no explosion shown. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. Two names for one founder  (short story)
+==============================================================================
+FILE NAME: two-names-for-one-founder
+Save it as two-names-for-one-founder.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Two names for one founder", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+An open, faded 1950s book lying on a wooden desk, its grey halftone pages showing two worn, blurry portraits side by side, neither face clearly readable, a small magnifying glass resting on one of the portraits, soft afternoon light through a window. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber light against deep indigo shadows, touches of leaf green. Historically accurate 1950s Indian objects and paper. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------

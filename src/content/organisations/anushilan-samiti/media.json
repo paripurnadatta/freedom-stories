@@ -1,0 +1,69 @@
+{
+ "subject": "anushilan-samiti",
+ "wikidata": null,
+ "wikipedia": "Anushilan Samiti",
+ "commonsCategory": "Category:Anushilan_Samiti",
+ "matchedBy": "category",
+ "fetched": "2026-10-24",
+ "hidden": [],
+ "originals": [
+  "Pramathanath_Mitra1.jpg",
+  "Satish_Chandra_Basu.jpg",
+  "Anushilan_Samiti_office_at_48,_Bidhan_Sarani.jpg",
+  "Anushilan_samiti_symbol.jpg"
+ ],
+ "items": [
+  {
+   "file": "Pramathanath_Mitra1.jpg",
+   "type": "image",
+   "title": "Pramathanath Mitra",
+   "description": "Portrait of Pramathanath Mitra, one of the leaders of Anushilan Samiti.",
+   "date": "",
+   "author": "Unknown",
+   "license": "Public domain (PD-India)",
+   "page": "https://commons.wikimedia.org/wiki/File:Pramathanath_Mitra1.jpg",
+   "foundIn": "owner-library",
+   "year": 1902,
+   "era": "original"
+  },
+  {
+   "file": "Satish_Chandra_Basu.jpg",
+   "type": "image",
+   "title": "Satish Chandra Basu",
+   "description": "Satish Chandra Basu, named in one record as the founder of Anushilan Samiti.",
+   "date": "",
+   "author": "Unknown",
+   "license": "Public domain (PD-India, PD-Bangladesh)",
+   "page": "https://commons.wikimedia.org/wiki/File:Satish_Chandra_Basu.jpg",
+   "foundIn": "owner-library",
+   "year": 1902,
+   "era": "original"
+  },
+  {
+   "file": "Anushilan_Samiti_office_at_48,_Bidhan_Sarani.jpg",
+   "type": "image",
+   "title": "Anushilan Samiti office at 48 Bidhan Sarani, Kolkata",
+   "description": "The office of Anushilan Samiti at 48, Bidhan Sarani (formerly Cornwallis Street), Kolkata.",
+   "date": "",
+   "author": "Unknown",
+   "license": "Public domain (PD-India, PD-Bangladesh)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anushilan_Samiti_office_at_48,_Bidhan_Sarani.jpg",
+   "foundIn": "owner-library",
+   "year": 1902,
+   "era": "original"
+  },
+  {
+   "file": "Anushilan_samiti_symbol.jpg",
+   "type": "image",
+   "title": "Anushilan Samiti symbol",
+   "description": "Symbol of Anushilan Samiti (1902-1936).",
+   "date": "",
+   "author": "Jibantara Haldar",
+   "license": "Public domain (PD-India, PD-Bangladesh)",
+   "page": "https://commons.wikimedia.org/wiki/File:Anushilan_samiti_symbol.jpg",
+   "foundIn": "owner-library",
+   "year": 1902,
+   "era": "original"
+  }
+ ]
+}

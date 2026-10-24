@@ -1,0 +1,148 @@
+ILLUSTRATIONS NEEDED: Mahatma Gandhi
+------------------------------------------------------------------------------
+How to use this file
+  1. Copy one PROMPT into your image generator.
+  2. Save the result with its FILE NAME, in this same folder.
+  3. Send it to Claude (a zip is fine), or run: node scripts/place-illustrations.mjs
+     It shrinks the image for the web, and the site shows it automatically.
+
+Only stories that need a painting are listed. The others use real photographs.
+Gandhi's face may be shown: many real photographs of him exist. Keep his age
+right for each story (23 in 1893, 40 in 1909, 61 in 1930, 77 in 1946).
+In the Yerwada prompt, Dr Ambedkar (suit, round glasses) may be shown: many
+photographs of him exist too.
+
+==============================================================================
+1. The coldest night in Pietermaritzburg  (flagship story)
+==============================================================================
+FILE NAME: the-coldest-night-in-pietermaritzburg
+Save it as the-coldest-night-in-pietermaritzburg.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "The coldest night in Pietermaritzburg", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small, dark, cold railway waiting room in Pietermaritzburg, South Africa, on a winter night in 1893. a slim young Indian man of 23 with short dark hair, a small moustache and large ears, in a dark Victorian three-piece suit and stiff collar sits alone on a hard wooden bench, arms wrapped around himself, shivering, deep in thought. Through the window, a lonely gas lamp lights an empty platform and his luggage lying on it. Frosty breath in the air. A single shaft of cold blue moonlight falls across his face. Quiet, lonely, determined mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+2. A handful of salt  (flagship story)
+==============================================================================
+FILE NAME: a-handful-of-salt
+Save it as a-handful-of-salt.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5. Generate at 2400 x 1125 pixels if your tool lets you choose.
+Where it goes: the top of the story "A handful of salt", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Early morning, April 1930, the wide grey-gold beach at Dandi, Gujarat. a thin, elderly bald Indian man with round wire-rimmed glasses, a white khadi dhoti and shawl, walking stick bends down at the edge of the sea to pick up a lump of salty mud. Behind him, a long line of marchers in white khadi and Gandhi caps, men and a few women, watches quietly; beyond them, a crowd of villagers. Soft sunrise light over the Arabian Sea, small waves, salt-crusted sand glittering. Hopeful, historic, peaceful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. A book written at sea  (short story)
+==============================================================================
+FILE NAME: a-book-written-at-sea
+Save it as a-book-written-at-sea.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "A book written at sea", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+November 1909, a small wood-panelled cabin on an old ocean steamship, porthole showing a rough grey-blue sea. A 40-year-old Indian man with short hair and a moustache, in a plain white shirt with sleeves rolled up, writes quickly with his LEFT hand on sheets of paper covered in Gujarati-looking script that is not readable. A pile of finished pages is weighed down by an inkpot. The lamp sways slightly. Focused, energetic mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. The family that changed the ashram  (short story)
+==============================================================================
+FILE NAME: the-family-that-changed-the-ashram
+Save it as the-family-that-changed-the-ashram.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The family that changed the ashram", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1915, the courtyard of a simple ashram bungalow in Kochrab village near Ahmedabad. A middle-aged Indian man with short hair and a moustache, in a simple white dhoti and kurta, welcomes a poor Indian family at the gate: a thin man in a worn dhoti, his wife in a simple cotton sari, and a small girl of about one holding her mother's hand. Ashram members stand behind, some smiling, one or two looking uncertain. Warm afternoon light, neem tree, clay pots. Gentle, welcoming mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+5. The farmer who would not give up  (short story)
+==============================================================================
+FILE NAME: the-farmer-who-would-not-give-up
+Save it as the-farmer-who-would-not-give-up.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The farmer who would not give up", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1917, a crowded Indian railway platform. A stubborn, lean Indian farmer of about 40 in a dhoti, kurta and a simple turban, with a cloth bag over his shoulder, walks determinedly alongside a slightly amused middle-aged Indian man in a white kurta, dhoti and Kathiawari turban who is boarding a steam train. In the background, faint hints of indigo-blue fields painted into a poster-like distance. Warm, slightly humorous mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+6. The search for a spinning wheel  (short story)
+==============================================================================
+FILE NAME: the-search-for-a-spinning-wheel
+Save it as the-search-for-a-spinning-wheel.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The search for a spinning wheel", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+1917, a dusty attic in an old house in a Gujarati town. A confident Indian widow in a plain white sari stands with a lantern, discovering several old wooden spinning wheels covered in dust and cobwebs, stacked among old pots and trunks. A smiling village woman beside her pulls one out into the light. Warm golden light from a small window. Joyful moment of discovery. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+7. Why Gandhi stopped the movement  (short story)
+==============================================================================
+FILE NAME: why-gandhi-stopped-the-movement
+Save it as why-gandhi-stopped-the-movement.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Why Gandhi stopped the movement", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+February 1922, a simple room in an ashram at dusk. A middle-aged Indian man with a shaved head, small moustache and round glasses, wearing a white khadi dhoti and shawl, sits alone on the floor on a mat, head bowed in sorrow, a folded newspaper beside him with no readable text. An unlit spinning wheel stands nearby. Through the window, the evening sky is dark orange. Sad, thoughtful, serious mood. Nothing violent shown. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+8. The fast in Yerwada jail  (short story)
+==============================================================================
+FILE NAME: the-fast-in-yerwada-jail
+Save it as the-fast-in-yerwada-jail.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The fast in Yerwada jail", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+September 1932, a mango tree in the courtyard of Yerwada jail, Poona. Under the tree, a thin Indian man in his sixties with round glasses and a white shawl lies weak on a simple cot, fasting. Around him sit Indian leaders in conversation, some in Gandhi caps; one confident man in a Western suit and round glasses sits upright, arguing his point firmly. Prison walls behind. Tense, serious, respectful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+9. Where was Gandhi on the day India became free?  (short story)
+==============================================================================
+FILE NAME: the-day-india-became-free
+Save it as the-day-india-became-free.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "Where was Gandhi on the day India became free?", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+15 August 1947, an old, run-down two-storey house in Beliaghata, Calcutta, with broken windows. On the veranda, a thin elderly bald Indian man in round glasses and a white shawl sits quietly at a spinning wheel. Outside in the lane, Hindu and Muslim neighbours, men in dhotis and men in lungis and caps, women and children, stand together peacefully. Far away on the horizon, faint fireworks over the city. Quiet, bittersweet, hopeful mood. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
