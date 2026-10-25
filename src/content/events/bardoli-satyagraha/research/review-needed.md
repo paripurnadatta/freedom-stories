@@ -1,0 +1,7 @@
+# Review before main
+
+- Six stories: two flagships and four shorts. Review on chatgpt-work before merging.
+- Specific incidents often rest on one participant account; the second source supplies context, not independent corroboration. The stories label this where needed.
+- Six paintings are prompted but not generated. One credited archival photograph is supplied; it is not presented as a photograph of a different scene.
+- No undocumented dialogue is quoted. Future research angles remain private and unwritten.
+- Validation on 25 October 2026: npm run check passed for all 317 published stories and 1,141 subjects. npm run build passed, including Pagefind. The 24 new story routes, four event hubs, source links and local image references were checked in the output. Research files and the supplied PDF are absent from the public build.

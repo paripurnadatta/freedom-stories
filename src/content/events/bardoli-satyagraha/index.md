@@ -2,9 +2,9 @@
 id: E-0043
 kind: event
 name: "Bardoli Satyagraha"
-summary: "Successful peasant tax resistance led by Vallabhbhai Patel."
-date: "1928"
-endDate: "1928"
+summary: "Bardoli villages challenged a tax increase through preparation, a shared refusal, and an inquiry into the figures."
+date: "1928-02-12"
+endDate: "1928-08-06"
 year: 1928
 region: "Gujarat"
 places:
@@ -12,10 +12,39 @@ places:
 related:
   - "sardar-vallabhbhai-patel"
   - "bardoli"
+  - "mahatma-gandhi"
 sources:
-  - title: "Freedom Struggle theme"
-    url: "https://amritmahotsav.nic.in/freedom-strugle"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Mahadev Desai, The Story of Bardoli (1929)"
+    url: "https://archive.org/details/storyofbardolibe00desa"
+    publisher: "Navajivan Press / Internet Archive"
+  - title: "Bardoli Satyagraha: overview and references"
+    url: "https://en.wikipedia.org/wiki/Bardoli_Satyagraha"
+    publisher: "Wikipedia"
+angles:
+  - title: "Seven Days to Decide"
+    type: flagship
+    hook: "Patel asked the villages to count the cost before they promised"
+    story: "bardoli-seven-days-to-decide"
+  - title: "The Long Night in Poona"
+    type: flagship
+    hook: "An agreement almost failed over the words on a page"
+    story: "bardoli-the-long-night-in-poona"
+  - title: "News from the Villages"
+    type: short
+    hook: "Jugatram Dave helped the campaign speak to itself"
+    story: "bardoli-news-from-the-villages"
+  - title: "The Opponent Patel Helped"
+    type: short
+    hook: "Patel drew a limit around the boycott"
+    story: "bardoli-the-opponent-patel-helped"
+  - title: "The Figures at Afwa"
+    type: short
+    hook: "A village record put the tax calculation to the test"
+    story: "bardoli-the-figures-at-afwa"
+  - title: "The Neighbours Who Waited"
+    type: short
+    hook: "Chorasi asked to join, but Patel said the work was not ready"
+    story: "bardoli-the-neighbours-who-waited"
 ---
 
 <!--
@@ -26,4 +55,5 @@ sources:
 ## Research notes
 
 Successful peasant tax resistance led by Vallabhbhai Patel.
+
 
