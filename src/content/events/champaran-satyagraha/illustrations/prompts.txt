@@ -1,0 +1,69 @@
+ILLUSTRATIONS NEEDED: champaran-satyagraha
+
+Copy each prompt into your image generator. Save the result with its exact FILE NAME in this illustrations folder, then run node scripts/place-illustrations.mjs. These paintings remain to be generated and reviewed.
+
+FILE NAME: champaran-the-order-to-leave
+Save it as champaran-the-order-to-leave.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5, 2400 × 1125 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Motihari, Bihar, 1917. A police messenger hands Gandhi an unlettered folded notice beside a country road. Gandhi wears the simple Indian clothing of his 1917 photographs, not his later Salt March dress. An elephant and its attendant stand back. Frame the quiet exchange, not an invented confrontation.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: champaran-the-listening-house
+Save it as champaran-the-listening-house.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5, 2400 × 1125 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Champaran, 1917. A rented house used for the inquiry. An unnamed farmer, seen from behind, explains his complaint to Indian volunteers writing at a low table. Gandhi listens nearby. Blank-looking papers and a few waiting visitors show careful collection of evidence.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: champaran-one-kitchen
+Save it as champaran-one-kitchen.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Champaran, 1917. A shared vegetarian meal in the inquiry house. Indian lawyers and volunteers sit together with plain bowls and a single serving pot. Show the new common kitchen, with no ceremonial celebration.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: champaran-six-village-schools
+Save it as champaran-six-village-schools.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A small Champaran village school, 1917. An Indian woman volunteer teaches children with simple unmarked learning materials. Local village architecture and modest clothing. Show purposeful teaching without inventing the likeness of a named teacher.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: champaran-the-only-sari
+Save it as champaran-the-only-sari.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Bhitiharva, Champaran, 1917. Kasturba Gandhi listens to an unnamed adult village woman at the doorway of her modest home. Show the woman from behind, fully clothed and treated with dignity. Do not dramatize poverty or expose her body. The subject is listening before giving advice.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: champaran-a-seat-on-the-committee
+Save it as champaran-a-seat-on-the-committee.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A formal inquiry table in Bihar, 1917. Gandhi sits with officials, considering papers whose writing cannot be read. Calm discussion and evidence, not triumph or confrontation. Avoid invented recognizable portraits of other committee members.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
