@@ -1,6 +1,6 @@
 ILLUSTRATIONS NEEDED: bardoli-satyagraha
 
-Copy each prompt into your image generator. Save the result with its exact FILE NAME in this illustrations folder, then run node scripts/place-illustrations.mjs. These paintings remain to be generated and reviewed.
+Copy each prompt into your image generator. Save the result with its exact FILE NAME in this illustrations folder, then run node scripts/place-illustrations.mjs. The paintings for these prompts have been made and placed in this folder.
 
 FILE NAME: bardoli-seven-days-to-decide
 Save it as bardoli-seven-days-to-decide.png (or .jpg / .webp) in this folder.
