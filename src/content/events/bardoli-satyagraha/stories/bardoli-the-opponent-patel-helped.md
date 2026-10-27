@@ -1,42 +1,66 @@
 ---
 title: "The Opponent Patel Helped"
-subtitle: "Patel drew a limit around the boycott"
+subtitle: "During the Bardoli struggle, farmers refused to deal with people who broke ranks. Then a Parsi shopkeeper complained that he was being treated cruelly. Patel went to see for himself, and drew a line."
 type: short
 when: "1928"
-where: "Bardoli, Gujarat"
-published: 2026-10-25
+where: "Manekpur, in Bardoli taluka"
+published: 2026-10-27
 about:
   - "bardoli-satyagraha"
   - "sardar-vallabhbhai-patel"
 year: 1928
 sources:
-  - title: "Mahadev Desai, The Story of Bardoli (1929)"
+  - title: "The Story of Bardoli, by Mahadev Desai (Navajivan, 1929), chapter 20, Not a Miracle"
     url: "https://archive.org/details/storyofbardolibe00desa"
-    publisher: "Navajivan Press / Internet Archive"
-  - title: "Bardoli Satyagraha: overview and references"
+    publisher: "Internet Archive"
+  - title: "Bardoli Satyagraha"
     url: "https://en.wikipedia.org/wiki/Bardoli_Satyagraha"
     publisher: "Wikipedia"
 status: published
 ---
 
-News reached Patel that a Parsi man in Manekpur was being harassed. The man had fallen out with supporters of the Bardoli campaign. Patel went there and called an informal meeting. He invited the man to speak.
+In 1928, the farmers of Bardoli refused to pay a new land tax. Their leader was Vallabhbhai Patel. They had no weapons. But they had one tool that worried the government a great deal: the social boycott.
 
-The campaign used boycotts against people who broke with the refusal to pay. Daily reports from the camps told Patel where people were holding firm and where difficulties had developed. His visits responded to that information. It also opposed outsiders buying seized land. Such pressure could help keep people together. It could also become harsh and unfair.
+## What a boycott meant
 
-<aside class="note"><b>Boycott</b>: Refusing to buy from, work for, or otherwise cooperate with someone as a protest.</aside>
+If someone broke ranks and paid the tax, or bought land the government had seized, the village could stop dealing with him. People might refuse to work his fields, or cut off ties with his family.
 
-At Manekpur, one complaint concerned the refusal of medical help. According to Mahadev Desai's account, the man said that claim was false. Other complaints remained. He could not obtain a barber's services or agricultural labour. Customers were being drawn away from his liquor shop.
+Mahadev Desai, who wrote the history of the struggle, said the boycott was the weapon that most annoyed the government. But the government could do little about it, because a social boycott was not a crime under the law.
 
-Patel told the villagers to ease the boycott. Nobody could be forced to buy liquor. But directing customers to another shop simply to hurt this man was wrong. Ordinary services and help should not be denied in the same sweeping way.
+<aside class="note"><b>Boycott</b>: refusing to deal with a person or group, to put pressure on them.</aside>
 
-The intervention followed a rule Patel had repeatedly explained. A satyagrahi must not refuse a boycotted person life's basic needs. Water, milk, food, and help during illness remained necessary. A political quarrel did not remove those obligations.
+## Patel's limits
 
-Desai supported the campaign and defended its use of boycott. His account also records these limits. That matters because unity is not always gentle. People who disagree can face pressure from their own neighbours.
+Patel defended the boycott. It was, he said, the farmers' only weapon for defending themselves. But he always set limits on it, and he repeated them often.
 
-The dispute over land tax had brought many communities together. Yet they did not all have equal numbers or power. Patel's response at Manekpur showed particular concern about pressure on someone from a smaller community.
+The first limit was this. A satyagrahi must never refuse to meet the basic needs of the person being boycotted. In Patel's words: "We may not refuse any one milk, water, foodstuffs, help in case of illness or worse. We cannot afford to prosecute boycott at the expense of our humanity."
 
-His visit did not mean that every boycott ended. The movement continued to oppose the purchase and cultivation of confiscated land. It meant that opposition had boundaries. Refusing cooperation was not permission to refuse someone water or care.
+<aside class="note"><b>Satyagrahi</b>: a person taking part in a satyagraha, a peaceful struggle against injustice.</aside>
 
-<aside class="note"><b>A participant's account</b>: The Manekpur meeting is described by Mahadev Desai. This story does not assume every village followed Patel's instructions perfectly.</aside>
+Patel also insisted that the boycott should be eased for people from small communities in the taluka, such as the Parsis.
 
-Bardoli's history includes people who stood together. It also includes arguments about how they should treat those who stood apart. At this meeting, Patel asked the campaign to protect a person it opposed.
+## A complaint from Manekpur
+
+Then word reached Patel that a Parsi man in the village of Manekpur was being harassed in many ways.
+
+Patel hurried there. He called an informal meeting and invited the Parsi to it.
+
+At the meeting, the Parsi admitted that one part of his complaint was false. Nobody had refused him medical help. But the rest was true. People were being drawn away from his liquor shop. The village barber would not serve him. And he could not find anyone to work on his farm.
+
+## Patel's ruling
+
+Patel then spoke to the villagers. Of course they could not force anyone to go to the man's liquor shop, he said. But it would be wrong to ask anyone to choose another shop instead of his.
+
+The barber should not refuse him. Nor should farm workers refuse to work for him. "He is penitent and he asks for help," Patel said. "You may not refuse it."
+
+<aside class="note"><b>Penitent</b>: sorry for something one has done wrong.</aside>
+
+## What this story does not say
+
+Desai tells this story to show that Patel enforced his limits. He does not claim that there were no other complaints. This was one case, in one village, where Patel went to see for himself.
+
+## Why it matters
+
+Patel was fighting a hard struggle against a powerful government. He needed every farmer to hold firm. Yet when one man in a small community was being treated unfairly, he went to his village and stood up for him.
+
+A boycott could put pressure on a person. Patel would not let it take away a person's haircut, his farm labour, or help when he was ill. The farmers could refuse to pay the tax. They could not give up their humanity.

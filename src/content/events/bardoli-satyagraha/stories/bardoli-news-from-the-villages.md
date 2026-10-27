@@ -1,44 +1,62 @@
 ---
 title: "News from the Villages"
-subtitle: "Jugatram Dave helped the campaign speak to itself"
+subtitle: "The farmers of Bardoli could not afford newspapers. So the campaign made its own: a small daily bulletin, first copied by machine and then printed in Surat, waited for every morning."
 type: short
-when: "1928"
-where: "Bardoli, Gujarat"
-published: 2026-10-25
+when: "February to August 1928"
+where: "Bardoli taluka and Surat"
+published: 2026-10-27
 about:
   - "bardoli-satyagraha"
   - "sardar-vallabhbhai-patel"
 year: 1928
 sources:
-  - title: "Mahadev Desai, The Story of Bardoli (1929)"
+  - title: "The Story of Bardoli, by Mahadev Desai (Navajivan, 1929), chapter 6, Planning the Campaign"
     url: "https://archive.org/details/storyofbardolibe00desa"
-    publisher: "Navajivan Press / Internet Archive"
-  - title: "Bardoli Satyagraha: overview and references"
+    publisher: "Internet Archive"
+  - title: "Bardoli Satyagraha"
     url: "https://en.wikipedia.org/wiki/Bardoli_Satyagraha"
     publisher: "Wikipedia"
 status: published
 ---
 
-The first news sheets were copied with a duplicating machine. Soon, printing was arranged in Surat. Thousands of bulletins began travelling into Bardoli's villages. The campaign needed news that people could receive regularly.
+In February 1928 the farmers of Bardoli, in Gujarat, decided to refuse a new land tax. The struggle would be fought in dozens of villages at once. So how would everyone know what was happening?
 
-Jugatram Dave led the publicity office. He knew the area and could write clearly. His task was to gather and share the campaign's news. Patel's speeches also appeared in pamphlet form.
+## A problem of news
 
-The sheets were distributed free to the farmers. Asking everyone to subscribe to a daily newspaper would not have worked. A distant paper might also miss local developments. Villagers needed to know what was happening within their own struggle.
+Most farmers could not be asked to buy a daily newspaper. They could not even be asked to buy the weekly paper Navajivan. And newspapers from outside could only give an outsider's view.
 
-Mahadev Desai's account describes an early print run of five thousand. As demand grew, distribution spread beyond Bardoli. Newspapers reproduced the material. People elsewhere in Gujarat followed the campaign through these reports.
+The leader of the campaign, Vallabhbhai Patel, needed to speak to every village. He could not be in every village every day.
 
-<aside class="note"><b>Bulletin</b>: A short report containing recent news or instructions.</aside>
+## The publicity office
 
-News also had to travel in the other direction. Village volunteers carried information to nearby camps. Selected workers went with camp leaders, collected reports, and ran errands. Patel could use these reports to decide where he needed to go.
+So the campaign opened a publicity office. At its head was Jugatram Dave. Mahadev Desai, who wrote the history of the struggle, says Dave had "an artist's pen". He also knew the whole taluka like the back of his hand.
 
-The camps linked places that would otherwise receive news at different times. Existing centres included Bardoli, Sarbhon, Madhi, and Vedchhi. Additional centres helped bring more villages into the network of daily work.
+The plan was simple. The office would put out a news bulletin every day. Patel's speeches would be printed as small booklets. All of these would be handed out free to the farmers across the taluka.
 
-The reports were not supposed to hide difficulty. They could describe how many people had signed a pledge. They could also describe hesitation or payment. A leader who heard only good news would misunderstand the condition of the campaign.
+<aside class="note"><b>Bulletin</b>: a short news sheet, giving the latest news quickly.</aside>
 
-The printed sheets served another practical purpose. A speech delivered in one village could reach people elsewhere. Instructions did not depend entirely on someone remembering every word and passing it along.
+## From copies to print
 
-These were the campaign's own publications. They supported the farmers' cause. Reading them today means remembering who produced them and why. They are evidence of how the movement explained itself, not a view from outside it.
+For the first four or five days, the bulletins were made on a cyclostyle machine. Soon the campaign arranged to have them printed every day in Surat, the nearby city. They started with 5,000 copies.
 
-Desai's book preserves the work behind these sheets. It names the writer, the copying, the printing, and the distribution. The public meetings are easier to notice. The daily news work helped connect them.
+<aside class="note"><b>Cyclostyle</b>: an old copying machine. A message was cut into a waxed sheet, and ink was pushed through it to make many copies.</aside>
 
-Before another decision could be made, information had to arrive. A volunteer carrying a report and a printer preparing a bulletin both had a place in Bardoli's struggle.
+## Waiting every morning
+
+It worked very well. Desai wrote that the villagers waited anxiously for the patrikas, the news sheets, every morning. When they came, people read them eagerly from top to bottom.
+
+The news spread further still. The Gujarati newspapers of Bombay, and almost all of its English ones, printed the bulletins word for word. As the struggle grew, towns and villages all over Gujarat wanted copies too.
+
+By then, Desai says, more than ten thousand copies were handed out in Bardoli alone. Another four thousand were sent to places outside, which had asked for them.
+
+## Other messengers
+
+The bulletin was not the only way news travelled. The farmers chose volunteers from among themselves. They served their own villages and carried information for the campaign. In each village, some kept watch and blew a bugle to warn everyone when officials came to seize property.
+
+Patel's secretary, Swami Anand, had come back to Gujarat to help him. He stayed with Patel to the end of the struggle.
+
+## Why it matters
+
+The government had police and officers on its side. The farmers of Bardoli had a few sheets of printed paper, handed out free every morning.
+
+Those sheets meant that a farmer in a far-off village heard Patel's words the next day. They meant every village knew it was not alone. And they meant the rest of India could follow the struggle too.

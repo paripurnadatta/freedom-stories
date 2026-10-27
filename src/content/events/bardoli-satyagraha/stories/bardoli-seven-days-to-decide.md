@@ -1,84 +1,124 @@
 ---
 title: "Seven Days to Decide"
-subtitle: "Patel asked the villages to count the cost before they promised"
+subtitle: "In February 1928 the farmers of Bardoli asked Vallabhbhai Patel to lead them against a tax rise. He did not say yes. He questioned them, warned them, and gave them a week to think."
 type: flagship
-when: "1928"
-where: "Bardoli, Gujarat"
-published: 2026-10-25
+when: "4 to 12 February 1928"
+where: "Bardoli taluka, Surat district, Gujarat"
+published: 2026-10-27
 about:
   - "bardoli-satyagraha"
   - "sardar-vallabhbhai-patel"
   - "mahatma-gandhi"
 year: 1928
 sources:
-  - title: "Mahadev Desai, The Story of Bardoli (1929)"
+  - title: "The Story of Bardoli, by Mahadev Desai (Navajivan, 1929), chapters 2 to 6"
     url: "https://archive.org/details/storyofbardolibe00desa"
-    publisher: "Navajivan Press / Internet Archive"
-  - title: "Bardoli Satyagraha: overview and references"
+    publisher: "Internet Archive"
+  - title: "Bardoli Satyagraha"
     url: "https://en.wikipedia.org/wiki/Bardoli_Satyagraha"
     publisher: "Wikipedia"
+  - title: "Vallabhbhai Patel"
+    url: "https://en.wikipedia.org/wiki/Vallabhbhai_Patel"
+    publisher: "Wikipedia"
 status: published
-image:
-  src: "/files/events/bardoli-satyagraha/archive/bardoli-historical.webp"
-  alt: "Gandhi and Vallabhbhai Patel seated together"
-  caption: "Gandhi and Vallabhbhai Patel in 1928, identified with the Bardoli campaign. This is not the Poona negotiation."
-  credit: "Unknown photographer / Wikimedia Commons"
-  license: "Public domain"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gandhi_and_Sadar_Patel_Bardoli_Satyagraha.jpg"
 ---
 
-The representatives had come to Bardoli with a complaint. Vallabhbhai Patel answered them with questions. Were their villages ready to resist? Would they remain together if the government took their property? What would happen if their leaders were arrested?
+Most of the 87,000 or so people of Bardoli taluka, in Gujarat, lived by farming. In 1927 the government raised their land tax.
 
-It was February 1928. A revised land revenue demand was about to be collected. Farmers believed the increase was unfair. Appeals had failed to change the government's decision. They now wanted Patel to lead a campaign of refusal.
+The farmers were sure the rise was unfair. They tried every polite way to stop it. Nothing worked. Early in 1928, they went looking for a new leader.
 
-He did not begin by telling everyone to sign a pledge. First he needed to know what they understood. Their agreement had to survive beyond the meeting.
+What he did first surprised them. He asked them questions.
 
-The trouble had begun with a new assessment of the district's land. Officials argued that conditions justified a larger demand. Their reports pointed to such things as prices, roads, buildings, and land values. Farmers and public workers challenged the figures and the conclusions.
+## A rise of 22 per cent
 
-<aside class="note"><b>Assessment</b>: An official calculation of how much tax should be paid.</aside>
+Every thirty years or so, the government looked again at the land tax in each area. For Bardoli, its officer suggested a rise of 30 per cent. A senior official suggested 29 per cent. In the end the government fixed it at 22 per cent.
 
-Earlier proposals had suggested different increases. The government's final general increase was about twenty-two per cent. Some villages also faced changes in their grouping, affecting what they owed. A single average did not describe every household's bill.
+But that was not the whole story. The officials had also moved some villages into higher groups. For those villages, the tax rose by about 50 to 60 per cent.
 
-<aside class="note"><b>Different numbers</b>: Accounts mention earlier proposals of around thirty per cent as well as the final twenty-two per cent increase. They refer to different stages.</aside>
+<aside class="note"><b>Taluka</b>: a part of a district, with its own small town at the centre. Bardoli taluka was in Surat district.</aside>
 
-Local leaders had already taken petitions and arguments to the authorities. They had not won the inquiry or changes they sought. Kalyanji, Kunvarji, and Khushalbhai were among those who approached Patel. He first declined to take over work led by others.
+The farmers had protested since the middle of 1926. They had sent petitions and long written statements. Their representatives had met the Revenue Member, the minister in charge of land tax. In September 1927 thousands of farmers met at Bardoli. Nothing changed. The first payment of the new tax was due in February 1928.
 
-They returned with the earlier leaders' support. Patel then sent them back to consult the villages. They must explain the dangers of a campaign that could last a long time. Afterwards, they should report what the farmers actually thought.
+## Patel says "not yet"
 
-Their inquiries showed strong opposition to the increase. But there was a disagreement about how to resist. Some people wanted to pay the old revenue and refuse only the extra amount. Others would withhold the whole payment until the dispute was settled.
+The farmers' friends went to Vallabhbhai Patel in Ahmedabad. Ten years earlier he had helped lead the Kheda farmers. Now he was the president of Ahmedabad's municipality.
 
-Gandhi supported the second course. Paying most of the demand, he argued, would make collecting the remainder easier. The campaign should offer to pay the old rate after the increase was withdrawn or the dispute properly examined.
+At first Patel refused. Other leaders were already guiding Bardoli, he said. The farmers came back with those leaders' support. This time Patel told them to go home and warn the farmers. A satyagraha might go on for a very long time, and it would be hard.
 
-He also asked a harder question. If Patel and his colleagues were removed, would the villages hold together? The answer could not be supplied by enthusiasm alone. Organisers needed to find out.
+They went round the villages and came back. The farmers were keen, they said. Then they went to see Gandhi.
 
-On 4 February, Patel met representatives from seventy-nine villages. Different communities were present. Some delegates spoke firmly. Others admitted doubts within their villages. Their answers did not all sound alike.
+Gandhi asked them sharp questions. Was their cause truly just? Would the farmers stand together even if Patel and the other leaders were arrested? Then Patel arrived. He said he had studied the case and had no doubt it was just. "Well, then," said Gandhi, "there is nothing more to be considered."
 
-One said he would stand even if the rest fell back. Another could promise unity only while the wider district remained united. Several thought paying the old rate was safer. The meeting allowed these differences to be heard. At one point, Patel asked whether four people would risk everything in resisting the increase. Four men stood up. Delegates who had preferred paying the old rate then agreed to join the wider refusal.
+## 4 February 1928
 
-Patel believed the farmers had a just complaint. He was less certain about their readiness for the consequences. The government could seize goods or land. It might begin with the people who publicly led the refusal.
+Patel agreed to chair a conference of Bardoli farmers on 4 February 1928. It was the day before the first payment fell due.
 
-He gave them time to think. They should go back and discuss the choice. Meanwhile, he would write to the governor. An independent inquiry might still prevent a confrontation.
+The local workers asked him not to rush. They wanted him to question the farmers closely before he advised anything. So, before the main meeting, he met the village representatives.
 
-His letter went on 6 February. It asked for a fair hearing before a body able to examine the case. Patel offered to meet the governor. He also explained that, without such a response, he would advise peaceful refusal to pay.
+Seventy-nine villages had sent people. They came from every community: Kanbis, Anavlas, Kaliparaj and Parsis. Some paid Rs 300 to Rs 500 a year in land tax. One Parsi alone paid Rs 700. Mahadev Desai, who wrote the history of the campaign, put it simply. They were men with something to lose, and they knew what satyagraha would mean for them.
 
-The reply said the matter had been sent to the revenue department. It did not suspend collection. It did not promise the inquiry Patel wanted. With payment deadlines approaching, the villages could not wait without making a choice.
+<aside class="note"><b>Satyagraha</b>: a peaceful struggle in which people openly refuse an unjust order and accept the punishment.</aside>
 
-They met again on 12 February. During the interval, people had discussed the pledge and gathered signatures. Delegates now reported what had happened. Some brought signed promises from their villages.
+## The questions
 
-Their reports included gaps. Some villagers had not signed. Some people had already paid. A headman might stand apart while neighbours joined. Patel heard these details instead of demanding a performance of perfect agreement.
+The farmers did not all agree. Men from five or six villages wanted to pay the old tax and refuse only the extra. The rest wanted to refuse all of the new tax.
 
-He warned them once more. They must not depend only on his reputation as a leader. The refusal needed to be their own decision. They would carry the losses if the campaign failed.
+Each speaker was asked: are you speaking for your whole village? And what will you do if the others fall back?
 
-Then he handed the resolution to the villagers themselves. They were to propose it, support it, and decide upon it. He and his companions would not take those parts. The promise should express the farmers' choice.
+One man said: "I will stand alone."
 
-The resolution set out the conditions for payment. The government could accept the old assessment as the full amount due. Or it could appoint an impartial inquiry into the revised demand. Until then, the participants would withhold payment.
+Another was more careful: "My village will stand together, so long as the taluka stands together, not afterwards."
 
-Men from different villages and communities supported the resolution. Sacred verses from the Quran and a Hindu hymn were recited. The gathering passed the resolution. The campaign had begun.
+A third was honest about a weak spot. Hindus and Muslims in his village were both determined, he said, but a quarter of the Muslims were "rather shaky".
 
-Mahadev Desai described these meetings in his book published the following year. He was part of the movement. His account preserves the hesitant answers as well as the determined ones. That makes the choice easier to understand.
+Then one man said that if four true people could be found to stand firm, he was sure of success. Who did he mean? The top men of the villages, he said. Was he one of them?
 
-<aside class="note"><b>A participant's account</b>: The meeting scenes follow Mahadev Desai's 1929 book. He supported the campaign and wrote from within it.</aside>
+"No, sir, I am the fifth. I will follow the four."
 
-Patel soon left for another village meeting. A resolution in Bardoli was only the start. Volunteers would have to visit homes, carry messages, and prepare people for collection officers.
+Patel asked if there were four people ready to risk everything. Four men stood up at once. Meanwhile the villages that had wanted to pay the old tax talked with the others. They announced that they would go with the whole taluka.
 
-But those days of questions had served a purpose. The villages had not merely cheered someone else's promise. They had been asked to understand the risk and make a promise of their own.
+## A week to think
+
+Then Patel spoke. He had not the slightest doubt, he said, that their case was just. What he did not know was whether they were strong enough.
+
+He asked them to look into their hearts. Could they carry on a peaceful and truthful struggle for as long as it took? The government might use all its power against them.
+
+He warned them not to decide in a hurry. He gave them seven days to think.
+
+## A letter to the Governor
+
+Patel used that week to try one last time. On 6 February he wrote to the Governor of Bombay.
+
+He asked the Governor to let the farmers put their case before a fair and independent tribunal. If that did not happen, he wrote, he would have no choice. He would advise the people to refuse to pay, and to suffer the results quietly and peacefully. He offered to come and meet the Governor.
+
+<aside class="note"><b>Tribunal</b>: a group of people chosen to hear both sides of a dispute and decide it fairly.</aside>
+
+The Governor did not meet him. His private secretary sent a short reply. The letter, it said, had been passed on to the Revenue Department. Patel later called it "a reply which is no reply".
+
+## 12 February 1928
+
+On 12 February Patel came back to Bardoli. Even more villages had sent people this time. In the week between, the farmers had not waited. They had already started collecting signatures on a pledge not to pay.
+
+One by one, the village men gave their reports:
+
+"58 men have given their signatures in our village, 12 have not yet. But that does not matter."
+
+"All excepting the village headman have signed the pledge, but the headman is not hostile to us."
+
+"Hold me responsible for the whole of the village. My village will stand through thick and thin."
+
+## "Forget me"
+
+Patel still did not take charge. He asked them, once more, to think twice. They should not take comfort from having a fighter like him as leader, he said. "Forget me and forget my companions," he told them. They should fight only if they themselves felt they must resist injustice.
+
+Then he did something unusual. He told them that the farmers themselves would propose the resolution, second it and support it. None of the leaders would speak on it. It would be their own free choice.
+
+The resolution called the new tax "arbitrary, unjust and oppressive". It advised everyone to refuse the new tax until the government accepted the old amount, or appointed a fair tribunal.
+
+Farmers from many communities proposed it. There were readings from the Koran and a Hindu hymn, and the whole meeting repeated the name of Rama. Then the resolution was passed in solemn silence.
+
+## Why it matters
+
+Patel could have given a rousing speech and called for a fight on the first day. Instead he made the farmers answer for themselves. He gave them a week, and he asked them to forget him.
+
+When they finally said yes, it was their own decision. That was what held them together through the six hard months that followed.

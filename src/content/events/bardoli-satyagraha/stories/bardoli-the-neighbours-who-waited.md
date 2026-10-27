@@ -1,42 +1,68 @@
 ---
 title: "The Neighbours Who Waited"
-subtitle: "Chorasi asked to join, but Patel said the work was not ready"
+subtitle: "The farmers of Chorasi, a neighbouring taluka, had suffered the same unfair tax rise. They asked Patel to lead them too. He said no, and made them a promise instead."
 type: short
-when: "1928"
-where: "Bardoli, Gujarat"
-published: 2026-10-25
+when: "February 1928 to February 1929"
+where: "Bardoli and Chorasi talukas, Gujarat"
+published: 2026-10-27
 about:
   - "bardoli-satyagraha"
   - "sardar-vallabhbhai-patel"
 year: 1928
 sources:
-  - title: "Mahadev Desai, The Story of Bardoli (1929)"
+  - title: "The Story of Bardoli, by Mahadev Desai (Navajivan, 1929), chapter 5 and Part II, The Enquiry"
     url: "https://archive.org/details/storyofbardolibe00desa"
-    publisher: "Navajivan Press / Internet Archive"
-  - title: "Bardoli Satyagraha: overview and references"
+    publisher: "Internet Archive"
+  - title: "Bardoli Satyagraha"
     url: "https://en.wikipedia.org/wiki/Bardoli_Satyagraha"
     publisher: "Wikipedia"
 status: published
 ---
 
-People from Chorasi came to Bardoli with a request. Their land revenue had also been increased. They wanted to join the campaign Patel was preparing. Why should neighbouring farmers with similar complaints wait outside it?
+Sometimes a good leader has to say no to people who are right. That is what happened at Bardoli in February 1928.
 
-Patel agreed that they had suffered an injustice. He still advised them not to begin the same struggle immediately. Organising two areas at once was more than he believed he could manage.
+## The same injustice
 
-The difficulty was not only the distance between villages. Landholding in Chorasi created a different problem. Many owners lived in Surat or Rander and did not cultivate their land themselves. Patel expected that these owners would be harder to bring into a united refusal.
+Chorasi was another taluka in the same part of Gujarat. The same government officer had raised the land tax in both places. Chorasi's farmers felt they had been treated just as unfairly as Bardoli's.
 
-If they paid quickly, the farmers who held back could be left exposed. A campaign needed more than a reasonable complaint. It needed people prepared to act together when collection began.
+They had protested in the usual ways, with petitions and requests. It had not helped.
 
-<aside class="note"><b>Taluka</b>: A smaller administrative area within a district.</aside>
+Now Bardoli was getting ready for a satyagraha, a peaceful refusal to pay. Its leader was Vallabhbhai Patel. Some people from Chorasi came to Bardoli and asked him to bring Chorasi into the struggle too.
 
-At Bardoli, organisers had already visited villages and tested support. Delegates had discussed whether to withhold the whole payment or only the increase. They had been warned about the possible loss of property. That preparation could not simply be assumed elsewhere.
+<aside class="note"><b>Satyagraha</b>: a peaceful struggle in which people openly refuse an unjust order and accept the punishment.</aside>
 
-Patel asked Chorasi to wait and watch. He also gave an assurance. If Bardoli obtained justice, the neighbouring area should benefit too. He was limiting the immediate campaign, not dismissing its neighbours' complaint.
+## Patel says no
 
-The later settlement made that assurance meaningful. The official inquiry included Chorasi as well as Bardoli. After working in Bardoli's villages, the inquiry officers moved to Chorasi. They examined conditions there during the early months of 1929.
+Patel did not pretend their case was weak. "I know very well that you have suffered the same injustice," he told them. "But I am afraid it is beyond my power today to organize two talukas."
 
-Mahadev Desai and other representatives assisted the farmers in both areas. The work now took the form of checking evidence and presenting arguments. Chorasi had reached the inquiry without beginning a simultaneous refusal under Patel's leadership.
+He had a second reason, and it was about the people of Chorasi themselves. A very large share of Chorasi's landholders, he said, did not farm the land themselves. They lived in the towns of Surat and Rander.
 
-The account does not mean waiting is always the right choice. It shows the choice made in this particular campaign. Patel judged the available workers and the local conditions before accepting a larger responsibility.
+Those town landholders would not join a struggle, he warned. They would be the first to pay the tax. That would leave the farmers who did hold out in a terrible position. So he strongly advised them not to start a satyagraha of their own.
 
-Saying yes would have made the movement look larger at once. Saying no required explaining its limits. The neighbours who waited still had a claim to be heard. When the inquiry finally travelled to Chorasi, that claim came with it.
+<aside class="note"><b>Landholder</b>: a person who holds land and pays the land tax on it, whether or not he farms it himself.</aside>
+
+## A promise instead
+
+But Patel did not send them away empty-handed. He made them a promise.
+
+If Bardoli succeeded, he said, Chorasi would be treated the same way. "You had better watch and wait," he told them. "Rest assured that if Bardoli succeeds in getting justice, Chorasi will not be denied it."
+
+## The waiting
+
+The Bardoli struggle lasted about six months. Its farmers lost cattle, goods and, for a while, land. Chorasi watched.
+
+In August 1928 the government agreed to an inquiry. Two officers, R. S. Broomfield and R. M. Maxwell, would look into the new tax.
+
+When the government set out what they should look into, it included Chorasi as well as Bardoli. Mahadev Desai, who wrote the history of the struggle, said the government was only being fair.
+
+## The promise kept
+
+The officers began their work in Bardoli in November 1928. At the end of January 1929, they moved to Chorasi, and camped there until the end of February. They inspected 49 villages in Bardoli and 21 in Chorasi.
+
+Desai called the Chorasi inquiry an offshoot of the Bardoli one. Chorasi had not joined the satyagraha. But it got its inquiry anyway, because Bardoli had fought.
+
+## Why it matters
+
+Patel could have said yes. Two talukas might have seemed stronger than one. But he knew how hard the fight would be, and he knew who would give way first in Chorasi.
+
+Saying no protected Chorasi's farmers from a fight they might have lost. Keeping his promise meant they did not lose out by waiting.
