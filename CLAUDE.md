@@ -207,7 +207,7 @@ which ones should be redone and why.
 | Anushilan Samiti (organisation) | 6 (2 flagship) | done (27 Oct; "The book that was a bomb" redone without lettering) |
 | Servants of India Society (organisation) | 6 (2 flagship) | done |
 | Swaraj Party (organisation) | 7 (2 flagship) | done |
-| Home Rule League (organisation) | 7 (2 flagship) | done (27 Oct; the "new name" painting has a small blue-white-orange pennant far back, to redo if the owner wants) |
+| Home Rule League (organisation) | 7 (2 flagship) | done (27 Oct; "new name" painting redone, lanterns only) |
 | Champaran Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct; the "order to leave" painting shows the handing-over at the wrong place, to be checked) |
 | Kheda Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct) |
 | Bardoli Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct) |
