@@ -27,3 +27,32 @@ The supplied dossier contains four events, including Dandi. It was treated as a 
 No invented dialogue or unverified quotation is used. Separate chapters by Gandhi are one witness, not independent witnesses. Desai was a participant in Bardoli; his recollections and estimates are attributed. Wikipedia provides broad orientation only.
 
 Other attempted Gandhipedia extracts numbered 291 and 237 were unavailable and were not used.
+
+---
+
+## 27 October 2026: Claude rewrite (all six stories written fresh)
+
+Sources opened directly this session: Gandhi's Autobiography chapters 147-149; Collected Works XIV pp. 215-216
+(letters of 26 February 1918, including the second "Letter on Kheda Situation") and pp. 352-354 (Dantali speech);
+Wikipedia "Kheda Satyagraha of 1918", "Vallabhbhai Patel" and "Mohanlal Pandya". The fact sheet was used as a map.
+
+Fact sheet checks: every quote and date in it held up against the opened pages. Its "four-anna crop" correction is
+right, and the 26 February letter itself confirms it ("villages in which the crop has been 25 per cent or less").
+
+Disagreements shown in "Two versions" notes
+- The rule: "four annas or under" (Gandhi) vs "four sixteenths worse than expected" (Wikipedia).
+- Who made the closing offer: the Mamlatdar of Nadiad taluka (Gandhi) vs the Mamlatdar at Uttarsanda on 3 June 1918 (Wikipedia).
+- The result: hardly any poor farmers got the promised relief (Gandhi) vs taxes suspended for a year and the rate cut,
+  Patel a hero (Wikipedia, Patel page).
+- "Onion thief": a title given by the people (Gandhi) vs a nickname given by Gandhi (Wikipedia, Pandya page).
+
+Not used
+- Wikipedia's claim that the Collector had promised the waiver and that officials pressed village accountants to
+  inflate crop figures: not in any primary source opened. Left out.
+- Wikipedia (Patel page): "thousands of activists and farmers were arrested". No other opened source supports it. Left out.
+- Wikipedia (Patel page): Gandhi "could not lead it himself due to his activities in Champaran". Gandhi's own account
+  has him at Nadiad from 16 February 1918. Left out.
+- Wikipedia (Pandya page): the 1909 bomb attempt on Viceroy Minto. True to that page but outside this subject. Left out.
+- Start date 22 March 1918 (Wikipedia infobox only): not used; stories say the refusal began after February.
+
+Paintings: the six existing paintings fit the rewritten stories (same slugs).

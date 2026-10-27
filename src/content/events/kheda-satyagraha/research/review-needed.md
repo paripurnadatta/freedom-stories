@@ -21,3 +21,7 @@
 - `npm run check` fails on two Champaran flagship stories (808 and 795 words, minimum 900), not on
   anything in this subject. It failed before this fact sheet was added. Left alone, because stories
   are yours to write. `astro build` and Pagefind pass (589 pages, 472 indexed).
+
+## 27 October 2026: rewritten by Claude
+
+All six stories were written fresh from the sources listed in checked.md. Check passes.

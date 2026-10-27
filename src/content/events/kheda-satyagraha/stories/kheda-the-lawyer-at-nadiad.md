@@ -1,43 +1,59 @@
 ---
 title: "The Lawyer at Nadiad"
-subtitle: "Vallabhbhai Patel put his practice aside"
+subtitle: "Vallabhbhai Patel was a rich lawyer in Ahmedabad who liked fine clothes and card games. In 1918 he left it all to walk from village to village in Kheda."
 type: short
-when: "1918"
-where: "Kheda district, Gujarat"
-published: 2026-10-25
+when: "October 1917 to June 1918"
+where: "Ahmedabad, Godhra, Nadiad and the villages of Kheda"
+published: 2026-10-27
 about:
   - "kheda-satyagraha"
-  - "mahatma-gandhi"
   - "sardar-vallabhbhai-patel"
+  - "mahatma-gandhi"
 year: 1918
 sources:
+  - title: "Vallabhbhai Patel"
+    url: "https://en.wikipedia.org/wiki/Vallabhbhai_Patel"
+    publisher: "Wikipedia"
   - title: "Gandhi, An Autobiography: The Kheda Satyagraha"
     url: "https://www.mkgandhi.org/autobio/chap147.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
+  - title: "Gandhi, An Autobiography: The Onion Thief"
+    url: "https://www.mkgandhi.org/autobio/chap148.php"
+    publisher: "mkgandhi.org"
   - title: "Gandhi, An Autobiography: End of Kheda Satyagraha"
     url: "https://www.mkgandhi.org/autobio/chap149.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
 status: published
 ---
 
-The campaign needed a headquarters. Its work would extend across villages, so the volunteers also needed a place to gather. Gandhi looked for a building large enough for his volunteers in Nadiad. The place available was the Anathashram, an orphanage. There the workers made their base for the Kheda struggle.
+In 1917 Vallabhbhai Patel was one of the most successful lawyers in Ahmedabad. He wore European-style clothes and was a skilled player of the card game bridge. He wanted to grow rich and give his children a modern education.
 
-Vallabhbhai Patel joined them. He was a lawyer with a practice of his own. To work in the villages, he had to put that practice aside. At the time, he expected the interruption to be temporary.
+Patel had been born in Nadiad, a town in Kheda district. A year later he would be back there, working for its farmers.
 
-Gandhi later wrote that Patel's legal work was never resumed. The decision that looked like a pause became part of a much larger change in his life.
+## Meeting Gandhi
 
-The immediate task was practical. Farmers said a poor harvest entitled them to postponed revenue payments. Officials disagreed with their crop estimates. Petitions and meetings had not produced the relief being sought.
+In October 1917 Patel met Gandhi for the first time, at a political conference in Godhra. With Gandhi's encouragement, he became secretary of the Gujarat Sabha, a public body in Gujarat.
 
-Volunteers had to explain a demanding promise. The signers would not pay voluntarily. They would accept the legal consequences of refusal. Farmers with more resources would support poorer neighbours by withholding payment too.
+That year the crops in Kheda failed. The farmers asked for their land tax to be put off, and the government refused. Gandhi was ready to support a struggle there. He asked for a Gujarati worker who would give himself to it completely. Patel offered himself, there and then. Gandhi was delighted. Patel said later that the choice had cost him much thought. He knew he would have to give up his career and his hopes of wealth.
 
-Patel worked alongside people including Indulal Yagnik, Shankarlal Banker, and Mahadev Desai. Gandhi also named Anasuyabehn among the helpers. The work required a group, not just a leader visiting occasionally.
+## Giving up the law
 
-Supporters sent money. Gandhi remembered that the campaign received more than it needed. What volunteers had to learn was how to live simply while working among villagers. Money alone could not supply that discipline.
+The campaign's base was at the Nadiad Anathashram, in the town where Patel was born. Gandhi wrote that Patel had to stop a "splendid and growing" law practice to join the struggle. He was never really able to go back to it.
 
-As the campaign continued, officers seized goods and animals. Some farmers paid. Others remained firm. The workers had to help people understand the choices without turning the struggle into a call for violence.
+## From village to village
 
-The ending was imperfect. Gandhi later questioned how many poor farmers had actually received relief. Yet he believed the campaign had awakened public life in Gujarat. It had also revealed Patel's capacity for this kind of work.
+Patel's work now was going from village to village with other volunteers, Mohanlal Pandya, Narhari Parikh and Abbas Tyabji among them. They listened to the farmers' complaints. They asked every village to stand together and refuse the tax.
 
-<aside class="note"><b>Remembered later</b>: Gandhi's autobiography describes Patel expecting only a temporary break from legal practice. It also records Gandhi's praise for his contribution.</aside>
+They had to teach two hard lessons at once. The first was not to be afraid of officials. Gandhi said the officials were the servants of the people, not their masters, because the people's taxes paid their salaries.
 
-Patel did not enter this story through a grand new office. He entered a working group based in an available building. There were villages to visit and a promise to explain. The lawyer had put down one kind of case to take up another.
+The second lesson was harder. The farmers had to stay polite, even to officials who insulted them. Gandhi wrote that civility was the most difficult part of satyagraha. He did not mean polite words put on for show. He meant a real wish to do good even to an opponent.
+
+<aside class="note"><b>Civility</b>: politeness and respect towards others, even towards people you disagree with.</aside>
+
+## What Kheda gave Patel
+
+The struggle ended in June 1918. Gandhi was not fully happy with how it ended. But he named one great gain. "That Vallabhbhai found himself during this campaign," he wrote, "was by itself no small achievement."
+
+## Why it matters
+
+Patel went on to lead his own farmers' struggle at Bardoli in 1928, where people began to call him Sardar, "the chief". It started here, in the villages around the town where he was born.

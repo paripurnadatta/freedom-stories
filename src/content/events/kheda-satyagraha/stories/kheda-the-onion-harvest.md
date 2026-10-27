@@ -1,10 +1,10 @@
 ---
 title: "The Onion Harvest"
-subtitle: "Mohanlal Pandya gathered a crop and went to prison"
+subtitle: "When the government seized a field of onions in Kheda, Mohanlal Pandya and a few friends dug them up anyway. They went to jail, and the people gave him a proud new name: the onion thief."
 type: short
 when: "1918"
 where: "Kheda district, Gujarat"
-published: 2026-10-25
+published: 2026-10-27
 about:
   - "kheda-satyagraha"
   - "mahatma-gandhi"
@@ -12,31 +12,58 @@ year: 1918
 sources:
   - title: "Gandhi, An Autobiography: The Onion Thief"
     url: "https://www.mkgandhi.org/autobio/chap148.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
-  - title: "Gandhi, An Autobiography: The Kheda Satyagraha"
-    url: "https://www.mkgandhi.org/autobio/chap147.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
+  - title: "Mohanlal Pandya"
+    url: "https://en.wikipedia.org/wiki/Mohanlal_Pandya"
+    publisher: "Wikipedia"
+  - title: "Kheda Satyagraha of 1918"
+    url: "https://en.wikipedia.org/wiki/Kheda_Satyagraha"
+    publisher: "Wikipedia"
 status: published
 ---
 
-Mohanlal Pandya went into a field with a small group of companions. They had come to harvest onions. The government had already placed the crop under attachment. Taking it would bring the men into conflict with the authorities.
+In 1918 the farmers of Kheda refused to pay their land tax. Their crops had failed, and the government would not put off the tax. At first the government waited. Then it started to take things.
 
-This was during the Kheda campaign of 1918. Farmers were refusing to pay land revenue voluntarily after a poor harvest. Officials were seizing property to recover the money. Gandhi and the volunteers had promised to resist without violence.
+## The government takes things
 
-Gandhi believed this particular attachment was wrong. The crop, in his view, should not have been taken in that way. He advised Pandya to gather it. He also warned that the action might lead to arrest.
+Officers sold farmers' cattle. They seized whatever goods they could carry off. Fines were announced. In some places, crops still growing in the fields were taken over too.
 
-Pandya accepted the risk. He was already a worker in the farmers’ cause, not a stranger arriving only for this action. Seven or eight companions joined him, according to Gandhi's later account. Their purpose was to challenge the seizure openly. They were not trying to hide what they had done.
+Many farmers were frightened. Some paid up. Some wanted to leave their things where the officers could easily take them, so the tax would be collected without their having to pay it. Others were ready to hold out to the end.
 
-The authorities arrested the men. A court convicted them of theft and gave them short prison sentences. Gandhi thought the theft charge was mistaken. He argued that the action did not fit that description, but no appeal followed.
+## A tenant who paid
 
-<aside class="note"><b>Two judgments</b>: Gandhi challenged the seizure and the theft charge. The court convicted the men. This story keeps those two positions distinct.</aside>
+Then one farmer paid. He was a tenant of Shankarlal Parikh, one of the local leaders of the struggle. The news caused a stir.
 
-People gathered when the case was heard. Gandhi remembered that the convictions increased enthusiasm. Pandya acquired a nickname: Dunglichor, or the onion thief. Supporters used it with affection.
+Parikh acted at once. He gave away, for charity, the land on which the tax had been paid. In that way, Gandhi wrote, he saved his honour and set an example to others.
 
-The name could sound like a joke. The situation behind it was serious. Farmers had to choose whether to keep their promises when property was taken. Volunteers had to consider what kinds of resistance were fair. Pandya and his companions had to spend time in prison.
+## Taking back the onions
 
-Their action did not end the revenue dispute. Negotiations over relief continued. Some farmers paid under pressure, while others held back. The onion field was one episode inside that larger struggle.
+Gandhi wanted to give the frightened farmers courage. One field had a crop of onions that the government had seized. Gandhi thought the seizure was wrong.
 
-Gandhi included the story in his autobiography because it showed a difficult choice in a small space. A crop stood ready to gather. Officials claimed control over it. Volunteers disputed that claim and acted in public.
+He did not call the next step civil disobedience. But he argued that taking a crop still in the field, even if the law allowed it, was morally wrong. It was, he said, nothing short of looting. So the people had a duty to remove the onions.
 
-Pandya carried the nickname long after the onions had been harvested. It remembered both the small crop and the punishment attached to it.
+A local leader, Mohanlal Pandya, was glad of the chance. He did not want the campaign to end without someone going to jail for doing right. He offered to lead the work. Seven or eight friends joined him. Together they removed the onion crop from the field.
+
+<aside class="note"><b>Civil disobedience</b>: breaking an unjust law openly and peacefully, and accepting the punishment.</aside>
+
+## To jail
+
+The government could not let this pass. Pandya and his friends were arrested.
+
+The arrests did not frighten people. They made them braver. Gandhi wrote that once the fear of jail is gone, harsh treatment only puts heart into people. On the day of the trial, crowds surrounded the court building.
+
+Pandya and his companions were found guilty. They were given a short prison term.
+
+Gandhi thought the court was wrong. In his opinion, removing the onions could not count as "theft" under the law. But the campaign had decided to keep out of the courts, so no appeal was made.
+
+## The onion thief
+
+A procession went with the prisoners all the way to the jail. On that day, Gandhi wrote, the people gave Mohanlal Pandya an honoured title: dungli chor, the onion thief. Years later, when Gandhi wrote his autobiography, Pandya was still known by it.
+
+<aside class="note"><b>Two versions</b>: Gandhi says the people gave Pandya the name. Wikipedia's page on Pandya says Gandhi himself gave it to him.</aside>
+
+## Why it matters
+
+The onions themselves were a small thing. But taking them back showed the farmers that they did not have to sit quietly while their crops were taken. Going to jail, with a procession of supporters, showed them that jail was nothing to fear.
+
+"Thief" is usually an insult. In Kheda it became a title of honour.
