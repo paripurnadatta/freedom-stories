@@ -213,6 +213,6 @@ which ones should be redone and why.
 | Bardoli Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct) |
 | Dandi March / Salt Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct; check lamp and final paintings against new texts) |
 | Jallianwala Bagh massacre (event) | 6 (2 flagship) | done (27 Oct; the "grave error" painting shows a British Union Jack, owner approved) |
-| Quit India Movement (event) | 6 (2 flagship) | prompts ready, paintings waiting |
+| Quit India Movement (event) | 6 (2 flagship) | done (27 Oct; the flag in "Nine August" and "Two Flags" is the 1947 tricolour with the Ashoka Chakra, not the 1942 one with the spinning wheel; owner said keep) |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Chauri Chaura, Malabar and Partition of Bengal event pages, which have none yet; more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.
