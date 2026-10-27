@@ -65,7 +65,7 @@ Where it goes: the top of the story "The league gets a new name", and its card e
 
 PROMPT (copy everything between the lines):
 ------------------------------------------------------------------------------
-A crowded 1920 public meeting in an Indian city at dusk, hundreds of men in white homespun clothes and white caps sitting on the ground facing a low wooden platform, seen from the back of the crowd so no faces are clear, a slight figure in a white dhoti and shawl standing far away on the platform, too small and distant for any face to be seen, lanterns on poles, warm evening light. Wide composition, 16:9.
+A crowded 1920 public meeting in an Indian city at dusk, hundreds of men in white homespun clothes and white caps sitting on the ground facing a low wooden platform, seen from the back of the crowd so no faces are clear, a slight figure in a white dhoti and shawl standing far away on the platform, too small and distant for any face to be seen, kerosene lanterns hanging from plain wooden poles, warm evening light. No loudspeakers, no horns, no microphones, no electric lights, no modern equipment of any kind. Wide composition, 16:9.
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm amber light against deep indigo shadows, touches of leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
