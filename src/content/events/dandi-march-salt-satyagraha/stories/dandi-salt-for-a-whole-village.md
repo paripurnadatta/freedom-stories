@@ -1,42 +1,76 @@
 ---
 title: "Salt for a Whole Village"
-subtitle: "At Aslali, Gandhi turned a tax into village arithmetic"
+subtitle: "On the first night of the Salt March, at Aslali, Gandhi did not start with freedom. He started with a sum: how much salt one village needed, and how much tax it paid."
 type: short
-when: "March–April 1930"
-where: "Sabarmati to Dandi, Gujarat"
-published: 2026-10-25
+when: "12 March 1930"
+where: "Aslali, near Ahmedabad, Gujarat"
+published: 2026-10-27
 about:
   - "dandi-march-salt-satyagraha"
   - "mahatma-gandhi"
 year: 1930
+image:
+  src: "/files/events/dandi-march-salt-satyagraha/archive/dandi-historical.webp"
+  alt: "Black-and-white photograph of Gandhi walking with a staff, at the front of a group of men"
+  caption: "Gandhi walking during the Salt March, 1930."
+  credit: "Unknown photographer, on Wikimedia Commons"
+  license: "Public domain"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Marche_sel.jpg"
 sources:
-  - title: "Speech at Aslali, 12 March 1930"
+  - title: "Speech at Aslali, 12 March 1930 (Navajivan, 16 March 1930), in Sabarmati to Dandi"
     url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-aslali.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Letter to Lord Irwin, 2 March 1930; CWMG XLIII, pp. 2–8"
-    url: "https://www.gandhipedia150.in/static/data/highlighted_pdfs_output/Delhi_volume43_book_3.pdf"
-    publisher: "M. K. Gandhi / Collected Works"
+    publisher: "Gandhi Sevagram Ashram"
+  - title: "Dandi March (chronology)"
+    url: "https://www.mkgandhi.org/civil_dis/dandi_march.php"
+    publisher: "mkgandhi.org"
+  - title: "Salt March"
+    url: "https://en.wikipedia.org/wiki/Salt_March"
+    publisher: "Wikipedia"
 status: published
 ---
 
-At Aslali, Gandhi asked his listeners to think about all the salt their village needed. It was not only the salt in people's meals. Bullocks needed it too. So did other animals and some kinds of work.
+At 6.30 in the morning on 12 March 1930, Gandhi set out from his ashram at Sabarmati, near Ahmedabad. Seventy-eight volunteers walked with him. They were heading for Dandi, on the sea, to break the British law on salt.
 
-The march had begun that morning, on 12 March 1930. Aslali was its first halt. Gandhi had already told the Viceroy that he intended to challenge the salt laws. Now he explained the choice to a village gathering.
+At the end of the first day they stopped at a village called Aslali. Gandhi spoke to the people there.
 
-He used estimates for the population and livestock to build his argument. A small tax on each amount of salt could become a much larger yearly burden. Counting only one person's meal missed the wider demand.
+## A sum, not a slogan
 
-He also distinguished a necessity from something people could choose to stop buying. A person might give up tobacco if it became too expensive. Salt was different. Even someone with almost no income still needed it.
+He did not begin with freedom, or with the British Empire. He began with Aslali itself.
 
-<aside class="note"><b>A speaker's calculation</b>: The village totals were Gandhi's figures in the speech. This story uses his argument without treating those estimates as a modern survey.</aside>
+The village had about 1,700 people, he said. They needed about 850 maunds of salt. Its 200 bullocks needed another 300 maunds. That made 1,150 maunds of salt in all.
 
-Then he asked who had the power to remove an unfair tax. People in a self-governing country should have a say. Indians did not possess that power under the existing government. The salt question therefore reached beyond the price of one household item.
+<aside class="note"><b>Maund</b>: an old Indian measure of weight, used for grain, salt and other goods.</aside>
 
-Gandhi described the method he had chosen. He contrasted it with the use of force. His party had chosen nonviolence as an obligation, not merely as a convenient way to begin. The marchers had given notice to the government. They would prepare salt openly. Those who joined must be ready to face imprisonment for breaking the law.
+The government charged a tax of Rs 1 and 4 annas on each "pukka" maund, a measure twice as big. The village's 1,150 maunds made 575 pukka maunds. So, Gandhi worked out, Aslali paid about Rs 720 a year in salt tax.
 
-He did not present the removal of the salt tax as the whole of freedom. It was one step towards it. A village could understand and take part in that step without first mastering every argument about government.
+And that was not all. The village also had 800 cows, buffaloes and calves. If they were given salt, or if the tanner used salt for hides, or if farmers used salt on their fields, the tax would be even more than Rs 720.
 
-His earlier letter had discussed administration, trade, poverty, and revenue. At Aslali, the same struggle could be considered through people and animals in one place. The listener did not have to imagine a distant office. There were ordinary needs close at hand.
+"Can your village afford to pay this amount in taxes every year?" he asked.
 
-<aside class="note"><b>Two dates</b>: One later overview places this halt on 13 March. The published Aslali speech is dated 12 March, which this story follows.</aside>
+## The poorest people
 
-The march would move on. Aslali would remain behind. Gandhi had asked the village to count something that stayed with it: the salt its people and animals needed every year.
+Then Gandhi spoke about the poorest Indians. The average Indian, he said, earned about 7 pice a day. Hundreds of thousands earned not even one pice. They starved, or lived by begging.
+
+"Even they cannot do without salt," he said. What would happen to them if they could get no salt, or only at too high a price?
+
+He pointed out how strange the price was. In the Punjab, salt sold for 9 pice a maund. On the coasts of Kathiawar and Gujarat, heaps and heaps of salt were being made. Yet the poor could not buy it for less than Rs 1 and 8 annas a maund. And the government even paid men to throw such salt into the mud.
+
+## Who should decide a tax?
+
+Gandhi then made his main point. A democratic state, he said, is one where the people themselves can decide whether a tax should be paid or not.
+
+He did not mind taxes on some things. He could understand a tax on the hookah, on bidis or on liquor. "But should one levy a tax on salt?" he asked.
+
+<aside class="note"><b>Hookah and bidi</b>: a pipe for smoking tobacco through water, and a small hand-rolled cigarette.</aside>
+
+## Too many for the jails
+
+Gandhi also did a sum about jails. Gujarat had about 90 lakh people, he said. Leave out women and children, and about 30 lakh remained. If all of them broke the salt law, the government would not have enough jails to hold them.
+
+## A sea of people
+
+Before he finished, Gandhi spoke about the morning. A sea of people had lined the road for seven miles, from the Ashram to the Chandola lake, to bless the marchers. He called it "a sight for the gods to see".
+
+## Why it matters
+
+Gandhi chose salt because everyone needed it, rich or poor. At Aslali he showed people what that meant in their own village, in maunds and rupees. A tax on salt was not an idea far away in Delhi. It was a cost every family paid, every year.

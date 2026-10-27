@@ -30,3 +30,13 @@ The supplied dossier contains four events, including Dandi. It was treated as a 
 - Dandi March: chronology, speeches and references: https://www.mkgandhi.org/civil_dis/dandi_march.php
 
 No invented dialogue or unverified quotation is used. Separate chapters by Gandhi are one witness, not independent witnesses. Desai was a participant in Bardoli; his recollections and estimates are attributed. Wikipedia provides broad orientation only.
+
+## Rewrite of 27 October 2026 (by Claude, from sources opened that day)
+
+All six stories were written fresh from the Sevagram speech and letter pages, the Irwin letter in CWMG XLIII and the mkgandhi.org chronology, with Wikipedia as second source where noted. The old stories were not used.
+
+- Held up: the Irwin letter quotations, the salary comparison, Reynolds as messenger, the Aslali, Bareja, Navagam and Bhatgam speeches as quoted, 6.30 a.m. start with 78 marchers, 8.30 a.m. on 6 April.
+- Two versions, shown in notes: the Viceroy's reply (CWMG: short regret; Wikipedia: ignored and "bread and stone"); salt sale (Rs 525 per mkgandhi, 1,600 rupees per Wikipedia).
+- The government "social boycott" remark and Gandhi's "five rupees a month" line come from the chronology, from other Kheda halts, not the Navagam speech itself. The story says so.
+- Left out: the "five million people at 5,000 meetings" figure, any crowd size at Dandi, the Bareja caste sentence, the old 385 km figure (not found in the pages opened).
+- Not checked: the Nadiad speech text itself and the press talk of 14 March were not used in stories.

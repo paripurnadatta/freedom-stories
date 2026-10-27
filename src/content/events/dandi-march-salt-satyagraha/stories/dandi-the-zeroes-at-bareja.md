@@ -1,45 +1,69 @@
 ---
 title: "The Zeroes at Bareja"
-subtitle: "A village report changed the subject of Gandhi's speech"
+subtitle: "At the second stop of the Salt March, Gandhi read a report on the village of Bareja. Three columns showed nothing but zeroes. He told the villagers what that meant to him."
 type: short
-when: "March–April 1930"
-where: "Sabarmati to Dandi, Gujarat"
-published: 2026-10-25
+when: "13 March 1930"
+where: "Bareja, near Ahmedabad, Gujarat"
+published: 2026-10-27
 about:
   - "dandi-march-salt-satyagraha"
   - "mahatma-gandhi"
   - "sardar-vallabhbhai-patel"
 year: 1930
 sources:
-  - title: "Speech at Bareja, 13 March 1930"
+  - title: "Speech at Bareja, 13 March 1930 (Prajabandhu, 16 March 1930), in Sabarmati to Dandi"
     url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-bareja.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Speech at Aslali, 12 March 1930"
-    url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-aslali.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
+    publisher: "Gandhi Sevagram Ashram"
+  - title: "Dandi March (chronology)"
+    url: "https://www.mkgandhi.org/civil_dis/dandi_march.php"
+    publisher: "mkgandhi.org"
 status: published
 ---
 
-Gandhi read the information supplied about Bareja. Several columns showed zeroes. They concerned the use of khadi, people who regularly wore it, and spinning wheels at work. He spoke about those figures when the march stopped there.
+On 13 March 1930, the second day of the Salt March, Gandhi and his marchers stopped at Bareja. It was a village of about 2,500 people, not far from Ahmedabad.
 
-It was 13 March 1930, the second day of the journey. The marchers were walking towards the sea to challenge the salt laws. Yet Gandhi did not speak only about salt.
+As at the first stop, Gandhi was given a report on the village. He read it. It made him sad.
 
-He asked the villagers to use khadi, cloth made from hand-spun yarn. He also reminded the gathering that Patel was in prison. Joining the common struggle required a response from the people who remained free. A khadi store was available. He pointed to cloth offered for sale and urged people to choose it. In his view, making and using such cloth belonged to the freedom struggle.
+## Three zeroes
 
-<aside class="note"><b>Khadi</b>: Cloth woven from yarn spun by hand.</aside>
+The report had columns for khadi. How much khadi did the village buy? How many people wore it every day? How many spinning wheels were working?
 
-He also spoke about the village itself. It needed care and cleanliness. The march included workers who could help. Diligence and cooperation could improve conditions without waiting for a new government.
+Against all three, Bareja had a zero.
 
-Bareja had people from different religious communities. Gandhi urged them to work together. Winning complete freedom, he argued, required that unity. The village was one place where it could be practised.
+"It is strange," Gandhi said, "that a place so near Ahmedabad has zeroes against the columns."
 
-The report had given him a starting point, but his question was larger. How could people run a country's government if they could not organise common work at home? The march should lead to useful activity after its visitors left.
+<aside class="note"><b>Khadi</b>: cloth spun and woven by hand in India. Wearing it was a way to stop buying foreign, machine-made cloth.</aside>
 
-He mentioned animal care too. Some companions had knowledge that could help villagers improve it. The journey carried people with practical skills as well as people willing to break a law.
+## Why khadi mattered
 
-At the earlier halt in Aslali, Gandhi had discussed the village's salt needs. Here, a different set of local figures guided part of the speech. The same march could produce different conversations in neighbouring places.
+To many people, a cloth might seem a small thing during a march against the salt tax. To Gandhi, it was not.
 
-<aside class="note"><b>A report used in a speech</b>: The zeroes are the figures Gandhi said he had been given. They describe that report, not an independently checked count made for this story.</aside>
+"Khadi is the foundation of our freedom struggle," he said. Everyone liked khadi, he went on. But these days, people were afraid of it. They feared that those who wore khadi would end up in jail.
 
-The marchers would not remain to do every task. Villagers would have to decide which suggestions to act upon. A welcome meeting could end when the visitors departed, or it could begin work that continued.
+He told them about a rule he had kept on his travels around India. The barber who cut his hair, he had insisted, must be someone who wore khadi.
 
-Gandhi had reached Bareja on the way to salt. The sheet of village information made him stop at another question: what could Bareja begin doing for itself?
+## A shop full of khadi
+
+There was a khadi store in Bareja. The villagers could remove this blot at once, Gandhi said. He asked them to give up luxuries and buy khadi from the pile in front of them.
+
+He used a picture they would understand. Nobody disowns his own mother, he said, because she is fat or plain, and adopts a more beautiful woman in her place. In the same way, they should not turn away from cloth made in their own country. "Foreign cloth will never bring us freedom."
+
+## Patel in jail
+
+Gandhi reminded them why he had come. Vallabhbhai Patel, the leader from Gujarat whom people called Sardar, was in jail. "I have come here to ask you to join in our common struggle for freedom," he said.
+
+<aside class="note"><b>Sardar</b>: "chief". People called Vallabhbhai Patel by this name.</aside>
+
+## Beyond cloth
+
+Gandhi did not stop at khadi. With the help of the marchers, he said, the villagers could clean up their village. It would not take long. All it needed was care and hard work.
+
+Bareja had Christians and Muslims as well as Hindus. If all of them worked together, he said, they could do a great deal for their village. And to win full freedom, all these communities would have to unite.
+
+He asked them to learn order and organisation. If they could not run their own village in an orderly way, he asked, how would they run the government of the country?
+
+## Why it matters
+
+The Salt March is remembered for one handful of salt. But on the road, Gandhi spent much of his time on things that looked smaller: cloth, clean lanes, people working together.
+
+To him they were not smaller. A village that bought its cloth from abroad, and could not keep itself clean or united, would find it hard to rule itself. Bareja's three zeroes were, to Gandhi, a measure of how far freedom still had to go.

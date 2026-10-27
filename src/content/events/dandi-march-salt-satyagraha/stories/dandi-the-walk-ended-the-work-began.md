@@ -1,42 +1,75 @@
 ---
 title: "The Walk Ended, the Work Began"
-subtitle: "Dandi was a signal for people far beyond the shore"
+subtitle: "On 6 April 1930, Gandhi picked up a lump of salt on the beach at Dandi. Then he told everyone what to do next. The walking was over. The harder part was just starting."
 type: short
-when: "March–April 1930"
-where: "Sabarmati to Dandi, Gujarat"
-published: 2026-10-25
+when: "5 to 6 April 1930, and after"
+where: "Dandi, Surat district, Gujarat"
+published: 2026-10-27
 about:
   - "dandi-march-salt-satyagraha"
   - "mahatma-gandhi"
   - "sarojini-naidu"
 year: 1930
 sources:
-  - title: "Dandi March: chronology, speeches and references"
+  - title: "Dandi March (chronology)"
     url: "https://www.mkgandhi.org/civil_dis/dandi_march.php"
-    publisher: "Bombay Sarvodaya Mandal"
-  - title: "Salt March: overview and references"
+    publisher: "mkgandhi.org"
+  - title: "Salt March"
     url: "https://en.wikipedia.org/wiki/Salt_March"
     publisher: "Wikipedia"
-  - title: "Speech at Aslali, 12 March 1930"
-    url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-aslali.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
 status: published
 ---
 
-Gandhi reached Dandi on 5 April 1930. The march had begun on 12 March. During the journey, village audiences had heard the reason for the protest and the discipline Gandhi expected. The arrival joined those many meetings to one planned act. The long walk from Sabarmati had brought him to the coast. Sarojini Naidu was there to welcome the party. The next morning, he would carry out the action announced before the journey.
+The march took twenty-five days. Gandhi and his volunteers walked on twenty-two of them. On three days Gandhi kept silent, and there was no walking.
 
-On 6 April, he picked up natural salt. By doing so, he broke the salt law. The object was small enough to hold in a hand. The public meaning depended on all the preparation that had come before it.
+They had left Sabarmati on 12 March, seventy-eight marchers in all. On the way they passed about forty villages and towns. Gandhi spoke at every one.
 
-The government controlled the lawful production and collection of salt. Gandhi had argued that people should be free to obtain this necessity. He chose to disobey openly and accept the risk of prosecution.
+On 5 April the party reached Dandi, a small place on the sea. Sarojini Naidu had already come to welcome them.
 
-At Aslali, weeks earlier, he had explained the plan in village terms. People needed salt, and so did their animals. He had asked listeners to think about the yearly burden of the tax. Preparing salt would make that argument into an act.
+## A strange place to choose
 
-Now he told others that they too could manufacture it wherever convenient. They must understand the risk of punishment. The act at Dandi was meant to begin wider participation, not reserve the protest for those who had walked with him.
+Gandhi told the people why they had come to Dandi. "Dandi was chosen not by a man but by God," he said.
 
-The challenge spread. People made or bought salt outside the government's system. The wider civil disobedience movement also took other forms. Refusals to buy foreign cloth and challenges to other official demands became part of it.
+He listed the problems. No grain could be had there. Water was scarce. Thousands could gather only with difficulty, after a walk of ten miles from the railway station. Travellers on foot had to cross creeks full of mud.
 
-Breaking a law did not repeal it. Gandhi's public act had not made the tax vanish from the government's rules. It showed that people were prepared to challenge those rules and face the consequences.
+That was the point, he said. In this struggle, people had to put up with suffering. He asked the people of Navsari for one thing in particular. They had made the road from Navsari to Dandi famous by setting out free drinking water all along it.
 
-Nor had everyone needed to reach Dandi in person. Gandhi had asked for action across the country. The village meetings on the road had invited people to work where they lived. The shore was one place from which that invitation could be renewed.
+<aside class="note"><b>Satyagraha</b>: Gandhi's word for fighting a wrong by peaceful means, and by holding firmly to the truth.</aside>
 
-The walking party had reached its destination. For people hearing the news elsewhere, the work was beginning.
+## The morning of 6 April
+
+At 8.30 the next morning, Gandhi bent down and picked up a lump of natural salt lying in a small pit. Hundreds of people watched. Sarojini Naidu stood beside him. She called out, "Hail Deliverer."
+
+Gandhi held the salt in his hand. "With this, I am shaking the foundations of the British Empire," he said.
+
+No policeman and no excise officer was there to stop him.
+
+## The salt is sold
+
+That evening, Gandhi spoke at a meeting. A small amount of the salt he had picked up, about two tolas, had been cleaned by him. It was auctioned to Seth Ranchhod Shodhan, a mill-owner of Ahmedabad.
+
+<aside class="note"><b>Two versions</b>: The chronology on mkgandhi.org says the salt was sold for Rs 525. Wikipedia says a pinch of Gandhi's salt sold for 1,600 rupees. The two accounts may not be describing the same sale.</aside>
+
+## "Make salt"
+
+Gandhi did not want the story to end on the beach. He told the people the breaking of the law was now done, in form. After that, anyone ready to risk prosecution could make salt wherever it suited him.
+
+He asked workers everywhere to make salt, to use it, and to teach villagers how. They should also speak up for boycotting foreign cloth and for khadi.
+
+To villagers who had not yet gone out for salt, he said: go together. Hold the salt in your fist and think that you hold Rs 6 crores. That, he said, was what the government took from the people every year through its salt monopoly.
+
+<aside class="note"><b>Khadi</b>: cloth spun and woven by hand in India.</aside>
+
+## What came next
+
+The march made Gandhi's plan open for all to see. It also stayed in the news. Gandhi went south along the coast, making salt and speaking at meetings. The Congress planned a protest at the Dharasana salt works, about 40 kilometres from Dandi.
+
+Salt was now being made and sold, against the law, along the coast. The British government arrested more than 60,000 people by the end of the month, according to Wikipedia. Gandhi himself was arrested at midnight on 4 and 5 May, a few days before Dharasana.
+
+The salt satyagraha went on for almost a year. It ended when Gandhi was let out of jail and talked with the Viceroy, Lord Irwin.
+
+## Why it matters
+
+A lump of salt on a beach did not change the law that day. What it did was show everyone that an ordinary person could break an unjust law, calmly, and that thousands could follow.
+
+Gandhi saw it that way too. He picked up the salt at Dandi, and then at once asked everyone else to pick up theirs.

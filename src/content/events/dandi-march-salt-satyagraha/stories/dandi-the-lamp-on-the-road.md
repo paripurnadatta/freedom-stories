@@ -1,75 +1,113 @@
 ---
 title: "The Lamp on the Road"
-subtitle: "At Bhatgam, Gandhi criticised his own march"
+subtitle: "In the last week of the Salt March, Gandhi saw a poor labourer made to run under a heavy lamp to light his way. That night, at Bhatgam, he turned his anger on himself and his own helpers."
 type: flagship
-when: "March–April 1930"
-where: "Sabarmati to Dandi, Gujarat"
-published: 2026-10-25
+when: "29 March 1930"
+where: "Bhatgam, Surat district, Gujarat"
+published: 2026-10-27
 about:
   - "dandi-march-salt-satyagraha"
   - "mahatma-gandhi"
 year: 1930
 sources:
-  - title: "Speech at Bhatgam, 29 March 1930; Young India, 3 April 1930"
+  - title: "Speech at Bhatgam, 29 March 1930 (Young India, 3 April 1930), in Sabarmati to Dandi"
     url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-bhatgam.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Talk to Press Representatives, Navagam, 14 March 1930"
-    url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/talk-to-press-representatives.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Letter to Lord Irwin, 2 March 1930; CWMG XLIII, pp. 2–8"
+    publisher: "Gandhi Sevagram Ashram"
+  - title: "Collected Works of Mahatma Gandhi, vol. XLIII: Letter to Lord Irwin, 2 March 1930"
     url: "https://www.gandhipedia150.in/static/data/highlighted_pdfs_output/Delhi_volume43_book_3.pdf"
-    publisher: "M. K. Gandhi / Collected Works"
+    publisher: "Gandhipedia"
+  - title: "Dandi March (chronology)"
+    url: "https://www.mkgandhi.org/civil_dis/dandi_march.php"
+    publisher: "mkgandhi.org"
 status: published
 ---
 
-A labourer walked with a heavy lamp mounted on a stool upon his head. The light was for the marchers travelling at night. People urged him to go faster. Gandhi saw him and quickened his own pace.
+By 29 March 1930, Gandhi and his marchers had been on the road for more than two weeks. They had set out from his ashram at Sabarmati on 12 March. They were walking to Dandi, on the sea, to break the British law that taxed salt.
 
-It did not help. The man was made to hurry after him.
+That evening they reached a village called Bhatgam, in Surat district. Gandhi had been asked to give a sermon. He gave a confession instead.
 
-Gandhi described this scene at Bhatgam on 29 March 1930. His party was nearing the end of its walk to Dandi. He had spent days criticising the government's treatment of Indians. That evening, he spoke about the conduct of his own companions and supporters.
+## A confession
 
-The march had entered Surat district. Many workers there knew Gandhi well. They wanted to welcome and help him. Their care could easily turn into expensive hospitality. He had warned his companions about that danger during prayers that morning.
+"I have been asked to deliver a sermon," he began. "I have little fitness for the task. But tonight I propose to make a confession and turn the searchlight inward."
 
-Then he learned that milk had been ordered from Surat in a motor lorry. Other expenses also troubled him. The movement was speaking for people with very little money. Why should its visitors require costly arrangements?
+He reminded them that he always spoke plainly. He had never been shy about describing the mountain-high faults of the government. But he had also often pointed to Indians' own faults, the ones that seemed small to them. Tonight, he said, he had to do that painful work again.
 
-Gandhi had criticised the Viceroy's large salary in his letter before the march. Now he applied the same question to himself. What right had he to criticise official expense if his own party lived far above ordinary villagers' means?
+<aside class="note"><b>Turn the searchlight inward</b>: to look hard at your own faults instead of other people's.</aside>
 
-He did not let a gift settle that question. Supporters might offer fruit or extra milk out of affection. The marchers might accept it because refusing seemed unkind. Gandhi argued that kindness could still produce waste.
+## A warning that morning
 
-Too much food did not become necessary because someone had offered it freely. Transport did not become costless because a supporter arranged it. People and resources still paid for the welcome. The party had to notice that cost.
+This was the last week of the march. The next Saturday they would reach Dandi.
 
-He put himself inside the criticism. The speech was not simply an order for other people to become more careful. He spoke of his own responsibility for money given in trust. He also admitted the difficulty of keeping close contact with every companion.
+That very morning, at prayer time, Gandhi had warned his fellow marchers. They were now in Surat district, where they would break the salt law. It was well organised and full of his close co-workers. That meant, he said, they would probably be pampered. They must not give in to it.
 
-<aside class="note"><b>In trust</b>: Given to someone to use responsibly for a particular purpose.</aside>
+The warning came none too soon. That same day, Gandhi found out that local workers had sent a motor lorry to Surat to fetch milk for the marchers. They had spent money on other things he could not justify. He spoke strongly to them about it. But his sadness did not go away. It grew.
 
-The march was meant to be a beginning. Gandhi expected many more volunteers to offer civil disobedience. If every group required lavish food, transport, and lighting, that larger campaign would be difficult to sustain.
+## The salary in the letter
 
-He wanted supporters to provide what was locally available. Milk and vegetables should not be brought from Surat for his comfort. If something could not be obtained reasonably, the party could do without it.
+Before the march, Gandhi had written to the Viceroy, Lord Irwin. In that letter he had attacked the Viceroy's salary. It was more than 5,000 times the average Indian's income.
 
-He gave a sharper example about his own milk. Poor women must not be deprived of milk for their children in order to feed him. His needs did not come first merely because he was the best-known marcher.
+Now, at Bhatgam, Gandhi turned the same question on himself. What right did he have to criticise the Viceroy's salary? He had no such right, he said, if he and his marchers were costing the country fifty times the average daily income. That income was about seven pice a day.
 
-The same principle applied to travel. People should walk when they could walk. Motor cars should not be called upon for every small reason. Convenience had to be judged against the purpose of the journey.
+And that was where things were heading. People brought him the choicest oranges and grapes from wherever they could. They brought 120 oranges when he needed 12. When he needed one pound of milk, they brought three.
 
-These were not entirely new rules. Earlier, at Navagam, Gandhi had addressed the reporters accompanying the march. He explained that villagers supplied food in measured amounts. Extra demands needed permission. Visitors could not assume that a village must feed everyone who wished to follow.
+He painted a picture of himself. Imagine me, he said, writing the letter to the Viceroy on costly glossy paper, with a fountain pen given by some obliging friend!
 
-He had also asked people not to join the travelling group without permission. Those who wanted to help could work where they lived. A growing crowd on the road was not the only measure of a growing movement.
+<aside class="note"><b>Pice</b>: a small coin. Gandhi put the average Indian's income at about seven pice a day.</aside>
 
-At Bhatgam, the lamp brought another issue into focus. The burden was not only money. It was also who performed the tiring work. A labourer carried equipment that made the marchers' passage easier.
+## Stolen food
 
-Gandhi said that, if the weight needed carrying, someone from the party should carry it. That experience might quickly persuade them to do without the stool and lamp. Comfort can seem essential when someone else carries its weight.
+He quoted a verse by the poet Akho Bhagat: stolen food is like eating raw mercury, a poison. To live above what a poor country can afford, Gandhi said, is to live on stolen food. And this battle could never be won by living on stolen food.
 
-He connected the incident with forced labour. The campaign opposed such treatment by those in power. It had to recognise similar conduct among its own supporters. Calling a journey patriotic did not excuse humiliating a worker.
+He had not set out on this march, he said, to live beyond their means. Thousands of volunteers were expected to join. It would be impossible to keep them all in comfort.
 
-<aside class="note"><b>The source of this scene</b>: Gandhi described the labourer in his Bhatgam speech, published in <i>Young India</i> on 3 April 1930. The man's name is not given.</aside>
+<aside class="note"><b>Mercury</b>: a silvery liquid metal. It is poisonous to swallow.</aside>
 
-He also spoke against looking down upon people because of their social position. The future he wanted could not reserve responsibility for a privileged few. Someone treated as low by society should be able to help lead the country.
+## The lamp
 
-The criticism was public. Gandhi even challenged the idea that a successful campaign required expensive publicity. He said he would accept a small audience rather than gather a large one through wasteful arrangements. The number listening could not justify every expense. Gandhi said that private contact with every marcher had become difficult. He therefore put the problem before the gathering. Supporters as well as marchers needed to hear it, because supporters arranged the welcome.
+Then Gandhi came to what had hurt him most.
 
-This was an uncomfortable use of a public meeting. People had come to hear the campaign's leader. He told them that their generosity might be harming the work. He asked volunteers to account for every small sum spent.
+For the march at night, the local workers had arranged a heavy kerosene lamp. It was set on a stool, and a poor labourer carried the whole thing on his head. And the man was being hurried along, made to walk fast.
 
-He did not withdraw the campaign. His determination to continue remained. Correcting the march's conduct was part of continuing it faithfully. He wanted the road to Dandi and the cause it served to point in the same direction.
+"This was a humiliating sight," Gandhi said. "I could not bear the sight."
 
-The speech left a record of disagreement inside a famous protest. The marchers were not perfect figures who always followed every ideal. They had to be reminded about money, comfort, and the treatment of other people.
+So Gandhi sped up. He went ahead of the whole group. It did no good. The man was made to run after him, carrying his load.
 
-The sea still lay ahead. There would be another public act at Dandi. But on this part of the road, Gandhi asked his companions to notice a man walking close beside them, carrying their light.
+"The humiliation was complete," Gandhi said.
+
+If the lamp had to be carried, he told them, he would have loved to see one of the marchers carry it. Then they would soon have done without the stool and the lamp altogether. No labourer would carry such a load on his head.
+
+## Forced labour
+
+Gandhi then used a hard word. Indians rightly objected to begar, forced labour. "But what was this if it was not begar?" he asked.
+
+And he explained why it mattered so much. In a free India, he said, they hoped that someone from the so-called lower classes would one day lead the country. If they did not quickly change their ways, there would be no swaraj of the kind they had promised the people.
+
+<aside class="note"><b>Begar</b>: forced labour, done with little or no pay.</aside>
+
+<aside class="note"><b>Swaraj</b>: self-rule, or freedom.</aside>
+
+## New rules
+
+Gandhi laid down new rules for the rest of the march.
+
+No milk or vegetables were to be fetched from Surat. They could do without them if they had to. Nobody was to use a motor car on the slightest excuse. "The rule is, do not ride if you can walk."
+
+No poor woman was to go without milk for her children so that goat's milk could be found for him. "It would be like poison if you did," he said. The volunteers must account for every pice they spent.
+
+There was no room for showing off. If crowds could only be gathered with costly publicity, he said, he would be happy to speak to half a dozen men and women. The campaign would not succeed through newspaper reports, but with the help of God.
+
+He added something about himself. It had taken him many years to start resisting the government. He would not take as many days to resist his own side.
+
+## No turning back
+
+Gandhi did not want anyone to think he was giving up. The struggle would go on, whatever his co-workers or others did. "For me there is no turning back," he said, "whether I am alone or joined by thousands."
+
+Then he ended with words against himself. He had not used well the money people had given out of love. They had a right, he said, to count him among the wretches described in the verses sung at the start of the meeting. "Shun me," he said.
+
+## Why it matters
+
+Gandhi had criticised the Viceroy for living far above the people he ruled. At Bhatgam, he held himself and his helpers to exactly the same test, in public.
+
+He did not blame the man with the lamp. He blamed the people who had made him carry it, and himself. If a freedom struggle treated the poor as beasts of burden, he believed, it was not the freedom he was marching for.
+
+A week later, on 6 April, he reached the sea at Dandi and picked up a lump of salt.

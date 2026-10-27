@@ -22,3 +22,5 @@
 - `npm run check` fails on two Champaran flagship stories (808 and 795 words, minimum 900), not on
   anything in this subject. It failed before this fact sheet was added. Left alone, because stories
   are yours to write. `astro build` and Pagefind pass (589 pages, 472 indexed).
+
+- Paintings exist for all six old slugs. Check them against the new stories: the-lamp-on-the-road (one labourer carrying a lamp on his head, Gandhi ahead) and the-walk-ended-the-work-began (salt picked up at the beach at Dandi, Sarojini Naidu beside him, no police).

@@ -1,90 +1,110 @@
 ---
 title: "The Letter Before the March"
-subtitle: "An English friend carried Gandhi's warning to the Viceroy"
+subtitle: "Ten days before the Salt March, Gandhi wrote a long letter to the Viceroy. He called British rule a curse, but promised to harm no Englishman. A young Englishman carried it to Delhi."
 type: flagship
-when: "March–April 1930"
-where: "Sabarmati to Dandi, Gujarat"
-published: 2026-10-25
+when: "2 to 13 March 1930"
+where: "Sabarmati Ashram, Ahmedabad, and New Delhi"
+published: 2026-10-27
 about:
   - "dandi-march-salt-satyagraha"
   - "mahatma-gandhi"
+  - "motilal-nehru"
 year: 1930
 sources:
-  - title: "Letter to Lord Irwin, 2 March 1930; CWMG XLIII, pp. 2–8"
+  - title: "Collected Works of Mahatma Gandhi, vol. XLIII: Letter to Lord Irwin, 2 March 1930, with editor's notes"
     url: "https://www.gandhipedia150.in/static/data/highlighted_pdfs_output/Delhi_volume43_book_3.pdf"
-    publisher: "M. K. Gandhi / Collected Works"
-  - title: "Letter to Reginald Reynolds, 13 March 1930"
+    publisher: "Gandhipedia"
+  - title: "Letter to Reginald Reynolds, 13 March 1930 (Sabarmati to Dandi)"
     url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/letter-to-reginald-reynolds.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Speech at Aslali, 12 March 1930"
-    url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/speech-at-aslali.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Talk to Press Representatives, Navagam, 14 March 1930"
-    url: "https://www.gandhiashramsevagram.org/sabarmati-to-dandi/talk-to-press-representatives.php"
-    publisher: "M. K. Gandhi / Sevagram Ashram"
-  - title: "Salt March: overview and references"
+    publisher: "Gandhi Sevagram Ashram"
+  - title: "Salt March"
     url: "https://en.wikipedia.org/wiki/Salt_March"
     publisher: "Wikipedia"
 status: published
-image:
-  src: "/files/events/dandi-march-salt-satyagraha/archive/dandi-historical.webp"
-  alt: "Gandhi walking at the head of a group of Salt March participants"
-  caption: "Gandhi walking during the Salt March, 1930. This photograph does not show the act of lifting salt at Dandi."
-  credit: "Unknown photographer / Wikimedia Commons"
-  license: "Public domain"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:Marche_sel.jpg"
 ---
 
-Before Gandhi set out for the sea, a young Englishman carried his letter to the Viceroy. The messenger was Reginald Reynolds. The letter warned that Gandhi intended to break the salt laws.
+On 2 March 1930, at his ashram on the Sabarmati river, Gandhi sat down to write a letter. It was to Lord Irwin, the Viceroy, the most powerful British official in India.
 
-Its first words were friendly. Its argument was severe.
+He was about to break the law, on purpose. He would start with the people of his Ashram, and later anyone who chose could join. Before he did, he wanted to try one more time to find another way.
 
-Gandhi wrote from Sabarmati Ashram on 2 March 1930. He wanted Lord Irwin to understand what he planned and why. He also left an opening for discussion. The journey had not begun. There was still time to choose another course. Gandhi ended by describing the notice as a duty, not a hidden threat. The government would hear his intention directly from him. Readers could later compare that declared intention with what his companions did.
+"Before embarking on civil disobedience," he began, "and taking the risk I have dreaded to take all these years, I would fain approach you and find a way out."
 
-<aside class="note"><b>Viceroy</b>: The British ruler's representative at the head of the government in India.</aside>
+<aside class="note"><b>Fain</b>: an old word meaning "gladly". Gandhi meant he would gladly find a way out.</aside>
 
-The letter described the harm Gandhi believed British rule had done. It discussed poverty, land revenue, trade, and the expense of government. Salt was one part of that larger argument. It was also the part he intended to act upon first.
+## "I do not intend harm"
 
-People needed salt in their food. A poor family could not simply stop needing it because a tax made it expensive. Gandhi argued that the burden fell especially heavily on those with the least money.
+The first thing Gandhi wanted Irwin to know was what he would not do.
 
-He linked the salt demand to independence. A government should serve the people who supported it. In his view, the existing system took too much from them. Changing one tax would begin a struggle over who had the power to decide.
+He could not deliberately hurt any living thing, he wrote, least of all a fellow human being, even someone who did him great wrong. So although he held British rule to be a curse, "I do not intend harm to a single Englishman or to any legitimate interest he may have in India."
 
-The letter even discussed the Viceroy's salary. Gandhi used it to illustrate the distance between official spending and ordinary incomes. He made clear that his criticism concerned the system. He did not accuse Irwin of personally needing all that money.
+He went further. He did not think the English were worse than any other people. Many Englishmen were among his dearest friends. Much of what he knew about the evils of British rule, he said, he had learned from brave English writers who told the truth about it.
 
-That distinction ran through the letter. Gandhi opposed British rule, but said he intended no harm to English people. He counted Englishmen among his friends. He wanted to change a relationship of power without treating every person from Britain as an enemy.
+## Why a curse?
 
-The choice of messenger made that point visible. Reynolds supported India's cause and believed in nonviolence. His nationality did not exclude him from the work. An English friend could carry a challenge to the British government.
+Then he explained why he called British rule a curse.
 
-Gandhi also explained how the challenge would proceed. It would begin with members of the ashram. Others could later join, provided they accepted the movement's discipline. The method would be civil disobedience.
+It had made the "dumb millions", the poor who had no voice, poorer and poorer. It ran the country through an army and an administration that cost far more than India could ever afford. It had made Indians powerless in politics, and damaged their culture.
 
-<aside class="note"><b>Civil disobedience</b>: Openly refusing to obey a law considered unjust, while accepting the punishment.</aside>
+He also explained why he had given up on talks. A Round Table Conference was being planned between Britain and India. Gandhi had hoped it might bring a solution. But the Viceroy had said plainly that he could not promise to support full Dominion Status for India. On 23 December 1929, Gandhi and Motilal Nehru had met Irwin in Delhi. That meeting, Gandhi wrote, had "miscarried".
 
-He did not conceal the possibility of arrest. Irwin could stop him by taking him into custody. Gandhi hoped others would then continue the work in an orderly way. The campaign must not depend entirely on his freedom to travel.
+<aside class="note"><b>Dominion Status</b>: the right of a country in the British Empire to govern itself, like Canada or Australia at the time.</aside>
 
-The letter did not describe nonviolence as doing nothing. Gandhi wanted it to be an active force. It would challenge both government violence and the belief that only violence could defeat the government. Refusal and accepted punishment were to do the work.
+## The tax on salt
 
-There was danger in that plan, and Gandhi admitted it. Large numbers of people might suffer. He could not promise that the authorities would let them proceed. He nevertheless believed that waiting longer was the wrong choice.
+Next came the heart of the letter. The British system, Gandhi wrote, seemed designed to crush the life out of the poor farmer. Even the salt he needed to live was taxed.
 
-Near the end, he offered to discuss the issues. If Irwin wished to talk seriously, Gandhi could postpone publishing the letter. A telegram could reach him. The warning therefore included a practical means of replying.
+The tax fell hardest on the poor, Gandhi said. Everyone paid it, rich or poor. And a poor man needed to eat more salt than a rich man.
 
-The response did not begin the discussion he wanted. The Viceroy's reply expressed regret about the proposed course. It warned of lawbreaking and danger to public peace. The difference between them remained.
+<aside class="note"><b>Salt tax</b>: the British government controlled salt and charged a tax on it. Every family had to pay it, whatever its income.</aside>
 
-Gandhi saw the salt law as a wrong to be resisted. The government saw the planned disobedience as a threat to lawful order. Calling the action peaceful did not make officials accept it. Calling it illegal did not answer Gandhi's objection.
+## The Viceroy's salary
 
-<aside class="note"><b>Two dates</b>: The letter mentioned action on 11 March. The march itself began on 12 March 1930.</aside>
+Then Gandhi made it personal. "Take your own salary," he wrote.
 
-On 12 March, Gandhi left Sabarmati with seventy-eight companions. They were heading towards the Gujarat coast. The notice carried by Reynolds had become a journey people could watch.
+The Viceroy was paid over Rs 21,000 a month, plus other benefits. That came to over Rs 700 a day. At that time, the average Indian earned less than two annas a day. So Irwin earned much more than five thousand times the income of an average Indian.
 
-At Aslali, the first halt, Gandhi returned to the reason for choosing salt. He discussed the village's own needs. People needed salt, and so did their animals. The argument in the letter could be brought down to the scale of a single village.
+The British Prime Minister, Gandhi added, earned only about ninety times the average British income. "On bended knees," Gandhi wrote, "I ask you to ponder over this phenomenon."
 
-He told listeners that the protest had been announced to the government. There was no secret plan to pretend the law was being obeyed. The marchers intended to prepare salt and accept prosecution if it came.
+But he was careful not to attack Irwin as a person. He knew Irwin did not need the money, he wrote. Probably all of it went to charity. The fault was in a system that paid such salaries, and that system should be scrapped.
 
-The work behind them continued too. On 13 March, Gandhi wrote to Reynolds again. He asked him to help with Young India and take part in the ashram's activities. Carrying the earlier letter had not been the only useful task.
+## The other road
 
-The following day, Gandhi spoke to reporters at Navagam. Newspapers could help people follow the march. They could also criticise him. He did not ask them to write praise as the price of accompanying the party.
+Gandhi knew that some Indians wanted to use violence. That party was growing, he wrote. Its aim was the same as his: freedom. But he was sure that violence could not bring relief to India's poor.
 
-He did insist that visitors respect limits on food and hospitality. Villagers were providing the marchers' meals. The campaign could not claim to serve poor people while placing careless demands upon them. Its daily conduct had to match its public argument.
+Only non-violence could stand against the organised violence of British rule, he believed. He wanted to turn that force against both kinds of violence at once.
 
-Those details connected the letter to the road. Gandhi had criticised an expensive system of government. He now had to ask what his own campaign cost the people supporting it. He had defended human fellowship. An English friend was helping keep the work going.
+He used a strong word for his aim. "My ambition is no less than to convert the British people through non-violence," he wrote. He wanted them to see the wrong they had done. "I do not seek to harm your people. I want to serve them even as I want to serve my own."
 
-The letter had not persuaded the Viceroy to change course. It had made the disagreement and the proposed action plain. When the marchers took the road, their warning had already arrived.
+## A date, and a door left open
+
+Then Gandhi named the day. If Irwin could not deal with these wrongs, then on the 11th of March he would set out with workers from the Ashram to break the salt laws. He called the salt tax the most unjust of all, from the poor man's point of view.
+
+He knew Irwin could stop him by arresting him. If that happened, he hoped tens of thousands would take his place, in a disciplined way.
+
+But Gandhi left a door open. If Irwin wanted to talk, Gandhi would gladly delay publishing the letter. A telegram would be enough.
+
+"This letter is not in any way intended as a threat," he ended. It was, he said, a simple duty for someone about to resist the law peacefully.
+
+## The messenger
+
+Gandhi did not post the letter. He had it carried by hand, by a young Englishman who believed in India's cause and in non-violence. His name was Reginald Reynolds.
+
+Reynolds later wrote that before he left, Gandhi made him read the letter carefully. Gandhi did not want him to carry it unless he fully agreed with every word. An Englishman carrying it was meant to show that this was not simply a fight between Indians and the British.
+
+## The answer
+
+The Viceroy did not meet Gandhi. His reply was short. It only expressed regret that Gandhi was planning action which was clearly bound to break the law and endanger the public peace.
+
+<aside class="note"><b>Two versions</b>: The Collected Works of Gandhi record the Viceroy's reply as a short expression of regret. Wikipedia says the Viceroy ignored the letter and refused to meet him, and quotes Gandhi as saying he had asked for bread on bended knees and received a stone.</aside>
+
+The letter was printed in Gandhi's paper, Young India, on 12 March 1930. That was the morning the march began. It began on 12 March, not on 11 March as the letter had said.
+
+## After the march began
+
+On 13 March, from the road, Gandhi wrote Reynolds a short note. He asked Reynolds to take care of himself, to look after Young India and to share in the life of the Ashram. "You would be a gift from God," Gandhi wrote, for that work.
+
+## Why it matters
+
+Gandhi's letter did not stop the march. It was not really meant to. It made sure that before he broke the law, he had said clearly why, and had offered a peaceful way out.
+
+It was a letter from a man about to fight an empire. Yet it promised to harm no one, praised his English friends, and was carried by an Englishman.
