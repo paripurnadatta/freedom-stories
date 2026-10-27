@@ -1,0 +1,69 @@
+ILLUSTRATIONS NEEDED: chauri-chaura-incident
+
+Copy each prompt into your image generator. Save the result with its exact FILE NAME in this illustrations folder, then run node scripts/place-illustrations.mjs. Six paintings, one for each planned story. There is no free photograph of the 1922 crowd, the police station or the hanged men, so these paintings carry those scenes. Bhagwan Ahir, Nazar Ali, Lal Mohammad and Gupteshwar Singh have no verified likeness: paint them at a distance, from behind, or in a crowd, and do not invent recognisable faces. Madan Mohan Malaviya and Gandhi may use their documented period likenesses. No burning bodies, no wounds, no blood, no gallows. Where a flag appears it is the 1922 Congress tricolour with a spinning wheel, never the Ashoka Chakra.
+
+FILE NAME: chauri-chaura-the-beating-at-mundera-bazaar
+Save it as chauri-chaura-the-beating-at-mundera-bazaar.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Mundera Bazaar, a country market in Gorakhpur district, United Provinces, the morning of 1 February 1922. A row of open stalls with sacks of pulses, jaggery, coarse cloth and dried fish; low tiled roofs; a neem tree at the edge. In the foreground, three volunteers in plain white kurtas and dhotis are being led away from the stalls by village policemen in khaki tunics and dark turbans, one of the volunteers leaning on a companion, his shoulder supported, a second man walking with a hand pressed to his side. A small crowd of shopkeepers and villagers watches from a distance, still and uneasy. Lathis are held low, not raised; no blow is being struck in the picture. The light is clear winter morning light, and the mood is fear and shame rather than fury.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: chauri-chaura-the-morning-at-dumri-khurd
+Save it as chauri-chaura-the-morning-at-dumri-khurd.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5, 2400 × 1125 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Dumri Khurd, a small village in Gorakhpur district, the morning of Saturday 4 February 1922. An orchard of mango, jackfruit and shisham trees with a low mud wall behind it; sacks laid out on the bare earth in rows, six to a row, and volunteers sitting on them in groups: men in white dhotis and kurtas, some with cotton caps, a few older men with shawls, a boy carrying a brass pot of water. At one side two women hand out leaf parcels of roasted rice and dark lumps of jaggery from a wide basket. A man standing under the trees speaks to the seated rows, seen from behind and to one side, one arm raised. A tall bamboo staff with the 1922 Congress tricolour, saffron over white over green with a small spinning wheel, stands beside him. Beyond the trees, a dirt road leads away towards fields, and more villagers are walking in along it. Morning light through leaves, calm and orderly, many people and no anger.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: chauri-chaura-the-thana-on-fire
+Save it as chauri-chaura-the-thana-on-fire.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Chauri Chaura, Gorakhpur district, the afternoon of 4 February 1922, seen from a distance and from behind the crowd. A low single-storey police station with a tiled roof and a veranda stands at the centre, smoke pouring from its roof and dark smoke rising into a pale sky; small flames show at the eaves and in one doorway. In the foreground, thirty or forty villagers stand on open ground among scattered bricks and railway ballast, their backs to us, some with arms half raised, some simply staring; a man in a white dhoti holds a bicycle; a woman carries a child away to the left. Telegraph poles and a line of trees behind. No one is inside the flames, no bodies are visible, no one is being struck. The mood is dread and confusion, not triumph. Muted late-afternoon light, dust in the air.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: chauri-chaura-the-crime-of-gorakhpur
+Save it as chauri-chaura-the-crime-of-gorakhpur.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:7.5, 2400 × 1125 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+Bardoli, Gujarat, February 1922, a plain whitewashed room with a low wooden writing desk and an open window onto a dusty courtyard and a neem tree. Gandhi sits cross-legged on a floor mat in a white dhoti and shawl, using his documented period likeness, writing on a loose sheet with a fountain pen; beside him a small stack of papers, a brass inkpot, a glass of water untouched, and a folded copy of a newspaper. His face is quiet and tired. On the wall a simple hand-spun cloth hanging; on the floor a spinning wheel at rest. A young man in a white kurta waits at the door with a folded telegram in his hand. No readable writing anywhere; the papers are blank at this distance. Soft morning light, a mood of grief and resolve, no crowd and no drama.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: chauri-chaura-one-hundred-and-seventy
+Save it as chauri-chaura-one-hundred-and-seventy.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The Sessions Court at Gorakhpur, United Provinces, early 1923. A high colonial courtroom with whitewashed walls, tall shuttered windows and a ceiling fan at rest. At the back, on a raised bench, a British judge in a dark gown and a white collar sits with a clerk and a stack of tied case files; in front of him, a long table with cloth-bound registers. To the left, a barrister in a white dhoti, long black coat and white turban stands facing the bench, one hand on a sheaf of papers, seen in three-quarter view and recognisable as Madan Mohan Malaviya from his documented likeness. Behind a low railing, rows of accused men in plain white kurtas and dhotis sit close together on the floor, some with hands folded, most with heads bowed, seen at an angle so no individual face is identifiable. Two policemen stand at the side door. Daylight from the windows, dust in the air, a mood of strain and quiet.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
+
+FILE NAME: chauri-chaura-two-memorials
+Save it as chauri-chaura-two-memorials.png (or .jpg / .webp) in this folder.
+Shape: wide, 16:6, 2400 × 900 pixels.
+Where it goes: top of the story and story cards.
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+The Shaheed Smarak at Chauri Chaura, Gorakhpur district, present day, a wide open ground of paving and short grass. In the centre a tall pale triangular minaret stands against the sky, its surface plain and without lettering; beside it a low memorial wall with a row of shallow arched niches, and a small white domed police memorial further off among trees. A family walks towards the wall: a man in a plain shirt and trousers, a woman in a sari, and a girl of about ten holding a marigold garland; a caretaker in a grey cap sits on a low step with a broom. A tricolour flag with a spinning wheel flies from a slim pole at the edge of the ground. Warm late-afternoon light, long shadows, a mood of quiet remembering; no text on any surface.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
+------------------------------------------------------------------------------
