@@ -39,11 +39,11 @@ CLAUDE.md progress table lists all four (added 27 October).
 ## Open work, in this order
 
 1. ~~Home Rule League~~: done 27 October (7 stories, 2 flagships; old 7 deleted; captions fixed; flag drawing added).
-2. **The 24 ChatGPT stories** (Champaran, Kheda, Bardoli, Dandi): per the 22 October rule they must be
-   rewritten fresh by Claude from sources Claude opens. Do not just edit them.
-3. **Jallianwala Bagh and Quit India**: write 6 stories each (2 flagships) from `research/` plus pictures on
-   `chatgpt-work`. Read each report, check every claim, look at every picture. Their old painting prompts
-   belong to stories that were never written: redo the prompts to match the new stories.
+2. ~~The 24 ChatGPT stories~~ (Champaran, Kheda, Bardoli, Dandi): done 27 October, all rewritten fresh.
+3. ~~Jallianwala Bagh~~: done 27 October (6 stories, 2 flagships; prompts rewritten to match; Hunter report
+   text, Hansard and Wikipedia opened; the Tribune article would not open, so nothing rests on it).
+   **Quit India** is next: 6 stories (2 flagships) from `research/` plus pictures on `chatgpt-work`. Read the
+   report, check every claim, look at every picture, redo the painting prompts to match the new stories.
 4. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
    table, merge to `main`, push, then tell the owner: "git pull, then npm run dev, then open
    http://localhost:4321".

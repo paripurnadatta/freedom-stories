@@ -52,3 +52,8 @@
 
 - `npm run check` and `npm run build` were run on 26 October 2026 and both passed. Six planned
   stories are counted as waiting; six illustrations are waiting as well.
+
+## After the rewrite (27 October 2026)
+
+- Six stories are written and linked from `index.md`. Paintings are still needed: six prompts in `illustrations/prompts.txt`, checked against the stories on 27 October 2026. Changes made: the Parsi member in the committee room became "two more Indian members in caps"; the Lahore scene is now a telephone, not a telegraph tape, because Hunter says the first message was telephoned; the wall is red-brown brick, not sandstone; the Tagore scene no longer says Calcutta or evening.
+- The two shapes remain: the first two at 16:7.5, the other four at 16:6.

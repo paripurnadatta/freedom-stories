@@ -107,3 +107,35 @@ Hansard debate were read from the saved copies, not from a summary.
 The Tribune page loaded in this session with a different headline in its browser title
 ("Breathing new life into samadhis") while the article body is the Jallianwala feature by Jaswant
 Singh. The body is what was used.
+
+## Rewrite of 27 October 2026 (by Claude, from sources opened that day)
+
+Six stories were written fresh from the full text of the Hunter report (archive.org djvu text), the Hansard debate of 8 July 1920, Wikipedia, Gandhi's autobiography chapter on Wikisource, the 1922 Britannica entry on Tagore, the Iniva page with extracts of Tagore's letter, and the BBC report of 10 April 2019. The ChatGPT report and fact sheet were used only as a map.
+
+### Corrections to the earlier notes
+
+- **The Commons vote.** The fact sheet and Wikipedia say 247 to 37 "for the Government". Hansard shows two divisions. A Labour motion (Mr Spoor) to cut a government item by £100 lost 37 to 247. Sir Edward Carson's motion, from Dyer's defenders, lost 129 to 230. Churchill and Montagu are in the Noes in both lists. The story says this in a Two versions note.
+- **Montagu.** The words are "the theory of terrorism", not "the doctrine of terrorism". Churchill's "monstrous event" and "Frightfulness is not a remedy known to the British pharmacopoeia" are exact.
+- **Dyer's "laughed at me" answer is verified.** It is in the Indian members' report: "I could disperse them for some time, then they would all come back and laugh at me, and I considered I would be making myself a fool." So are "I was going to punish them", "to reduce their morale", "It was not my job" and "The wounded only had to apply for help". Quoted in quotation marks.
+- **The majority report did not find the wounded had suffered** ("It has not been proved to us ..."). The Indian members criticised him for leaving at once. The story gives Dyer's own words and the Indian members' view.
+- **Crawling order date.** The majority report says 10 April and the minority 19 April. Wikipedia says Dyer saw Miss Sherwood on 19 April. The story uses 19 April. Withdrawn 26 April (majority report). Miss Sherwood's attack: 10 April in the report, 11 April in Wikipedia.
+- **Archive pictures.** `bullet-marked-wall.webp` is "Jallianwala Bagh Bullet Marks.JPG" by Vinoo202, public domain (not CC BY-SA, as review-needed.md said). `martyrs-well.webp` is "'The Martyr's' well at Jallianwala Bagh.jpg" by Amitoj911, public domain.
+- **Crowd and force.** Majority report: 25 Gurkhas and 25 Baluchis with rifles, 40 Gurkhas with kukris, two armoured cars. Wikipedia says 50 troops. The story follows the report.
+- **Wounded and the ammunition.** Dyer: fired until it "ran short". Churchill: enough kept back for the return. Wikipedia: about one third used. Told in a note.
+
+### Not opened, not used
+
+- The Tribune article (404 from this environment). Nothing in the stories depends on it: the press gagging, Kalinath Ray's conviction, the cremations next morning and the 24 April date are all left out.
+- The "Dictionary of Martyrs" list of names. No victim is named.
+
+### Tagore
+
+The wording of the letter now comes from two places, Iniva and Wikipedia, which agree on the key sentence. Wikipedia's version of that sentence differs from Iniva's in what follows "shorn of all special distinctions". The story quotes Iniva for that sentence and Wikipedia for "liable to suffer degradation not fit for human beings".
+
+### Apology
+
+The statements by the Queen (1997), Cameron (2013) and May (2019) come from Wikipedia and the BBC. The search made on 27 October 2026 found nothing newer. A later statement may exist; the story says "written in 2019".
+
+### Left out on purpose
+
+The £26,000 Morning Post fund, any victim's name, Udham Singh being in the Bagh (the story only says Wikipedia says he was wounded there), the Gujranwala bombing by aircraft, Dyer's 1921 newspaper article, and any description of wounds.

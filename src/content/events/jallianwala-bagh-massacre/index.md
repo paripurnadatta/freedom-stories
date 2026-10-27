@@ -23,9 +23,15 @@ sources:
   - title: "Hansard, House of Commons, 8 July 1920: Army Council and General Dyer"
     url: "https://api.parliament.uk/historic-hansard/commons/1920/jul/08/army-council-and-general-dyer"
     publisher: "UK Parliament"
-  - title: "Jaswant Singh, 'Bloodbath on the Baisakhi', The Tribune, 13 April 2002"
-    url: "https://www.tribuneindia.com/2002/20020413/windows/main1.htm"
-    publisher: "The Tribune"
+  - title: "Gandhi, An Autobiography, part V, chapter 34: In the Punjab"
+    url: "https://en.wikisource.org/wiki/The_Story_of_My_Experiments_with_Truth/Volume_2/Part_5/Chapter_34"
+    publisher: "Wikisource"
+  - title: "Tagore, Rabindranath, in the Encyclopaedia Britannica, 12th edition (1922)"
+    url: "https://en.wikisource.org/wiki/1922_Encyclop%C3%A6dia_Britannica/Tagore,_Rabindranath"
+    publisher: "Wikisource"
+  - title: "Tagore Archive: the letter renouncing his knighthood"
+    url: "https://iniva.org/tagore-archive-the-letter-renouncing-his-knighthood/"
+    publisher: "Iniva"
   - title: "Jallianwala Bagh massacre: overview and references"
     url: "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
     publisher: "Wikipedia"
@@ -36,21 +42,27 @@ angles:
   - title: "The Garden with Five Doors"
     type: flagship
     hook: "A walled garden in Amritsar, a Sunday afternoon, and ten minutes of firing"
+    story: "jallianwala-the-garden-with-five-doors"
   - title: "A Grave Error"
     type: flagship
-    hook: "The inquiry heard everyone, blamed Dyer, and left him unpunished"
+    hook: "The inquiry heard Dyer's own answers, blamed him, and left him unpunished"
+    story: "jallianwala-a-grave-error"
   - title: "The Lane Where People Had to Crawl"
     type: short
     hook: "One street in Amritsar was closed to Indians who walked upright"
+    story: "jallianwala-the-lane-where-people-crawled"
   - title: "The Letter Tagore Sent"
     type: short
     hook: "A poet gave back a title from the King"
+    story: "jallianwala-the-letter-tagore-sent"
   - title: "How India Heard"
     type: short
-    hook: "The first news out of Amritsar was a broken telegram with the number wrong"
+    hook: "The first news out of Amritsar was a broken telephone message with the number wrong"
+    story: "jallianwala-how-india-heard"
   - title: "What the Wall Remembers"
     type: short
-    hook: "Bullet marks, a well, and a hundred years of letters that were never signed"
+    hook: "Bullet marks, a well, and a hundred years of asking for an apology"
+    story: "jallianwala-what-the-wall-remembers"
 ---
 
 <!--
