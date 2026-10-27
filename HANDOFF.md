@@ -46,8 +46,8 @@ CLAUDE.md progress table lists all four (added 27 October).
    `quit-india-movement/research/checked.md` for corrections to the fact sheet). The 6 paintings are waiting
    (`illustrations/prompts.txt`; the fifth is now `quit-india-two-flags`).
 4b. ~~Chauri Chaura~~: 6 stories written 27 October (2 flagships) from Opencode's research; the six paintings are
-   waiting (`chauri-chaura-incident/illustrations/prompts.txt`). The old story `the-fire-at-chauri-chaura` overlaps;
-   owner to decide. See `research/checked.md` (27 Oct notes).
+   waiting (`chauri-chaura-incident/illustrations/prompts.txt`). The old story `the-fire-at-chauri-chaura` was retired 27 Oct
+   (owner's call); Non-Cooperation now has 5 stories and needs one more. See `research/checked.md` (27 Oct notes).
 5. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
    table, merge to `main`, push, then tell the owner: "git pull, then npm run dev, then open
    http://localhost:4321".

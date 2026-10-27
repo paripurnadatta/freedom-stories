@@ -42,21 +42,6 @@ Painterly storybook illustration for a children's history book about India's fre
 ==============================================================================
 3. The fire at Chauri Chaura  (flagship story)
 ==============================================================================
-FILE NAME: the-fire-at-chauri-chaura
-Save it as the-fire-at-chauri-chaura.png (or .jpg / .webp) in this folder.
-Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
-Where it goes: the top of the story "The fire at Chauri Chaura", and its card everywhere on the site
-
-PROMPT (copy everything between the lines):
-------------------------------------------------------------------------------
-A small town police station at dusk in 1922 with smoke rising, empty market street in front, a crowd far away at the end of the street, mournful mood, no violence shown. Wide composition, 16:9.
-
-Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
-------------------------------------------------------------------------------
-
-==============================================================================
-4. The days the city burned  (short story)
-==============================================================================
 FILE NAME: the-days-the-city-burned
 Save it as the-days-the-city-burned.png (or .jpg / .webp) in this folder.
 Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
@@ -98,4 +83,3 @@ Students in 1920 long coats and caps sitting on a carpet in a large Aligarh cour
 
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s–1940s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
-

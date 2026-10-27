@@ -101,10 +101,6 @@ angles:
     type: flagship
     hook: "Muhammad Ali and Shaukat Ali led the Khilafat movement beside Gandhi."
     story: "two-brothers-and-a-caliph"
-  - title: "The fire at Chauri Chaura"
-    type: flagship
-    hook: "A march, a burning police station, and a movement called off."
-    story: "the-fire-at-chauri-chaura"
   - title: "The days the city burned"
     type: short
     hook: "Bombay, November 1921, and Gandhi's fast."

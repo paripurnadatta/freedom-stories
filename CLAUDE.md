@@ -203,7 +203,7 @@ which ones should be redone and why.
 | Khudai Khidmatgar (organisation) | 6 (3 flagship) | done (the vote painting keeps a readable "POLLING" sign; owner said fine, 23 Oct 2026) |
 | Revolt of 1857 (event) | 7 (3 flagship) | done |
 | Swadeshi Movement (event) | 6 (2 flagship) | done |
-| Non-Cooperation and Khilafat (event) | 6 (3 flagship) | done |
+| Non-Cooperation and Khilafat (event) | 5 (2 flagship; old Chauri Chaura story retired 27 Oct, needs one more) | done |
 | Anushilan Samiti (organisation) | 6 (2 flagship) | done (27 Oct; "The book that was a bomb" redone without lettering) |
 | Servants of India Society (organisation) | 6 (2 flagship) | done |
 | Swaraj Party (organisation) | 7 (2 flagship) | done |
@@ -216,4 +216,4 @@ which ones should be redone and why.
 | Quit India Movement (event) | 6 (2 flagship) | done (27 Oct; the flag in "Nine August" and "Two Flags" is the 1947 tricolour with the Ashoka Chakra, not the 1942 one with the spinning wheel; owner said keep) |
 | Chauri Chaura incident (event) | 6 (2 flagship) | prompts ready, 6 paintings waiting (27 Oct; Opencode researched, Claude wrote) |
 
-Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Malabar and Partition of Bengal event pages, which have none yet; decide what to do with the older Wikipedia-only story `the-fire-at-chauri-chaura` (overlaps the new six); more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.
+Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Malabar and Partition of Bengal event pages, which have none yet; Non-Cooperation and Khilafat is down to 5 stories after the old Chauri Chaura story was retired (27 Oct), so it needs one more; more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.
