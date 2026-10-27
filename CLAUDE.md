@@ -204,9 +204,13 @@ which ones should be redone and why.
 | Revolt of 1857 (event) | 7 (3 flagship) | done |
 | Swadeshi Movement (event) | 6 (2 flagship) | done |
 | Non-Cooperation and Khilafat (event) | 6 (3 flagship) | done |
-| Anushilan Samiti (organisation) | 6 (2 flagship) | 5 waiting |
-| Servants of India Society (organisation) | 6 (2 flagship) | 4 waiting |
-| Swaraj Party (organisation) | 7 (2 flagship) | 4 waiting |
+| Anushilan Samiti (organisation) | 6 (2 flagship) | done (27 Oct; "The book that was a bomb" shows readable lettering, owner asked to redo) |
+| Servants of India Society (organisation) | 6 (2 flagship) | done |
+| Swaraj Party (organisation) | 7 (2 flagship) | done |
 | Home Rule League (organisation) | 7 (2 flagship) | 4 waiting |
+| Champaran Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct; the "order to leave" painting shows the handing-over at the wrong place, to be checked) |
+| Kheda Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct) |
+| Bardoli Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct) |
+| Dandi March / Salt Satyagraha (event) | 6 (2 flagship) | done (rewritten 27 Oct; check lamp and final paintings against new texts) |
 
-Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Chauri Chaura, Malabar and Partition of Bengal event pages, which have none yet; more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.
+Suggested next: Jallianwala Bagh and Quit India (6 stories each, 2 flagships, written fresh from sources; research and pictures are on the chatgpt-work branch); more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Chauri Chaura, Malabar and Partition of Bengal event pages, which have none yet; more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.
