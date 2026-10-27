@@ -98,7 +98,7 @@ Do not just edit their drafts.
    and a "Where this picture comes from" link.
 4. **Painting prompts** for stories with no good real picture: add them to
    `illustrations/prompts.txt` in the house format (copy an existing prompts.txt). Never
-   invent a face for someone with no known photo; no flag or Ashoka Chakra; no readable
+   invent a face for someone with no known photo; flags are allowed now (owner, 27 Oct 2026); no readable
    text; no gore. Send the file to the owner.
    The site labels every painting as AI-generated automatically (badge on the picture
    and a caption). Never remove that label.
@@ -113,7 +113,7 @@ Do not just edit their drafts.
 He sends images (often a zip) named with the FILE NAMEs from prompts.txt. Put each in
 its subject's `illustrations/` folder and run `node scripts/place-illustrations.mjs`.
 Look at every image before publishing: check it matches the story (right people, right
-age, right number of children...), and has no flag, readable text or violence. Tell him
+age, right number of children...), and has no readable text or violence (flags are fine). Tell him
 which ones should be redone and why.
 
 ## Media galleries (Wikimedia)

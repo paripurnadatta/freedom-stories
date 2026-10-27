@@ -62,8 +62,7 @@ Re-read "The rules for every story" in CLAUDE.md before each story. In short:
 - Use "HRA" before September 1928 and "HSRA" after.
 - Pictures: only free licences (public domain, CC0, CC BY, CC BY-SA, plus Government of India
   stamps / GODL-India as an owner-approved exception) from Wikimedia Commons,
-  with credit, licence and a "Where this picture comes from" link. No readable text, flags,
-  Ashoka Chakra, gore, or invented faces in painting prompts.
+  with credit, licence and a "Where this picture comes from" link. No readable text, gore, or invented faces in painting prompts (flags are allowed since 27 Oct 2026).
 
 ## Routine, in order, for each subject
 
