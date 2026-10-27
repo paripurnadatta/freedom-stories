@@ -21,3 +21,7 @@
   (808 words) and `champaran-the-listening-house.md` (795 words) are below the 900-word flagship
   minimum. Left alone here, because stories are yours to write. `astro build` and Pagefind pass
   (589 pages, 472 indexed).
+
+## 27 October 2026: rewritten by Claude
+
+All six stories were written fresh from the sources listed in checked.md. The old text was not used. Check passes.

@@ -1,42 +1,68 @@
 ---
 title: "One Kitchen for the Inquiry"
-subtitle: "The lawyers sent their cooks home"
+subtitle: "The lawyers who came to help Gandhi in Champaran each brought a servant and a cook. Dinner was often at midnight. Gandhi teased them until they changed."
 type: short
-when: "1917"
-where: "Champaran, Bihar"
-published: 2026-10-25
+when: "April to May 1917"
+where: "Motihari, in Champaran"
+published: 2026-10-27
 about:
   - "champaran-satyagraha"
   - "mahatma-gandhi"
+  - "brij-kishore-prasad"
+  - "rajendra-prasad"
 year: 1917
 sources:
+  - title: "Gandhi, An Autobiography: The Gentle Bihari"
+    url: "https://www.mkgandhi.org/autobio/chap137.php"
+    publisher: "mkgandhi.org"
   - title: "Gandhi, An Autobiography: Methods of Work"
     url: "https://www.mkgandhi.org/autobio/chap140.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
   - title: "Gandhi, An Autobiography: Companions"
     url: "https://www.mkgandhi.org/autobio/chap141.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
+  - title: "Satyagraha in Champaran, by Rajendra Prasad (2nd edition, 1949)"
+    url: "https://www.mkgandhi.org/ebks/satyagraha-in-champaran.pdf"
+    publisher: "Navajivan, on mkgandhi.org"
 status: published
 ---
 
-The lawyers working with Gandhi in Champaran had brought more than their legal skills. Some had brought servants and cooks. Each household kept its own habits. Meals could happen late, and different people ate at different times.
+What does dinner have to do with a fight for justice? In Champaran in 1917, quite a lot.
 
-Meanwhile, farmers were arriving with complaints about indigo cultivation. Volunteers had to listen, ask questions, and write statements. Gandhi needed his helpers' time. The complicated arrangements for daily living were getting in the way.
+## The lawyers arrive
 
-He proposed a change. They should dismiss their servants and use one kitchen. Everyone would eat simple vegetarian meals together. This would reduce the work and the expense of feeding the group.
+Gandhi had come to Champaran to look into the troubles of the indigo farmers. He needed help. Lawyers from Bihar joined him, led by Brajkishore Prasad and Rajendra Prasad.
 
-The lawyers agreed. These were men accustomed to professional work and personal assistance. They now adjusted their daily lives to the needs of the inquiry. There was no separate campaign for this change. It happened in the house where the larger campaign was being organised.
+These were successful men. Gandhi was amazed at the fees they were used to charging. He had heard of one lawyer being paid Rs 10,000 for a single opinion. In Champaran, they agreed to work for nothing. Their job was to write down the farmers' statements and translate for Gandhi.
 
-Gandhi later recalled their response with affection. They accepted his teasing about their habits. More importantly, they accepted the practical suggestion behind it. The servants went home, and the common kitchen began.
+They brought their old way of living with them.
 
-The choice fitted the way Gandhi wanted to pay for the inquiry. He refused to raise money from the Champaran farmers. They were already bringing their troubles to him. He did not want to add the inquiry's bills to their burdens.
+## Too many kitchens
 
-He also turned down a large offer from Bombay friends. Support came from well-wishers in Bihar outside Champaran. Dr Pranjivan Mehta stood ready to help if necessary. Keeping expenses low made those arrangements easier.
+Each lawyer had his own servant and his own cook. So each one had a separate kitchen. They often ate dinner as late as midnight.
 
-The shared kitchen was therefore more than a household convenience. It connected the helpers' own conduct to the work they were doing. They were asking farmers to speak honestly and face difficult questions. They could also accept changes in their own comfortable routines.
+They paid for all this themselves. But their irregular hours worried Gandhi. The house was already crowded with farmers and helpers, and the work was hard.
 
-Their legal work continued. Farmers still needed careful listeners. Gandhi still needed colleagues who understood the district. Sending a cook home did not replace those skills. It freed the group to use them more steadily.
+So Gandhi made fun of their habits, again and again. In his autobiography, he says their curious ways of living were "a constant theme of raillery".
 
-<aside class="note"><b>Remembered later</b>: Gandhi tells the kitchen story in his autobiography. It concerns the Champaran inquiry of 1917, not his earlier visit to Santiniketan.</aside>
+<aside class="note"><b>Raillery</b>: good-humoured teasing.</aside>
 
-The inquiry is often remembered through the court and the indigo fields. Gandhi's account also takes us inside the workers' home. Before the next day's statements could be written, everyone needed a meal. One kitchen made that small part of the work simpler.
+The lawyers did not take offence. By now they had become close friends with Gandhi. They took the teasing in good spirit.
+
+## The new rules
+
+In the end they all agreed to change. The servants were sent away. All the kitchens were joined into one. Meals would be served at fixed hours.
+
+There was one difficulty. Not everyone in the team was a vegetarian. But running two kitchens, one for meat-eaters and one for vegetarians, would cost too much. So they decided on one shared vegetarian kitchen. They also agreed that the meals should be simple.
+
+## What changed
+
+Gandhi wrote that the new arrangements cut their costs a great deal. They also saved time and energy, and both were badly needed.
+
+Money mattered. Gandhi had refused to take anything from the farmers of Champaran, and he had turned down an offer of Rs 15,000 from friends in Bombay. The whole inquiry, as he remembered it, cost no more than about three thousand rupees.
+
+Time mattered too. Crowds of farmers came every day to tell their stories. Even with five to seven helpers writing, some went home unheard.
+
+## Why it matters
+
+The lawyers of Champaran gave up their fees. They also gave up their cooks, their servants and their late dinners. A shared kitchen turned a group of busy professionals into one team, living as plainly as the people they were trying to help.

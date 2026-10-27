@@ -1,78 +1,126 @@
 ---
 title: "The House That Listened"
-subtitle: "How farmers' complaints became evidence"
+subtitle: "For weeks in 1917, farmers queued outside a house in Motihari to tell their stories. Each story was written down, checked and tested, while a police officer sat in the room."
 type: flagship
-when: "1917"
-where: "Champaran, Bihar"
-published: 2026-10-25
+when: "17 April to early June 1917"
+where: "Motihari and Bettiah, in Champaran"
+published: 2026-10-27
 about:
   - "champaran-satyagraha"
   - "mahatma-gandhi"
+  - "brij-kishore-prasad"
   - "rajendra-prasad"
+  - "j-b-kripalani"
+  - "anugrah-narayan-sinha"
+  - "mazharul-haque"
+  - "champaran"
 year: 1917
 sources:
+  - title: "Gandhi, An Autobiography: The Gentle Bihari"
+    url: "https://www.mkgandhi.org/autobio/chap137.php"
+    publisher: "mkgandhi.org"
+  - title: "Gandhi, An Autobiography: Case Withdrawn"
+    url: "https://www.mkgandhi.org/autobio/chap139.php"
+    publisher: "mkgandhi.org"
   - title: "Gandhi, An Autobiography: Methods of Work"
     url: "https://www.mkgandhi.org/autobio/chap140.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
   - title: "Gandhi, An Autobiography: Companions"
     url: "https://www.mkgandhi.org/autobio/chap141.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
-  - title: "Gandhi, An Autobiography: When a Governor Is Good"
-    url: "https://www.mkgandhi.org/autobio/chap143.php"
-    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+    publisher: "mkgandhi.org"
+  - title: "Satyagraha in Champaran, by Rajendra Prasad (2nd edition, 1949)"
+    url: "https://www.mkgandhi.org/ebks/satyagraha-in-champaran.pdf"
+    publisher: "Navajivan, on mkgandhi.org"
+  - title: "What Champaran gave to Gandhi and India's freedom struggle (Ramachandra Guha)"
+    url: "https://www.mkgandhi.org/articles/what-Champaran-gave-to-Gandhi-and-India-freedom-struggle.php"
+    publisher: "Scroll.in, on mkgandhi.org"
 status: published
 ---
 
-Farmers crowded the compound of the house in Champaran. Inside, volunteers took down their accounts. More people were waiting to speak. Gandhi and his helpers needed a place where the work could continue every day.
+Imagine you are a farmer in Champaran in 1917. For years you have grown indigo you did not want to grow. You have paid extra rent and fees to the indigo estates.
 
-Finding that place had not been easy. People were reluctant to rent a house to Gandhi's party. Brajkishore Prasad finally arranged a large house with space around it. The inquiry now had room to receive the villagers who kept arriving.
+Now word comes that a man from far away is sitting in a house in Motihari. He wants to hear your story. And he will write it down.
 
-It was 1917. Gandhi had been allowed to remain in the district. The order telling him to leave had led to a court case. That case was withdrawn. Now came the slower task behind the public excitement: finding out what had happened to the farmers.
+That is how the Champaran inquiry worked. It was not a protest march. It was a long, patient act of listening.
 
-The workers could not simply collect every accusation as a proven fact. A complaint might contain a mistake. A date might be uncertain. Someone might repeat a neighbour's account instead of describing their own experience. The inquiry needed to separate strong evidence from weak claims.
+## The first statements
 
-Gandhi set a rule. Each person giving a statement must answer further questions. If an account failed that questioning, it should not be recorded. If it looked doubtful, it should be left out. More pages would not help if the pages could not be trusted.
+Even before his trial, Gandhi had started. On 17 April 1917, the day after he was ordered to leave, farmers came to Motihari. His helpers wrote down their statements all day. A police sub-inspector arrived and noted the farmers' names, at first secretly and then openly.
 
-<aside class="note"><b>Evidence</b>: Information used to check whether a claim is true.</aside>
+Once the case against Gandhi was dropped, the work grew. From 19 April, group after group of farmers came in. Gandhi wrote down some statements himself, and read the ones his helpers wrote.
 
-Five to seven volunteers usually wrote statements at the same time. Even so, the daily work could be hard to finish. Groups arrived with more than one speaker. Some villagers came mainly because they wanted to see Gandhi. The house served as both an inquiry office and a meeting place.
+## A house for the inquiry
 
-Kripalani helped manage the visitors. He took on the work of guarding Gandhi's time. Sometimes he used humour. At other times he had to be firm. Without someone doing this, the writing and questioning could easily have stopped beneath the press of visitors.
+So far they had all been crowded into the home of Gorakh Prasad, a local lawyer. They could not keep using it without pushing him out of his own house. And the people of Motihari were still too afraid to rent a house to Gandhi.
 
-The helpers came from different places and brought different skills. Brajkishore Prasad and Rajendra Prasad were central to the work. Other lawyers helped gather statements. Mazharul Haq visited and offered support. Gandhi depended on people who understood Bihar and its villages.
+In the end a house was found, with plenty of open space around it. The whole team moved in.
 
-Police observers were often present too. Gandhi did not try to hide the inquiry from them. He told his helpers to treat them politely. Where possible, they should answer reasonable questions and provide information.
+<aside class="note"><b>Two versions</b>: Gandhi's autobiography says Brajkishore Prasad found the house. Rajendra Prasad's book says a young man of the Sahu family of Motihari, Ramadayal Prasad, found it, and that the family helped the team all the time it was there.</aside>
 
-The officers' presence changed the room. Farmers had to speak while representatives of government could hear them. Gandhi believed that doing this helped reduce their fear. He also thought it discouraged exaggeration. The inquiry was meant to withstand being watched.
+## The team
 
-This did not mean that all sides already agreed. The planters had their own position. When Gandhi heard particular complaints against a planter, he wrote to that planter. He also tried to meet planters and discuss the trouble directly.
+The writing was done by lawyers from Bihar. Brajkishore Prasad and Rajendra Prasad led them. Shambhusharan, Anugraha Narayan Sinha, Dharanidhar Prasad, Ramnavmi Prasad and others worked beside them.
 
-Some received him well. Others remained unfriendly. He did not make friendliness a condition for hearing them. An inquiry into unfair treatment still needed to examine the answers of those accused.
+These were men used to large fees. Now they worked as clerks and interpreters, for nothing. Gandhi could not understand the local Hindi well. He could not read papers in the Kaithi or Urdu scripts. So they translated for him.
 
-There was another problem: money. The workers needed somewhere to stay and something to eat. Paper, travel, and daily arrangements all cost money. Yet Gandhi would not collect contributions from the Champaran farmers whose complaints were being investigated.
+J. B. Kripalani, the college teacher from Muzaffarpur, joined too. Gandhi called him his "gatekeeper in chief". Crowds wanted just to see Gandhi, and Kripalani kept them away so the work could go on. He used jokes, and sometimes gentle threats. Mazharul Haque, a well-off lawyer from Patna, came to visit once or twice a month.
 
-Taking money from them might confuse the purpose of the work. They had come for help. The inquiry should not become another demand upon them. Gandhi also declined an offer of fifteen thousand rupees from friends in Bombay.
+## The queue
 
-He wanted the local work to remain simple. Friends in Bihar, outside Champaran, helped with expenses. Dr Pranjivan Mehta offered support if more money was needed. In the end, Gandhi remembered that the cost had been modest.
+Farmers came in crowds. Their friends and relatives came with them, and filled the garden. At least five to seven helpers were needed to take down statements. Even so, some people had to go home in the evening without being heard.
 
-<aside class="note"><b>A remembered total</b>: Gandhi estimated the spending at no more than three thousand rupees. He wrote from memory, so this is not an audited account.</aside>
+Many statements repeated each other. But the farmers wanted to be heard themselves, and Gandhi understood that.
 
-The household itself had to change. Some lawyers had brought their own cooks and servants. Their meals happened at different times. Gandhi proposed a shared kitchen and simpler arrangements. The lawyers agreed to send their servants away.
+## The test
 
-A common vegetarian kitchen reduced both cost and work. It also helped people keep to a common routine. The inquiry could not run well if its helpers spent much of the day managing separate households.
+There was a strict rule. Each farmer was closely questioned about his story. If the story did not hold up, it was not used.
 
-Beyond the compound, other needs became clear. The farmers wanted relief from the indigo system. Their children also needed schools. Villages needed help with cleanliness and illness. Gandhi began arranging a second kind of work alongside the statements.
+This took a great deal of extra time. But it meant that the statements that were kept could not easily be proved wrong.
 
-He kept the tasks apart. The teachers and health workers were not to turn every visit into a political complaint. People with grievances should come to him. Volunteers working in a village needed to stay with their assigned work.
+<aside class="note"><b>Cross-examine</b>: to question someone carefully about what they have said, to check that it is true.</aside>
 
-This division mattered because the inquiry had a clear purpose. Its findings needed to be dependable. Meanwhile, teaching and village service should not wait until every argument with the planters had ended.
+## A policeman in the room
 
-As the statements accumulated, the government asked Gandhi to finish and leave. He replied that the work could end when the complaints were addressed. Another possibility was a proper government inquiry. In time, that second path opened.
+An officer of the C.I.D., the police intelligence branch, was always present while the statements were taken. Gandhi could have tried to keep him out. Instead the team decided to be polite to him, and to give him all the information they could.
 
-Gandhi was invited to join an official committee. The careful listening in Champaran now had another place to be heard. He accepted only after protecting his freedom to consult his colleagues and support the farmers.
+That choice helped. Gandhi wrote that seeing the farmers speak in front of a police officer made them braver. It also stopped them from exaggerating, because they knew the police were listening.
 
-The committee eventually recommended changes. Tinkathia was to end, and part of certain payments was to be returned. These decisions did not emerge from one stirring speech. Behind them stood visits, questions, written statements, and arguments checked against other accounts.
+Outside the house, policemen in ordinary clothes followed Gandhi wherever he went. They took notes of everything he said at meetings.
 
-Gandhi described the working house years later in his autobiography. His account remembers famous colleagues, but also ordinary practical choices. A rented compound gave people space. One kitchen saved time. Difficult questions made the written record stronger.
+## Money
 
-The farmers had come to tell their stories. The helpers' task was to listen closely enough that those stories could become evidence.
+Running the inquiry needed money. Gandhi decided not to take a single paisa from the farmers of Champaran. That would be misunderstood. He also refused to ask the whole country for funds, because that would make the inquiry look political.
+
+Friends in Bombay offered Rs 15,000. Gandhi said no, with thanks. Instead, with Brajkishore Prasad's help, they raised money from well-off people of Bihar who lived outside Champaran. Gandhi's friend Dr P. J. Mehta in Rangoon promised to send whatever else was needed.
+
+They lived very simply. Gandhi remembered that the whole inquiry cost no more than about three thousand rupees. They even had a few hundred rupees left over.
+
+## Talking to the other side
+
+Gandhi did not want to make the planters into enemies. He wanted to win them over. So he wrote to and met planters who were accused of serious wrongs. He met the Planters' Association and put the farmers' complaints to them.
+
+Gandhi wrote that some planters hated him, some did not care, and a few treated him with courtesy.
+
+He also kept newspapers out. He asked editors not to send reporters. Angry reports, he feared, would make the planters more furious, and their anger would fall on the frightened farmers.
+
+Even so, some planters attacked him in the press. Many false stories were printed about Gandhi and his helpers. Brajkishore Prasad was attacked most of all.
+
+<aside class="note"><b>Planter</b>: in Champaran, usually a European who ran an indigo estate and a factory, and who rented land to farmers.</aside>
+
+## Seven thousand voices
+
+The listening went on, in Motihari and in Bettiah, the district's other main town. By the end of May, Gandhi had spent six weeks in Champaran. His team had collected almost seven thousand first-hand statements.
+
+Gandhi was happy in the work. In a letter to a Danish friend, he wrote that the farmers loved simply to sit around him. They trusted him to do the right thing. He only hoped, he wrote, that he was worthy of all that love.
+
+## The planters push back
+
+The pile of statements worried the planters. Fires broke out at two indigo factories, and some planters blamed the trouble on Gandhi's presence. On 31 May, a European association in Muzaffarpur passed a resolution. It asked the government to remove Gandhi and his helpers from Champaran at once.
+
+Soon after, Gandhi was called to meet the Lieutenant Governor of Bihar in Ranchi. His friends feared he might not be allowed to come back.
+
+## Why it matters
+
+The farmers of Champaran had complained before. This time, their complaints were written down carefully, one by one, and tested. A police officer had watched the whole process.
+
+Thousands of checked statements were hard to brush aside. They became the evidence that changed the government's mind.
