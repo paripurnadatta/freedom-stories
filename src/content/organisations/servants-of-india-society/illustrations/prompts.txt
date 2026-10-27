@@ -10,31 +10,61 @@ Only stories that need a painting are listed. The others use real photographs.
 Do not show clear faces of real people in any of these. Show them from behind or at a distance.
 
 ==============================================================================
-1. A school for serving the country  (flagship story)
+1. Books that travelled  (short story)
 ==============================================================================
-FILE NAME: a-school-for-serving-the-country
-Save it as a-school-for-serving-the-country.png (or .jpg / .webp) in this folder.
+FILE NAME: books-that-travelled
+Save it as books-that-travelled.png (or .jpg / .webp) in this folder.
 Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
-Where it goes: the top of the story "A school for serving the country", and its card everywhere on the site
+Where it goes: the top of the story "Books that travelled", and its card everywhere on the site
 
 PROMPT (copy everything between the lines):
 ------------------------------------------------------------------------------
-A small 1900s Indian house in a quiet part of Pune, seen from the street at morning, a plain doorway with no sign, a few men in white clothes carrying books and small bundles seen from behind, their faces not shown, warm early light on the narrow lane. Wide composition, 16:9.
+A small bullock cart with open wooden shelves full of books, moving along a lane in a 1910s Indian city, a few men and children in white clothes gathering around it, seen from behind so no faces are clear, no readable writing on the books or the cart, warm afternoon light. Wide composition, 16:9.
 
-Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s to 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
 
 ==============================================================================
-2. The Gujarat that went without for one year  (flagship story)
+2. The engineer who became Bapa  (short story)
 ==============================================================================
-FILE NAME: the-gujarat-that-went-without-for-one-year
-Save it as the-gujarat-that-went-without-for-one-year.png (or .jpg / .webp) in this folder.
+FILE NAME: the-engineer-who-became-bapa
+Save it as the-engineer-who-became-bapa.png (or .jpg / .webp) in this folder.
 Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
-Where it goes: the top of the story "The Gujarat that went without for one year", and its card everywhere on the site
+Where it goes: the top of the story "The engineer who became Bapa", and its card everywhere on the site
 
 PROMPT (copy everything between the lines):
 ------------------------------------------------------------------------------
-A dry Indian landscape at midday, cracked earth and low hills, a small line of bare trees, a few figures in white clothes seen from the far end of a dusty road, their faces not shown, carrying small bundles, the sun high and the light harsh and pale. Wide composition, 16:9.
+A narrow 1910s Bombay lane at early morning with simple low huts beside an open drain, a man in a plain white coat and cap standing at the edge of the lane seen from behind, his face not shown, a few residents in simple clothes far away in the lane, soft grey and gold light. Wide composition, 16:9.
 
-Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, harsh pale sunlight against deep indigo shadows, touches of dry ochre and leaf green. Historically accurate 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons. Do not include the Indian national flag or the Ashoka Chakra.
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s to 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+3. The man who raised the money himself  (short story)
+==============================================================================
+FILE NAME: the-man-who-raised-the-money-himself
+Save it as the-man-who-raised-the-money-himself.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "The man who raised the money himself", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet 1900s Indian study in the evening, a man in a long white coat and turban seen from behind sitting at a wooden desk writing letters by an oil lamp, stacks of letters and a small tin trunk beside him, warm lamplight, the window dark. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s to 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
+------------------------------------------------------------------------------
+
+==============================================================================
+4. What Gokhale asked for at the end  (short story)
+==============================================================================
+FILE NAME: what-gokhale-asked-for-at-the-end
+Save it as what-gokhale-asked-for-at-the-end.png (or .jpg / .webp) in this folder.
+Shape: extra wide, 16:6. Generate at 2400 x 900 pixels if your tool lets you choose.
+Where it goes: the top of the story "What Gokhale asked for at the end", and its card everywhere on the site
+
+PROMPT (copy everything between the lines):
+------------------------------------------------------------------------------
+A quiet sickroom in Pune in 1915 at dusk, a simple iron bed with white sheets beside a window, a small oil lamp, a few men in white clothes seated on the floor at the far side of the room with their heads bowed, seen from behind so no faces are clear. Wide composition, 16:9.
+
+Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate 1900s to 1910s Indian clothing, architecture and objects. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra.
 ------------------------------------------------------------------------------
