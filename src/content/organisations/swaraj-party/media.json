@@ -1,49 +1,67 @@
 {
- "subject": "swaraj-party",
- "wikidata": null,
- "wikipedia": "Swaraj Party",
- "commonsCategory": "Swaraj Party",
- "matchedBy": "portraits",
- "fetched": "2026-10-24",
- "hidden": [],
- "originals": [
-  "chittaranjan-das.webp",
-  "motilal-nehru.webp"
- ],
- "items": [
-  {
-   "file": "chittaranjan-das.webp",
-   "type": "image",
-   "title": "Chittaranjan Das",
-   "description": "Chittaranjan Das (1870-1925) after his release from prison in 1922, co-founder of the Swaraj Party.",
-   "date": "1922",
-   "author": "Prabaasi Patrika",
-   "license": "Public domain",
-   "thumb": "/files/organisations/swaraj-party/archive/chittaranjan-das.webp",
-   "url": "/files/organisations/swaraj-party/archive/chittaranjan-das.webp",
-   "page": "https://commons.wikimedia.org/wiki/File:Chittaranjan_Das.png",
-   "width": 365,
-   "height": 599,
-   "foundIn": "owner-zip",
-   "year": 1922,
-   "era": "original"
-  },
-  {
-   "file": "motilal-nehru.webp",
-   "type": "image",
-   "title": "Motilal Nehru",
-   "description": "Motilal Nehru (1861-1931), co-founder of the Swaraj Party, leader in the Central Legislative Assembly.",
-   "date": "",
-   "author": "Unknown",
-   "license": "Public domain",
-   "thumb": "/files/organisations/swaraj-party/archive/motilal-nehru.webp",
-   "url": "/files/organisations/swaraj-party/archive/motilal-nehru.webp",
-   "page": "https://commons.wikimedia.org/wiki/File:MotilalNehru4.jpg",
-   "width": 708,
-   "height": 1016,
-   "foundIn": "owner-zip",
-   "year": 1923,
-   "era": "original"
-  }
- ]
+  "subject": "swaraj-party",
+  "wikidata": null,
+  "wikipedia": "Swaraj Party",
+  "commonsCategory": "Swaraj Party",
+  "matchedBy": "portraits",
+  "fetched": "2026-10-24",
+  "hidden": [],
+  "originals": [
+    "chittaranjan-das.webp",
+    "motilal-nehru.webp",
+    "gandhi-and-das-darjeeling-1925.webp"
+  ],
+  "items": [
+    {
+      "file": "chittaranjan-das.webp",
+      "type": "image",
+      "title": "Chittaranjan Das",
+      "description": "Chittaranjan Das (1870-1925) after his release from prison in 1922, co-founder of the Swaraj Party.",
+      "date": "1922",
+      "author": "Prabaasi Patrika",
+      "license": "Public domain",
+      "thumb": "/files/organisations/swaraj-party/archive/chittaranjan-das.webp",
+      "url": "/files/organisations/swaraj-party/archive/chittaranjan-das.webp",
+      "page": "https://commons.wikimedia.org/wiki/File:Chittaranjan_Das.png",
+      "width": 365,
+      "height": 599,
+      "foundIn": "owner-zip",
+      "year": 1922,
+      "era": "original"
+    },
+    {
+      "file": "motilal-nehru.webp",
+      "type": "image",
+      "title": "Motilal Nehru",
+      "description": "Motilal Nehru (1861-1931), co-founder of the Swaraj Party, leader in the Central Legislative Assembly.",
+      "date": "",
+      "author": "Unknown",
+      "license": "Public domain",
+      "thumb": "/files/organisations/swaraj-party/archive/motilal-nehru.webp",
+      "url": "/files/organisations/swaraj-party/archive/motilal-nehru.webp",
+      "page": "https://commons.wikimedia.org/wiki/File:MotilalNehru4.jpg",
+      "width": 708,
+      "height": 1016,
+      "foundIn": "owner-zip",
+      "year": 1923,
+      "era": "original"
+    },
+    {
+      "file": "gandhi-and-das-darjeeling-1925.webp",
+      "type": "image",
+      "title": "Gandhi and Chittaranjan Das at Darjeeling",
+      "description": "A walk on the Hill Cart Road near Kakjhora, Darjeeling, 1925. Gandhi walks with Das and others; the Commons page also names Annie Besant.",
+      "date": "1925",
+      "author": "Gandhi Heritage Portal",
+      "license": "CC BY-SA 3.0",
+      "thumb": "/files/organisations/swaraj-party/archive/gandhi-and-das-darjeeling-1925.webp",
+      "url": "/files/organisations/swaraj-party/archive/gandhi-and-das-darjeeling-1925.webp",
+      "page": "https://commons.wikimedia.org/wiki/File:Chittaranjan_Das_1925.jpg",
+      "width": 500,
+      "height": 297,
+      "foundIn": "commons",
+      "year": 1925,
+      "era": "original"
+    }
+  ]
 }
