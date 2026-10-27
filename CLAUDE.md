@@ -204,5 +204,9 @@ which ones should be redone and why.
 | Revolt of 1857 (event) | 7 (3 flagship) | done |
 | Swadeshi Movement (event) | 6 (2 flagship) | done |
 | Non-Cooperation and Khilafat (event) | 6 (3 flagship) | done |
+| Anushilan Samiti (organisation) | 6 (2 flagship) | 5 waiting |
+| Servants of India Society (organisation) | 6 (2 flagship) | 4 waiting |
+| Swaraj Party (organisation) | 7 (2 flagship) | 4 waiting |
+| Home Rule League (organisation) | 7 (2 flagship) | 4 waiting |
 
 Suggested next: more Nehru (two houses, Kamala, Brussels and Moscow, prison letters: sources not yet opened), more Ambedkar (Kalaram temple, Daulatabad, his own account of the Poona fast), Ashfaqulla (needs outside research); more Azad (Dharasana, the sealed pages, his Urdu books: sources not yet opened); a second flagship each for Rajguru and Velu Nachiyar; stories for the Chauri Chaura, Malabar and Partition of Bengal event pages, which have none yet; more flagships for the organisations and events added on 22 and 23 October 2026 if sources allow.

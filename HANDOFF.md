@@ -12,7 +12,8 @@ Report once per subject, in plain words (what was added, left out, which paintin
 
 ## Branches (check with `git branch -a`)
 
-- `main` (8512ab6): the published site. Nothing from 24-27 October is on it yet.
+- `main`: the published site. On 27 October `local-work` was merged into it (fast-forward), so the Anushilan Samiti,
+  Servants of India Society, Swaraj Party and Home Rule League rewrites are on `main`. Keep working on `local-work`.
 - `local-work`: current working branch, pushed to GitHub. Holds the Anushilan Samiti, Servants of India
   Society and Swaraj Party rewrites. Commit only `git add src` (plus .gitignore). Commit trailers:
   `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>` and the `Claude-Session:` line from the reminder.
@@ -33,7 +34,7 @@ Report once per subject, in plain words (what was added, left out, which paintin
 | Swaraj Party | 7 | 2 | checked.md updated 27 Oct; 4 stories need paintings |
 | Home Rule League | 7 | 2 | rewritten 27 Oct from fresh sources; checked.md lists 9 disagreements; 4 stories need paintings |
 
-CLAUDE.md progress table does not list these four yet: add rows when merging to main.
+CLAUDE.md progress table lists all four (added 27 October).
 
 ## Open work, in this order
 
