@@ -1,41 +1,107 @@
-# HANDOFF.md: notes from the previous Claude session (23 October 2026)
+# HANDOFF.md: notes from the previous Claude session (updated 27 October 2026)
 
-Read CLAUDE.md first (the rulebook), then this file. This file is the working memory of the
-session that wrote the eight subjects below. It is notes, not rules. If it disagrees with
-CLAUDE.md, CLAUDE.md wins.
+Read CLAUDE.md first (the rulebook), then this file. This file is working memory, not rules. If it
+disagrees with CLAUDE.md, CLAUDE.md wins.
 
-## State at handoff
+## Owner's workflow now (decided 27 October 2026)
 
-Everything is committed and pushed to `main` (last commit: "Add Non-Cooperation and Khilafat...").
-`npm run check` passes (293 stories) and `npm run build` passes.
+Opencode does the research and puts the files in the repo. Claude writes every story from sources
+Claude opens itself. The owner generates the paintings. Work one subject at a time, in the order below.
+Do not start work the owner has not asked for: he has twice said "don't start working now".
+Report once per subject, in plain words (what was added, left out, which paintings are needed).
 
-Finished on 22 and 23 October 2026 (all with index.md, angles and painting prompts):
+## Branches (check with `git branch -a`)
 
-| Subject | Folder | Stories | Flagships |
+- `main` (8512ab6): the published site. Nothing from 24-27 October is on it yet.
+- `local-work`: current working branch, pushed to GitHub. Holds the Anushilan Samiti, Servants of India
+  Society and Swaraj Party rewrites. Commit only `git add src` (plus .gitignore). Commit trailers:
+  `Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>` and the `Claude-Session:` line from the reminder.
+- `origin/chatgpt-work`: 10 commits ahead of `main`, 0 behind, touches only `src/content/events/`.
+  Holds 24 ChatGPT-written stories (Champaran, Kheda, Bardoli, Dandi March, 6 each, paintings placed) and
+  research plus pictures only (NO stories) for Jallianwala Bagh (10 pictures) and Quit India (16 pictures).
+  A normal merge into `local-work` is safe. Before merging, ask the owner about his 12 uncommitted edited
+  Champaran/Kheda story files on his own computer.
+- Others (`review-chatgpt`, `chatgpt-research`, `redesign`, `search-upgrade`, `subject-folders`,
+  `dynamic-home`): untouched, ignore.
+
+## Done in the 24-27 October rewrite (all passed `node scripts/check-stories.mjs`)
+
+| Subject | Stories | Flagships | Notes |
 |---|---|---|---|
-| Indian National Congress | organisations/indian-national-congress | 7 | 4 |
-| HSRA with HRA | organisations/hindustan-socialist-republican-association | 6 | 2 |
-| Indian National Army | organisations/indian-national-army | 6 | 2 |
-| Ghadar Party | organisations/ghadar-party | 6 | 3 |
-| Khudai Khidmatgar | organisations/khudai-khidmatgar | 6 | 3 |
-| Revolt of 1857 | events/revolt-of-1857 | 7 | 3 |
-| Swadeshi Movement | events/swadeshi-movement | 6 | 2 |
-| Non-Cooperation and Khilafat | events/non-cooperation-and-khilafat-movement | 6 | 3 |
+| Anushilan Samiti | 6 | 2 | each source disagreement is in a "Two versions" note and in research/checked.md |
+| Servants of India Society | 6 | 2 | research/checked.md NOT yet updated for the rewrite |
+| Swaraj Party | 7 | 2 | checked.md updated 27 Oct; 4 stories need paintings |
 
-Do not redo these. Paintings for them are NOT made yet: 53 prompts wait with the owner
-(each subject's `illustrations/prompts.txt`; Pritilata 3 and the Home page 1 are older ones).
+CLAUDE.md progress table does not list these three yet: add rows when merging to main.
 
-## Open work (suggested order)
+## Open work, in this order
 
-1. A second flagship each for Shivaram Rajguru and Rani Velu Nachiyar (both have 6 stories, 1 flagship).
-2. The event pages Chauri Chaura incident, Malabar (Moplah) and Partition of Bengal have no stories of their own.
-   Related stories exist under bigger subjects: `the-fire-at-chauri-chaura` (Non-Cooperation folder),
-   `a-line-drawn-through-bengal` (Swadeshi folder). Write fresh ones; do not move those.
-3. More depth: Nehru, Ambedkar, Azad (see "Suggested next" in CLAUDE.md).
-4. `astro.config.mjs` and `public/robots.txt` still use `example.com`. Ask the owner for the real domain.
-5. Thin subjects in this batch worth deepening if better sources are found: Swadeshi (only 2 flagships,
-   no Surat-split story; Bengal Chemicals/P. C. Ray sources do not mention Swadeshi), Khudai Khidmatgar
-   short stories (Takkar rests on one Pashto book for its numbers).
+1. **Home Rule League** (`organisations/home-rule-league`): all 7 stories fail the check (padded, long
+   sentences, 638-word flagship). Rewrite from fresh sources. The picture `tilak-in-madras-1917.webp` has a
+   suspect caption (the Commons photo shows people waiting for Tilak, not Tilak): verify before using. If the
+   sources cannot support 6 stories with 2 flagships, leave it unpublished and list what is missing.
+2. **The 24 ChatGPT stories** (Champaran, Kheda, Bardoli, Dandi): per the 22 October rule they must be
+   rewritten fresh by Claude from sources Claude opens. Do not just edit them.
+3. **Jallianwala Bagh and Quit India**: write 6 stories each (2 flagships) from `research/` plus pictures on
+   `chatgpt-work`. Read each report, check every claim, look at every picture. Their old painting prompts
+   belong to stories that were never written: redo the prompts to match the new stories.
+4. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
+   table, merge to `main`, push, then tell the owner: "git pull, then npm run dev, then open
+   http://localhost:4321".
+5. Older items: a second flagship each for Rajguru and Velu Nachiyar; Chauri Chaura, Malabar and Partition of
+   Bengal event pages have no stories; more depth for Nehru, Ambedkar, Azad.
+
+`npm run build` is blocked right now because the check fails on Home Rule League only. Filter output with
+`node scripts/check-stories.mjs 2>&1 | grep <subject>`.
+
+## Paintings waiting for the owner
+
+13 for the rewritten subjects, in each subject's `illustrations/prompts.txt`:
+Swaraj Party 4 (the-mayor-of-calcutta, the-pact-that-congress-refused, the-passport-that-went-to-the-wrong-brother,
+the-party-that-won-and-would-not-rule), Anushilan Samiti 5 (the-trial-that-watched-all-of-india,
+a-newspaper-called-jugantar, the-night-a-bomb-fell-on-the-wrong-carriage, the-teacher-in-dhaka,
+the-book-that-was-a-bomb), Servants of India Society 4 (books-that-travelled, the-engineer-who-became-bapa,
+the-man-who-raised-the-money-himself, what-gokhale-asked-for-at-the-end). Older: the 53 prompts from 23 October.
+When paintings arrive: put each in its subject's `illustrations/`, run `node scripts/place-illustrations.mjs`,
+look at every image, tell the owner which to redo and why.
+
+## Lessons from the rewrite (practical)
+
+- Routine per subject: fetch Wikipedia plus one or two independent sources, list real disagreements, write
+  each story from a short list of sourced facts, audit every sentence against the page, run the check,
+  rewrite index.md (summary, dates, related, sources, angles), update research/checked.md, commit.
+- Fetching with curl and the User-Agent `FreedomStoriesBot/1.0 (paripurna.dutta@gmail.com)` works for Wikipedia
+  (use `?action=raw` or the page HTML), Banglapedia (`en.banglapedia.org/index.php/<Title>`, titles are exact:
+  `Das,_Chitta_Ranjan`), GKToday, franpritchett.com, and mkgandhi.org (pictorial biography pages end `.htm`,
+  for example `biography/reaction.htm`). Britannica is blocked. The Commons API is blocked, but File: pages and
+  `Special:FilePath/<name>?width=500` work (960 only if the original is wider). Wait 2-3 seconds between calls.
+- Use either the story's `image:` front matter (top of the story and card) or an inline `<figure class="plate">`,
+  not both for the same picture.
+- Source disagreements found are listed in each subject's research/checked.md. Do not state a figure that only
+  appears on a page you could not open (for example the Gaya vote count).
+- A flagship needs 900+ words not counting notes. Add sourced facts (dates, names, what happened next), never
+  scenery. Average sentence under 15 words; quotes over 30 words must be split around the quote.
+- `about:` slugs must exist (`ls src/content/*/`). Vithalbhai Patel, Tagore, Salimullah and others have no folder.
+
+## Saving tokens (owner asked, 27 October 2026)
+
+Start a fresh chat for each subject. Ask Opencode to leave a short facts sheet (about 1,500 words: dated facts,
+source link for each, exact quotes, list of disagreements) in `research/`, and read that instead of whole pages;
+still open the original for quotes, numbers and disputed claims. Keep the check output to one subject. Report
+once at the end of a subject.
+
+## Still waiting on the owner
+
+Hosting location (accounts and quiz plan), list of future subjects (for the picture-library script), the real
+domain for `astro.config.mjs` and `public/robots.txt` (still example.com), and the older optional items
+(downloader licence parse; hide two Cursetjee prints on the Congress page).
+
+---
+
+# Older notes (23 October 2026)
+
+The eight subjects finished on 22 and 23 October (Indian National Congress, HSRA with HRA, Indian National Army,
+Ghadar Party, Khudai Khidmatgar, Revolt of 1857, Swadeshi Movement, Non-Cooperation and Khilafat) are done: do not redo them.
 
 ## How the work went (practical lessons)
 
