@@ -168,3 +168,53 @@ These are true as far as the pack goes, but rest on one page only:
 
 The gallery and the archive plates were curated on the same day. See `review-needed.md` for the
 pictures that need a decision, and `media.json` for what is shown and hidden.
+
+
+## 27 October 2026: the six stories written (Claude)
+
+All six stories were written fresh from sources opened in this session. Not one sentence comes from the
+ChatGPT report. Sources opened: Bucknell (resolution), mkgandhi.org (speech), Mani Bhavan, INC
+(Davar), Swarthmore, CJP, Indian History Collective parts 1 and 2, Ballia district history
+(`ballia.nic.in/en/history/`; the older `/history/` address does not open from here), GandhiServe
+chronology, and Wikipedia pages for the movement, Tamralipta Jatiya Sarkar, Aruna Asaf Ali,
+Kanaklata Barua and Chittu Pandey.
+
+Stories: `quit-india-nine-august`, `quit-india-the-government-across-the-water` (flagships),
+`quit-india-seven-days`, `quit-india-one-thousand-and-twenty-eight`, `quit-india-two-flags`
+(renamed from "the girls with the flag", because Matangini Hazra was 73), `quit-india-the-promise`.
+
+Corrections to the fact sheet and report:
+
+- **Casey quotation dropped.** The fact sheet says Governor Richard Casey wrote "A high proportion of
+  the inhabitants are in sympathy with the local 'National Government'..." to the Viceroy. The IHC
+  article says Casey wrote it to *Wavell*, which means 1944 or later; Casey was not Governor in 1942.
+  The Governor in 1942 was Herbert, who called the rising a "large scale rebellion" (IHC). The
+  story uses Herbert's phrase only.
+- **Ballia "19 August, 50,000 walk to the jail" dropped.** It is not in the district history or in
+  Wikipedia's Chittu Pandey page. The story uses what the district history gives (16, 18, 20, 22/23
+  August). Ballia independence: 20 August (district history) or 19 August (Chittu Pandey page): a
+  "Two versions" note.
+- **"Eight thousand mill workers from 10 August"**: Swarthmore gives the number with no date, so the
+  story gives no date.
+- **Tamluk**: the Danipur dead are "three"; Mahisadal on 29 September had thirteen dead (IHC,
+  not in the fact sheet); the District Magistrate's quotation "not afraid of firing" is by the
+  Additional District Magistrate M. M. Basu and has "(police or military)" inside it; the story keeps
+  the words as written. Founding date (17 September vs 17 December 1942) and dissolution (31 August
+  vs 8 August 1944): two "Two versions" notes. "1,681 cases in its courts" (Scroll) left out: one
+  source, not opened again.
+- **Kanaklata**: 17 (Wikipedia, birth date 22 December 1924) vs a 15-year-old girl who led 500 men
+  (Swarthmore, which does not name her): note in the story. Wikipedia spells Mukunda "Kakoti", the
+  Commons statue "Kakati"; the story uses Kakati and says so.
+- **Matangini Hazra's age**: 73 (IHC) vs Commons label 1870-1942 (72): note.
+- **Gowalia Tank**: Mani Bhavan and Swarthmore say lathi charge and tear gas; Wikipedia's Aruna Asaf Ali
+  page adds that police fired. Swarthmore: at least nine dead in Bombay that day. Not placed at the
+  maidan; the story says so in a note.
+- **Aruna Asaf Ali**: Wikipedia gives the 5,000 rupee reward, the Inquilab editorship with Lohia,
+  the 1946 return and Gandhi's note about the reward and the Harijan cause. No speech by her exists in
+  any opened source; the story does not give her one.
+- **"Quit India" slogan**: Mani Bhavan only (Meherally's bow). Marked in the story as one source.
+- **Aircraft machine-gunning satyagrahis on the Bihar tracks**: Swarthmore only. Marked as one source.
+- **Riddick figures** (550 post offices, 250 railway stations, 70 police stations, 85 other buildings,
+  2,500 wire cuts): found in Wikipedia's article, not opened in Riddick's book.
+- **Not used**: the Muslim League angle; the Tribune and News18 articles (not opened: blocked);
+  the Scroll article (opened, not needed).

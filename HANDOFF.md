@@ -42,12 +42,13 @@ CLAUDE.md progress table lists all four (added 27 October).
 2. ~~The 24 ChatGPT stories~~ (Champaran, Kheda, Bardoli, Dandi): done 27 October, all rewritten fresh.
 3. ~~Jallianwala Bagh~~: done 27 October (6 stories, 2 flagships; prompts rewritten to match; Hunter report
    text, Hansard and Wikipedia opened; the Tribune article would not open, so nothing rests on it).
-   **Quit India** is next: 6 stories (2 flagships) from `research/` plus pictures on `chatgpt-work`. Read the
-   report, check every claim, look at every picture, redo the painting prompts to match the new stories.
-4. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
+4. ~~Quit India~~: stories done 27 October (6 stories, 2 flagships, written fresh; see
+   `quit-india-movement/research/checked.md` for corrections to the fact sheet). The 6 paintings are waiting
+   (`illustrations/prompts.txt`; the fifth is now `quit-india-two-flags`).
+5. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
    table, merge to `main`, push, then tell the owner: "git pull, then npm run dev, then open
    http://localhost:4321".
-5. Older items: a second flagship each for Rajguru and Velu Nachiyar; Chauri Chaura, Malabar and Partition of
+6. Older items: a second flagship each for Rajguru and Velu Nachiyar; Chauri Chaura, Malabar and Partition of
    Bengal event pages have no stories; more depth for Nehru, Ambedkar, Azad.
 
 `npm run check` and `npm run build` both pass again (27 October, 319 stories). Filter check output with

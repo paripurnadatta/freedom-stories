@@ -2,7 +2,7 @@
 id: E-0061
 kind: event
 name: "Quit India Movement"
-summary: "On 8 August 1942 the Congress told Britain to leave India, and Gandhi gave the call \"Do or Die\". The next morning the leaders were arrested, and the country rose without them: strikes, cut telegraph wires, and in some districts governments of its own. The Raj held on with 57 battalions and more than 100,000 arrests."
+summary: "On 8 August 1942 the Congress told Britain to leave India, and Gandhi gave the call \"Do or Die\". The next morning the leaders were arrested, and people in many places rose without them: strikes, cut telegraph wires, and in some districts governments of its own. The Raj held on with 57 battalions and more than 100,000 arrests."
 date: "1942-08-08"
 endDate: "1944"
 year: 1942
@@ -59,34 +59,52 @@ sources:
   - title: "IHC Uncovers: A Parallel Government in British India (parts 1 and 2)"
     url: "https://indianhistorycollective.com/ihc-uncovers-a-parallel-government-in-british-india"
     publisher: "Indian History Collective"
-  - title: "Tamralipta Jatiya Sarkar: the parallel government of Quit India"
-    url: "https://www.tribuneindia.com/news/exam-mentor/tamralipta-jatiya-sarkar-the-parallel-government-of-quit-india"
-    publisher: "The Tribune"
   - title: "History of Ballia district"
-    url: "https://ballia.nic.in/history/"
+    url: "https://ballia.nic.in/en/history/"
     publisher: "District Administration, Ballia, Government of Uttar Pradesh"
   - title: "Quit India Movement"
     url: "https://en.wikipedia.org/wiki/Quit_India_Movement"
     publisher: "Wikipedia"
+  - title: "Tamralipta Jatiya Sarkar"
+    url: "https://en.wikipedia.org/wiki/Tamralipta_Jatiya_Sarkar"
+    publisher: "Wikipedia"
+  - title: "Aruna Asaf Ali"
+    url: "https://en.wikipedia.org/wiki/Aruna_Asaf_Ali"
+    publisher: "Wikipedia"
+  - title: "Kanaklata Barua"
+    url: "https://en.wikipedia.org/wiki/Kanaklata_Barua"
+    publisher: "Wikipedia"
+  - title: "Chittu Pandey"
+    url: "https://en.wikipedia.org/wiki/Chittu_Pandey"
+    publisher: "Wikipedia"
+  - title: "Chronology 1942"
+    url: "https://www.gandhiserve.net/about-mahatma-gandhi/chronologies/chronology-1942/"
+    publisher: "GandhiServe"
 angles:
   - title: "Nine August"
     type: flagship
-    hook: "The leaders were arrested at five in the morning. By afternoon a 33-year-old woman was raising the flag."
+    hook: "The leaders were arrested at five in the morning. That same day in Bombay, a 33-year-old woman raised the Congress flag."
+    story: "quit-india-nine-august"
   - title: "The Government Across the Water"
     type: flagship
     hook: "One Bengal district stopped taking orders and ran itself for nearly two years."
+    story: "quit-india-the-government-across-the-water"
   - title: "Seven Days"
     type: short
     hook: "In one week a leaderless movement stopped mills, schools, trains and telegraph wires."
+    story: "quit-india-seven-days"
   - title: "One Thousand and Twenty-Eight"
     type: short
-    hook: "The Raj wrote down 1,028 dead. Others counted ten times as many."
-  - title: "The Girls with the Flag"
+    hook: "The Raj wrote down 1,028 dead. Congress counted up to ten times as many."
+    story: "quit-india-one-thousand-and-twenty-eight"
+  - title: "Two Flags, Eleven Days Apart"
     type: short
-    hook: "Two flag processions, eleven days apart, and two people who would not turn back."
+    hook: "A 17-year-old in Assam and a 73-year-old widow in Bengal each led a march with the flag."
+    story: "quit-india-two-flags"
   - title: "The Promise"
     type: short
     hook: "Gandhi asked for a fight without hatred. The firing made that very hard."
+    story: "quit-india-the-promise"
 ---
 
 <!--

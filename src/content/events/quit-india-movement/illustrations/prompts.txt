@@ -46,8 +46,8 @@ A district office in British India, late 1942, at night. A British official in s
 Painterly storybook illustration for a children's history book about India's freedom struggle. Rich, warm gouache and oil-paint texture with visible brushwork, cinematic lighting, warm saffron and amber light against deep indigo shadows, touches of leaf green. Historically accurate Indian clothing, architecture and objects for the specified year. Faces calm and dignified. No text, no letters, no captions, no logos, no watermark, no borders. No gore, no blood, no weapons pointed at anyone. Do not include the Indian national flag or the Ashoka Chakra. Keep the central action readable when cropped to a 4:3 card. This is a historical interpretation, not a photograph. Do not invent identifiable faces for undocumented people.
 ------------------------------------------------------------------------------
 
-FILE NAME: quit-india-the-girls-with-the-flag
-Save it as quit-india-the-girls-with-the-flag.png (or .jpg / .webp) in this folder.
+FILE NAME: quit-india-two-flags
+Save it as quit-india-two-flags.png (or .jpg / .webp) in this folder.
 Shape: wide, 16:6, 2400 × 900 pixels.
 Where it goes: top of the story and story cards.
 PROMPT (copy everything between the lines):
