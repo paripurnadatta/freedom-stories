@@ -14,8 +14,8 @@
   {
    "file": "tilak-in-madras-1917.webp",
    "type": "image",
-   "title": "Bal Gangadhar Tilak in Madras, 1917",
-   "description": "English: Indian boy scouts awaiting the arrival of Bal Gangadhar Tilak (the great advocate of Home Rule for India) in the Central Station compound in Madras, 1917.",
+   "title": "A crowd waiting for Tilak at Central Station, Madras, 1917",
+   "description": "A large crowd, with boy scouts among them according to the photo's record, waits in the Central Station compound in Madras for Bal Gangadhar Tilak to arrive, in 1917. Tilak himself is not in the picture.",
    "date": "1917",
    "author": "Press Agency photographer",
    "license": "Public domain (Crown copyright)",
@@ -32,7 +32,7 @@
    "file": "annie-besant.webp",
    "type": "image",
    "title": "Annie Besant, half-length portrait, seated, facing slightly right",
-   "description": "Annie Besant (1847-1933), who set up the second Home Rule League, in Adyar, in Madras, in September 1916.",
+   "description": "Annie Besant (1847-1933), photographed in 1897. In September 1916 she started the All India Home Rule League at Adyar, in Madras.",
    "date": "1897",
    "author": "Library of Congress",
    "license": "Public domain",
@@ -42,8 +42,25 @@
    "width": 3276,
    "height": 4096,
    "foundIn": "owner-zip",
-   "year": 1916,
+   "year": 1897,
    "era": "original"
+  },
+  {
+   "file": "home-rule-flag-drawing.webp",
+   "type": "image",
+   "title": "The Home Rule flag (modern drawing)",
+   "description": "A drawing made in 2006 of the flag used by the Home Rule movement from 1916: five red and four green stripes, the Union Jack in the corner, a crescent and star, and seven stars in the shape of the Saptarishi. Copied from an older picture whose source is not known.",
+   "date": "2006",
+   "author": "Mysid",
+   "license": "Public domain",
+   "thumb": "/files/organisations/home-rule-league/archive/home-rule-flag-drawing.webp",
+   "url": "/files/organisations/home-rule-league/archive/home-rule-flag-drawing.webp",
+   "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Indian_Home_Rule_movement.svg",
+   "width": 960,
+   "height": 557,
+   "foundIn": "commons-page",
+   "year": 2006,
+   "era": "later"
   }
  ]
 }

@@ -31,15 +31,13 @@ Report once per subject, in plain words (what was added, left out, which paintin
 | Anushilan Samiti | 6 | 2 | each source disagreement is in a "Two versions" note and in research/checked.md |
 | Servants of India Society | 6 | 2 | research/checked.md NOT yet updated for the rewrite |
 | Swaraj Party | 7 | 2 | checked.md updated 27 Oct; 4 stories need paintings |
+| Home Rule League | 7 | 2 | rewritten 27 Oct from fresh sources; checked.md lists 9 disagreements; 4 stories need paintings |
 
-CLAUDE.md progress table does not list these three yet: add rows when merging to main.
+CLAUDE.md progress table does not list these four yet: add rows when merging to main.
 
 ## Open work, in this order
 
-1. **Home Rule League** (`organisations/home-rule-league`): all 7 stories fail the check (padded, long
-   sentences, 638-word flagship). Rewrite from fresh sources. The picture `tilak-in-madras-1917.webp` has a
-   suspect caption (the Commons photo shows people waiting for Tilak, not Tilak): verify before using. If the
-   sources cannot support 6 stories with 2 flagships, leave it unpublished and list what is missing.
+1. ~~Home Rule League~~: done 27 October (7 stories, 2 flagships; old 7 deleted; captions fixed; flag drawing added).
 2. **The 24 ChatGPT stories** (Champaran, Kheda, Bardoli, Dandi): per the 22 October rule they must be
    rewritten fresh by Claude from sources Claude opens. Do not just edit them.
 3. **Jallianwala Bagh and Quit India**: write 6 stories each (2 flagships) from `research/` plus pictures on
@@ -51,12 +49,13 @@ CLAUDE.md progress table does not list these three yet: add rows when merging to
 5. Older items: a second flagship each for Rajguru and Velu Nachiyar; Chauri Chaura, Malabar and Partition of
    Bengal event pages have no stories; more depth for Nehru, Ambedkar, Azad.
 
-`npm run build` is blocked right now because the check fails on Home Rule League only. Filter output with
+`npm run check` and `npm run build` both pass again (27 October, 319 stories). Filter check output with
 `node scripts/check-stories.mjs 2>&1 | grep <subject>`.
 
 ## Paintings waiting for the owner
 
-13 for the rewritten subjects, in each subject's `illustrations/prompts.txt`:
+17 for the rewritten subjects, in each subject's `illustrations/prompts.txt`: Home Rule League 4 (the-judge-who-wrote-to-america,
+two-papers-from-madras, the-college-that-became-national, the-league-gets-a-new-name),
 Swaraj Party 4 (the-mayor-of-calcutta, the-pact-that-congress-refused, the-passport-that-went-to-the-wrong-brother,
 the-party-that-won-and-would-not-rule), Anushilan Samiti 5 (the-trial-that-watched-all-of-india,
 a-newspaper-called-jugantar, the-night-a-bomb-fell-on-the-wrong-carriage, the-teacher-in-dhaka,
