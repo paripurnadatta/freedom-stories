@@ -1,59 +1,62 @@
 ---
 title: "The man who raised the money himself"
-subtitle: "The school's first book says one man found most of the money the school needed, from his own friends."
+subtitle: "The Servants of India Society cost tens of thousands of rupees a year. Its members were paid almost nothing. Where did the money come from?"
 type: short
 when: "1905 to 1913"
-where: "Pune, India"
+where: "Pune"
 published: 2026-10-24
 about:
   - "servants-of-india-society"
-year: 1905
+  - "gopal-krishna-gokhale"
+year: 1913
 sources:
-  - title: "Modern Religious Movements in India (digitised)"
+  - title: "Modern Religious Movements in India, chapter 5 (J. N. Farquhar, 1915)"
     url: "https://akshara.ink/books/modern-religious-movements-india/05-religious-nationalism/"
     publisher: "Akshara"
-  - title: "The Servants of India Society"
-    url: "https://en.wikipedia.org/wiki/Servants_of_India_Society"
-    publisher: "Wikipedia"
-  - title: "Branches and Centers"
-    url: "https://www.servantsofindia.in/branches-centers"
+  - title: "Profile of Servants of India Society"
+    url: "https://indiatogether.org/stories/2002/rd1002/"
+    publisher: "India Together, Rasika Dhavse"
+  - title: "Who We Are: History of the Servants of India Society"
+    url: "https://www.servantsofindia.in/who-we-are-1"
     publisher: "Servants of India Society"
+  - title: "Servants of India Society and Moderate Nationalism"
+    url: "https://www.gktoday.in/servants-of-india-society-and-moderate-nationalism/"
+    publisher: "GKToday"
 status: published
 ---
 
-In 1905, when the school opened in Pune, it had a problem it did not write down. It had no big fund.
+In 1913 the Servants of India Society had twenty-six members. They worked for the country full time and lived on small pay. Yet someone had to pay for the Society's work.
 
-The school did not ask the government for money. The government, at that time, did not give it to any school that taught the village people to read in their own tongue.
+## Small pay
 
-The school did not ask the rich for money. The rich, at that time, did not give it to a school that paid its teachers only thirty rupees a month.
+A new student of the Society was paid thirty rupees a month. He got it for five years. After that he became a full member, and the pay went up to fifty rupees a month.
 
-One man found the money. His name was Gokhale, and he found it from his own friends.
+Fifty rupees did not change if he had a wife and children. Members who were married received the same as those who were not.
 
-<aside class="note"><b>Word</b>: To <i>raise</i> money means to find it, from many small places, so a thing can be paid for. Gokhale did not ask one rich man for a big gift. He asked many friends for small ones, in the years, until the school had what it needed.</aside>
+India Together says that from the start the members have been content with whatever pay the Society could give. They gave their whole lives to the work anyway.
 
-## What the money paid for
+## The bill
 
-The money paid for the school's first home, in Pune. It paid for the small rooms where the new members would sleep, for the five years they spent there. It paid for the books the school kept in its rooms.
+The Society's costs for a year were between twenty and forty thousand rupees. The Society ran its Home in Pune, where students lived and studied. It also worked in four provinces.
 
-And it paid for the carts that carried those books to the villages. And for the small hospital the school ran for sick people who had no money for a doctor.
+A visitor who interviewed Gokhale in London in June 1913 wrote down who paid for this. Gokhale, he said, raised "the bulk" of the money himself, "from private friends".
 
-The school, at its highest, spent, in one year, from twenty to forty thousand rupees. That was a big number, in 1905, for a small school with twenty-six members.
+So the First Member did two jobs. He taught the students. He also went around asking for money.
 
-<aside class="note"><b>Two versions</b>: the school's own later record says the money came from Gokhale's friends, and from the small fees the village people paid. The first book says Gokhale raised most of it himself. The two records do not fight over the number. They just split the work differently.</aside>
+<aside class="note"><b>The First Member</b>: the head of the Society. This was Gokhale until he died in 1915.</aside>
 
-## What Gokhale did not ask for
+## A story from the Society's website
 
-Gokhale did not ask for a bigger pay for himself. He did not ask for a house. He did not ask for a car, because, in that time, there was no car for a man who ran a small school in a village.
+The Society's own website tells one more story about Gokhale and money. It says that Gandhi made a decision to set up the Sabarmati Ashram and told Gokhale. Gokhale is said to have replied, "You should definitely proceed. You can rely on me to provide the necessary funds for the Ashram, which I will consider as my own."
 
-He did ask, in the years after, for one thing. He asked the village people of every part of the country to send, to the school in Pune, one small thing, each year. A page. A small book. A coin. He kept the things in the school's first record book, and he let the village people read them.
+The website says that Gokhale was the first to give money to the Sabarmati Ashram. This story comes from the Society's own website alone.
 
-<figure class="plate">
-  <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A portrait of Gokhale in a white dhoti">
-  <figcaption>Gokhale, who kept the school's first record book, and who raised the school's money from his own friends, one small gift at a time.</figcaption>
-</figure>
+## The money problem today
+
+The Society still exists. It is much smaller than it was. In 2002 a member who worked in its accounts section told India Together, "these days the society cannot attract many youngsters." Prices have risen, he said, and nobody can be expected to live on very little pay.
+
+Another member said there will always be people who want to serve, rather than merely work.
 
 ## Why it matters
 
-The school did not grow because it had one rich man behind it. It grew because one man, who had retired and gone home, kept asking, in the years, for small things, from people who had no big things to give.
-
-That is the quiet work the school's first book called "service." It was not a loud word. It was not a war cry. It was a small word, and it meant: the school did not wait for the government, and it did not wait for the rich. It waited for the village people, and it grew with them.
+The Society shows how one kind of public work was paid for in those years. One man kept it going by asking his friends for money, again and again. Wikipedia's page on Gokhale says the Society lost much of its strength after his death in 1915. It still exists today, with a small membership.

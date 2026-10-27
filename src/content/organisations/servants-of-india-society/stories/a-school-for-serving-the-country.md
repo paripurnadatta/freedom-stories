@@ -1,129 +1,114 @@
 ---
-title: "A school for serving the country"
-subtitle: "In 1905, a retired official in Pune opened a school with no classrooms and no exams. Its students worked for free, and earned only thirty rupees a month."
+title: "A school with no classrooms"
+subtitle: "On 12 June 1905 Gopal Krishna Gokhale and three friends started a society in Pune. Its students got no degree. They got thirty rupees a month and a lifetime of work."
 type: flagship
-when: "12 June 1905"
-where: "Pune, India"
+when: "1905 to 1913"
+where: "Pune (Poona)"
 published: 2026-10-24
 about:
   - "servants-of-india-society"
+  - "gopal-krishna-gokhale"
 year: 1905
 image:
   src: "/files/organisations/servants-of-india-society/archive/gokhale.webp"
-  alt: "A black-and-white portrait of a tall man in a white dhoti, with a bare chest and a long beard"
-  caption: "Gopal Krishna Gokhale, the man who opened the school in Pune in 1905."
-  credit: "From a 1909 printed history, on Wikimedia Commons"
+  alt: "A sepia studio card with a photograph of a man in round glasses, a moustache, a cap and a dark coat with a scarf. Under the picture are a signature and the date, Tuesday 29th November 1904"
+  caption: "Gopal Krishna Gokhale on a signed photograph dated 29 November 1904, a few months before he started the Society."
+  credit: "J. Chaitilia & Co., on Wikimedia Commons"
   license: "Public domain (PD-India)"
-  sourceUrl: "https://commons.wikimedia.org/wiki/File:GK_Gokhale.jpg"
+  sourceUrl: "https://commons.wikimedia.org/wiki/File:Gopal_Krishna_Gokhale,_in_an_autographed_phorograph,_1904.jpg"
 sources:
-  - title: "The Servants of India Society"
+  - title: "Servants of India Society"
     url: "https://en.wikipedia.org/wiki/Servants_of_India_Society"
+    publisher: "Wikipedia"
+  - title: "Gopal Krishna Gokhale"
+    url: "https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale"
     publisher: "Wikipedia"
   - title: "Who We Are: History of the Servants of India Society"
     url: "https://www.servantsofindia.in/who-we-are-1"
     publisher: "Servants of India Society"
-  - title: "Modern Religious Movements in India (digitised)"
+  - title: "Profile of Servants of India Society"
+    url: "https://indiatogether.org/stories/2002/rd1002/"
+    publisher: "India Together, Rasika Dhavse"
+  - title: "Modern Religious Movements in India, chapter 5 (J. N. Farquhar, 1915)"
     url: "https://akshara.ink/books/modern-religious-movements-india/05-religious-nationalism/"
     publisher: "Akshara"
-  - title: "Branches and Centers"
-    url: "https://www.servantsofindia.in/branches-centers"
-    publisher: "Servants of India Society"
 status: published
 ---
 
-In 1905, a man named Gopal Krishna Gokhale retired from his job as a school teacher.
+One account says that on the morning of 12 June 1905 a man climbed the hill behind Fergusson College in Pune. He walked to the top.
 
-For many years before that, he had run a school in the village of Deccan, near Bombay. It had no fee, and it did not teach in English. It taught in the language the village spoke.
+His name was Gopal Krishna Gokhale. At the top he took an oath. He promised to serve his country in a religious spirit, and to work for the good of Indians by lawful means only.
 
-<aside class="note"><b>Gokhale and the Deccan Education Society</b> ran a school where the villagers could learn to read in their own tongue. When the school's funds ran out, in 1904, Gokhale retired, and he went back to a quiet life in Pune.</aside>
+Then he asked three friends to take the same oath. Their names were Natesh Appaji Dravid, Gopal Krishna Deodhar (or Devadhar) and Anant Vinayak Patwardhan.
 
-The quiet life did not last long. In June 1905, Gokhale opened a new school. It did not have classrooms. It did not have exams. It had rules, instead.
+That is how the Servants of India Society began.
 
-<figure class="plate">
-  <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A black-and-white portrait of a man in a white dhoti">
-  <figcaption>Gokhale, the man who opened the school in Pune in 1905. This portrait is from a printed history from 1909.</figcaption>
-</figure>
+## The teacher who became a servant
 
-## What the school looked like
+Gokhale had been a teacher. He taught English and mathematics at Fergusson College for about twenty years. The teachers there took very small salaries, because they believed in the work.
 
-The school had a name. It was called the Servants of India Society. It met in a small house in Pune, not in a big building.
+Outside the classroom he was a leader. He had joined the Indian National Congress in 1889. In 1905 he was chosen as its president, at the age of thirty-nine. India Together says he was the youngest president there had been.
 
-<aside class="note"><b>Word</b>: A <i>society</i> is a group of people who work together on one idea. The Servants of India Society was one of the first to work on the idea of service, not of protest.</aside>
+<aside class="note"><b>Two versions</b>: Two books disagree about when he left the college. India Together says he left in 1902 and gave a famous farewell speech. J. N. Farquhar, who talked to Gokhale in London in 1913, says Gokhale taught until the end of 1904. Both agree he left to start the Society.</aside>
 
-Gokhale and three other men opened the school together. Their names were G. K. Devadhar, A. V. Patwardhan, and N. A. Dravid. They were the four men who signed the school's first pages.
+Gokhale thought India needed more than speeches. It needed a band of workers who would give their whole lives. They would not seek fame or money. He wrote the aim of the Society in a few lines. They said it would train men "prepared to devote their lives to the cause of country in a religious spirit".
 
-The school was not a quiet, comfortable place. It had a hard rule for every person who wanted to join.
+<aside class="note"><b>Two versions</b>: The Society's own website names four founders: Gokhale, Dravid, Devadhar and Patwardhan. Wikipedia names the same three friends but adds Surendranath Banerjea. The same Wikipedia page also says the group wanted to "overthrow" British rule. The Society's own prospectus says the opposite. It says members "frankly accept the British connection" and want "Self-Government within the Empire". This story follows the prospectus.</aside>
 
-## The seven promises
+## Where the idea came from
 
-Every person who wanted to join the school had to make seven promises to the other members. These promises were called the seven vows, and the school's first book wrote them down.
+Gokhale was born in 1866 into a poor family in Ratnagiri district. His family still made sure he got an English education. He studied at Rajaram College in Kolhapur and at Elphinstone College in Bombay.
 
-<aside class="note"><b>The seven vows</b> were promises about how a member should live. They covered money, work, study, and how to treat people who were poorer. The exact words of all seven vows are not in the record I could open here, so this story does not list them.</aside>
+In Pune he met the judge and reformer Mahadev Govind Ranade. Gokhale called Ranade his guide. He also worked among the teachers of the Deccan Education Society, who took small salaries because they believed in the work.
 
-The promises meant the school would not let in just anyone. It wanted the people who joined to be people who would spend their whole lives on one thing.
+He believed India would change only when a new generation learned its duty to the country and to one another. The Society was meant to train that new generation.
 
-## The thirty rupees a month
+## Who could join
 
-The school did not pay its students much. In fact, it paid them a fixed, small amount.
+Not everybody could. Only university graduates, or men who had already done good public service, were taken in. This is how Gokhale himself described it to a visitor in 1913.
 
-A student who joined the school would spend five years there. For those five years, the school paid him only thirty rupees a month. After the five years were over, and the student had finished his training, the school would raise his pay to fifty rupees a month.
+A new person first came to live for a short time in Gokhale's house, or in the Society's Home in Pune. The older members watched how he behaved. They wanted to know his temper and his character. If they thought he was right for the work, he became a student.
 
-<aside class="note"><b>What thirty rupees was, in 1905</b>: the amount is hard to put into today's money, but it was not a large one. It was enough to buy food and a small room. It was not enough to live comfortably, or to buy expensive things.</aside>
+## The five years
 
-The school also had a rule about how a student would spend his day. For four months of the year, the student would study, at a home the school built in Pune. For six months, the student would do practical work, in the village, helping people with their troubles. Two months a year were left free, for the student to be with his family.
+A student's training lasted five years. Each year was divided into three parts. For four months he studied in the Home in Pune. For six months he did real work in one of the Society's branches. For two months he went home to his family.
 
-<figure class="plate">
-  <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A portrait of Gokhale">
-  <figcaption>Gokhale, who wrote the rules for the school by hand, and kept them written down in the society's first records.</figcaption>
-</figure>
+His pay was thirty rupees a month. That was little, even in those days. After five years he became a full member. Then his pay rose to fifty rupees a month, even if he had a wife and children.
 
-## What the school did
+The Society had a Home in Pune and a teacher. The teacher was Gokhale, who was called the First Member.
 
-The school did not just sit and learn. It went out and worked.
+<aside class="note"><b>The First Member</b>: the head of the Society. At first this was Gokhale. After he died in 1915 the Society chose V. S. Srinivasa Sastri.</aside>
 
-In 1910, the school opened a branch in the city of Madras, on the coast to the south. In 1911, it opened two more branches, one in Nagpur and one in Bombay. In 1913, it opened a branch in Allahabad, far to the north.
+## The rules of the Home
 
-The school also started printing a small paper, in 1911. It called it the Hitavada, which is a word that means "the voice of what is good." The paper was not a newspaper that talked about politics, the way the big papers of that time did. It was a paper that talked about the quiet work the school was doing, in the villages and in the cities. It told the village people, in their own tongue, what the school had done for them, and what it was doing for the next village.
+The Home had some unusual rules.
 
-<aside class="note"><b>Two versions</b>: the school's own later record says it began printing the Hitavada in 1911. A later book, in a different city, says Gokhale started the same paper in Nagpur, not in Pune, in the same year. The two records do not fight over the year, or over who started it. They just put the paper in two different cities, in the same year.</aside>
+There were no common prayers. Each man worshipped as he wished. Gokhale believed, though, that the work itself was deeply religious.
 
-## The school's house, in 1909
+Nobody had to give up his caste. Yet in the Home the men lived so closely together that no caste distinctions were kept.
 
-The school did not grow in a big building. It grew in a small house, in the town of Pune, that Gokhale had bought with the money his friends had sent.
+For the five years of training, students could not give public speeches or write in magazines until Gokhale had seen what they meant to say. He wanted them to learn before they spoke.
 
-The house had a small room for the new members to sleep in. It had a room for the books. It had a room for the small hospital the school ran, for people who were sick and had no money for a doctor.
+The Society was open to men of any religion. In 1913 it had one Muslim member. Gokhale wanted more. Young Hindu members were sent to live among Muslims and help them, as missionaries do. In this way the two groups would come to know each other.
 
-It also had one room at the top, that Gokhale kept for the first record book. That is where the seven promises were written down, and where the list of the twenty-six members was kept.
+## What they did
 
-<aside class="note"><b>Word</b>: A <i>record book</i> is the first book a small group writes down its rules in. The school's record book, from 1905, is kept in the same room, in the same house in Pune, today. The school still runs, and the room is still there.</aside>
+By 1913 there were twenty-six members. They worked in four provinces: Bombay, the Central Provinces, Madras and the United Provinces. The Society opened branches in Madras in 1910, in Nagpur and Bombay in 1911 and in Allahabad in 1913. Gokhale hoped one day to have at least one "Servant of India" in each of the country's 275 districts. In 1911 the Society also began an English newspaper, *The Hitavada*, in Nagpur.
 
-## The school and the bigger idea
+Their work was very plain. They helped to start schools. They set up co-operative societies where farmers could borrow money fairly. In Berar, the Society did a great deal of this. Some members arranged the yearly meetings of the Congress.
 
-The school was not, in Gokhale's mind, a quiet place for one town. It was the first page of a bigger idea, that the village people of every part of the country could be served by the same kind of quiet work.
+In 1912 a famine of fodder, the grass that cattle eat, struck Gujarat. Ten members and six volunteers worked there for ten months.
 
-In the years after, the school's idea went to more people. In 1930, a new place opened, in the same town of Pune. It was called the Gokhale Institute of Politics and Economics. The school that Gokhale had opened in 1905 became one of the people who looked after the new Institute, in the years after.
+## Where the money came from
 
-<aside class="note"><b>Word</b>: To be a <i>trustee</i> of a place means to be one of the people who answer for it, who decide how it is run, and who make sure its money is spent the way it was promised to be spent. The school's own record says the Servants of India Society were the ones who looked after the Institute's money, in the years after it opened.</aside>
+The Society cost between twenty and forty thousand rupees a year. Gokhale raised most of it himself, from his private friends.
 
-The Institute kept the same quiet work going. It did not change the school's idea. It just added one more room to the house, in the same town, with the same quiet work inside it.
+## The hope behind it
 
-<aside class="note"><b>Word</b>: A <i>branch</i> of a group is a smaller version of it, in another town. The Servants of India Society had a home in Pune, and it opened branches in other cities as it grew.</aside>
+Gokhale believed in a small band of trained workers. "Public life must be spiritualized," says the Society's prospectus. It also says that a worker should be "fervent" in patriotism and have "a dauntless heart".
 
-The school did one thing that was new for that time. It sent books on a cart to the villages. These carts were called mobile libraries. A village that had never had a book would get one on a cart, and the village would take turns reading it.
+Others, such as Bal Gangadhar Tilak, believed in protest and boycott. Gokhale believed that slow, lawful work would win more in the end. People still argue about which way was right.
 
-In the years after, the school did more. It ran a league for the teaching of the small children in the town. It ran night classes for people who worked in the mills by day and wanted to learn after the sun went down. And it ran a hospital for the people who were poor and sick.
+## Why it matters
 
-<aside class="note"><b>Word</b>: A <i>league</i> is a group of people who work together on one thing. The Elementary Education League was a group that worked to get small children into school.</aside>
-
-## The man who paid for it
-
-The school had one rule that Gokhale followed by himself. He did not take a large salary. He did not ask other people for money. He raised the school's funds himself, by asking his own friends for help.
-
-The school, at its highest, had twenty-six members. It spent, in a year, from twenty to forty thousand rupees. Gokhale, the man who ran it, found that money.
-
-<figure class="plate">
-  <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A portrait of Gokhale in a white dhoti">
-  <figcaption>Gokhale, who raised the school's money from his own friends, and kept it open for the village people of every part of the country.</figcaption>
-</figure>
-
-The school has been open since 1905. It is still open today. It still runs in Pune, and it still has branches in the other cities. It still does the same quiet work that it did in 1905. It trains people to serve the country, not to fight it, and it pays them, for that work, only thirty rupees a month.
+The Society trained a kind of person India had not seen much of before. These were people who lived on very little and gave full time to public work. Many later leaders learned from them. Gandhi himself asked to join, as the story "The man who asked to join" tells. The Society still works today, with a small membership. In 1930 it also became the trustee of the Gokhale Institute of Politics and Economics in Pune.

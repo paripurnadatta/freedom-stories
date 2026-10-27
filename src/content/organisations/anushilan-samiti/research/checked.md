@@ -32,3 +32,22 @@ sources opened in this session (23 October 2026).
 ## What was left out
 - No invented dialogue, weather or crowd size. The "two teenagers" phrasing is kept only as the
   source's own words inside a margin note, not restated in the main text.
+
+## Rewritten 24 October 2026 (reviewer)
+
+The six stories were rewritten from sources opened in this session: Wikipedia (Anushilan Samiti,
+Alipore Bomb case, Khudiram Bose, Prafulla Chaki, Barindra Ghosh, Jugantar, Pulin Behari Das),
+Banglapedia (Anushilan Samiti, Jugantar Party) and The Wire (Shukla Sanyal, 2018).
+
+Real disagreements between sources, now shown as margin notes: founder (Mitra / Satish Basu),
+first issue of Jugantar (March / April 1906), Dhaka branch founded (September / October 1906),
+when the Dhaka branch reached 500 branches, who the Kennedys were (barrister / "congressman"),
+whether Aurobindo was sentenced to death (Barin's page) or acquitted (Alipore page and judgment).
+A date conflict that is not in a note: the shooting of Ashutosh Biswas (February 1909 on the
+Jugantar page, March 1909 on the Alipore page); the story says "early in 1909".
+
+Left out: the Gandhi quotation on Khudiram's page (no source for it), the detail about
+Prafulla Chaki's body, the Cellular Jail escape claim on Barin's page, and all
+wording from the earlier drafts. Picture alt text and captions were corrected (the symbol is a
+plume, a peacock, a rose and a ribbon, not a torch). The Pramathanath Mitra portrait is too
+coarse to show and is not used in any story.

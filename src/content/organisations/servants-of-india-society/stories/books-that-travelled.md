@@ -1,55 +1,65 @@
 ---
 title: "Books that travelled"
-subtitle: "A village that had no library of its own got one, in 1913, on the back of a cart."
+subtitle: "From 1910 the Servants of India Society opened branches in four cities. It ran mobile libraries, held night classes and set up leagues to teach children."
 type: short
-when: "1913"
-where: "Allahabad, Madras, Bombay"
+when: "1910 to 1913"
+where: "Madras, Bombay, Nagpur, Allahabad and Gujarat"
 published: 2026-10-24
 about:
   - "servants-of-india-society"
-year: 1913
+year: 1911
 sources:
   - title: "Branches and Centers"
     url: "https://www.servantsofindia.in/branches-centers"
     publisher: "Servants of India Society"
-  - title: "The Servants of India Society"
-    url: "https://en.wikipedia.org/wiki/Servants_of_India_Society"
+  - title: "Gopal Krishna Gokhale"
+    url: "https://en.wikipedia.org/wiki/Gopal_Krishna_Gokhale"
     publisher: "Wikipedia"
-  - title: "Who We Are: History of the Servants of India Society"
-    url: "https://www.servantsofindia.in/who-we-are-1"
-    publisher: "Servants of India Society"
+  - title: "Narayan Malhar Joshi"
+    url: "https://en.wikipedia.org/wiki/Narayan_Malhar_Joshi"
+    publisher: "Wikipedia"
+  - title: "Servants of India Society and Moderate Nationalism"
+    url: "https://www.gktoday.in/servants-of-india-society-and-moderate-nationalism/"
+    publisher: "GKToday"
 status: published
 ---
 
-In 1913, a branch of the Servants of India Society opened in the city of Allahabad.
+The Servants of India Society began in Pune in 1905. Within a few years it began to spread.
 
-That branch did not just sit in the city and run its own classes. It did something that, in that time, few other schools in the country were doing. It put its books on a cart.
+In 1910 it opened a branch in Madras. In 1911 it opened branches in Nagpur and Bombay. In 1913 it opened one in Allahabad. Gokhale hoped to have at least one "Servant of India" in each of the country's 275 districts.
 
-<aside class="note"><b>Word</b>: A <i>mobile library</i> is a library that moves. It carries its books, in a cart or a small van, from one village to the next, so the people who could not walk to a city could still read.</aside>
+## Books on the move
 
-The cart went to the villages that had never had a book. A village might have one well, and one field, and one small temple. It would not have had a shelf of books, ever.
+The Society tried to bring books to people. According to its own website it ran mobile libraries in Allahabad, Madras and Bombay. Wikipedia's page on Gokhale also says the Society organised mobile libraries.
 
-The cart would come, stop at the village, and let the people take a book, for a week. Then the cart would go to the next village. And it would leave that book for a month, and come back for it at the end of the month.
+Think of a library that comes to your street. That is a different thing from a building you must walk to.
 
-## Who read the books
+## Classes for children and workers
 
-The people who read the books on the cart were not just the young men who would go on to work in the school. They were the village people, the people who had never been in a school, the people who had seen, in their whole lives, a small number of letters.
+In Madras and in Allahabad the Society set up the Elementary Education League. Its aim was to spread basic schooling.
 
-<aside class="note"><b>Two versions</b>: one record says the carts went to villages in Allahabad, Madras, and Bombay. Another says the same carts were used in the Central Provinces too. The two records do not agree on which towns the carts reached, but they agree the carts went to the villages that had no other book.</aside>
+In Gujarat it started schools in the villages and in the factory areas. It also took care of the education of women.
 
-## What the school did besides the carts
+In Bombay it held "extension lectures", talks open to the public, on behalf of the university. The Wikipedia page on Gokhale adds that the Society ran night classes for factory workers. Workers could study after the day's work ended.
 
-In the same year, the school did other quiet work. It ran a league for the small children, to get them into the town's schools. It ran night classes for the people who worked in the mills by day, so they could learn to read after the sun went down.
+The Society also wrote and handed out short booklets in English and in the local languages. It arranged public lectures too.
 
-The school also sent its own teachers, out to the villages, to run small classes in a rented room. And it kept a list of the villages it had reached, a list that grew longer every year.
+<aside class="note"><b>Extension lecture</b>: a talk given by university teachers to people who are not students of the university.</aside>
 
-<figure class="plate">
-  <img src="/files/organisations/servants-of-india-society/archive/gokhale.webp" alt="A portrait of Gokhale in a white dhoti">
-  <figcaption>Gokhale, who wrote the first page of the school's record book, and who put the word "service" at the top of it.</figcaption>
-</figure>
+## Help with money and work
+
+The Society tried to help ordinary people with money. It worked on co-operative schemes, where a group of people join together to lend and borrow fairly. It also helped farmers in parts of Bombay, the United Provinces, the Central Provinces, Madras and the east coast to pay off their debts. A group called the Indian Economic Society, started in Bombay, collected information about the economy and wrote about it.
+
+## A league for workers
+
+One of the members, N. M. Joshi, joined the Society in 1909. In 1911 he moved to Bombay and started the Social Service League. It trained volunteers. Later these volunteers helped in famines, epidemics and floods, and helped poor people.
+
+Joshi later started the All India Trade Union Congress in 1920 together with Lala Lajpat Rai.
+
+## A newspaper too
+
+In 1911 the Society began *The Hitavada*, an English newspaper, from Nagpur. GKToday says Gokhale launched it to put the Society's views before the public.
 
 ## Why it matters
 
-A book on a cart is not a loud thing. It is not a war cry. And it is not a flag. But it did something the government, in that time, did not do for the village people. It gave them a page to read, on a night when the field work was done. And when the lamp was lit, and the village was quiet.
-
-The school's first record book kept the list of the carts, and of the villages they went to. That list is still in Pune. It is in the same small room where the school opened, in 1905. And it is the same room where the school still keeps its records today.
+None of these things was big or loud. A mobile library, a night class, a lecture, a co-operative: each was a small step. Gokhale believed that real change would come only when Indians learned their duty to the country and to one another. These were the steps the Society took towards that.

@@ -1,31 +1,49 @@
 {
- "subject": "servants-of-india-society",
- "wikidata": null,
- "wikipedia": "Servants of India Society",
- "commonsCategory": "Gopal Krishna Gokhale",
- "matchedBy": "portraits",
- "fetched": "2026-10-24",
- "hidden": [],
- "originals": [
-  "gokhale.webp"
- ],
- "items": [
-  {
-   "file": "gokhale.webp",
-   "type": "image",
-   "title": "Gopal Krishna Gokhale",
-   "description": "Portrait of Gokhale, the man who opened the school in Pune in 1905.",
-   "date": "",
-   "author": "Unknown",
-   "license": "Public domain (PD-India)",
-   "thumb": "/files/organisations/servants-of-india-society/archive/gokhale.webp",
-   "url": "/files/organisations/servants-of-india-society/archive/gokhale.webp",
-   "page": "https://commons.wikimedia.org/wiki/File:GK_Gokhale.jpg",
-   "width": 311,
-   "height": 480,
-   "foundIn": "owner-zip",
-   "year": 1905,
-   "era": "original"
-  }
- ]
+  "subject": "servants-of-india-society",
+  "wikidata": null,
+  "wikipedia": "Servants of India Society",
+  "commonsCategory": "Gopal Krishna Gokhale",
+  "matchedBy": "portraits",
+  "fetched": "2026-10-24",
+  "hidden": [],
+  "originals": [
+    "gokhale.webp",
+    "gandhi-and-gokhale-durban-1912.webp"
+  ],
+  "items": [
+    {
+      "file": "gokhale.webp",
+      "type": "image",
+      "title": "Gopal Krishna Gokhale, signed photograph, 1904",
+      "description": "A signed studio photograph of Gokhale dated 29 November 1904.",
+      "date": "1904",
+      "author": "J. Chaitilia & Co.",
+      "license": "Public domain (PD-India)",
+      "thumb": "/files/organisations/servants-of-india-society/archive/gokhale.webp",
+      "url": "/files/organisations/servants-of-india-society/archive/gokhale.webp",
+      "page": "https://commons.wikimedia.org/wiki/File:Gopal_Krishna_Gokhale,_in_an_autographed_phorograph,_1904.jpg",
+      "width": 311,
+      "height": 480,
+      "foundIn": "commons",
+      "year": 1904,
+      "era": "original"
+    },
+    {
+      "file": "gandhi-and-gokhale-durban-1912.webp",
+      "type": "image",
+      "title": "Gandhi and Gokhale with friends, Durban, 1912",
+      "description": "Gandhi during Gokhale's visit to South Africa, Durban, 1912. Front row, centre, from left: Hermann Kallenbach, Gandhi, Gokhale, Parsee Rustomjee.",
+      "date": "1912",
+      "author": "Unknown",
+      "license": "Public domain",
+      "thumb": "/files/organisations/servants-of-india-society/archive/gandhi-and-gokhale-durban-1912.webp",
+      "url": "/files/organisations/servants-of-india-society/archive/gandhi-and-gokhale-durban-1912.webp",
+      "page": "https://commons.wikimedia.org/wiki/File:Gandhi_group_Gokhale.jpg",
+      "width": 960,
+      "height": 644,
+      "year": 1912,
+      "era": "original",
+      "foundIn": "commons"
+    }
+  ]
 }

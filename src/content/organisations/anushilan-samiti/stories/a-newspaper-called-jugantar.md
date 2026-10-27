@@ -1,9 +1,9 @@
 ---
 title: "A newspaper called Jugantar"
-subtitle: "In 1906, a small group printed a paper that called for action. By 1908, it had gone underground, but its pages had already reached every corner of Bengal."
+subtitle: "In 1906 a group of young Bengalis started a weekly paper called New Era. The government took it to court again and again, but its writing did not stop."
 type: short
-when: "March 1906 to June 1908"
-where: "Calcutta, Bengal"
+when: "1906 to 1908"
+where: "Calcutta"
 published: 2026-10-24
 about:
   - "anushilan-samiti"
@@ -11,43 +11,57 @@ about:
   - "barindra-kumar-ghosh"
 year: 1906
 sources:
-  - title: "The Anushilan Samiti"
-    url: "https://en.wikipedia.org/wiki/Anushilan_Samiti"
+  - title: "Jugantar Party"
+    url: "https://en.banglapedia.org/index.php/Jugantar_Party"
+    publisher: "Banglapedia"
+  - title: "Alipore Bomb case"
+    url: "https://en.wikipedia.org/wiki/Alipore_Bomb_case"
     publisher: "Wikipedia"
   - title: "How the Revolutionary Nationalist Movement Gained Popularity in Bengal"
     url: "https://m.thewire.in/article/history/revolutionary-nationalist-movement-bengal"
     publisher: "The Wire, Shukla Sanyal"
-  - title: "Anushilan Samiti: Establishment, Members and Activities"
-    url: "https://www.gktoday.in/anushilan-samiti-1902-1908/"
-    publisher: "GKToday"
+  - title: "Jugantar"
+    url: "https://en.wikipedia.org/wiki/Jugantar"
+    publisher: "Wikipedia"
 status: published
 ---
 
-In March 1906, a small group in Calcutta decided to start a newspaper. They called it Jugantar.
+In 1906 a new weekly paper appeared on the streets of Calcutta. It was called *Jugantar*. In Bengali that means "New Era", or the turning of an age.
 
-The word comes from Sanskrit. It means the end of a world-age, or the moment when everything changes. The group chose it on purpose.
+Newspapers were common in Calcutta. This one was different. It did not ask the British to be kinder. It said that Indians should not accept British rule at all.
 
-<aside class="note"><b>Word</b>: <i>Jugantar</i> is a Sanskrit word. It can mean the end of a world-age, or a moment when everything turns. The group chose it so that every person who picked up the paper knew what it stood for.</aside>
+## Who made it
 
-The newspaper was not run by the whole Anushilan Samiti. It was run by a group that had broken away from it. That group was led by a man named Barin Ghose, the younger brother of the thinker Aurobindo Ghosh. His full name was Barindra Kumar Ghosh.
+The paper was started by a group that had left the Anushilan Samiti. Barindra Kumar Ghosh led them. Bhupendranath Datta, a writer, was another. Barin's elder brother, Aurobindo Ghosh, gave advice.
 
-Along with Aurobindo and another leader, Bipin Chandra Pal, the group started two papers at the same time. Jugantar was one. The other was called <i>Bande Mataram</i>, which means "Hail the Motherland."
+<aside class="note"><b>Two versions</b>: The books give two months for the first issue. The Wire and Banglapedia's page on the Samiti say March 1906. Banglapedia's page on the Jugantar Party says April 1906.</aside>
 
-Both papers argued that quiet protest had not gone far enough. They called for action. They told readers to rise, to organise, to take the country back by their own hands.
+The paper's writers were Upendranath Bandopadhyay, Debabrata Basu and Bhupendranath Datta. The Wire calls them "master story tellers". They wrote in a way that anyone could follow.
 
-<aside class="note"><b>Why two papers at once?</b> Aurobindo and Pal had broken with the Congress's older, quieter line by 1906. They wanted a press that would not wait. Printing two papers at the same time kept the message visible and made it harder for the British to silence it all at once.</aside>
+## How it spoke to readers
 
-The British did not allow this kind of paper to be printed openly. In June 1908, the authorities shut the Jugantar office down. But the group did not stop. It moved the press to a new room, and to another new room after that. It kept printing by hand, and kept passing the pages from one reader to the next.
+The writers used pictures that readers already knew. They described India as a mother, held in chains by foreign demons. Her sons, they wrote, must break the chains. They told stories about the god Krishna. In the Gita, Krishna promises to return whenever the world is in trouble.
 
-<aside class="note"><b>Why a hand press?</b> A small printing machine that a person pushes the bar of by hand is called a hand press. It was the kind of machine a small group could keep hidden. Many early Indian papers were printed this way, before bigger machines became common.</aside>
+The same pictures came from Hindu tradition. That shaped who felt called by the paper. Later, in its pamphlets, the writers asked Hindus and Muslims to join hands.
 
-Jugantar's pages did not just call for action. They named the people who thought of it that way. They wrote about the men and women who would go to prison for the idea.
+The paper said that the British had taken India by trickery and force. Because of that, it said, Indians owed them no loyalty. It said the Congress habit of sending petitions had failed.
 
-In 1908, the paper was linked, in a trial, to two young men who threw a bomb in Muzaffarpur. It was also linked to a thinker named Aurobindo Ghosh, who was arrested at the same time. The trial was called the Alipore bomb case. It ran from 1908 to 1910, and it was one of the most watched courtrooms in the country.
+## A paper that sold
 
-<figure class="plate">
-  <img src="/files/organisations/anushilan-samiti/archive/anushilan-samiti-symbol.webp" alt="A line-drawn round emblem with a torch at the top and a map of the Indian subcontinent in the middle">
-  <figcaption>The symbol of Anushilan Samiti, the same emblem the Jugantar group used on its pages.</figcaption>
-</figure>
+Readers wanted it. In 1907 *Jugantar* sold about 7,000 copies. Later its sales rose to about 20,000.
 
-Jugantar itself had stopped printing openly by 1908. But its name stayed in the record. It is the name of the secret group that carried Anushilan Samiti's ideas from a quiet gym in Calcutta into the open court. And into the hands of the two boys who went to Muzaffarpur that spring.
+The government watched. A court sentenced the paper's editors to prison for sedition. The magistrate who gave the sentences was Douglas Kingsford. Young people in Calcutta protested. A boy named Sushil Sen was whipped for taking part.
+
+<aside class="note"><b>Sedition</b>: speaking or writing to turn people against the government.</aside>
+
+## The paper goes underground
+
+More cases followed. In all, the paper faced prosecution again and again. The legal costs ruined it. By June 1908 it had stopped, according to The Wire.
+
+But the writing did not stop. Anonymous leaflets took its place. They were printed in secret and passed from hand to hand. Names like *Swadhin Bharat* (Free India) and *Liberty* appeared. The police could not easily find the writers.
+
+The name stayed too. The group of revolutionaries in Calcutta came to be called after the paper. Today people speak of the "Jugantar party" as one of the two main secret groups in Bengal. The other was the Dhaka Anushilan Samiti.
+
+## Why it matters
+
+A secret society needs young people who will join it. *Jugantar* helped to find them. Some who joined later said they had been moved by what the paper said. Its success also showed the British that words could be as dangerous as bombs. In 1910 the government passed a new law. It let officials demand large sums of money from any newspaper they did not like.

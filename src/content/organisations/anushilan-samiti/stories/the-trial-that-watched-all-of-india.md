@@ -1,80 +1,104 @@
 ---
 title: "The trial that watched all of India"
-subtitle: "In 1908, a court in Calcutta sat down to decide what the country would do with its young revolutionaries. For two years, the whole country watched."
+subtitle: "In May 1908 the police raided a garden house in Calcutta. The trial that followed went on for most of a year, and a lawyer's closing speech is still remembered."
 type: flagship
-when: "1908 to 1910"
-where: "Alipore, Calcutta"
+when: "May 1908 to May 1909"
+where: "Calcutta (Maniktala garden house and the Alipore court)"
 published: 2026-10-24
 about:
   - "anushilan-samiti"
   - "aurobindo-ghosh"
-year: 1908
+  - "barindra-kumar-ghosh"
+  - "chittaranjan-das"
+year: 1909
 sources:
-  - title: "The Anushilan Samiti"
-    url: "https://en.wikipedia.org/wiki/Anushilan_Samiti"
+  - title: "Alipore Bomb case"
+    url: "https://en.wikipedia.org/wiki/Alipore_Bomb_case"
     publisher: "Wikipedia"
-  - title: "Alipore Bomb Case"
-    url: "https://en.wikipedia.org/wiki/Alipore_Bomb_Case"
+  - title: "Barindra Ghosh"
+    url: "https://en.wikipedia.org/wiki/Barindra_Ghosh"
     publisher: "Wikipedia"
+  - title: "Anushilan Samiti"
+    url: "https://en.banglapedia.org/index.php/Anushilan_Samiti"
+    publisher: "Banglapedia"
   - title: "How the Revolutionary Nationalist Movement Gained Popularity in Bengal"
     url: "https://m.thewire.in/article/history/revolutionary-nationalist-movement-bengal"
     publisher: "The Wire, Shukla Sanyal"
-  - title: "Anushilan Samiti: Establishment, Members and Activities"
-    url: "https://www.gktoday.in/anushilan-samiti-1902-1908/"
-    publisher: "GKToday"
 status: published
 ---
 
-In 1908, a court in Calcutta sat down to try a group of young men.
+The news of the Muzaffarpur bomb reached Calcutta on 1 May 1908. The police did not wait.
 
-They had come out of the same network that the Anushilan Samiti had quietly built since 1902. They had read its papers, met in its rooms, and followed its leaders. And now the British wanted to know, in front of the whole country, what they had planned.
+By seven that evening they held search warrants for eight places in the city. More than a hundred constables were ready. They knew where to start, because the Calcutta police had already been watching a certain house.
 
-The trial had a name. It was called the Alipore bomb case. Alipore is a place in Calcutta, near the sea. The court there was the biggest in the city.
+## The raid
 
-## Who was in the dock
+The house stood in Maniktala, a suburb in the north of Calcutta. It had a garden. A group of young men lived there with Barindra Kumar Ghosh, known as Barin. They kept to a strict daily routine, like pupils in a hermitage. They also made bombs.
 
-The men who sat in the dock were young. Most of them were in their twenties. Some had been students. Some had been teachers. All of them had been part, in one way or another, of the Anushilan Samiti's work.
+On the night before the raid, Barin and his friends had hidden guns and bombs and tried to burn their papers. They did not manage to burn all of them.
 
-The court at Alipore held its first sittings in May 1908. By the end, in all, forty-nine men had been made to stand in that dock. On 2 May 1908, the police had arrested the first batch of thirty-three of them.
+On 2 May the police came. They arrested Barin and fourteen others at the garden house. They found weapons, explosives and papers. In other parts of the city they arrested more people. By the end of the day thirty-three were held.
 
-<aside class="note"><b>Word</b>: To sit in the <i>dock</i> means to sit in the low, boxed place in a courtroom where the accused person stands during their trial.</aside>
+Among them was Barin's elder brother, Aurobindo Ghosh. He was a famous writer and speaker. The police took him from his office in Grey Street.
 
-One of the accused changed how the trial would be talked about. His name was Aurobindo Ghosh, and he was not just a member of the group. He was, in the years before the bomb in Muzaffarpur, the quiet head of its ideas. He had written poetry, and he had written long thoughts on what a free country might look like.
+<aside class="note"><b>Aurobindo Ghosh</b>: a Bengali thinker and writer who made speeches against British rule. Years later he became known as Sri Aurobindo, a spiritual teacher.</aside>
 
-The lawyer who closed the case for Aurobindo was a young barrister from Calcutta named Chittaranjan Das. He was not a member of the group himself.
+## What the young men said
 
-He stood in front of the court and argued that the man Aurobindo was, in his books and his poetry, was not the man the government said he was. Das's closing words became the line the court is still remembered for. He said that, in time, people would look back at Aurobindo not as the leader of a plot but as the poet of patriotism.
+Barin was afraid that the whole network would be uncovered. So he and three others wrote out statements saying that they alone were to blame. They believed they would be hanged anyway.
 
-The lawyers for the accused did not let the court rush to a verdict. For nearly a year, they argued that the young men had not been guilty of the crime they were being charged with. They said the crime was not a bomb, and not a plan for a bomb, but an act of thought, of writing, of building a free country.
+Later in the trial, they took those statements back.
 
-The court listened. And then it decided.
+In all, forty-nine people came to stand accused. The charge was "waging war against the King". They were tried at Alipore, a part of Calcutta. The government hoped above all to convict Aurobindo.
 
-## What the court decided
+## A witness is lost
 
-On 6 May 1909, the judge gave his decision.
+One of the arrested young men, Naren Goswami, agreed to tell the court what he knew in return for a pardon. Such a person is called an approver. He could have named the leaders.
 
-Seventeen of the accused, Aurobindo among them, were found not guilty. Aurobindo walked out of the court a free man.
+At the end of August 1908 something happened inside the jail. Two of the accused, Kanailal Dutt and Satyendranath Bose, shot Naren Goswami dead. Both were later hanged.
 
-But the other men were not. Two were found guilty and sentenced to death by hanging. Their sentences were later changed. Thirteen more were sentenced to the longest kind of prison term the law allowed, called transportation for life. Three more got ten years, and three more got seven.
+Thousands of people followed Kanailal Dutt's funeral. The Wire notes that the government was shaken by the crowd. After that it did not allow big public funerals for revolutionaries.
 
-Two of the men named in the verdict went on to a small island far off the coast of India. Their names were Barin Ghose and Ullaskar Dutt. They were sent to a prison called the Cellular Jail, on the island of Port Blair, in the Andaman Islands.
+Without Naren Goswami the government had very little proof against Aurobindo. All that remained were some letters and his own writings.
 
-Dutt was not a writer, like Aurobindo, and not a lawyer, like Das. He was a young man who had taught himself chemistry, in a small place near Howrah. He had come to Calcutta, in 1907, to help the group make the things it needed. In the court record, his work was described in the plain way the courts wrote: he made the explosives. He was one of the two men the judge found guilty, on top of the death sentence that was later changed to life.
+## The court
 
-<aside class="note"><b>The Cellular Jail</b> was one of the harshest places a person could be sent by the British. It had small rooms, and long silence, and very little light. It was meant to break a prisoner, not just to hold one.</aside>
+The trial before Judge Charles Beachcroft opened on 19 October 1908. It went on for months. Two hundred and six witnesses spoke. More than five thousand things were brought into court as exhibits, among them bombs, revolvers and bottles of acid.
 
-The trial had run from May 1908 to May 1909. In that year, the court called more than two hundred witnesses. It also heard some five thousand exhibits, the objects and papers that had been gathered as proof.
+At first Aurobindo had a well-known barrister. After some months the barrister left, because Aurobindo's family could not pay his fee. Aurobindo's uncle then asked another lawyer to take the case. His name was Chittaranjan Das, and he was still a junior barrister.
 
-It had been watched by the whole country. When it ended, some of the accused were free, and some were in cells. And the Anushilan Samiti, the quiet gym of 1902, had now become the name of a movement that had gone to war with the British, in its own way.
+Das said that the police had made up some of the papers. He also argued that Aurobindo's articles only spoke of freedom for his country. The English themselves, he said, wrote about freedom in the same way.
 
-Barin Ghose, the man whose name had broken from Anushilan to start the paper Jugantar, stayed in the Cellular Jail until a general pardon in 1920 let him out. After that, he went on writing and printing, but as a journalist, not as a secret leader.
+<aside class="note"><b>Chittaranjan Das</b>: a Calcutta lawyer who later became one of the great leaders of the Swaraj Party. People called him "Deshbandhu", friend of the country.</aside>
 
-## What the names meant after
+Meanwhile the government grew nervous. It feared that the Samiti might try to free the prisoners. In November 1908 a police officer was shot in a public street in Calcutta. Early in 1909 the government's own lawyer, Ashutosh Biswas, was shot dead on the steps of the court.
 
-In the years that followed, the Anushilan Samiti did not disappear. It kept meeting, in secret, in Calcutta and in Dhaka.
+## "The High Court of History"
 
-Its ideas passed, in time, into the hands of younger men. And the name Alipore stayed in the record, as the courtroom where a whole generation of young men had first been shown, in public, what their ideas had cost them.
+The lawyers made their last speeches at the end of March 1909. Das ended his in the way that people still quote today. He said that when the noise had died down, people would remember Aurobindo. They would look on him, he said, "as the poet of patriotism, as the prophet of nationalism and the lover of humanity."
 
-The two men whose names came out of that trial most often are not the ones who sat in the dock. They are the two who had thrown the bomb in Muzaffarpur two years before. Their names were Khudiram Bose, who was hanged when he was eighteen, and Prafulla Chaki, who did not let himself be caught.
+He said that Aurobindo was standing "not only before the bar of this Court, but before the bar of the High Court of History."
 
-Their names became the reason the courtroom in Alipore was watched at all. And that is how a quiet gym in Calcutta, opened in 1902, ended up, by 1910, at the centre of the country's loudest legal fight.
+## The verdict
+
+Judge Beachcroft gave his verdict on 6 May 1909. The city was heavily guarded, in case of trouble.
+
+Barin Ghosh and a young chemist named Ullaskar Dutt were sentenced to death. Later the sentences were changed. They were sent to the Cellular Jail in the Andaman Islands for life. More than a dozen others were sentenced to be sent away for life too. Some were given shorter terms. Seventeen were found not guilty.
+
+The judge spoke last about Aurobindo. He said the evidence "falls short of such proof as would justify me in finding him guilty of so serious a charge." Aurobindo walked free.
+
+<aside class="note"><b>Two versions</b>: Wikipedia's page on Barindra Ghosh says Aurobindo was first sentenced to death. Its long page on the case quotes the judge's own words and says Aurobindo was found not guilty. The judge's words are the better evidence, so the story follows them.</aside>
+
+<aside class="note"><b>Cellular Jail</b>: a British prison on the Andaman Islands in the sea, far from the mainland. Prisoners from all over India were sent there.</aside>
+
+The government was not pleased. It asked a lawyer whether it could appeal. He told it the chance was only "fair". In August 1909 the government decided not to appeal.
+
+## What came after
+
+Aurobindo left politics. He went to Pondicherry, where he lived as a spiritual teacher until he died in 1950. Barin spent more than ten years in prison. He came out in 1920 under a general amnesty and became a journalist.
+
+The trial had one more effect. Newspapers all over India had printed the daily reports, so thousands of ordinary readers now knew that secret groups had been preparing for years. A new law in 1910 let the government demand money from newspapers it did not like.
+
+## Why it matters
+
+The Alipore case showed how a court could become a stage. The government wanted to end the secret groups. Instead, for months, the whole country read about them. It also showed something quieter. The judge had to say, in public, that a man's writings were not enough to prove he had planned a crime.
