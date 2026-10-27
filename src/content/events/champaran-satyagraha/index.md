@@ -2,7 +2,7 @@
 id: E-0030
 kind: event
 name: "Champaran Satyagraha"
-summary: "Gandhi-led intervention in indigo cultivators' grievances."
+summary: "Farmers told their stories, volunteers checked the evidence, and an indigo system faced a public challenge."
 date: "1917"
 endDate: "1917"
 year: 1917
@@ -17,9 +17,52 @@ related:
   - "rajendra-prasad"
   - "champaran"
 sources:
-  - title: "Freedom Struggle theme"
-    url: "https://amritmahotsav.nic.in/freedom-strugle"
-    publisher: "Ministry of Culture / Azadi Ka Amrit Mahotsav"
+  - title: "Gandhi, An Autobiography: Face to Face with Ahimsa"
+    url: "https://www.mkgandhi.org/autobio/chap138.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: Case Withdrawn"
+    url: "https://www.mkgandhi.org/autobio/chap139.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: The Stain of Indigo"
+    url: "https://www.mkgandhi.org/autobio/chap136.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: Methods of Work"
+    url: "https://www.mkgandhi.org/autobio/chap140.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: Companions"
+    url: "https://www.mkgandhi.org/autobio/chap141.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: When a Governor Is Good"
+    url: "https://www.mkgandhi.org/autobio/chap143.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+  - title: "Gandhi, An Autobiography: Penetrating the Villages"
+    url: "https://www.mkgandhi.org/autobio/chap142.php"
+    publisher: "M. K. Gandhi / Bombay Sarvodaya Mandal"
+angles:
+  - title: "The Order to Leave"
+    type: flagship
+    hook: "An elephant ride, a police notice, and a courtroom in Motihari"
+    story: "champaran-the-order-to-leave"
+  - title: "The House That Listened"
+    type: flagship
+    hook: "How farmers' complaints became evidence"
+    story: "champaran-the-listening-house"
+  - title: "One Kitchen for the Inquiry"
+    type: short
+    hook: "The lawyers sent their cooks home"
+    story: "champaran-one-kitchen"
+  - title: "Six Village Schools"
+    type: short
+    hook: "The work that began beside the indigo inquiry"
+    story: "champaran-six-village-schools"
+  - title: "The Only Sari"
+    type: short
+    hook: "Kasturba heard a question that changed a lesson"
+    story: "champaran-the-only-sari"
+  - title: "A Seat on the Committee"
+    type: short
+    hook: "Gandhi agreed to join, but kept his promise to the farmers"
+    story: "champaran-a-seat-on-the-committee"
 ---
 
 <!--
@@ -30,4 +73,5 @@ sources:
 ## Research notes
 
 Gandhi-led intervention in indigo cultivators' grievances.
+
 
