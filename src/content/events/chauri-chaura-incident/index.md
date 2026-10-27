@@ -27,9 +27,6 @@ sources:
   - title: "Collected Works of Mahatma Gandhi, vol. XXII: 'Gorakhpur's Crime' (Navajivan, 12 February 1922), 'The Crime of Chauri Chaura' (Young India, 16 February 1922), Bardoli resolutions, letter to Jawaharlal Nehru, 19 February 1922"
     url: "https://archive.org/details/in.ernet.dli.2015.162031"
     publisher: "M. K. Gandhi / Publications Division, Government of India"
-  - title: "An Autobiography, chapters on the first imprisonment and non-violence (pp. 80–85)"
-    url: "https://archive.org/details/in.ernet.dli.2015.526804"
-    publisher: "Jawaharlal Nehru, 1936"
   - title: "Gandhi as Mahatma: Gorakhpur District, Eastern UP, 1921-2"
     url: "https://jan.ucc.nau.edu/~sj6/AminGandhiasMahatma.pdf"
     publisher: "Shahid Amin, in Selected Subaltern Studies"
@@ -64,21 +61,27 @@ angles:
   - title: "The Beating at Mundera Bazaar"
     type: short
     hook: "Three volunteers were beaten at a market, and three days later a village marched"
+    story: "chauri-chaura-the-beating-at-mundera-bazaar"
   - title: "The Morning at Dumri Khurd"
     type: flagship
     hook: "The volunteers were not a mob of strangers; they came from named villages, and they thought they were following Gandhi"
+    story: "chauri-chaura-the-morning-at-dumri-khurd"
   - title: "The Thana on Fire"
     type: short
     hook: "A taunt, warning shots, stones, and a police station burning with frightened men inside"
+    story: "chauri-chaura-the-thana-on-fire"
   - title: "The Crime of Gorakhpur"
     type: flagship
-    hook: "Gandhi read the wrong report on a train, called himself responsible, and stopped the movement"
+    hook: "Gandhi was about to start a tax-refusal campaign, and the news from Gorakhpur made him stop the whole movement"
+    story: "chauri-chaura-the-crime-of-gorakhpur"
   - title: "One Hundred and Seventy"
     type: short
     hook: "A lawyer came out of retirement, and a hundred and fifty men lived"
+    story: "chauri-chaura-one-hundred-and-seventy"
   - title: "Two Memorials"
     type: short
     hook: "The British built one for the policemen; the village built another for the hanged"
+    story: "chauri-chaura-two-memorials"
 ---
 
 <!--

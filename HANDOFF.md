@@ -45,10 +45,13 @@ CLAUDE.md progress table lists all four (added 27 October).
 4. ~~Quit India~~: stories done 27 October (6 stories, 2 flagships, written fresh; see
    `quit-india-movement/research/checked.md` for corrections to the fact sheet). The 6 paintings are waiting
    (`illustrations/prompts.txt`; the fifth is now `quit-india-two-flags`).
+4b. ~~Chauri Chaura~~: 6 stories written 27 October (2 flagships) from Opencode's research; the six paintings are
+   waiting (`chauri-chaura-incident/illustrations/prompts.txt`). The old story `the-fire-at-chauri-chaura` overlaps;
+   owner to decide. See `research/checked.md` (27 Oct notes).
 5. Merge `chatgpt-work` into `local-work`, run `npm run check` and `npm run build`, update the CLAUDE.md
    table, merge to `main`, push, then tell the owner: "git pull, then npm run dev, then open
    http://localhost:4321".
-6. Older items: a second flagship each for Rajguru and Velu Nachiyar; Chauri Chaura, Malabar and Partition of
+6. Older items: a second flagship each for Rajguru and Velu Nachiyar; Malabar and Partition of
    Bengal event pages have no stories; more depth for Nehru, Ambedkar, Azad.
 
 `npm run check` and `npm run build` both pass again (27 October, 319 stories). Filter check output with

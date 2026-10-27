@@ -107,3 +107,25 @@ Every quotation in `fact-sheet.md` is copied from a page I opened, with the key 
 The two exceptions are marked in the sheet itself: the Chief Justice's compliment (biography, not
 transcript) and Bose's "national calamity" (Britannica, not the book). Neither may appear in
 quotation marks in a story.
+
+## Notes from the writing session, 27 October 2026 (Claude)
+
+Six stories written fresh from sources opened in this session: The Week (two pieces), Wikipedia, Frontier
+(via WebFetch), the Gorakhpur district page (via WebFetch), Britannica (summary only), The Hindu, ThePrint,
+Malaviya Mission, Amin's "Gandhi as Mahatma" and Gandhi's Collected Works vol. XXII (full text).
+
+- **Amin's court quotes** could not be verified (the PDF text was cut off). None is used. Amin is used only
+  for the 1921 visit crowd figures and his remark to The Week.
+- **"I am certainly the one most responsible..."** (fact-sheet) was NOT found in the Collected Works text.
+  Dropped. The Gandhi quotes used are all checked against the volume.
+- **Death count** varies: 22 (+1 a day later, The Week), 23 (Britannica, Gorakhpur page), 21 (Gandhi), Sub-Inspector
+  plus 21 (Malaviya biography). The stories give the range in a note.
+- **Trial numbers** vary: 225 or 228 tried; 170 or 172 condemned. Stories use 225 and 170 and say so.
+- **Meeting place** at Dumri Khurd: threshing ground (The Week) or cemetery orchard (elders). Both given.
+- **Crowd size** on 4 Feb: 1,000–1,500 (High Court), 2,000–2,500 (Wikipedia), 3,000–5,000 (Frontier). Note in story.
+- **The speaker "Ali"** is probably Nazar Ali. Said so in a note, not stated as fact.
+- **1978 by-election story** (Tripathi, ThePrint) not confirmed elsewhere: left out.
+- **Quoted lines left out:** Sessions Court "still alive" sentence; the Congress inquiry's "beaten to death and
+  burned" line. Kallan Ahmed and Sharda Nand Yadav are used as family memory, labelled.
+- **The older story** `the-fire-at-chauri-chaura.md` (from Wikipedia only) now overlaps and differs from these
+  six; owner to decide whether to rewrite or retire it.
